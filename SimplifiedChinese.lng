@@ -1,9 +1,9 @@
-﻿2006-01-01 00:00|~LANGUAGENAME|
+﻿2006-10-13 15:00|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.04|
+|1.06|
 |~LANGUAGEAUTHOR|
-|Leo Dou @ CCF & DRL|
+|Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
 |leodou at users.sourceforge.net|
 |&OK|
@@ -220,17 +220,15 @@
 |工具(&T)|
 |&?|
 |帮助(&H)|
-|&New Database...|
+|&New...|
 |新建(&N)...|
-|&Open Database...|
+|&Open...|
 |打开(&O)...|
-|&Close Database|
-|关闭(&C)|
-|&Save Database|
+|&Save|
 |保存(&S)|
-|Save Database &As...|
+|Save &As...|
 |另存为(&A)...|
-|Change &Master Key For This Database...|
+|Change &Master Key...|
 |更改管理密码/密匙(&M)...|
 |&Print...|
 |打印(&P)...|
@@ -483,7 +481,6 @@
 |Memory|
 |剪贴板|
 |Lock workspace when minimizing the main window|
-
 |最小化主窗口时锁定|
 |Minimize to tray instead of taskbar|
 |最小化到系统托盘（而不是任务栏）|
@@ -525,7 +522,7 @@
 |修改时间(&M)|
 |Show &Last Access Time Column|
 |访问时间(&L)|
-|Show &Expire Time Column|
+|Show &Expiration Time Column|
 |有效期(&E)|
 |Show UU&ID Column|
 |唯一标识码(UU&ID)|
@@ -747,7 +744,7 @@
 |很可能是有人在你编辑该文件时修改了它。|
 |Do you want to overwrite it?|
 |你要覆盖它吗？|
-|The group you selected cannot store entries. Please select an other group.|
+|The group you selected cannot store entries. Please select a different group.|
 |你所选择的群组无法储存记录，请选择其它群组。|
 |This will remove all selected entries unrecoverably!|
 |这将将永久移除所有选择的记录！|
@@ -787,9 +784,9 @@
 |插件|
 |cannot be loaded!|
 |无法加载！|
-|Plugin Manager|
+|Plugins|
 |插件管理器|
-|&Plugin Manager...|
+|&Plugins...|
 |插件管理器(&P)...|
 |Here you can configure all installed KeePass plugins.|
 |在此设置所有已安装的 KeePass 插件。|
@@ -1012,8 +1009,8 @@
 |禁用所有自动输入功能|
 |&Help|
 |帮助(&H)|
-|&Help Contents...|
-|帮助内容(&H)...|
+|&Help Contents|
+|帮助内容(&H)|
 |Auto-Type Entry Selection|
 |选取自动输入记录|
 |Click [No] to open the file in normal writing mode.|
@@ -1038,3 +1035,76 @@
 |你要打开的文件被锁定，可能正被另一进程打开和编辑。|
 |Use &Simple List View For TAN-Only Groups|
 |对只包含 TAN 的群组使用简单列表(&S)|
+|Disable 'Save' button if the database hasn't been modified|
+|若数据库未被修改，禁用“保存”功能|
+|Check For Update|
+|检查更新|
+|New KeePass version available!|
+|发现新版本!|
+|You have the latest version.|
+|目前已是最新版。|
+|Do you want to visit the KeePass homepage now?|
+|你想现在访问 KeePass 主页吗？|
+|Connect failed, cannot check for update.|
+|连接失败，无法检查升级。|
+|Cache error (cannot open cached file).|
+|缓存错误（无法打开缓存文件）。|
+|Check for update at KeePass startup|
+|启动时检查升级|
+|'Keyfile' or 'preselect' option is already specified|
+|已指定 'Keyfile' 或 'preselect' 参数|
+|Path is invalid|
+|路径无效|
+|Filename not found|
+|文件名不存在|
+|'Pw' option is already specified|
+|已指定 'Pw' 参数|
+|Password is empty|
+|密码为空|
+|Option not recognized|
+|参数无法识别|
+|Database is already specified|
+|已选定数据库|
+|It contains an unmatched quote|
+|包含一个不匹配的引用|
+|Command line argument|
+|命令行参数|
+|ignored|
+|忽略|
+|Reason|
+|原因|
+|KeePass Initialization|
+|初始化 KeePass|
+|&Deny|
+|拒绝(&D)|
+|&Full|
+|完全(&F)|
+|&Read-Only|
+|只读(&R)|
+|An application requests access through inter-process communication|
+|正有一程序请求通过进程间通信访问|
+|An entry already exists for the current URL.|
+|当前 URL 的记录已存在|
+|Application|
+|程序|
+|Do you grant the application access to your KeePass database?|
+|允许该程序访问 KeePass 数据库吗？|
+|Fields to remember|
+|记忆字段|
+|Incoming IPC Request|
+|收入 IPC 请求|
+|Lock workspace when locking Windows or switching user|
+|Windows 锁定或切换用户时锁定 KeePass|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
+|注意程序标题是由请求程序添加的，因此可能不正确（恶意程序可能会试图访问数据库）|
+|Select the fields KeePass should remember|
+|选择 KeePass 需要记住的字段|
+|The following application requests access to your currently opened KeePass database:|
+|下面程序请求访问当前打开的 KeePass 数据库:|
+|Unknown|
+|未知|
+|Value|
+|值|
+|Enable remote control (allow applications to communicate with KeePass)|
+|启用远程控制（允许其他程序与 KeePass 通信）|
+
