@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.05 - 1|
+|1.06 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -508,7 +508,7 @@
 |修改時間(&M)|
 |Show &Last Access Time Column|
 |存取時間(&L)|
-|Show &Expire Time Column|
+|Show &Expiration Time Column|
 |逾期時間(&E)|
 |Show UU&ID Column|
 |唯一識別碼(UU&ID)|
@@ -720,7 +720,7 @@
 |很可能是有人在您編輯該檔案時變更了它。|
 |Do you want to overwrite it?|
 |您希望覆蓋它嗎？|
-|The group you selected cannot store entries. Please select an other group.|
+|The group you selected cannot store entries. Please select a different group.|
 |您選擇的群組無法儲存項目，請選擇其它群組。|
 |This will remove all selected entries unrecoverably!|
 |這將將永久移除所有選擇的項目！|
@@ -1030,7 +1030,7 @@
 |檢查是否有新版本|
 |Check for update at KeePass startup|
 |每次啟動KeePass時檢查是否有新版本|
-|You got the latest version.|
+|You have the latest version.|
 |這已經是最新的版本。|
 |New KeePass version available!|
 |有新版的KeePass！|
@@ -1066,6 +1066,36 @@
 |無效的括號|
 |Option not recognized|
 |無法辨識該選項|
+|Unknown|
+|未知|
+|Value|
+|數值|
+|&Deny|
+|拒絕|
+|&Read-Only|
+|唯讀(&R)|
+|An entry already exists for the current URL.|
+|已有項目使用相同的網址|
+|Application|
+|應用程式|
+|Do you grant the application access to your KeePass database?|
+|您是否允許該應用程式存取您的KeePass資料庫？|
+|Fields to remember|
+|要記憶的欄位|
+|Incoming IPC Request|
+|連入的IPC要求|
+|Lock workspace when locking Windows or switching user|
+|在Windows鎖定或切換使用者時鎖定。|
+|&Full|
+|完整(&F)|
+|An application requests access through inter-process communication|
+|有應用程式要求應用程式間的通訊|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
+|請注意，應用程式標題不一定是正確的，惡意程式能夠用此方法嘗試存取您的資料庫。|
+|Select the fields KeePass should remember|
+|選擇KeePass要記憶的欄位|
+|The following application requests access to your currently opened KeePass database:|
+|下列應用程式要求存取您現在開啟的KeePass資料庫：|
 |&Help|
 |說明(&H)|
 |&Help Contents|
