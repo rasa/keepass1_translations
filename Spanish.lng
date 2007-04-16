@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.06|
+|~LANGUAGEVERSION||1.07|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |&OK||&OK|
@@ -36,19 +36,17 @@
 |Notes||Comentarios|
 |Ready.||Listo.|
 |Enter password:||Introduzca la contraseña:|
-|Select the password disk drive where the key will be stored:||Seleccione la unidad en donde la clave será guardada:|
 |Create a new password database - Enter master key||Crear una nueva contraseña de la base de datos - Introduzca una clave maestra|
 |Set master key||Defina una clave maestra|
 |Enter the master key for the new database.||Introduzca la clave maestra de la nueva base de datos.|
 |Create a new password database - Repeat master key||Crear una nueva contraseña de la base de datos - Repita la clave maestra|
 |Repeat master password||Repita la contraseña|
 |Repeat the master key for the new database.||Repita la clave maestra de la nueva base de datos.|
-|Select the password disk drive to load the key from:||Seleccione una unidad para cargar la clave:|
-|Open database - Enter master key||Abrir base de datos – Introduzca la clave maestra|
+|Open Database - Enter Master Key||Abrir base de datos – Introduzca la clave maestra|
 |Enter master key||Introduzca la clave maestra|
 |Enter the master key for this database.||Introduzca la clave maestra para esta base de datos.|
 |Key||Clave|
-|<no drive selected>||<ninguna unidad seleccionada>|
+|<No drive selected>||<Ninguna unidad seleccionada>|
 |Password Generator||Generador de Contraseñas|
 |This will generate a random password.||Esto generará una contraseña aleatoria.|
 |Options||Opciones|
@@ -157,8 +155,8 @@
 |Failed to set the master key!||¡No pudo definirse una clave maestra!|
 |File cannot be opened!||¡El archivo no puede ser abierto!|
 |File cannot be saved!||¡El archivo no puede ser guardado!|
-|Password Safe files||Password Safe files|
-|All files||Todos los archivos|
+|KeePass Password Safe Files||KeePass Password Safe Files|
+|All Files||Todos los archivos|
 |The current file has been modified.||Este archivo ha sido modificado.|
 |Do you want to save the changes before closing?||¿Desea guardar los cambios antes de salir?|
 |Are you sure you want to delete this group?||¿Está seguro que desea eliminar este grupo?|
@@ -188,8 +186,8 @@
 |Restart KeePass?||¿Reiniciar KeePass?|
 |Application cannot be restarted automatically!||¡El programa no puede reiniciarse automáticamente!|
 |Please restart KeePass manually.||Por favor reinicie KeePass manualmente.|
-|CSV files||Archivos CSV|
-|Text files||Archivos Texto|
+|CSV Files||Archivos CSV|
+|Text Files||Archivos Texto|
 |An error occured while importing the file. File cannot be imported.||Un error ocurrió mientras se exportaba el archivo. El archivo no fue importado.|
 |Select &Font||Seleccionar &Fuente|
 |&Get more languages...||&Obtener más idiomas...|
@@ -352,8 +350,8 @@
 |Perform Auto-&Type||Realizar &Tipeo-Automático|
 |Repeat master key||Repetir clave maestra|
 |Repeat the master key for this database.||Repetir la clave maestra para esta base de datos.|
-|Save key-file manually to...||Guardar archivo de clave manualmente en...|
-|Select key-file manually...||Seleccionar archivo de clave manualmente...|
+|Save Key File Manually to...||Guardar archivo de clave manualmente en...|
+|Select Key File Manually...||Seleccionar archivo de clave manualmente...|
 |Show &Last Access Time Column||Mostrar Columna de Hora de Ú&ltimo Acceso|
 |Show Note&s Column||Mostrar Columna de Nota&s|
 |Sort List By &Title||Ordenar Lista por &Título|
@@ -401,16 +399,15 @@
 |Too few memory (RAM) available||Muy poca memoria (RAM) disponible|
 |Unknown error||Error desconocido|
 |Warning! It's possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing tools or something like this.||¡Advertencia! Es posible que esta opción no funcione correctamente en su sistema, especialmente si usted está utilizando algún programa de portapapeles avanzado o algo similar.|
-|You can choose an other hot key combination in 'Edit - Options - Setup'.||Usted puede seleccionar otra combinación para la hot-key en 'Editar - Opciones - Configuración'.|
-|You've selected the AND key mode, so you must enter a password AND select a key-file.||Usted ha escogido el método de clave 'AND', debe introducir una contraseña y (AND) además seleccionar un archivo de clave.|
-|and||y|
+|You can choose a different hot key combination in 'Tools - Options - Setup'.||Usted puede escoger otra combinación para la hotkey en 'Herramientas - Opciones - Configuración'.|
+|You've selected the AND key mode, so you must enter a password AND select a key file.||Usted ha escogido el método de clave 'AND', debe introducir una contraseña y (AND) además seleccionar un archivo de clave.|
 |cannot be loaded!||¡No puede ser cargado!|
-|A key-file already exists on this drive. Do you want to overwrite or reuse it?||Un archivo de clave ya existe en esta unidad. ¿Desea sobreescribirlo?|
+|A key file already exists on this drive. Do you want to overwrite or reuse it?||Un archivo de clave ya existe en esta unidad. ¿Desea sobreescribirlo o reutilizarlo?|
 |Advanced||Avanzado|
 |Backup||Respaldo|
 |Click [Cancel] to abort changing the key.||Haga click en [Cancelar] para abortar el cambio de clave.|
-|Click [No] to reuse the selected key-file for this database.||Haga click en [No] para reutilizar el archivo de clave seleccionado para esta base de datos.|
-|Click [Yes] to overwrite the key-file.||Haga click en [Sí] para sobreescribir el archivo de clave|
+|Click [No] to reuse the selected key file for this database.||Haga click en [No] para reutilizar el archivo de clave seleccionado para esta base de datos.|
+|Click [Yes] to overwrite the key file.||Haga click en [Sí] para sobreescribir el archivo de clave|
 |Failed to create backup of this entry!||¡No se pudo crear una copia de seguridad de esta entrada!|
 |Immediately after opening a database||Inmediatamente después de abrir una base de datos|
 |Integration||Integración|
@@ -443,7 +440,7 @@
 |Calculate rounds for a 1-second delay on this computer||Calcular el número de vueltas que causarán un retraso de 1 segundo en esta computadora|
 |Cannot register the global hot key.||No se puede registrar la hot-key global.|
 |Click to expire the entry in %u days||Click para expirar la entrada en %u días|
-|Enter the passphrase and/or select the key-disk's drive.||Introduzca la frase de contraseña y/o seleccione la unidad con la clave.|
+|Enter the passphrase and/or select the key file's drive.||Introduzca la frase de contraseña y/o seleccione la unidad con el archivo de clave.|
 |Exclude entries in the '&Backup' group||Excluir entradas en el grupo '&Respaldo'|
 |Field has been pasted.||El campo ha sido pegado.|
 |Higher ANSI characters||Caracteres ANSI extendidos|
@@ -550,3 +547,10 @@
 |Unknown||Desconocido|
 |Value||Valor|
 |The following application requests access to your currently opened KeePass database:||La siguiente aplicación solicita acceso a su base de datos de KeePass actualmente abierta:|
+|Attachment Description||Descripción del adjunto|
+|Enable remote control (allow applications to communicate with KeePass)||Activar control remoto (permitir a otras aplicaciones comunicarse con KeePass)|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).||Revise que el dispositivo que contiene el archivo de clave está conectado, y que KeePass tiene los permisos para acceder a él (verifique los permisos de archivo, asegúrese que no hay otra aplicación bloqueando el archivo, ...).|
+|Select the drive on which the key file is stored:||Seleccione la unidad en donde el archivo de clave se encuentra:|
+|Select the drive to which the key file should be saved to:||Seleccione la unidad en donde el archivo de clave debería ser guardado:|
+|URL Field Features||Características del campo URL|
+|Use password AND key file||Utilizar contraseña Y archivo de clave|
