@@ -1,7 +1,7 @@
-﻿2006-10-13 15:00|~LANGUAGENAME|
+﻿2007-06-16 01:07|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.06|
+|1.07|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
@@ -74,12 +74,12 @@
 |备注|
 |Ready.|
 |就绪。|
-|Enter the passphrase and/or select the key-disk's drive.|
+|Enter the passphrase and/or select the key file's drive.|
 |输入密码并/或选择密匙盘。|
 |Enter password:|
 |输入密码：|
-|Select the password disk drive where the key will be stored:|
-|选择存储密匙的密匙盘：|
+|Select the drive to which the key file should be saved to:|
+|选择你想存储密匙文件的驱动器：|
 |Create a new password database - Enter master key|
 |建立新的密码数据库 - 输入管理密码/密匙|
 |Set master key|
@@ -92,9 +92,9 @@
 |确认管理密码|
 |Repeat the master key for the new database.|
 |确认新建数据库的管理密码|
-|Select the password disk drive to load the key from:|
-|选择载入密匙的密匙盘：|
-|Open database - Enter master key|
+|Select the drive on which the key file is stored:|
+|选择密匙文件所在驱动器：|
+|Open Database - Enter Master Key|
 |打开数据库 - 输入管理密码/密匙|
 |Enter master key|
 |输入管理密码/密匙|
@@ -102,7 +102,7 @@
 |输入当前数据库的管理密码/密匙|
 |Key|
 |密匙|
-|<no drive selected>|
+|<No drive selected>|
 |<未选择驱动器>|
 |Password Generator|
 |密码生成器|
@@ -372,9 +372,9 @@
 |无法打开文件！|
 |File cannot be saved!|
 |无法保存文件！|
-|Password Safe files|
-|Password Safe 文件|
-|All files|
+|KeePass Password Safe Files|
+|KeePass Password Safe 文件|
+|All Files|
 |所有文件|
 |The current file has been modified.|
 |文件已更改。|
@@ -444,9 +444,9 @@
 |程序无法自动重新启动！|
 |Please restart KeePass manually.|
 |请手工启动 KeePass。|
-|CSV files|
+|CSV Files|
 |CSV文件|
-|Text files|
+|Text Files|
 |文本文件|
 |An error occured while importing the file. File cannot be imported.|
 |在导入文件时发生错误。文件无法导入。|
@@ -534,11 +534,11 @@
 |访问 KeePass 主页|
 |Field copied to clipboard.|
 |字段已复制到剪贴板。|
-|A key-file already exists on this drive. Do you want to overwrite or reuse it?|
+|A key file already exists on this drive. Do you want to overwrite or reuse it?|
 |该盘已有一个密匙文件，你想覆盖它还是使用它？|
-|Click [Yes] to overwrite the key-file.|
+|Click [Yes] to overwrite the key file.|
 |点“是”覆盖。|
-|Click [No] to reuse the selected key-file for this database.|
+|Click [No] to reuse the selected key file for this database.|
 |点“否”使用该密匙。|
 |Click [Cancel] to abort changing the key.|
 |点“取消”终止更换密匙。|
@@ -636,6 +636,8 @@
 |附件：|
 |Attachment|
 |附件|
+|Attachment Description|
+|附件描述|
 |Show &Attachment Column|
 |附件(&A)|
 |Generate a random password...|
@@ -768,9 +770,9 @@
 |执行自动输入|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
 |已启动自动排序，无法手动排序记录。|
-|Select key-file manually...|
+|Select Key File Manually...|
 |选择密匙文件...|
-|Save key-file manually to...|
+|Save Key File Manually to...|
 |保存密匙文件...|
 |Enter the new master key for this database.|
 |为这个数据库输入新的管理密码。|
@@ -855,12 +857,12 @@
 |无法注册全局快捷键。|
 |Most probably another application has reserved this hot key already.|
 |可能其它应用程序已经占用了该快捷键。|
-|You can choose an other hot key combination in 'Edit - Options - Setup'.|
-|你可以在“编辑-选项-设置”中选择其它的快捷键。|
-|and|
-|以及|
-|You've selected the AND key mode, so you must enter a password AND select a key-file.|
-|你已经选择了“以及”模式，请输入密码并选择密匙文件。|
+|You can choose a different hot key combination in 'Tools - Options - Setup'.|
+|你可以在“编辑-选项-设置”中更改快捷键。|
+|Use password AND key file|
+|同时使用密码和密匙文件|
+|You've selected the AND key mode, so you must enter a password AND select a key file.|
+|你已经选择了“同时使用”模式，请输入密码并选择密匙文件。|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
 |定时清空：复制数据到剪贴板，并在一段时间后自动清除|
 |Enhanced: allow pasting only once and protect against clipboard spies|
@@ -1107,4 +1109,7 @@
 |值|
 |Enable remote control (allow applications to communicate with KeePass)|
 |启用远程控制（允许其他程序与 KeePass 通信）|
-
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
+|请确保已插入了包含密匙文件的介质，并且 KeePass 有权访问该文件（检查文件访问权限，确保没有其他程序阻止对文件的访问，……）。|
+|URL Field Features|
+|网址字段属性|
