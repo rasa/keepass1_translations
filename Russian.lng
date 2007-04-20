@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.06|
+|~LANGUAGEVERSION|             |1.07|
 |~LANGUAGEAUTHOR|              |Varrey|
-|~LANGUAGEAUTHOREMAIL|         |varrey@hotmail.com|
+|~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
 |&OK|                          |&OK|
 |&Cancel|                      |&Отмена|
@@ -45,12 +45,12 @@
 
 |Ready.|                       |Готов.|
 
-|Enter the passphrase and/or select the key-disk's drive.|
+|Enter the passphrase and/or select the key file's drive.|
     |Введите пароль и/или выберите диск с паролем.|
 |Enter password:|              |Введите пароль:|
 
-|Select the password disk drive where the key will be stored:|
-    |Выберите диск, на который будет сохранен пароль:|
+|Select the drive to which the key file should be saved to:|
+    |Выберите диск, на который надо сохранить файл с паролем:|
 |Create a new password database - Enter master key|
     |Создание новой базы паролей - Ввод основного пароля|
 |Set master key|               |Ввод основного пароля|
@@ -61,15 +61,15 @@
 |Repeat master password|       |Повтор ввода основного пароля|
 |Repeat the master key for the new database.|
     |Повторите ввод основного пароля для новой базы паролей.|
-|Select the password disk drive to load the key from:|
-    |Выберите диск, с которого будет считан пароль:|
-|Open database - Enter master key|
+|Select the drive on which the key file is stored:|
+    |Выберите диск, на котором сохранен файл с паролем:|
+|Open Database - Enter Master Key|
     |Открытие базы паролей - Ввод основного пароля|
 |Enter master key|             |Введите основной пароль|
 |Enter the master key for this database.|
     |Введите основной пароль для текущей базы паролей.|
 |Key|                          |Пароль|
-|<no drive selected>|          |<диск не выбран>|
+|<No drive selected>|          |<Диск не выбран>|
 
 |Password Generator|           |Генератор паролей|
 |This will generate a random password.|        |Генерация случайного пароля.|
@@ -253,8 +253,8 @@
 |File cannot be saved!|
     |Невозможно сохранить файл!|
 
-|Password Safe files|          |Файлы баз паролей|
-|All files|                    |Все файлы|
+|KeePass Password Safe Files|  |Файлы баз паролей KeePass|
+|All Files|                    |Все файлы|
 
 |The current file has been modified.|
     |Текущий файл был изменен.|
@@ -317,8 +317,8 @@
 |Please restart KeePass manually.|
     |Пожалуйста, перезапустите KeePass вручную.|
 
-|CSV files|                    |CSV файлы|
-|Text files|                   |Тесктовые файлы|
+|CSV Files|                    |CSV файлы|
+|Text Files|                   |Тесктовые файлы|
 |An error occured while importing the file. File cannot be imported.|
     |Произошла ошибка во время импорта файла. Невозможно проимпортировать файл.|
 |&CSV File...|                 |&CSV файл...|
@@ -376,7 +376,7 @@
 |Visit KeePass Homepage|       |Перейти на домашнюю страницу KeePass|
 |Field copied to clipboard.|   |Поле скопировано в буфер обмена.|
 
-|A key-file already exists on this drive. Do you want to overwrite or reuse it?|
+|A key file already exists on this drive. Do you want to overwrite or reuse it?|
     |Файл с паролем уже сущесвует. Хотите переписать его или использовать повторно?|
 |Overwrite?|                   |Переписать?|
 |Expires:|                     |Окончание:|
@@ -460,7 +460,7 @@
 |Create &Association|                     |Привяз&ать|
 |&Remove Association|                     |&Удалить привязку|
 |Setup|                                   |Настройки|
-|Password List|                           |Списак паролей|
+|Password List|                           |Список паролей|
 |Exit?|                                   |Выйти?|
 |The file couldn't be saved.|             |Невозможно сохранить файл.|
 |Maybe it's read-only or the storage media has been removed.|
@@ -521,8 +521,8 @@
 |Perform Auto-&Type|                      |Начать а&втонабор|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
     |Автосортировка списка паролей включена - вы не можете сортировать записи вручную.|
-|Select key-file manually...|             |Укажите файл с паролем вручную...|
-|Save key-file manually to...|            |Сохранить файл с паролем вручную...|
+|Select Key File Manually...|             |Выберите файл с паролем вручную...|
+|Save Key File Manually to...|            |Сохранить файл с паролем вручную как...|
 |Enter the new master key for this database.|  |Ввод нового основного пароля для текущей базы паролей.|
 |Repeat master key|                       |Повтор основного пароля|
 |Repeat the master key for this database.||Повторите ввод основного пароля для текущей базы паролей.|
@@ -584,19 +584,19 @@
 |Unknown error|        |Неизвестная ошибка|
 |Warning! It's possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing tools or something like this.|
     |Внимание! Этот режим может не работать в вашей системе, особенно если вы используете программы для расширения возможностей буфера обмена.|
-|You can choose an other hot key combination in 'Edit - Options - Setup'.|
+|You can choose a different hot key combination in 'Tools - Options - Setup'.|
     |Вы можете установить другую "горячую" клавишу в "Изменить - Настройки - Настройки".|
-|You've selected the AND key mode, so you must enter a password AND select a key-file.|
-    |Вы выбрали режим "и" для ввода пароля, поэтому вы должны ввести пароль И выбрать диск/файл с паролем.|
-|and|                  |и|
-|cannot be loaded!|    |не может быть загружен!|
+|You've selected the AND key mode, so you must enter a password AND select a key file.|
+    |Вы выбрали режим "и" для ввода пароля, поэтому вы должны ввести пароль И выбрать файл с паролем.|
+|Use password AND key file| |Пароль + файл с паролем|
+|cannot be loaded!|         |не может быть загружен!|
 
 |Advanced| |Расширенные|
 |Backup|   |Резервирование|
 |Click [Cancel] to abort changing the key.| |Нажмите [Отмена] для прекращения изменения ключа.|
-|Click [No] to reuse the selected key-file for this database.|
+|Click [No] to reuse the selected key file for this database.|
     |Нажмите [Нет] для повторного использования выбранного файла с паролем для текущей базы.|
-|Click [Yes] to overwrite the key-file.|    |Нажмите [Да] для перезаписи файла с паролем.|
+|Click [Yes] to overwrite the key file.|    |Нажмите [Да] для перезаписи файла с паролем.|
 |Failed to create backup of this entry!|    |Невозможно создать копию для текущей записи!|
 |Immediately after opening a database|      |Действия сразу после открытия базы паролей|
 |Integration| |Интеграция|
@@ -742,3 +742,8 @@
 |Value| |Значение|
 |Enable remote control (allow applications to communicate with KeePass)|
     |Разрешить удаленное управление (другие приложения могут общаться с KeePass)|
+
+|Attachment Description| |Описание файла|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
+    |Убедитесь, что носитель файла с паролем вставлен и что у KeePass есть нужные права доступа (проверьте права доступа к файлу, убедитесь, что другие приложения не блокируют файл, ...).|
+|URL Field Features| |Возможности поля Ссылка|
