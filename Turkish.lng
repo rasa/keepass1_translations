@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Türkçe <Turkish>|
-|~LANGUAGEVERSION|             |1.06|
+|~LANGUAGEVERSION|             |1.07|
 |~LANGUAGEAUTHOR|              |Erhan BURHAN|
 |~LANGUAGEAUTHOREMAIL|         |<eburhan@gmail.com>|
 
@@ -45,12 +45,12 @@
 
 |Ready.|                       |Hazır.|
 
-|Enter the passphrase and/or select the key-disk's drive.|
+|Enter the passphrase and/or select the key file's drive.|
     |Parolayı giriniz ya da parolanın bulunduğu disk sürücüyü seçiniz.|
 |Enter password:|              |Parola giriniz:|
 
-|Select the password disk drive where the key will be stored:|
-    |Anahtarı depolamak istediğiniz sürücüyü seçiniz:|
+|Select the drive to which the key file should be saved to:|
+    |Anahtar dosyasaının kayıtlı olduğu sürücüyü seçiniz:|
 |Create a new password database - Enter master key|
     |Yeni veritabanı parolası oluştur - Ana anahtarı yeniden gir|
 |Set master key|               |Ana anahtarı belirle|
@@ -61,15 +61,15 @@
 |Repeat master password|       |Ana parolayı tekrarla|
 |Repeat the master key for the new database.|
     |Yeni veritabanının ana anahtarını tekrar giriniz.|
-|Select the password disk drive to load the key from:|
-    |Anahtarı yüklemek için bir disk sürücü seçiniz:|
-|Open database - Enter master key|
+|Select the drive on which the key file is stored:|
+    |Anahtar dosyasının saklı olduğu sürücüyü seçiniz:|
+|Open Database - Enter Master Key|
     |Veritabanını aç - Ana anahtarı gir|
 |Enter master key|             |Ana anahtarı gir|
 |Enter the master key for this database.|
     |Bu veritabanını açabilmek için ana anahtarı girmelisiniz.|
 |Key|                          |Anahtar|
-|<no drive selected>|          |<seçili sürücü yok>|
+|<No drive selected>|          |<Seçili sürücü yok>|
 
 |Password Generator|           |Parola Üreticisi|
 |This will generate a random password.|        |Bu pencereden rasgele parolalar üretebilirsiniz.|
@@ -254,8 +254,8 @@
 |File cannot be saved!|
     |Dosya kaydedilmez!|
 
-|Password Safe files|          |Güvenli parola dosyaları|
-|All files|                    |Tüm Dosyalar|
+|KeePass Password Safe Files|          |KeePass Güvenli Parola Dosyaları|
+|All Files|                    |Tüm Dosyalar|
 
 |The current file has been modified.|
     |Kullanılan dosyada değişiklikler yapılmış.|
@@ -321,8 +321,8 @@
 |Please restart KeePass manually.|
     |Lütfen KeePass programını kendiniz yeniden başlatın.|
 
-|CSV files|                    |CSV dosyaları|
-|Text files|                   |Metin Dosyaları|
+|CSV Files|                    |CSV dosyaları|
+|Text Files|                   |Metin Dosyaları|
 |An error occured while importing the file. File cannot be imported.|
     |Dosya içeri aktarılıyorken bir hata oluştu. Dosya içeri aktarılamaz.|
 |&CSV File...|                 |&CSV dosyası...|
@@ -381,11 +381,11 @@
 |Visit KeePass Homepage|       |KeePass web sitesini ziyaret et|
 |Field copied to clipboard.|   |Alan panoya kopyalandı.|
 
-|A key-file already exists on this drive. Do you want to overwrite or reuse it?|
+|A key file already exists on this drive. Do you want to overwrite or reuse it?|
     |Bu disk sürücüde bir anahtar dosyası zaten var. Üzerine yazmak veya tekrar kullanmak ister misiniz?|
 
-|Click [Yes] to overwrite the key-file.| |Anahtar dosyasını üzerine yazmak için [Evet] butonuna tıklayın.|
-|Click [No] to reuse the selected key-file for this database.|
+|Click [Yes] to overwrite the key file.| |Anahtar dosyasını üzerine yazmak için [Evet] butonuna tıklayın.|
+|Click [No] to reuse the selected key file for this database.|
     |Bu veritabanı için seçilmiş anahtar dosyasını tekrar kullanmak için [Hayıt] butonuna tıklayın.|
 |Click [Cancel] to abort changing the key.|
     |Anahtar değiştirmeyi iptal etmek için [İptal] butonuna tıklayın.|
@@ -445,6 +445,7 @@
 |Hide &User Names Behind Asterisks (***)|  |&Kullanıcı adlarını yıldız (***) işaretiyle gizle|
 |Attachment:|                  |Ek dosya:|
 |Attachment|                   |Ek dosya|
+|Attachment Description|       |Ek dosya açıklaması|
 |Show &Attachment Column|      |&Ek dosya kolonunu göster|
 |Generate a random password...|           |Rasgele bir parola oluştur...|
 |Open file and set as attachment...|      |Dosya aç veya bir ek dosya belirle...|
@@ -528,8 +529,8 @@
 |Perform Auto-&Type|                      |Şimdi &otomatik yaz|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
     |Parola listesini otomatik sıralama etkin, şu andan itibaren listeyi kendiniz sıralayamazsınız.|
-|Select key-file manually...|             |Anahtar dosyasını kendim seçeyim...|
-|Save key-file manually to...|            |Anahtar dosyasını kendim kaydedeyim...|
+|Select Key File Manually...|             |Anahtar dosyasını kendim seçeyim...|
+|Save Key File Manually to...|            |Anahtar dosyasını kendim kaydedeyim...|
 |Enter the new master key for this database.|
     |Bu veritabanı için yeni ana anahtarı giriniz.|
 |Repeat master key|                       |Ana anahtarı tekrarla|
@@ -583,10 +584,10 @@
 |Cannot register the global hot key.|     |Genel kısa tuş kayıt olamaz.|
 |Most probably another application has reserved this hot key already.|
     |Büyük ihtimalle bir başka uygulama bu kısa tuşu kendisi için ayırmış.|
-|You can choose an other hot key combination in 'Edit - Options - Setup'.|
-    |'Düzen - Seçenekler - İlişkilendirme' menüsünden bir başka kısayol seçebilirsiniz.|
-|and|                                     |ve|
-|You've selected the AND key mode, so you must enter a password AND select a key-file.|
+|You can choose a different hot key combination in 'Tools - Options - Setup'.|
+    |'Araçlar - Seçenekler - İlişkilendirme' menüsünden farklı bir kısayol seçebilirsiniz.|
+|Use password AND key file|               |Parola VE anahtar dosyası kullan|
+|You've selected the AND key mode, so you must enter a password AND select a key file.|
     |Anahtar modunu seçtiniz, bundan dolayı bir anahtar dosyası seçip parolasını girmelisiniz.|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
     |Zamanlı : veriyi panoya kopyala ve birkaç saniye sonra otomatik olarak temizle|
@@ -781,3 +782,9 @@
 
 |Enable remote control (allow applications to communicate with KeePass)|
 |Uzaktan kontrolü etkinleştir (uygulamaların KeePass ile iletişim kurmasına izin verir)|
+
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
+|Anahtar dosyasını içeren medyanın yerleştirilmiş olduğundan ve KeePass'ın erişim hakkı olduğundan emin olun (dosya erişim haklarını kontrol edin, diğer uygulamaların dosyayı engellemediğinden emin olun, ....).|
+
+|URL Field Features|
+|URL alanı özellikleri|
