@@ -1,0 +1,1114 @@
+﻿|~LANGUAGENAME|
+|Српски|
+|~LANGUAGEVERSION|
+|1.07|
+|~LANGUAGEAUTHOR|
+|Ozzii|
+|~LANGUAGEAUTHOREMAIL|
+|ozzii.translate@gmail.com|
+|&OK|
+|&У реду|
+|&Cancel|
+|&Откажи|
+|&Close|
+|&Затвори|
+|Password Safe|
+|Password Safe|
+|&Generate Random Password|
+|&Генериши лозинку|
+|&Pick One|
+|&Одабери|
+|&Gen|
+|&Ген|
+|General|
+|Опште|
+|Windows|
+|Прозоре|
+|Network|
+|Мрежа|
+|Internet|
+|Интернет|
+|eMail|
+|Имејл|
+|Homebanking|
+|Банка|
+|Entry|
+|Ставка|
+|&Title|
+|&Назив|
+|User &Name|
+|&Корисник|
+|&URL|
+|&УРЛ|
+|&Password|
+|Лозинка|
+|N&otes|
+|&Белешке|
+|&Case sensitive|
+|Пази на &слова|
+|Search in|
+|Тражи у|
+|Search this text:|
+|Тражи овај текст:|
+|Find|
+|Наћи|
+|&Find|
+|Наћи|
+|Find a string in the password list|
+|Наћи знаковни низ у листи лозинка|
+|Find text in password list|
+|Наћи текст у листи лозинка|
+|About KeePass...|
+|О KeePass-у...|
+|Password Groups|
+|Групе лозинка|
+|Title|
+|Назив|
+|User Name|
+|Корисник|
+|URL|
+|УРЛ|
+|Password|
+|Лозинка|
+|Notes|
+|Белешке|
+|Ready.|
+|Спремно.|
+|Enter password:|
+|Унети лозинку:|
+|Select the drive to which the key file should be saved to:|
+|Одабрати драјв где ће да се сачува кључна датотека:|
+|Create a new password database - Enter master key|
+|Креирај нову базу лозинка - Унети главни кључ|
+|Set master key|
+|Постави главни кључ|
+|Enter the master key for the new database.|
+|Унети главну лозинку за нову базу.|
+|Create a new password database - Repeat master key|
+|Креирај нову базу лозинка - Потврда главног кључа|
+|Repeat master password|
+|Потврдити главну лозинку|
+|Repeat the master key for the new database.|
+|Потврди главни кључ за нову базу.|
+|Select the drive on which the key file is stored:|
+|Одабрати драјв где се налази кључна датотека:|
+|Open Database - Enter Master Key|
+|Отвори базу - Унети главни кључ|
+|Enter master key|
+|Унети главни кључ|
+|Enter the master key for this database.|
+|Унети главни кључ за ову базу.|
+|Key|
+|Кључ|
+|<No drive selected>|
+|<Драјв неодабран>|
+|Password Generator|
+|Генератор лозинка|
+|This will generate a random password.|
+|Ово ће генерисати случајне бројеве.|
+|Options|
+|Опције|
+|Password Generation Options|
+|Опције генерисања лозинка|
+|&Only the following characters:|
+|&Само ове карактере:|
+|Collect &entropy (recommended for strong passwords)|
+|Сакупи ентропију (препоручено за јаке лозинке)|
+|Number of characters:|
+|Број карактера:|
+|Your new password:|
+|Ваша нова лозинка:|
+|&Generate|
+|&Генериши|
+|&Accept|
+|&Прихвати|
+|Upper alphabetic characters (A, B, C, ...)|
+|Велика слова (A, B, C, ...)|
+|Lower alphabetic characters (a, b, c, ...)|
+|Мала слова (a, b, c, ...)|
+|Numerical characters (1, 2, 3, ...)|
+|Бројеве (1, 2, 3, ...)|
+|Underline character '_'|
+|Подвучено слово '_'|
+|Minus '-'|
+|Минус '-'|
+|Space ' '|
+|Размак ' '|
+|Special brackets ('{', '}', '[', ...)|
+|Специјалне заграде ('{', '}', '[', ...)|
+|Group:|
+|Група:|
+|Title:|
+|Назив:|
+|User Name:|
+|Корисник:|
+|URL:|
+|УРЛ:|
+|Icon:|
+|Икона:|
+|Password:|
+|Лозинка:|
+|Repeat Password:|
+|Потврда:|
+|Notes:|
+|Белешке:|
+|***|
+|***|
+|Add Entry|
+|Додај ставку|
+|Add a new password entry|
+|Додај нову лозинку|
+|Edit Entry|
+|Промени ставку|
+|Modify a password entry|
+|Промени лозинку|
+|Group Name:|
+|Име групе:|
+|Add Group|
+|Додај групу|
+|Add a new password group|
+|Додај групу лозинка|
+|Edit Group|
+|Промени групу|
+|Modify a password group|
+|Промени групу лозинка|
+|Random mouse input|
+|Случајни унос миша|
+|Click to begin:|
+|Кликнути за почетак:|
+|Use &Mouse As Random Source|
+|Користи миш као случајни извор|
+|Move the mouse in the field above until this is full:|
+|Помери миш у поље све док није пуно:|
+|Hint: It is best to use both mouse and keyboard random sources.|
+|Савет: боље је да се користи и миш и тастатура у исто време.|
+|Random keyboard input|
+|Случајни унос тастатуре|
+|Just hack some random keys into the edit box above.|
+|Једноставно унети случајне карактере у ову кутију.|
+|You don't have to remember the keys you type in. They are used to generate a random value.|
+|Није потребно да запамтите уношене карактере. Коришћени су за креирање случајне вредности.|
+|So, the more the better. The different, the better.|
+|Што више карактера, то боље.|
+|The random the better.|
+|Што различита карактера, то боље.|
+|Get Random|
+|Уради случајно|
+|Get random data for key generation|
+|Генериши случајне податке за генерисања кључа|
+|Move the mouse and type some random text to generate random values.|
+|Померити миш и унети случајни текст за генерисање вредности.|
+|Pick an icon|
+|Одабрати икону|
+|Pick an Icon|
+|Одабрати икону|
+|Pick an icon from the list and click OK to set it.|
+|Одабрати укону са листе и кликнути 'У реду' за коришћење.|
+|&File|
+|&Датотека|
+|&Edit|
+|&Уреди|
+|&View|
+|&Приказ|
+|E&xtras|
+|&Алатке|
+|&?|
+|&?|
+|&New...|
+|Нова...|
+|&Open...|
+|Отвори...|
+|&Save|
+|Сачувај|
+|Save &As...|
+|Сачувај као...|
+|Change &Master Key...|
+|Промени главни кључ...|
+|&Export To|
+|Извоз у|
+|&Lock Workspace|
+|Блокирај радни простор|
+|&Unlock Workspace|
+|Деблокирај радни простор|
+|E&xit|
+|Излаз|
+|&Lock/Unlock Workspace|
+|Блокирај/Деблокирај радни простор|
+|&Options...|
+|Опције...|
+|Add Password &Group...|
+|Додај групу лозинка...|
+|Add Password Su&bgroup...|
+|Додај под-групу лозинка...|
+|Modif&y Password Group...|
+|Промени групу лозинка...|
+|&Delete Password Group...|
+|избриши групу лозинка...|
+|Export Group To &HTML...|
+|Извоз групе у HTML...|
+|Export Group To &XML...|
+|Извоз групе у XML...|
+|Export Group To &CSV...|
+|Извоз групе у CSV...|
+|Export Group To &TXT...|
+|Извоз групе у TXT...|
+|Copy User &Name To Clipboard|
+|Копирај корисник у клипборд|
+|Copy &Password To Clipboard|
+|Копирај лозинку у клипборд|
+|Open &URL(s)|
+|Отвори УРЛ|
+|&Find In Database...|
+|Наћи у базу...|
+|Find In T&his Group...|
+|Наћи у ову групу...|
+|&Add Entry...|
+|Додај ставку...|
+|&Edit/View Entry...|
+|Уреди/Прикажи ставку...|
+|&Delete Entry|
+|Бриши ставку|
+|Dupli&cate Entry|
+|Копирај ставку|
+|Move Entry To &Top|
+|Премести ставку као прву|
+|Move Entry &One Up|
+|Премести ставку на горе|
+|Mo&ve Entry One Down|
+|Премести ставку на доле|
+|Move Entry To &Bottom|
+|Премести ставку као задњу|
+|Move Group To &Top|
+|Премести групу као прву|
+|Move Group One &Up|
+|Премести групу на горе|
+|Move Group &One Down|
+|Премести групу на доле|
+|Move Group To &Bottom|
+|Премести групу као задњу|
+|Change &Language...|
+|Промени језик...|
+|Show &Title Column|
+|Колона назив|
+|Show User &Name Column|
+|Колона корисник|
+|Show &URL Column|
+|Колона УРЛ|
+|Show &Password Column|
+|Колона лозинка|
+|Show Note&s Column|
+|Колона белешке|
+|&Always On Top|
+|Увек испред|
+|Hide &Passwords Behind Asterisks (***)|
+|Сакри лозинке иза звездице (***)|
+|Password &Generator...|
+|Генератор лозинке...|
+|Visit &KeePass Homepage|
+|Ићи на сајт KeePass-а|
+|&About KeePass...|
+|О KeePass-у...|
+|&Database Settings...|
+|Подешавање базе...|
+|&Tray/Untray|
+|Смањи/Покажи|
+|Version |
+|Верзија |
+|Password and repeated password aren't identical!|
+|Лозинка и провера нису исте.|
+|Stop|
+|Заустави|
+|Enter a group name!|
+|Унети име групе!|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
+|Треба да генеришете случајне вредности користећи миш или тастатурну зону пре затварања овој дијалога.|
+|No random input|
+|Нема случајне вредности|
+|EITHER enter a password/passphrase OR select a key disk drive.|
+|ИЛИ унети лозинку ИЛИ одабрати драјв за кључ.|
+|The password must consist of at least one character!|
+|Лозинка треба имати макар један карактер!|
+|Select at least one of the options in the list above!|
+|Одабрати макар једну опцију са листе!|
+|The following self-tests failed:|
+|Ови ауто-тестови су неуспели:|
+|- SHA 32-bit variables|
+|- Вектор SHA-32|
+|- SHA 64-bit variables|
+|- Вектор SHA-64|
+|- SHA-256 test vector(s)|
+|- Вектор SHA-256|
+|- SHA-512 test vector(s)|
+|- Вектор SHA-512|
+|- Rijndael encryption|
+|- Rijndael шифровање|
+|- Rijndael decryption|
+|- Rijndael дешифровање|
+|- Arcfour crypto routine|
+|- Arcfour шифровање|
+|- Twofish algorithm|
+|- Twofish алгоритам|
+|The program will exit now.|
+|Програм ће се затворити.|
+|Self-Test(s) Failed|
+|Ауто-тест неуспешан|
+|Clipboard cleared.|
+|Клипборд избрисан.|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.|
+|Поље копиран у клипборду. Брисање за %d секунда.|
+|Failed to set the master key!|
+|Главни кључ не може да се дефинише!|
+|File cannot be opened!|
+|Датоека не може да се отвори!|
+|File cannot be saved!|
+|Датотека не може да се сачува!|
+|KeePass Password Safe Files|
+|Датотеке Password Safe KeePass|
+|All Files|
+|Све|
+|The current file has been modified.|
+|Актуелна датотека промењена.|
+|Do you want to save the changes before closing?|
+|Сачувати промене пре затварања?|
+|KeePass - Save Before Close/Lock?|
+|KeePass - Сачувати пре затварања/блокирања?|
+|Deleting a group will delete all items and subgroups in that group, too.|
+|Брисање групе брише све ставке и под-групе из те групе.|
+|Are you sure you want to delete this group?|
+|Сигурно избрисати ову групу?|
+|Delete Group Confirmation|
+|Потврда брисање групе|
+|Cannot open temporary file for printing!|
+|Не може да се отвори привремена датотека за штампање!|
+|Load language file|
+|Учитај језик|
+|Load a language file|
+|Учитај језичку датотеку|
+|Select one of the languages in the list below.|
+|Одабрати један језик са листе.|
+|Available Languages|
+|Доступно|
+|Open &Help File|
+|Отвори помоћ|
+|Open &License File|
+|Отвори лиценцу|
+|Newline sequence:|
+|Секвенца нове линије:|
+|Windows newline sequence (\r\n)|
+|Виндоз секвенца (\r\n)|
+|Unix newline sequence (\n)|
+|Јуникс секвенца (\n)|
+|Clipboard auto-clear time (seconds):|
+|Ауто брисање клипборда (секунда):|
+|Settings|
+|Подешавања|
+|Here you can configure KeePass.|
+|Овде можете подесити KeePass.|
+|Automatically open last used database on startup|
+|Отвори задњу коришћену базу приликом покретања|
+|Display images on buttons|
+|Покажи слике на дугмада|
+|Show grid lines in password entry list|
+|Покажи линије у листи лозинка|
+|Workspace cannot be unlocked!|
+|Радни простор не може да се деблокира!|
+|Workspace locked|
+|Радни просто блокиран|
+|Loading error|
+|Грешка учитавања|
+|Language file cannot be opened!|
+|Језик не може да се отвори!|
+|Language file cannot be registered!|
+|Језик не може да се региструје!|
+|The language file has been installed.|
+|Језик инсталиран.|
+|You must restart KeePass in order to use the new language.|
+|Требате поново покренути KeePass за коришћење новог језика.|
+|Do you wish to restart KeePass now?|
+|Поново покренути KeePass?|
+|Restart KeePass?|
+|Поново покренути KeePass?|
+|Application cannot be restarted automatically!|
+|Програм не може аутоматско да се поново покрене!|
+|Please restart KeePass manually.|
+|Ручно поново покренути KeePass.|
+|CSV Files|
+|CSV датотеке|
+|Text Files|
+|Текст датотеке|
+|An error occured while importing the file. File cannot be imported.|
+|Грешка при уносу датотеке. Датотека не може да се унесе.|
+|&CSV File...|
+|CSV датотека...|
+|&PwSafe v2 TXT File...|
+|'PwSafe v2' текст датотека...|
+|Select &Font|
+|Одабрати фонт|
+|Select a new font for the list controls:|
+|Одабрати фонт за листу контрола:|
+|Code&Wallet TXT File...|
+|'CodeWallet' текст датотека...|
+|&TXT File...|
+|TXT датотека...|
+|&HTML File...|
+|HTML датотека...|
+|&XML File...|
+|XML датотека...|
+|&CSV File...|
+|CSV датотека...|
+|&Import From|
+|Унос од|
+|&Get more languages...|
+|Добити још језика...|
+|Start and Exit|
+|Покрени и Затвори|
+|Interface (GUI)|
+|Интерфејс|
+|Files|
+|Датотеке|
+|Memory|
+|Меморија|
+|Lock workspace when minimizing the main window|
+|Блокирај површину на минимизирање|
+|Minimize to tray instead of taskbar|
+|Минимизуј у систему уместо радне траке|
+|Encryption algorithm to use (for this database):|
+|Шифровање (за ову базу):|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
+|Advanced Encryption Standard (AES) (блокови од 128 бита, кључ од 256 бита)|
+|Twofish (128-bit block cipher using 256-bit key)|
+|Twofish (блокови од 128 бита, кључ од 256 бита)|
+|Security|
+|Сигурност|
+|KeePass is OSI Certified Open Source Software.|
+|KeePass је програм са отвореним извором цертификован OSI.|
+|Automatically lock workspace after the following number of seconds:|
+|Блокирај површину после оволико секунда:|
+|&Group Name|
+|Име групе|
+|Every second row has a different background color. Use this color:|
+|Свака друга линија користи другу боју. Користити ову боју:|
+|Start KeePass at Windows startup (for current user)|
+|Покрени KeePass са Виндозом (за актуелног корисника)|
+|Default|
+|Иницијално|
+|More Colors...|
+|Још боја...|
+|Search results|
+|Резултати претраге|
+|Creation Time|
+|Датум креације|
+|Last Modification|
+|Задња промена|
+|Last Access|
+|задњи приступ|
+|Expires|
+|Истеће|
+|UUID|
+|UUID|
+|Show &Creation Time Column|
+|Колона датум креације|
+|Show Last &Modification Time Column|
+|Колона задње промене|
+|Show &Last Access Time Column|
+|Колона задњег приступа|
+|Show UU&ID Column|
+|Колона UUID|
+|Show &Toolbar|
+|Покажи алатну траку|
+|Visit KeePass Homepage|
+|Ићи на сајт KeePass-а|
+|Field copied to clipboard.|
+|Поље копирану клипборду.|
+|A key file already exists on this drive. Do you want to overwrite or reuse it?|
+|Кључна датотека већ постоји на овом драјву. Да ли да се препише или да се користи?|
+|Overwrite?|
+|Преписати?|
+|Expires:|
+|Завршава се:|
+|&Delete Selected Entries|
+|Избриши одабране ставке|
+|&Mass Modify (All Selected)...|
+|Промени све одабрано...|
+|Change group:|
+|Промени групу:|
+|Change entry icon:|
+|Промени икону ставке:|
+|Change expiration time:|
+|Промени датум завршавања:|
+|Mass Modify|
+|Променити одабирање|
+|Change fields of all selected entries|
+|Промени поља од одабиране ставке|
+|Show &Columns|
+|Покажи колоне|
+|Show &Entry View|
+|Покажи приказ ставке|
+|Automatically resize table columns when resizing the main window|
+|Ауто промени величину колоне при промене величине главног прозора|
+|&Copy|
+|Копирај|
+|Copy &All|
+|Копирај све|
+|&Undo|
+|Поништи|
+|&Paste|
+|Прилепи|
+|Cu&t|
+|Исеци|
+|&Select All|
+|Одабрати све|
+|&Delete|
+|Брићи|
+|&TAN Wizard...|
+|Асистент TAN...|
+|TAN Wizard|
+|Асистент TAN|
+|Using this wizard you can easily add TAN entries.|
+|Са овим асистентом можете лако додати TAN ставке.|
+|Just paste your TANs into the edit window below. Formatting doesn't really matter, all non-alphanumerical characters are ignored (i.e. newlines, tabs, spaces, etc...) and only alphanumerical 'substrings' are added as TAN entries.|
+|Једноставно прилепите ваше TAN у овај прозор. Форматирање није важно, све карактере који нису алфанумерички су игнорисани (нове линије, табулација, размак, итд.) и само алфанумерички знакови су додати као TAN ставке.|
+|<TAN>|
+|<TAN>|
+|&Print...|
+|Штампај...|
+|Print Pre&view...|
+|Преглед пре штампања...|
+|About &Translation...|
+|О преводу...|
+|Translation information|
+|Информације о преводу|
+|Currently used language|
+|Актуелни језик |
+|Language file version|
+|Верзија језика |
+|Author|
+|Аутор |
+|Translation author contact|
+|Контакт аутора |
+|&Rearrange|
+|Организуј|
+|&Sort Group List|
+|Сортирај листу група|
+|Sort List By &Title|
+|Сортирај по назив|
+|Sort List By User &Name|
+|Сортирај по имену|
+|Sort List By &URL|
+|Сортирај по УРЛ|
+|Sort List By &Password|
+|Сортирај по лозинци|
+|Sort List By Note&s|
+|Сортирај по белешкама|
+|Sort List By &Creation Time|
+|Сортирај по креацији|
+|Sort List By Last &Modify Time|
+|Сортирај по модификацији|
+|Sort List By Last &Access Time|
+|Сортирај по приступу|
+|Sort List By &Expiration Time|
+|Сортирај по завршетку|
+|Move Group One &Left|
+|Премести групу на лево|
+|Move Group One &Right|
+|Премести групу на десно|
+|Hide &User Names Behind Asterisks (***)|
+|Сакри имена иза звездице (***)|
+|Attachment:|
+|Приложено:|
+|Attachment|
+|Приложено|
+|Show &Attachment Column|
+|Колона приложења|
+|Generate a random password...|
+|Генериши случајну лозинку...|
+|Open file and set as attachment...|
+|Отвори датотеку и користити је као прилог...|
+|Save attached file to disk...|
+|Сачувај приложену датотеку на диск...|
+|There already is a file attached with this entry.|
+|Већ има приложена датотека за овау ставку.|
+|Do you want to overwrite the current attachment?|
+|Преписати актуелну приложену датотеку?|
+|&Save Attached File To...|
+|Сачувај приложену датотеку у...|
+|There is no file attached with this entry.|
+|Ни једна датотека није приложена овој ставки.|
+|Remove the currently attached file|
+|Скини актуелну приложену датотеку|
+|Close button [X] minimizes the main window instead of terminating the application|
+|Дугме затварања [X] снањује прозор у место да затвори програм|
+|KeePass Password Database|
+|KeePass база|
+|&Open with KeePass|
+|Отвори са KeePass|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
+|Можете асоцирати ектензију .kdb са KeePass-ом (да би KeePass отворио те датотеке на дупли-клик):|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
+|Датотеке .kdb су успешно асоциране са KeePass. Дупли-клик на .kdb датотеку ће аутоматски покренути KeePass!|
+|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
+|Асоцијација скинута. KeePass неће се покренути на дупли-клик на .kdb датотеку.|
+|Create &Association|
+|Асоцирај|
+|&Remove Association|
+|Скини асоцирање|
+|Setup|
+|Подешавање|
+|Password List|
+|Листа лозинке|
+|The file couldn't be saved.|
+|Датотека не може да се сачува.|
+|Maybe it's read-only or the storage media has been removed.|
+|Или медиј није писљив или је скинут.|
+|If you exit now, all changes to the current database will be lost.|
+|Ако сада затворите, све промене са актуелне базе ће бити изгубљене.|
+|Would you like to exit anyway?|
+|Ипак затворити?|
+|Cannot access the selected drive.|
+|Немогућ приступ одабраног драјва.|
+|Make sure a writable medium is inserted.|
+|Проверити да има писљив медиј.|
+|Not enough free disk space!|
+|Недовољно простора!|
+|Disable unsafe (security-critical) operations like exports, etc.|
+|Угаси несигурне операције (критично за сигурност) као извоз, итд.|
+|Unsafe operations are disabled.|
+|Несигурне операције су угашене.|
+|To execute this operation you must enable unsafe operations in the options dialog.|
+|За покретање ове опције, требате да активирате несигурне опције (у идјалогу опција).|
+|You have changed an option that requires restarting KeePass to get active.|
+|Променили сте опцију за коју требате да поново покренете KeePass.|
+|Expired Entries|
+|Завршене ставке|
+|This is a list of all expired entries|
+|Ово је листа све завршене ставке|
+|Show All &Expired Entries|
+|Покажи све завршене ставке|
+|Click on an entry to jump to it.|
+|Кликнути на ставку да се оде до ње.|
+|Quality:|
+|Квалитет:|
+|Database Settings|
+|Подешавања базе|
+|Here you can configure the current database.|
+|Овде подешавате актуелну базу.|
+|Database Summary|
+|Резиме базе|
+|Number of key encryption rounds:|
+|Број окружења кључа шифровања:|
+|bits|
+|бита|
+|Personal &Vault TXT File...|
+|Лична TXT Vault датотека...|
+|Imported from Password Safe|
+|Увезено са Password Safe|
+|Remember last opened file|
+|Запамти задњу отворену датотеку|
+|Total number of groups / entries|
+|Број група / ставка|
+|Total: %u groups / %u entries|
+|Збир: %u група / %u ставке|
+|%u of %u selected|
+|Одабрано %u од %u|
+|Number of selected entries (number of entries in the list)|
+|Одабране ставке (ставке у листи)|
+|Status|
+|Статус|
+|The database file has been modified!|
+|База је промењена!|
+|Most probably someone has changed the file while you were editing it.|
+|Највероватније је неко променио датотеку док сте је уредили.|
+|Do you want to overwrite it?|
+|Преписати?|
+|Are you sure you want to delete all selected entries?|
+|Сигурно избрисати све одабране ставке?|
+|Delete Entries Confirmation|
+|Потврда брисања ставка|
+|Mark database as modified on last-access time change|
+|Постави базу као промењену при промени задњег приступа|
+|Se&lect All|
+|Одабери све|
+|This will remove all selected entries unrecoverably!|
+|Ово ће дефинитивно избрисати одабране ставке!|
+|Use PuTTY for ssh: and telnet: URLs|
+|Корсити PuTTY за ssh: и telnet: URL-и|
+|N&o Auto-Sort|
+|Без ауто-сортирања|
+|Auto-&Sort Password List|
+|Ауто-сортирај листу лозинки|
+|Auto-sorting of the password list is enabled, you cannot move entries manually.|
+|Ауто-сортирање листе лозинке је упаљено, не можете да ручно преместите ставке.|
+|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
+|Ауто-сортирање листе лозинке је упаљено, не можете да ручно сортирате листу.|
+|Change password of this database - Enter new master key|
+|Промени лозинку актуелне базе - Унети нови главни кључ|
+|Enter the new master key for this database.|
+|Унети нов главни кључ за ову базу.|
+|Perform Auto-&Type|
+|Аутоматски унос|
+|Repeat master key|
+|Потврда главног кључа|
+|Repeat the master key for this database.|
+|Поновити главни кључ за ову базу.|
+|Save Key File Manually to...|
+|Сачувај кључну датотеку у...|
+|Select Key File Manually...|
+|Одабрати кључну датотеку...|
+|&Disable|
+|Онеспособи|
+|&Enable|
+|Упали|
+|&Plugins...|
+|Додатци...|
+|About &Plugin...|
+|О дадатку...|
+|An error occured|
+|Грешка се појавила|
+|Application version:|
+|Верзија апликације:|
+|Auto-Type|
+|Аутоматски унос|
+|Clipboard behavior:|
+|Рад клипборда|
+|Disabled, not loaded|
+|Онеспособљено, не учитано|
+|Do you want to load the plugin?|
+|Учитати додатак?|
+|Enabled, loaded|
+|Активно, учитано|
+|Encryption/decryption error|
+|Грешка шифровања/дешифровања|
+|Enhanced: allow pasting only once and protect against clipboard spies|
+|Напредно: само једном прилепи и заштити против шпијунских програма|
+|Error code|
+|Код грешке|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
+|Не може да се промени асоцијација екстензије .kbd. Проверити да имате право да пишете у регистар.|
+|File access error: failed to open file in read mode|
+|Грешка приступа: Не може дас е отвори датотека у читном моду|
+|File access error: failed to open file in write mode|
+|Грешка приступа: Не може дас е отвори датотека у писном моду|
+|File error: error while reading from the file|
+|Грешка: грешка при читања датотеке|
+|File error: error while writing to the file|
+|Грешка: грешка при писања датотеке|
+|Get more plugins...|
+|Још додатка...|
+|Global auto-type hot key combination:|
+|Пречица за ауто-пуњење:|
+|Help:|
+|Помоћ:|
+|Here you can configure all installed KeePass plugins.|
+|Овде можете да подесите додатци инсталирани у KeePass.|
+|If you notice any problems with this enhanced method, just switch back to the timed clipboard clearing method.|
+|Ако имате проблема са напредном методом, вратите се на брисање клипборда после одређеног времена.|
+|Internal error|
+|Интерна грешка|
+|Invalid parameter|
+|Погрешан параметар|
+|Invalid random source|
+|Погрешан случајни извор|
+|Invalid/corrupted file structure|
+|Структура датотеке погрешна/покварена|
+|Invalid/wrong key|
+|Неважан/погрешан кључ|
+|It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
+|Могуће је да је додатак компатибилан, али може исто да доведе до пада KeePass-а.|
+|Never expires|
+|Безкрајно|
+|Number the TANs consecutively, starting from this value|
+|Numéroter les TANs de manière incrémentale, à partir de cette valeur|
+|Plugins|
+|Додатци|
+|Plugin|
+|Додатак|
+|Plugin has been designed for:|
+|Додатак урађен за:|
+|Success|
+|Успешно|
+|Therefore save all data before you continue.|
+|Зато сачувајте све податке пре наставка.|
+|This plugin has been designed for a different application version and may be incompatible with this one.|
+|Додатак је урађен за другу верзију програма и можда није компатибилан са овом.|
+|This plugin will be disabled after you restart KeePass.|
+|Додатак ће бити угашен на следеће покретање KeePass-а.|
+|This plugin will be enabled after you restart KeePass.|
+|Додатак ће бити активиран на следеће покретање KeePass-а.|
+|Timed: copy data to the clipboard and clear it automatically after some seconds|
+|Време: копирај податке у клипборду и ирбриши их после неколико секунда.|
+|Too few memory (RAM) available|
+|Премало меморије (RAM)|
+|Unknown error|
+|Непозната грешка|
+|Warning! It's possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing tools or something like this.|
+|Пажња! Могуће је да ова опција не ради корсктно на вашем систему, посебно ако користите побољшан клипборд или случно.|
+|You can choose a different hot key combination in 'Tools - Options - Setup'.|
+|Можете одабрати другу пречицу у 'Алати - Опције - Подешавање'.|
+|You've selected the AND key mode, so you must enter a password AND select a key file.|
+|Одабрали сте мод И, тако да морате да унесете лозинку И да одаберете кључну датотеку.|
+|cannot be loaded!|
+|не може да се учита.|
+|Exit?|
+|Излаз?|
+|Advanced|
+|напредно|
+|Backup|
+|Копија|
+|Click [Cancel] to abort changing the key.|
+|Кликнути [Откажи] за поништавање промене кључа.|
+|Click [No] to reuse the selected key file for this database.|
+|Кликнути [Не] за поновну употребу одабраног кључное датотеке за ову базу.|
+|Click [Yes] to overwrite the key file.|
+|Кликнути [Да] за преписивање кључне датотеке.|
+|Failed to create backup of this entry!|
+|Не може да се креира копија ставке!|
+|Immediately after opening a database|
+|Одмах после отварања базе|
+|Integration|
+|Интеграција|
+|Start minimized and locked|
+|Покрени минимизирано и блокирано|
+|Save backups of modified entries into the 'Backup' group|
+|Сачувај копије промењене ставке у групу 'Копија'|
+|Show entries that will expire soon (if any)|
+|Покажи ставке које се ускоро завршавају (ако има)|
+|Show expired entries (if any)|
+|Покажи завршене ставке (ако има)|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!|
+|Не може да се креира/избрише кључ за покретање KeePass-а из регистра.|
+|&Get more import plugins...|
+|Добити још додатка за унос...|
+|Encode/replace newline characters by '\n'|
+|Кодирај/промени карактере нове линије са '\n'|
+|Export Options|
+|Опције извоза|
+|Export backup entries (entries in the 'Backup' group)|
+|Извоз копираних ставка (ставке из групе 'Копија')|
+|Fields to export|
+|Поља за извоз|
+|Group Tree|
+|Дрво група|
+|Here you can customize the exported files.|
+|Овде можете да подесите извизене датотеке.|
+|Icon|
+|Икона|
+|Master key has been changed!|
+|Главни кључ је промењен!|
+|Save the database now in order to get the new key applied.|
+|Сачувати базу да би се користио нов кључ.|
+|1 Month|
+|1 месец|
+|1 Week|
+|1 недеља|
+|2 Weeks|
+|2 недеље|
+|3 Months|
+|3 месеца|
+|By default, new entries expire in the following number of days:|
+|Иницијално, нове ставке се завршавају за оволико дана:|
+|Calculate rounds for a 1-second delay on this computer|
+|Израчунавање за 1 секунд на овом рачунару|
+|Cannot register the global hot key.|
+|Не може дас е региструје пречица.|
+|Click to expire the entry in %u days|
+|Кликнути да би се ставке завршила за %u дана|
+|Enter the passphrase and/or select the key file's drive.|
+|Унети лозинку и/или одабрати драјв кључне датотеке.|
+|Exclude entries in the '&Backup' group|
+|Искључи ставке из групе 'Копија'|
+|Field has been pasted.|
+|Поље је копирано.|
+|Higher ANSI characters|
+|Веће ANSI карактере|
+|Limit to single instance|
+|Ограничи на један примерак програма|
+|Most probably another application has reserved this hot key already.|
+|Јајвероватније је други програм резервисао ту пречицу.|
+|Paste operation completed.|
+|Прилепљивање завршено.|
+|Pr&int Group...|
+|Штампај групу...|
+|Single left click instead of double-click for default tray icon action|
+|Један клик, уместо два, на икону за стандардни рад|
+|Special characters|
+|Специјалне карактере|
+|The program is distributed under the terms of the GNU General Public License v2 or later.|
+|Програм је дистрибуиран испод GNU GPL лиценце, верзија 2 или више.|
+|Use more secure password edit controls|
+|Користи сигурније контроле промене лозинке|
+|Waiting for paste command.|
+|Чекање на прилепљивање.|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
+|Ваш кључ је шифриран више пута да би се добило коначни кључ за базу. То отежава налаз кључа са нападом нагађањем или речником.|
+|&Donate...|
+|Донирај...|
+|1 Year|
+|1 година|
+|6 Months|
+|6 месеци|
+|Automatically generate random passwords for new entries|
+|Аутматско генериши случајне лозинке за нове ставке|
+|Include backup entries in quick searches (toolbar)|
+|Убаци и копиране ставке у брзу претрагу (алатна трака)|
+|&Repair KeePass Database File...|
+|Поправи базу KeePass-а...|
+|Automatically save database on exit and workspace locking|
+|Сачувај базу на излаз и на блокирање површине|
+|Delete all backup entries before saving the database|
+|Брисати све копије ставке пре сачувавања базе|
+|Press Shift-Home or Shift-End to clear this edit control|
+|Стиснути Shift-Home или Shift-End за брисање овог контрола|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
+|Што већи број, теже нападање. Али то успорава учитавање и сачувавање базе.|
+|Use alternative auto-type method (minimize window)|
+|Користи алтернативну методу ауто-пуњења (минимизиран прозор)|
+|&KeePass Database...|
+|База KeePass-а...|
+|Acknowledgements|
+|Захваљујемо|
+|Click [No] to set a new key for the exported file.|
+|Кликнути [Не] за постављање новог кљула за изнету датотеку.|
+|Click [Yes] to use the same key as the currently opened database.|
+|Кликнути [Да] да би се користио исти кључ као од отворене базе.|
+|Copy &URL To Clipboard|
+|Копирај УРЛ у клипборду|
+|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
+|Копирај УРЛ у клипборду уместо да се отворе (осим за УРЛ cmd://)|
+|Create new IDs|
+|Креирај нове ID|
+|Disable all auto-type features|
+|Угаси сва способности ауто-пуњења|
+|Export Group To &KeePass Database...|
+|Износ групе у KeePass базу...|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
+|Ако изаберете ову опцију, KeePass ће креирати нове ID за све групе и ставке. Тако да ни једна постојећа група или ставка од отворене базе нису промењене или преписане.|
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
+|KeePass ће проверити датуме задњих промена групе/ставке и промениће само ако су постојеће старији.|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
+|KeePass ће променити постојеће групе и ставке са уноса ако имају исте ID.|
+|Overwrite|
+|Препиши|
+|Overwrite if newer|
+|Препиши ако новије|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
+|Одабрати да ли KeePass треба да користи кључ са отворене базе или да користи нови кључ за шифровање изнешене датотеке.|
+|Reuse the current key/password?|
+|Користи актуелни кључ/лозинку?|
+|Show full path in the titlebar (instead of filename only)|
+|Покажи цео пут и називној траци (уместо само име)|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
+|Одабран формат подржава ID групе и/или ставке. Одабрати понашање увоза.|
+|&Help|
+|Помоћ|
+|&Help Contents|
+|Садрђај помоћа|
+|&Tools|
+|Алатке|
+|Auto-Type Entry Selection|
+|Одабирање ставке ауто-пуњења|
+|Click [No] to open the file in normal writing mode.|
+|Кликнути [Не] за отварање датотеке у моду писања.|
+|Click [Yes] to open the file in read-only mode.|
+|Кликнути [Не] да се само чита датотека.|
+|Click on an entry to auto-type it.|
+|Кликнути ставку да се ауто-пуни.|
+|Exit program instead of locking the workspace after the specified time|
+|Затвори програм уместо да се блокира површина после одређеног времена|
+|Multiple entries exist for the current window. Please select the entry to auto-type.|
+|Више ставки постоје за актуелни прозор. Одабрати ставку за ауто-пуњење.|
+|Now|
+|Сада|
+|Open the file in read-only mode?|
+|Отворити датотеку само као читљиву?|
+|Show TAN &Indices In Entry Titles|
+|Покажи TAN индикаторе у називе ставке|
+|TAN View &Options|
+|Опције приказа TAN|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
+|Датотека коју пробате да отворите је блокирана, што знаћи да је неко отворио датотеку и да је мења.|
+|Use &Simple List View For TAN-Only Groups|
+|Користи једноставан приказ само за TAN групе|
+|'Keyfile' or 'preselect' option is already specified|
+|Опција 'Кључна датотека' или 'преселекција' је веч наведена|
+|'Pw' option is already specified|
+|Опција 'Pw' је већ наведена|
+|Cache error (cannot open cached file).|
+|Грешка кеша (не може да се отвори кеш датотека).|
+|Check For Update|
+|Проверити ажурирање|
+|Check for update at KeePass startup|
+|Провери ажурирања при покретању KeePass-а|
+|Command line argument|
+|Аргумент командне линије|
+|Connect failed, cannot check for update.|
+|Грешка прикључка, не може да се провери ажурирање.|
+|Database is already specified|
+|База је већ наведена|
+|Disable 'Save' button if the database hasn't been modified|
+|Онемогући дигме 'Сачувај' ако база није била промењена|
+|Do you want to visit the KeePass homepage now?|
+|Да ли сада да се оде до сајта KeePass-а?|
+|Filename not found|
+|Датотека није нађена|
+|It contains an unmatched quote|
+|Нема довољн број наводника|
+|KeePass Initialization|
+|Иницијализација KeePass-а|
+|New KeePass version available!|
+|Нова верзија KeePass-а је доступна!|
+|Option not recognized|
+|Опција није препозната|
+|Password is empty|
+|Лозинка је празна|
+|Path is invalid|
+|Пут није важан|
+|Reason|
+|Разлог|
+|ignored|
+|игнорисано|
+|&Deny|
+|Одбиј|
+|&Full|
+|Пуно|
+|&Read-Only|
+|Само читљиво|
+|An application requests access through inter-process communication|
+|Програм тражи приступ преко комуникације интер-процеса|
+|An entry already exists for the current URL.|
+|Ставка већ постоји за актуелни УРЛ.|
+|Application|
+|Програм|
+|Do you grant the application access to your KeePass database?|
+|Да ли да се дозволи приступ на вашој KeePass бази?|
+|Enable remote control (allow applications to communicate with KeePass)|
+|Омогући удаљена контрола (дозволи да програме комицирају са KeePass)|
+|Fields to remember|
+|Поља да се запамте|
+|Incoming IPC Request|
+|IPC тражење у току|
+|Lock workspace when locking Windows or switching user|
+|Блокирај површину на блокирање Виндоза или промене корисника|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
+|Назив програма је дат са стране спољног програма и може да буде погрешан (злобан програм можда проба да приступи бази).|
+|Select the fields KeePass should remember|
+|Одабрати поља која KeePass треба да запамти|
+|Show &Expiration Time Column|
+|Колона датум завршетка |
+|The following application requests access to your currently opened KeePass database:|
+|Овај програм тражи приступ актуелној отвореној бази:|
+|The group you selected cannot store entries. Please select a different group.|
+|Одабрана група не може да сачувава ставке. Одабрати другу групу.|
+|Unknown|
+|Непознато|
+|Value|
+|Вредност|
+|You have the latest version.|
+|Имате задњу верзију.|
+|Attachment Description|
+|Опис прилога|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
+|Проверити да медиј који садржава кључну датотеку је унешен и да KeePass има сва на њега (проверити права приступа датотеци, проверити да ни један програм не блокира датотеку, ...).|
+|URL Field Features|
+|Способности поља УРЛ|
+|Use password AND key file|
+|Користи лозинку И кључну датотеку|
