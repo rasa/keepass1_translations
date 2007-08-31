@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Српски|
 |~LANGUAGEVERSION|
-|1.07|
+|1.08|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -74,68 +74,16 @@
 |Белешке|
 |Ready.|
 |Спремно.|
-|Enter password:|
+|Enter Password:|
 |Унети лозинку:|
-|Select the drive to which the key file should be saved to:|
-|Одабрати драјв где ће да се сачува кључна датотека:|
-|Create a new password database - Enter master key|
-|Креирај нову базу лозинка - Унети главни кључ|
-|Set master key|
-|Постави главни кључ|
-|Enter the master key for the new database.|
-|Унети главну лозинку за нову базу.|
-|Create a new password database - Repeat master key|
-|Креирај нову базу лозинка - Потврда главног кључа|
-|Repeat master password|
-|Потврдити главну лозинку|
-|Repeat the master key for the new database.|
-|Потврди главни кључ за нову базу.|
-|Select the drive on which the key file is stored:|
-|Одабрати драјв где се налази кључна датотека:|
-|Open Database - Enter Master Key|
-|Отвори базу - Унети главни кључ|
-|Enter master key|
-|Унети главни кључ|
-|Enter the master key for this database.|
-|Унети главни кључ за ову базу.|
-|Key|
-|Кључ|
-|<No drive selected>|
-|<Драјв неодабран>|
 |Password Generator|
 |Генератор лозинка|
-|This will generate a random password.|
-|Ово ће генерисати случајне бројеве.|
 |Options|
 |Опције|
-|Password Generation Options|
-|Опције генерисања лозинка|
-|&Only the following characters:|
-|&Само ове карактере:|
-|Collect &entropy (recommended for strong passwords)|
-|Сакупи ентропију (препоручено за јаке лозинке)|
-|Number of characters:|
-|Број карактера:|
-|Your new password:|
-|Ваша нова лозинка:|
 |&Generate|
 |&Генериши|
 |&Accept|
 |&Прихвати|
-|Upper alphabetic characters (A, B, C, ...)|
-|Велика слова (A, B, C, ...)|
-|Lower alphabetic characters (a, b, c, ...)|
-|Мала слова (a, b, c, ...)|
-|Numerical characters (1, 2, 3, ...)|
-|Бројеве (1, 2, 3, ...)|
-|Underline character '_'|
-|Подвучено слово '_'|
-|Minus '-'|
-|Минус '-'|
-|Space ' '|
-|Размак ' '|
-|Special brackets ('{', '}', '[', ...)|
-|Специјалне заграде ('{', '}', '[', ...)|
 |Group:|
 |Група:|
 |Title:|
@@ -324,8 +272,6 @@
 |Треба да генеришете случајне вредности користећи миш или тастатурну зону пре затварања овој дијалога.|
 |No random input|
 |Нема случајне вредности|
-|EITHER enter a password/passphrase OR select a key disk drive.|
-|ИЛИ унети лозинку ИЛИ одабрати драјв за кључ.|
 |The password must consist of at least one character!|
 |Лозинка треба имати макар један карактер!|
 |Select at least one of the options in the list above!|
@@ -740,18 +686,8 @@
 |Ауто-сортирање листе лозинке је упаљено, не можете да ручно преместите ставке.|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
 |Ауто-сортирање листе лозинке је упаљено, не можете да ручно сортирате листу.|
-|Change password of this database - Enter new master key|
-|Промени лозинку актуелне базе - Унети нови главни кључ|
-|Enter the new master key for this database.|
-|Унети нов главни кључ за ову базу.|
 |Perform Auto-&Type|
 |Аутоматски унос|
-|Repeat master key|
-|Потврда главног кључа|
-|Repeat the master key for this database.|
-|Поновити главни кључ за ову базу.|
-|Save Key File Manually to...|
-|Сачувај кључну датотеку у...|
 |Select Key File Manually...|
 |Одабрати кључну датотеку...|
 |&Disable|
@@ -800,8 +736,6 @@
 |Помоћ:|
 |Here you can configure all installed KeePass plugins.|
 |Овде можете да подесите додатци инсталирани у KeePass.|
-|If you notice any problems with this enhanced method, just switch back to the timed clipboard clearing method.|
-|Ако имате проблема са напредном методом, вратите се на брисање клипборда после одређеног времена.|
 |Internal error|
 |Интерна грешка|
 |Invalid parameter|
@@ -840,10 +774,10 @@
 |Премало меморије (RAM)|
 |Unknown error|
 |Непозната грешка|
-|Warning! It's possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing tools or something like this.|
-|Пажња! Могуће је да ова опција не ради корсктно на вашем систему, посебно ако користите побољшан клипборд или случно.|
 |You can choose a different hot key combination in 'Tools - Options - Setup'.|
 |Можете одабрати другу пречицу у 'Алати - Опције - Подешавање'.|
+|&Use Master Password AND Key File|
+|Користи Главну лозинку И кључну датотеку|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
 |Одабрали сте мод И, тако да морате да унесете лозинку И да одаберете кључну датотеку.|
 |cannot be loaded!|
@@ -892,8 +826,6 @@
 |Овде можете да подесите извизене датотеке.|
 |Icon|
 |Икона|
-|Master key has been changed!|
-|Главни кључ је промењен!|
 |Save the database now in order to get the new key applied.|
 |Сачувати базу да би се користио нов кључ.|
 |1 Month|
@@ -912,14 +844,10 @@
 |Не може дас е региструје пречица.|
 |Click to expire the entry in %u days|
 |Кликнути да би се ставке завршила за %u дана|
-|Enter the passphrase and/or select the key file's drive.|
-|Унети лозинку и/или одабрати драјв кључне датотеке.|
 |Exclude entries in the '&Backup' group|
 |Искључи ставке из групе 'Копија'|
 |Field has been pasted.|
 |Поље је копирано.|
-|Higher ANSI characters|
-|Веће ANSI карактере|
 |Limit to single instance|
 |Ограничи на један примерак програма|
 |Most probably another application has reserved this hot key already.|
@@ -930,8 +858,6 @@
 |Штампај групу...|
 |Single left click instead of double-click for default tray icon action|
 |Један клик, уместо два, на икону за стандардни рад|
-|Special characters|
-|Специјалне карактере|
 |The program is distributed under the terms of the GNU General Public License v2 or later.|
 |Програм је дистрибуиран испод GNU GPL лиценце, верзија 2 или више.|
 |Use more secure password edit controls|
@@ -946,8 +872,6 @@
 |1 година|
 |6 Months|
 |6 месеци|
-|Automatically generate random passwords for new entries|
-|Аутматско генериши случајне лозинке за нове ставке|
 |Include backup entries in quick searches (toolbar)|
 |Убаци и копиране ставке у брзу претрагу (алатна трака)|
 |&Repair KeePass Database File...|
@@ -1110,5 +1034,93 @@
 |Проверити да медиј који садржава кључну датотеку је унешен и да KeePass има сва на њега (проверити права приступа датотеци, проверити да ни један програм не блокира датотеку, ...).|
 |URL Field Features|
 |Способности поља УРЛ|
-|Use password AND key file|
-|Користи лозинку И кључну датотеку|
+|There are too few characters in the character set to build up a password matching the specified rules|
+|Нема довољно карактера да би се креирала лозинка одгаваручем правилем|
+|(Custom)|
+|(Прилагоди)|
+|Create profile from current settings|
+|Креирај профил са акуелног подешавања|
+|Delete selected profile|
+|Избриши одабран профил|
+|(Automatically generated passwords for new entries)|
+|(Аутоматско генериши лозинке за нова улаза)|
+|Password Generation Profile|
+|Профил генерисања профила|
+|Length Of Generated Password:|
+|Дужина генерисане лозинке:|
+|Generate Using Character Set:|
+|Генериши користећи ове карактере:|
+|Generate Using Pattern:|
+|Generate Using Pattern:|
+|Also Include the Following Characters:|
+|И дозволи и ова карактера:|
+|Exclude Look-Alike Characters|
+|Избаци сичне карактере|
+|Use local date/time format instead of ISO notation|
+|Користи локални формат датума/времена у место ISO-Notation|
+|<No Key File Selected>|
+|<Неодабрана кључна датотека>|
+|Brackets ([, ], {, }, (, ), <, >)|
+|Заграде ([, ], {, }, (, ), <, >)|
+|Change Composite Master Key|
+|Промени композитни главни кључ|
+|Create New Password Database|
+|Креирај нову базу|
+|Current Settings|
+|Актуелна подешавања|
+|Digits (0, 1, 2, ...)|
+|Цифре (0, 1, 2, ...)|
+|EITHER enter a master password OR select a key file.|
+|ИЛИ унети главну лозинку ИЛИ одабрати кључну датотеку.|
+|Enter Composite Master Key|
+|Унети композитни главни кључ|
+|Enter Password:|
+|Унос лозинке:|
+|Enter the composite master key.|
+|Унети композитни главни кључ.|
+|Enter the new composite master key.|
+|Унети нови композитни главни кључ.|
+|Generated Password|
+|Лозинка генерисана|
+|Here you can generate a random password.|
+|Овде можете да генеришете случајну лозинку.|
+|High ANSI Characters|
+|Високи ANSI карактери|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
+|Ако имате проблема са напредном методом, вратити се на времеснско брисање клипборда.|
+|Key File:|
+|Кључ датотека:|
+|Lower-Case (a, b, c, ...)|
+|Мала слова (a, b, c, ...)|
+|Master Password:|
+|Главна лозинка:|
+|Open Database|
+|Отвори базу|
+|Repeat the master password for the new database.|
+|Понови главну лозинку за нову базу.|
+|Repeat the new master password for this database.|
+|Понови главну лозинку за ову базу.|
+|Set Composite Master Key|
+|Постави композитни главни кључ|
+|Space ( )|
+|Размак ( )|
+|Special (!, §, $, %, &&, ...)|
+|Сцецијално (!, §, $, %, &&, ...)|
+|Specify the composite master key.|
+|Унети композитни главни кључ.|
+|The composite master key has been changed!|
+|Композитни главни кључ је промењен!|
+|Underline (_)|
+|Подвучено (_)|
+|Upper-Case (A, B, C, ...)|
+|Велика слова (A, B, C, ...)|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
+|Пажња! Може се десити да опција не ради на вашем систему, поготову ако користите побољшан клипборд.|
+|Collect &Entropy (recommended for strong passwords)|
+|Купи ентропију (препоручено за јаке лозинке)|
+|Minus (-)|
+|Минус (-)|
+|Repeat Master Password|
+|Потврди главну лозинку|
+|Save Key File Manually To...|
+|Сачувај кључну датотеку у...|
