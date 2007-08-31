@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.07|
+|~LANGUAGEVERSION|             |1.08|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -45,55 +45,57 @@
 
 |Ready.|                       |Готов.|
 
-|Enter the passphrase and/or select the key file's drive.|
-    |Введите пароль и/или выберите диск с паролем.|
-|Enter password:|              |Введите пароль:|
+|Enter the composite master key.| |Введите составной пароль.|
+|Enter Password:|              |Введите пароль:|
 
-|Select the drive to which the key file should be saved to:|
-    |Выберите диск, на который надо сохранить файл с паролем:|
-|Create a new password database - Enter master key|
-    |Создание новой базы паролей - Ввод основного пароля|
-|Set master key|               |Ввод основного пароля|
-|Enter the master key for the new database.|
-    |Введите основной пароль для новой базы паролей.|
-|Create a new password database - Repeat master key|
-    |Создание новой базы паролей - Повтор ввода основного пароля|
-|Repeat master password|       |Повтор ввода основного пароля|
-|Repeat the master key for the new database.|
+|Create New Password Database| |Создание новой базы паролей|
+|Set Composite Master Key|     |Ввод составного пароля|
+|Specify the composite master key.|
+    |Введите составной пароль.|
+|Repeat Master Password|       |Повтор ввода основного пароля|
+|Repeat the master password for the new database.|
     |Повторите ввод основного пароля для новой базы паролей.|
-|Select the drive on which the key file is stored:|
-    |Выберите диск, на котором сохранен файл с паролем:|
-|Open Database - Enter Master Key|
-    |Открытие базы паролей - Ввод основного пароля|
-|Enter master key|             |Введите основной пароль|
-|Enter the master key for this database.|
-    |Введите основной пароль для текущей базы паролей.|
-|Key|                          |Пароль|
-|<No drive selected>|          |<Диск не выбран>|
+|Open Database|                |Открытие базы паролей|
+|Master Password:|             |Основной пароль:|
+|Enter Composite Master Key|   |Введите составной пароль|
+|Key File:|                    |Файл с паролем:|
+|<No Key File Selected>|       |<Файл с паролем не выбран>|
 
-|Password Generator|           |Генератор паролей|
-|This will generate a random password.|        |Генерация случайного пароля.|
-|Options|                      |Настройки|
-|Password Generation Options|  |Настройки генератора паролей|
-|&Only the following characters:|              |&Только следующие символы:|
-|Collect &entropy (recommended for strong passwords)|   |Сбор &Энтропии (рекомендуется для большей устойчивости паролей)|
-|Number of characters:|        |Количество символов:|
-|Your new password:|           |Ваш новый пароль:|
-|&Generate|                    |&Генерация|
-|&Accept|                      |&Принять|
-|Upper alphabetic characters (A, B, C, ...)|
-    |Заглавные буквы (A, B, C, ...)|
-|Lower alphabetic characters (a, b, c, ...)|
-    |Строчные буквы (a, b, c, ...)|
-|Numerical characters (1, 2, 3, ...)|
-    |Цифры (1, 2, 3, ...)|
-|Underline character '_'| |Символ подчеркивания '_'|
-|Minus '-'|               |Знак минуса '-'|
-|Space ' '|               |Пробел ' '|
-|Special characters|      |Специальные символы|
-|Higher ANSI characters|  |ANSI-символы второй половины таблицы|
-|Special brackets ('{', '}', '[', ...)|
-    |Символы скобок ('{', '}', '[', ...)|
+|Password Generator|              |Генератор паролей|
+|Here you can generate a random password.|
+    |Здесь можно сгенерировать случайный пароль.|
+|Password Generation Profile|     |Профиль генератора паролей|
+|(Automatically generated passwords for new entries)|
+    |(Авто-сгенерированные пароли для новых записей)|
+|(Custom)|                        |(Пользовательский)|
+|Create profile from current settings|
+    |Создать провиль на основе текущих настроек|
+|Delete selected profile|         |Удалить выбранный профиль|
+|Current Settings|                |Текущие настройки|
+|Generate Using Character Set:|   |Использовать наборы символов:|
+|Length Of Generated Password:|   |Длина сгенерированного пароля:|
+|Generate Using Pattern:|         |Использовать шаблон:|
+|Exclude Look-Alike Characters|   |Исключать похожие символы|
+|Options|                         |Настройки|
+|Also Include the Following Characters:|
+    |Также использовать следующие символы:|
+|Collect &Entropy (recommended for strong passwords)|
+    |Сбор &Энтропии (рекомендуется для большей устойчивости паролей)|
+|Generated Password|              |Сгенерированный пароль|
+|&Generate|                       |&Генерация|
+|&Accept|                         |&Принять|
+|Upper-Case (A, B, C, ...)|       |Заглавные (A, B, C, ...)|
+|Lower-Case (a, b, c, ...)|       |Строчные (a, b, c, ...)|
+|Digits (0, 1, 2, ...)|           |Цифры (0, 1, 2, ...)|
+|Underline (_)|                   |Подчеркивание (_)|
+|Minus (-)|                       |Минус (-)|
+|Space ( )|                       |Пробел ( )|
+|Special (!, §, $, %, &&, ...)|   |Спецсимволы (!, §, $, %, &&, ...)|
+|High ANSI Characters|            |Верхние ANSI-символы|
+|Brackets ([, ], {, }, (, ), <, >)|
+    |Скобки ([, ], {, }, (, ), <, >)|
+|There are too few characters in the character set to build up a password matching the specified rules|
+    |Недостаточно символов для генерации пароля, соответствующего указанным правилам|
 
 |Group:|                       |Группа:|
 |Title:|                       |Название:|
@@ -221,7 +223,7 @@
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
     |Вы должны сгенерировать случайные числа используя случайные движения мыши или нажатия клавиш перед закрытием диалога.|
 |No random input|              |Нет случайного ввода|
-|EITHER enter a password/passphrase OR select a key disk drive.|
+|EITHER enter a master password OR select a key file.|
     |Введите пароль или выберите диск с паролем.|
 |The password must consist of at least one character!|
     |Пароль должет содержать как минимум один символ!|
@@ -522,12 +524,11 @@
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
     |Автосортировка списка паролей включена - вы не можете сортировать записи вручную.|
 |Select Key File Manually...|             |Выберите файл с паролем вручную...|
-|Save Key File Manually to...|            |Сохранить файл с паролем вручную как...|
-|Enter the new master key for this database.|  |Ввод нового основного пароля для текущей базы паролей.|
-|Repeat master key|                       |Повтор основного пароля|
-|Repeat the master key for this database.||Повторите ввод основного пароля для текущей базы паролей.|
-|Change password of this database - Enter new master key|
-    |Изменение пароля базы паролей - Ввод нового основного пароля|
+|Save Key File Manually To...|            |Сохранить файл с паролем вручную как...|
+|Enter the new composite master key.|     |Введите новой составной пароль.|
+|Repeat the new master password for this database.|
+    |Повторите ввод нового пароля для текущей базы паролей.|
+|Change Composite Master Key|             |Изменение составного пароля|
 
 |&Disable|             |&Блокировать|
 |&Enable|              |&Разблокировать|
@@ -554,8 +555,8 @@
 |Global auto-type hot key combination:|                 |Глобальная "горячая" клавиша для автонабора:|
 |Help:|                |Справка:|
 |Here you can configure all installed KeePass plugins.| |Здесь вы можете настроить все установленные подключаемые модули для KeePass.|
-|If you notice any problems with this enhanced method, just switch back to the timed clipboard clearing method.|
-    |Если у вас возникнут проблемы при использовании расширенного режима, просто переключитесь обратно во временной режим.|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
+    |Если у вас возникнут проблемы при использовании расширенного режима, переключитесь обратно во временной режим очистки.|
 |Internal error|       |Внутренняя ошибка|
 |Invalid parameter|    |Неверный параметр|
 |Invalid random source||Неверный источник случайностей|
@@ -582,13 +583,13 @@
 |Too few memory (RAM) available|    |Очень мало памяти (ОЗУ)|
 |Cannot register the global hot key.| |Невозможно зарегистрировать глобальную "горячую" клавишу.|
 |Unknown error|        |Неизвестная ошибка|
-|Warning! It's possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing tools or something like this.|
-    |Внимание! Этот режим может не работать в вашей системе, особенно если вы используете программы для расширения возможностей буфера обмена.|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
+    |Внимание! Этот режим может работать неправильно в вашей системе, особенно если вы используете программы для расширения возможностей буфера обмена.|
 |You can choose a different hot key combination in 'Tools - Options - Setup'.|
     |Вы можете установить другую "горячую" клавишу в "Изменить - Настройки - Настройки".|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
     |Вы выбрали режим "и" для ввода пароля, поэтому вы должны ввести пароль И выбрать файл с паролем.|
-|Use password AND key file| |Пароль + файл с паролем|
+|&Use Master Password AND Key File| |&Использовать пароль + файл с паролем|
 |cannot be loaded!|         |не может быть загружен!|
 
 |Advanced| |Расширенные|
@@ -615,9 +616,11 @@
 |Fields to export| |Поля для экспорта|
 |Group Tree|       |Дерево групп|
 |Here you can customize the exported files.| |Здесь вы можете настроить экспортируемые файлы.|
-|Icon| |Значок|
-|Master key has been changed!| |Основной пароль был изменен!|
-|Save the database now in order to get the new key applied.| |Сохраните базу паролей для применения нового основного пароля.|
+|Icon|             |Значок|
+|The composite master key has been changed!|
+    |Составной пароль изменен!|
+|Save the database now in order to get the new key applied.|
+    |Сохраните базу паролей для применения нового основного пароля.|
 
 |1 Month|  |1 месяц|
 |1 Week|   |1 неделя|
@@ -645,8 +648,6 @@
 |&Donate...| |Сделать &взнос...|
 |1 Year|     |1 год|
 |6 Months|   |6 месяцев|
-|Automatically generate random passwords for new entries|
-    |Автоматически генерировать случайные пароли для новых записей|
 |Include backup entries in quick searches (toolbar)|
     |Включать резервные записи в результаты быстрого поиска (панель управления)|
 
@@ -707,6 +708,7 @@
 |Connect failed, cannot check for update.| |Нет соединения, невозможно проверить обновление.|
 |Database is already specified| |База паролей уже задана|
 |Disable 'Save' button if the database hasn't been modified| |Блокировать кнопу 'Сохранить' если база паролей не менялась|
+|Use local date/time format instead of ISO notation| |Использовать локальный формат даты/времени вместо ISO|
 |Do you want to visit the KeePass homepage now?| |Вы хотите посетить домашнюю страницу KeePass сейчас?|
 |Filename not found| |Файл не найден|
 |It contains an unmatched quote| |Содержатся непарные кавычки|
