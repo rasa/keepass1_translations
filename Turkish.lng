@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Türkçe <Turkish>|
-|~LANGUAGEVERSION|             |1.07|
+|~LANGUAGEVERSION|             |1.08|
 |~LANGUAGEAUTHOR|              |Erhan BURHAN|
 |~LANGUAGEAUTHOREMAIL|         |<eburhan@gmail.com>|
 
@@ -42,63 +42,42 @@
 |URL|                          |URL|
 |Password|                     |Parola|
 |Notes|                        |Notlar|
-
 |Ready.|                       |Hazır.|
+|Enter Password:|              |Parola giriniz:|
+|Master Password:|             |Ana parola:|
 
-|Enter the passphrase and/or select the key file's drive.|
-    |Parolayı giriniz ya da parolanın bulunduğu disk sürücüyü seçiniz.|
-|Enter password:|              |Parola giriniz:|
+|Create New Password Database|  |Yeni parola veritabanı oluştur|
+|Set Composite Master Key|      |Karmaşık ana anahtar belirle|
+|Specify the composite master key.||Karmaşık ana anahtar belirt|
+|Repeat Master Password|        |Ana parolayı tekrarla|
+|Repeat the master password for the new database.|
+    |Yeni veritabanı için ana parolayı tekrarlayın.|
 
-|Select the drive to which the key file should be saved to:|
-    |Anahtar dosyasaının kayıtlı olduğu sürücüyü seçiniz:|
-|Create a new password database - Enter master key|
-    |Yeni veritabanı parolası oluştur - Ana anahtarı yeniden gir|
-|Set master key|               |Ana anahtarı belirle|
-|Enter the master key for the new database.|
-    |Yeni veritabanı için bir ana anahtar giriniz.|
-|Create a new password database - Repeat master key|
-    |Yeni veritabanı parolası oluştur - Ana anahtarı tekrarla|
-|Repeat master password|       |Ana parolayı tekrarla|
-|Repeat the master key for the new database.|
-    |Yeni veritabanının ana anahtarını tekrar giriniz.|
-|Select the drive on which the key file is stored:|
-    |Anahtar dosyasının saklı olduğu sürücüyü seçiniz:|
-|Open Database - Enter Master Key|
-    |Veritabanını aç - Ana anahtarı gir|
-|Enter master key|             |Ana anahtarı gir|
-|Enter the master key for this database.|
-    |Bu veritabanını açabilmek için ana anahtarı girmelisiniz.|
-|Key|                          |Anahtar|
-|<No drive selected>|          |<Seçili sürücü yok>|
+|Open Database|                 |Veritabanı aç|
+|Enter Composite Master Key|    |Karmaşık ana anahtarı gir|
+|Enter the composite master key.||Karmaşık ana ahatarı gir.|
+|<No Key File Selected>|        |<seçili anahtar dosyası yok>|
+|Key File:|                     |Anahtar dosyası:|
 
 |Password Generator|           |Parola Üreticisi|
-|This will generate a random password.|        |Bu pencereden rasgele parolalar üretebilirsiniz.|
+|Here you can generate a random password.|        |Bu pencereden rasgele parolalar üretebilirsiniz.|
 |Options|                      |Seçenekler|
-|Password Generation Options|  |Parola üretimi seçenekleri|
-|&Only the following characters:|              |&Sadece yandaki karakterler : |
-|Collect &entropy (recommended for strong passwords)|   |&Termodinamik toplam (güçlü parolalar için önerilir)|
-|Number of characters:|        |Karakter sayısı:|
-|Your new password:|           |Yeni parolanız:|
+|Current Settings|              |Geçerli ayarlar|
+
+|Collect &Entropy (recommended for strong passwords)|   |&Termodinamik toplam (güçlü parolalar için önerilir)|
+|Generated Password|           |Oluşturulan parola|
 |&Generate|                    |Ü&ret|
 |&Accept|                      |&Kullan|
-|Upper alphabetic characters (A, B, C, ...)|
-    |Büyük harf karakterleri (A, B, C, ...)|
-|Lower alphabetic characters (a, b, c, ...)|
-    |Küçük harf karakterleri (a, b, c, ...)|
-|Numerical characters (1, 2, 3, ...)|
-    |Sayısal karakterler (1, 2, 3, ...)|
-|Underline character '_'|
-    |Alt çizgi karakteri '_'|
-|Minus '-'|
-    |Eksi '-'|
-|Space ' '|
-    |Boşluk ' '|
-|Special characters|
-    |Özel karakterler|
-|Higher ANSI characters|
-    |Yüksek ANSI karakterler|
-|Special brackets ('{', '}', '[', ...)|
-    |Özel ayraçlar ('{', '}', '[', ...)|
+
+|Upper-Case (A, B, C, ...)|     |Büyük harf (A, B, C, ...)|
+|Lower-Case (a, b, c, ...)|     |Küçük harf (a, b, c, ...)|
+|Digits (0, 1, 2, ...)|         |Sayılar (1, 2, 3, ...)|
+|Underline (_)|                 |Alt çizili (_)|
+|Minus (-)|                     |Eksi (-)|
+|Space ( )|                     |Boşluk ( )|
+|Special (!, §, $, %, &&, ...)| |Özel (!, §, $, %, &&, ...)|
+|High ANSI Characters|          |Yüksek ANSI karakterler|
+|Brackets ([, ], {, }, (, ), <, >)||Ayraçlar ('{', '}', '[', ...)|
 
 |Group:|                       |Grup:|
 |Title:|                       |Başlık:|
@@ -210,7 +189,7 @@
 |&About KeePass...|            |KeePass &hakkında...|
 
 |&Database Settings...|        |&Veritabanı ayarları...|
-|&Tray/Untray|						 |&Bildirim alanına küçült/ekranı kapla|
+|&Tray/Untray|					|&Bildirim alanına küçült/ekranı kapla|
 |Version |                     |Versiyon |
 
 |Password and repeated password aren't identical!|
@@ -222,8 +201,8 @@
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
     |Bu pencereyi kapatmadan önce, rasgele fare girişi kutusunu kullanarak bazı rasgele değerler oluşturmalısınız veya rasgele klavye girişi alanını düzenlemelisiniz.|
 |No random input|              |Rasgele giriş yok|
-|EITHER enter a password/passphrase OR select a key disk drive.|
-    |Bir parola giriniz ya da anahtarın bulunduğu disk sürücüyü seçiniz.|
+|EITHER enter a master password OR select a key file.|
+    |Bir ana parola giriniz VEYA bir anahtar dosyası seçiniz.|
 |The password must consist of at least one character!|
     |Parola en az bir karakterden oluşmalıdır!|
 |Select at least one of the options in the list above!|
@@ -297,7 +276,7 @@
 |Display images on buttons|
     |GUI: Butonların üzerinde resimleri göster|
 |Show grid lines in password entry list|
-    |GUI: Parola kaydı listesinde ızgara çizgilerini göster|
+    |GUI: Kayıtların bulunduğu listede ızgara çizgilerini göster|
 |Workspace cannot be unlocked!|
     |Çalışma alanı kilitlenemez!|
 |Workspace locked|
@@ -530,13 +509,15 @@
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
     |Parola listesini otomatik sıralama etkin, şu andan itibaren listeyi kendiniz sıralayamazsınız.|
 |Select Key File Manually...|             |Anahtar dosyasını kendim seçeyim...|
-|Save Key File Manually to...|            |Anahtar dosyasını kendim kaydedeyim...|
-|Enter the new master key for this database.|
-    |Bu veritabanı için yeni ana anahtarı giriniz.|
-|Repeat master key|                       |Ana anahtarı tekrarla|
-|Repeat the master key for this database.||Bu veritabanı için ana anahtarı tekrarla|
-|Change password of this database - Enter new master key|
-    |Bu veritabanının parolasını değiştir -  Yeni bir ana anahtar gir|
+|Save Key File Manually To...|            |Anahtar dosyasını kendim kaydedeyim...|
+
+|Enter the new composite master key.|
+    |Yeni karmaşık ana anahtarı giriniz.|
+|Repeat the new master password for this database.|
+    |Bu veritabanı için yeni ana parolayı tekrarla|
+|Change Composite Master Key|
+    |Karmaşık ana anahtarı değiştir|
+    
 |Plugin|                                  |Eklenti|
 |cannot be loaded!|                       |yüklenemedi!|
 |Plugins|                                 |Eklentiler|
@@ -586,18 +567,21 @@
     |Büyük ihtimalle bir başka uygulama bu kısa tuşu kendisi için ayırmış.|
 |You can choose a different hot key combination in 'Tools - Options - Setup'.|
     |'Araçlar - Seçenekler - İlişkilendirme' menüsünden farklı bir kısayol seçebilirsiniz.|
-|Use password AND key file|               |Parola VE anahtar dosyası kullan|
+|&Use Master Password AND Key File|
+    |Ana parola VE anahtar dosyası &kullan|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
     |Anahtar modunu seçtiniz, bundan dolayı bir anahtar dosyası seçip parolasını girmelisiniz.|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
     |Zamanlı : veriyi panoya kopyala ve birkaç saniye sonra otomatik olarak temizle|
 |Enhanced: allow pasting only once and protect against clipboard spies|
-    |Gelişmiş: pano casusluğuna karşı korunmayı ve sadece birkez yapıştırmayı etkinleştir|
+    |Gelişmiş : pano casusluğuna karşı korunmayı ve sadece birkez yapıştırmayı etkinleştir|
 |Clipboard behavior:|                     |Pano davranışı:|
-|Warning! It's possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing tools or something like this.|
-    |UYARI! Bu seçeneğin sisteminizde doğru olarak çalışması mümkün olmayabilir, özellikle herhangi bir pano arttırma yazılımı ve benzeri bir şey kullanıyorsanız.|
-|If you notice any problems with this enhanced method, just switch back to the timed clipboard clearing method.|
-    |Gelişmiş olan bu yöntem ile ilgili herhangi bir problem çıkarsa, hemen zamanlı pano temizleme yöntemine tekrardan geçiş yapın.|
+
+
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
+    |UYARI! Bu seçeneğin sisteminizde doğru olarak çalışması mümkün olmayabilir, özellikle herhangi bir pano arttırma veya pano yedekleme araçları kullanıyorsanız.|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
+    |Gelişmiş olan bu yöntem ile ilgili herhangi bir problem çıkarsa, zamanlı pano temizleme yöntemine tekrardan geçiş yapın.|    
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
     |.kdb dosyası ilişkilendirmesini değiştirmek başarısız. Kayıt defterine yazma ve dosya ilişkilendirmelerini değiştirme haklarına sahip olduğunuzdan emin olun.|
 |Number the TANs consecutively, starting from this value|
@@ -621,7 +605,10 @@
 |Save backups of modified entries into the 'Backup' group|
     |Değiştirilmiş kayıtların yedeklerini 'Yedek' grubuna kaydet|
 |Failed to create backup of this entry!|  |Bu kaydın yedeğini oluşturma işlemi başarısız!|
-|Master key has been changed!|            |Ana anahtar değiştirildi!|
+
+
+|The composite master key has been changed!|
+    |Karmaşık ana anahtar değiştirildi!|
 |Save the database now in order to get the new key applied.|
     |Yeni anahtarı uygulamak için veritabanını şimdi kaydet.|
 |Fields to export|                        |Dışarı aktarılacak alanlar|
@@ -656,7 +643,7 @@
 |3 Months|                                   |3 Ay|  
 |6 Months|                                   |6 Ay|  
 |1 Year|                                     |1 Yıl|
-|Automatically generate random passwords for new entries| |Yeni girişler için otomatik olarak rasgele parolalar üret|
+
 |Include backup entries in quick searches (toolbar)|  |Hızlı aramalarda yedek girişleri de aramaya dahil et|
 |&Donate...|                                 |&Bağış yap...|
 |Use alternative auto-type method (minimize window)|    |Alternatif otomatik yazma yöntemini kullan (pencere simge durumunda)|
@@ -788,3 +775,39 @@
 
 |URL Field Features|
 |URL alanı özellikleri|
+
+|There are too few characters in the character set to build up a password matching the specified rules|
+|Belirlenmiş kurallarla eşleşen bir parola oluşturmak için karakter setinde birkaç karakter daha var|
+
+|(Custom)|
+|(Özel)|
+
+|Create profile from current settings|
+|Geçerli ayarlardan profil oluştur|
+
+|Delete selected profile|
+|Seçili profili sil|
+
+|(Automatically generated passwords for new entries)|
+|(Yeni kayıtlar için otomatik oluşturulmuş parolalar)|
+
+|Password Generation Profile|
+|Parola oluşturma profili|
+
+|Length Of Generated Password:|
+|Oluşturulan parolanın uzunluğu:|
+
+|Generate Using Character Set:|
+|Karakter seti kullanarak oluştur:|
+
+|Generate Using Pattern:|
+|Şablon kullanarak oluştur:|
+
+|Also Include the Following Characters:|
+|Aşağıdaki karakterler de dahil edilsin:|
+
+|Exclude Look-Alike Characters|
+|Benzer karakterleri dışarıda tut|
+
+|Use local date/time format instead of ISO notation|
+|ISO notasyonunun yerine yerel tarih/saat formatını kullan|
