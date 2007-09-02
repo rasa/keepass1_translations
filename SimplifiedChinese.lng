@@ -1,4 +1,4 @@
-﻿2007-06-16 01:07|~LANGUAGENAME|
+﻿2007-09-02 01:08|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
 |1.07|
@@ -74,74 +74,64 @@
 |备注|
 |Ready.|
 |就绪。|
-|Enter the passphrase and/or select the key file's drive.|
-|输入密码并/或选择密匙盘。|
-|Enter password:|
+|Enter Password:|
 |输入密码：|
-|Select the drive to which the key file should be saved to:|
-|选择你想存储密匙文件的驱动器：|
-|Create a new password database - Enter master key|
-|建立新的密码数据库 - 输入管理密码/密匙|
-|Set master key|
+|Master Password:|
+|管理密码：|
+|Create New Password Database|
+|创建新的密码数据库|
+|Set Composite Master Key|
 |设置管理密码/密匙|
-|Enter the master key for the new database.|
-|为新建数据库输入管理密码/密匙|
-|Create a new password database - Repeat master key|
-|新建一个数据库 - 确认管理密码|
-|Repeat master password|
+|Specify the composite master key.|
 |确认管理密码|
-|Repeat the master key for the new database.|
+|Repeat Master Password|
+|确认管理密码|
+|Repeat the master password for the new database.|
 |确认新建数据库的管理密码|
-|Select the drive on which the key file is stored:|
-|选择密匙文件所在驱动器：|
-|Open Database - Enter Master Key|
-|打开数据库 - 输入管理密码/密匙|
-|Enter master key|
+|Open Database|
+|打开数据库|
+|Enter Composite Master Key|
 |输入管理密码/密匙|
-|Enter the master key for this database.|
-|输入当前数据库的管理密码/密匙|
-|Key|
-|密匙|
-|<No drive selected>|
-|<未选择驱动器>|
+|Enter the composite master key.|
+|输入管理密码/密匙|
+|<No Key File Selected>|
+|<未选择密匙文件>|
+|Key File:|
+|密匙文件:|
 |Password Generator|
 |密码生成器|
-|This will generate a random password.|
-|这将生成一个随机的密码。|
+|Here you can generate a random password.|
+|在这里可以生成一个随机的密码。|
 |Options|
 |选项|
-|Password Generation Options|
-|密码生成选项|
-|&Only the following characters:|
-|只使用自定义字符(&O)|
-|Collect &entropy (recommended for strong passwords)|
+|Current Settings|
+|当前配置|
+|Collect &Entropy (recommended for strong passwords)|
 |收集输入(生成高强度密码时建议使用)(&E)|
-|Number of characters:|
-|字符数：|
-|Your new password:|
-|产生密码：|
+|Generated Password|
+|生成的密码|
 |&Generate|
 |生成(&G)|
 |&Accept|
 |接受(&A)|
-|Upper alphabetic characters (A, B, C, ...)|
+|Upper-Case (A, B, C, ...)|
 |大写字母 (A, B, C, ...)|
-|Lower alphabetic characters (a, b, c, ...)|
+|Lower-Case (a, b, c, ...)|
 |小写字母 (a, b, c, ...)|
-|Numerical characters (1, 2, 3, ...)|
+|Digits (0, 1, 2, ...)|
 |数字 (1, 2, 3, ...)|
-|Underline character '_'|
-|底线符号 '_'|
-|Minus '-'|
-|减号 '-'|
-|Space ' '|
-|空格 ' '|
-|Special characters|
-|特殊字符|
-|Higher ANSI characters|
+|Underline (_)|
+|底线符号 (_)|
+|Minus (-)|
+|减号 (-)|
+|Space ( )|
+|空格 ( )|
+|Special (!, §, $, %, &&, ...)|
+|特殊字符(!, §, $, %, &&, ...)|
+|High ANSI Characters|
 |高位ANSI字符|
-|Special brackets ('{', '}', '[', ...)|
-|括号 ('{', '}', '[', ...)|
+|Brackets ([, ], {, }, (, ), <, >)|
+|括号 ([, ], {, }, (, ), <, >)|
 |Group:|
 |群组：|
 |Title:|
@@ -334,8 +324,8 @@
 |在关闭此对话框前，你必须用鼠标或键盘产生随机数据。|
 |No random input|
 |没有随机数据输入|
-|EITHER enter a password/passphrase OR select a key disk drive.|
-|输入密码或选择密匙盘。|
+|EITHER enter a master password OR select a key file.|
+|输入密码或选择密匙文件。|
 |The password must consist of at least one character!|
 |密码至少要包含 1 个字符！|
 |Select at least one of the options in the list above!|
@@ -772,16 +762,14 @@
 |已启动自动排序，无法手动排序记录。|
 |Select Key File Manually...|
 |选择密匙文件...|
-|Save Key File Manually to...|
+|Save Key File Manually To...|
 |保存密匙文件...|
-|Enter the new master key for this database.|
-|为这个数据库输入新的管理密码。|
-|Repeat master key|
-|确认管理密码|
-|Repeat the master key for this database.|
-|确认这个数据库的管理密码|
-|Change password of this database - Enter new master key|
-|更改这个数据库的密码 - 输入新的管理密码|
+|Enter the new composite master key.|
+|输入新的管理密码。|
+|Repeat the new master password for this database.|
+|确认当前数据库的新管理密码|
+|Change Composite Master Key|
+|更改管理密码|
 |Plugin|
 |插件|
 |cannot be loaded!|
@@ -859,8 +847,8 @@
 |可能其它应用程序已经占用了该快捷键。|
 |You can choose a different hot key combination in 'Tools - Options - Setup'.|
 |你可以在“编辑-选项-设置”中更改快捷键。|
-|Use password AND key file|
-|同时使用密码和密匙文件|
+|&Use Master Password AND Key File|
+|同时使用密码和密匙文件(&U)|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
 |你已经选择了“同时使用”模式，请输入密码并选择密匙文件。|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
@@ -869,9 +857,9 @@
 |增强保护：只允许粘贴一次，并保护剪贴板不被探查|
 |Clipboard behavior:|
 |剪贴板属性：|
-|Warning! It's possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing tools or something like this.|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
 |警告！该选项可能在你的系统中无法正确工作，尤其是当你使用剪贴板增强工具类的软件时。|
-|If you notice any problems with this enhanced method, just switch back to the timed clipboard clearing method.|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
 |如果你在使用此增强模式时发现任何问题，请将其改为“定时清空”模式。|
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
 |更改 .kdb文件关联失败。请确定你有写注册表以及更改文件关联的权限。|
@@ -905,7 +893,7 @@
 |备份修改过的记录到“备份”群组|
 |Failed to create backup of this entry!|
 |无法备份该记录！|
-|Master key has been changed!|
+|The composite master key has been changed!|
 |管理密码已更改！|
 |Save the database now in order to get the new key applied.|
 |保存数据库以使新的密匙生效。|
@@ -965,8 +953,6 @@
 |捐助(&D)...|
 |Use alternative auto-type method (minimize window)|
 |使用不同于默认（后台窗口）的自动输入模式（最小化窗口）|
-|Automatically generate random passwords for new entries|
-|为新建记录自动生成随机密码|
 |Include backup entries in quick searches (toolbar)|
 |快速搜索时包括备份记录（工具栏）|
 |Delete all backup entries before saving the database|
@@ -1113,3 +1099,28 @@
 |请确保已插入了包含密匙文件的介质，并且 KeePass 有权访问该文件（检查文件访问权限，确保没有其他程序阻止对文件的访问，……）。|
 |URL Field Features|
 |网址字段属性|
+|There are too few characters in the character set to build up a password matching the specified rules|
+|所选字符集中字符数太少，无法生成满足指定条件的密码|
+|(Custom)|
+|（自定义）|
+|Create profile from current settings|
+|以当前设置创建方案|
+|Delete selected profile|
+|删除所选方案|
+|(Automatically generated passwords for new entries)|
+|（为新记录自动生成密码）|
+|Password Generation Profile|
+|密码生成方案|
+|Length Of Generated Password:|
+|所需密码长度:|
+|Generate Using Character Set:|
+|使用字符集生成:|
+|Generate Using Pattern:|
+|使用样品生成:|
+|Also Include the Following Characters:|
+|同时包括下列字符:|
+|Exclude Look-Alike Characters|
+|排除象形字符|
+|Use local date/time format instead of ISO notation|
+|使用系统 日期/时间 格式（而非 ISO 标记方式）|
+
