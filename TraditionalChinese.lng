@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.08 - 1|
+|1.08 - 2|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -39,7 +39,7 @@
 |&Database Settings...|
 |加密設定(&D)...|
 |Change &Master Key...|
-|變更資料庫密碼(&M)...|
+|變更資料庫金鑰(&M)...|
 
 |Print Pre&view...|
 |預覽列印(&V)...|
@@ -119,6 +119,9 @@
 |用星號隱藏用者名稱(&U)|
 |Hide &Passwords Behind Asterisks (***)|
 |用星號隱藏密碼(&P)|
+	// 共用：
+	//	與項目新增/編輯中 - 密碼隱藏按鈕工具提示
+	//	密碼產生器 - 密碼隱藏按鈕工具提示
 
 |TAN View &Options|
 |TAN檢視選項(&O)|
@@ -201,7 +204,7 @@
 |Visit &KeePass Homepage|
 |KeePass首頁(&K)|
 |&Donate...|
-|捐獻(&D)|
+|捐獻(&D)|	// 與關於KeePass共用
 
 |Check For Update|
 |檢查更新|
@@ -220,6 +223,8 @@
 |取消(&C)|
 |Password Safe|
 |密碼資料庫|
+|bits|
+|位元|
 
 // *******************************************************************
 // * DG 預設群組名稱                                                 *
@@ -264,7 +269,7 @@
 |附件|
 
 // *******************************************************************
-// * MK 資料庫金鑰相關 (N建立資料庫/開啟資料庫/M變更資料庫鑰匙)      *
+// * MK 資料庫金鑰相關 (N建立資料庫/O開啟資料庫/M變更資料庫鑰匙)     *
 // *******************************************************************
 
 // 漸層列主標題
@@ -272,15 +277,17 @@
 |設定複合式資料庫金鑰|	// NM
 
 |Master Password:|
-|資料庫密碼：|	// NM
+|資料庫密碼：|	// NOM
 |&Use Master Password AND Key File|
-|雙重保護，使用密碼與鑰匙檔案(&U)|	// NM
+|雙重保護，使用密碼與鑰匙檔案(&U)|	// NOM
 |Key File:|
-|鑰匙檔案：|	// NM
+|鑰匙檔案：|	// NOM
 |<No Key File Selected>|
-|<未選擇鑰匙檔案>|	// NM
+|<未選擇鑰匙檔案>|	// NOM
 |Save Key File Manually To...|
-|選擇鑰匙檔案...|	// NM
+|建立鑰匙檔案...|	// NM
+|Select Key File Manually...|
+|開啟鑰匙檔案...|	// O
 
 // 建立：確認 - 漸層主標題
 // 變更：確認 - 視窗標題與漸層主標題
@@ -300,13 +307,24 @@
 |Create New Password Database|
 |建立資料庫|
 
-// 漸層次標題
+// 漸層列次標題
 |Specify the composite master key.|
 |指定複合式資料庫金鑰。|
 
-// 漸層次標題 - 確認
+// 漸層列次標題 - 確認
 |Repeat the master password for the new database.|
 |確認資料庫密碼。|
+
+// *******************************************************************
+// * ODB 開啟資料庫(或解除鎖定)                                      *
+// *******************************************************************
+// 視窗標題
+|Open Database|
+|開啟資料庫|
+
+// 漸層列次標題
+|Enter the composite master key.|
+|輸入複合式資料庫金鑰。|
 
 // *******************************************************************
 // * CK 變更資料庫金鑰                                               *
@@ -315,11 +333,11 @@
 |Change Composite Master Key|
 |變更複合式資料庫金鑰|
 
-// 漸層次標題
+// 漸層列次標題
 |Enter the new composite master key.|
 |輸入新的複合式資料庫金鑰。|
 
-// 漸層次標題 - 確認
+// 漸層列次標題 - 確認
 |Repeat the new master password for this database.|
 |確認資料庫密碼。|
 
@@ -328,6 +346,30 @@
 |複合式資料庫金鑰已變更！|
 |Save the database now in order to get the new key applied.|
 |為了讓新的鑰匙生效，請儲存資料庫。|
+
+// *******************************************************************
+// * ES 加密設定                                                     *
+// *******************************************************************
+|Database Settings|
+|加密設定|
+|Here you can configure the current database.|
+|您可以在此設定此資料庫的加密選項。請注意：這些設定將只套用到這個資料庫|
+|Security|
+|安全|
+|Encryption algorithm to use (for this database):|
+|使用加密的演算法(這個資料庫)：|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
+|Advanced Encryption Standard (AES) (128位元block cipher，使用256位元金鑰)|
+|Twofish (128-bit block cipher using 256-bit key)|
+|Twofish (128位元block cipher，使用256位元金鑰)|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
+|您的鑰匙被加密數次，成為最終的資料庫加密鑰匙。這增加了時間的因素，使猜測密碼與字典攻擊更加困難。|
+|Number of key encryption rounds:|
+|鑰匙循環加密次數：|
+|Calculate rounds for a 1-second delay on this computer|
+|計算在這台電腦延遲一秒的循環加密次數|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
+|數字愈大則愈難被使用字典檔破解，但將延長資料庫開啟與儲存的時間。|
 
 // *******************************************************************
 // * PG 密碼產生器                                                   *
@@ -392,28 +434,70 @@
 	|&Generate|
 	|產生(&G)|
 
+|&Accept|
+|接受(&A)|	// 為項目產生密碼時出現
+
 // 錯誤訊息
 |There are too few characters in the character set to build up a password matching the specified rules|
 |字元集內的字元種類太少，無法產生符合規則密碼|
 
+// *******************************************************************
+// * ENT 新增或編輯項目                                              *
+// *******************************************************************
+// 新增 - 視窗標題與漸層列主標題
+|Add Entry|
+|新增項目|
 
+// 新增 - 漸層列次標題
+|Add a new password entry|
+|新增一個密碼項目|
 
+// 編輯 - 視窗標題與漸層列主標題
+|Edit Entry|
+|編輯項目|
 
+// 編輯 - 漸層列次標題
+|Modify a password entry|
+|編輯一個密碼項目|
 
-
-
-
-
-
-
-
-
-
-
-|&Gen|
-|產生(&G)|
+|Group:|
+|群組：|
+|Icon:|
+|圖示:|
 |&Pick One|
 |選擇(&P)|
+|Title:|
+|標題：|
+|User Name:|
+|使用者名稱：|
+|URL:|
+|網址：|
+|Password:|
+|密碼：|
+|Repeat Password:|
+|重複密碼：|
+|&Gen|
+|產生(&G)|
+|Generate a random password...|
+|產生一個隨機密碼...|
+|Quality:|
+|品質：|
+|Notes:|
+|備註：|
+|Expires:|
+|逾期：|
+|Attachment:|
+|附件：|
+
+// *******************************************************************
+// * 未整理                                                          *
+// *******************************************************************
+
+
+|***|
+|***|
+|Change expiration time:|
+|變更逾期時間：|
 |Entry|
 |項目|
 |&Case sensitive|
@@ -436,42 +520,10 @@
 |就緒。|
 |Enter Password:|
 |密碼：|
-|Open Database|
-|開啟資料庫|
 |Enter Composite Master Key|
 |輸入複合式資料庫金鑰|
-|Enter the composite master key.|
-|輸入複合式資料庫金鑰。|
 |Options|
 |選項|
-|&Accept|
-|接受(&A)|
-|Group:|
-|群組：|
-|Title:|
-|標題：|
-|User Name:|
-|使用者名稱：|
-|URL:|
-|網址：|
-|Icon:|
-|圖示:|
-|Password:|
-|密碼：|
-|Repeat Password:|
-|重複密碼：|
-|Notes:|
-|備註：|
-|***|
-|***|
-|Add Entry|
-|增加項目|
-|Add a new password entry|
-|增加一個密碼項目|
-|Edit Entry|
-|編輯項目|
-|Modify a password entry|
-|變更一個密碼項目|
 |Group Name:|
 |群組名稱：|
 |Add Group|
@@ -503,7 +555,7 @@
 |Just hack some random keys into the edit box above.|
 |在上面的方塊內隨便亂打一些字。|
 |You don't have to remember the keys you type in. They are used to generate a random value.|
-|您不需要記得您輸入了什麼。它們是用來產生隨機亂數資料。|
+|您不需要記得您輸入了什麼。它們只是用來產生亂數。|
 |So, the more the better. The different, the better.|
 |愈多，愈複雜愈好。|
 |The random the better.|
@@ -548,8 +600,6 @@
 |移動群組到最下面(&B)|
 |&Tray/Untray|
 |工具列顯示切換(&T)|
-|Version |
-|版本|
 |Stop|
 |停止|
 |Enter a group name!|
@@ -668,8 +718,6 @@
 |&CSV檔案...|
 |&Get more languages...|
 |更多語言(&G)...|
-|Security|
-|安全|
 |Lock workspace when minimizing the main window|
 |在最小化主視窗時鎖定|
 |Lock workspace when locking Windows or switching user|
@@ -792,8 +840,6 @@
 |在標題列顯示完整位址(否則只顯示檔名)|
 |Disable 'Save' button if the database hasn't been modified|
 |如果資料庫沒有變更，則不允許儲存|
-|KeePass is OSI Certified Open Source Software.|
-|KeePass是OSI認證的開放原始碼軟體。|
 |&Group Name|
 |群組名稱(&G)|
 |Default|
@@ -806,16 +852,12 @@
 |資料已複製到剪貼簿。|
 |Overwrite?|
 |覆蓋？|
-|Expires:|
-|逾期：|
 |&Delete Selected Entries|
 |刪除選擇的項目(&D)|
 |Change group:|
 |變更群組：|
 |Change entry icon:|
 |變更項目圖示：|
-|Change expiration time:|
-|變更逾期時間：|
 |Mass Modify|
 |大量變更|
 |Change fields of all selected entries|
@@ -860,10 +902,6 @@
 |向左移動(&L)|
 |Move Group One &Right|
 |向右移動(&R)|
-|Attachment:|
-|附件：|
-|Generate a random password...|
-|產生一個隨機密碼...|
 |Open file and set as attachment...|
 |開啟檔案並設定為附件...|
 |Save attached file to disk...|
@@ -910,28 +948,8 @@
 |這是所有已過期項目的清單|
 |Click on an entry to jump to it.|
 |在這邊點選可以直接跳到該項目|
-|Quality:|
-|品質：|
-|Database Settings|
-|資料庫加密|
-|Here you can configure the current database.|
-|您可以在此設定此資料庫的加密選項。請注意：這些設定將只套用到目前開啟的資料庫|
 |Database Summary|
 |資料庫概觀|
-|Encryption algorithm to use (for this database):|
-|使用加密的演算法(這個資料庫)：|
-|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
-|Advanced Encryption Standard (AES) (128位元block cipher，使用256位元鑰匙)|
-|Twofish (128-bit block cipher using 256-bit key)|
-|Twofish (128位元block cipher，使用256位元鑰匙)|
-|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
-|您的鑰匙被加密數次，成為最終的資料庫加密鑰匙。這增加了時間的因素而使猜測密碼與字典攻擊更加困難。|
-|Number of key encryption rounds:|
-|鑰匙循環加密次數：|
-|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
-|數字愈大則愈難被使用字典法破解，但將延長資料庫開啟與儲存的時間。|
-|bits|
-|位元|
 |Personal &Vault TXT File...|
 |Personal &Vault TXT 檔案...|
 |Imported from Password Safe|
@@ -941,7 +959,7 @@
 |Total: %u groups / %u entries|
 |總共：%u群組，%u項目|
 |%u of %u selected|
-|選擇了%u項目，共%u項目|
+|選擇%u個項目，共%u項目|
 |Number of selected entries (number of entries in the list)|
 |選擇的項目數量(清單中的項目數量)|
 |Status|
@@ -966,8 +984,6 @@
 |密碼清單自動排序已啟動，您無法手動移動項目。|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
 |密碼清單自動排序已啟動，您無法手動排序項目。|
-|Select Key File Manually...|
-|選擇鑰匙檔案...|
 |Plugin|
 |Plug-in|
 |cannot be loaded!|
@@ -1094,10 +1110,6 @@
 |欄位已貼上。|
 |Paste operation completed.|
 |完成貼上。|
-|Calculate rounds for a 1-second delay on this computer|
-|計算在這台電腦延遲一秒的循環加密次數|
-|The program is distributed under the terms of the GNU General Public License v2 or later.|
-|這個程式是在GNU General Public License第2版或更新版本的規範下散佈。|
 |Waiting for paste command.|
 |正在等待貼上指令。|
 |1 Year|
@@ -1108,8 +1120,6 @@
 |按Shift+Home或Shift+End清除該編輯控制項內容|
 |&KeePass Database...|
 |KeePass資料庫(&K)...|
-|Acknowledgements|
-|致謝|
 |Click [No] to set a new key for the exported file.|
 |選擇[否]為輸出檔設定新的資料庫密碼。|
 |Click [Yes] to use the same key as the currently opened database.|
@@ -1220,12 +1230,6 @@
 |請確認存有鑰匙檔案的磁碟已經插入系統，並且KeePass有足夠的權限存取(確認檔案權限，且沒有其他應用程式將該檔案鎖定)。|
 |URL Field Features|
 |URL欄位功能|
-|Visit KeePass Homepage|
-|KeePass首頁|
-|Open &Help File|
-|使用說明(&H)|
-|Open &License File|
-|授權(&L)|
 |Use local date/time format instead of ISO notation|
 |使用本地日期/時間，不使用ISO表示法|
 |&Title|
@@ -1238,5 +1242,28 @@
 |密碼(&P)|
 |N&otes|
 |備註(&O)|
+
+// *******************************************************************
+// * ABO 關於KeePass                                                 *
+// *******************************************************************
+// 視窗標題
 |About KeePass...|
 |關於KeePass...|
+
+// 漸層列次標題
+|Version |
+|版本 |
+
+|KeePass is OSI Certified Open Source Software.|
+|KeePass是OSI認證的開放原始碼軟體。|
+|The program is distributed under the terms of the GNU General Public License v2 or later.|
+|這個程式是在GNU General Public License第2版或更新版本的規範下散佈。|
+
+|Visit KeePass Homepage|
+|KeePass首頁|
+|Open &Help File|
+|使用說明(&H)|	// 與加密設定共用
+|Open &License File|
+|授權(&L)|
+|Acknowledgements|
+|致謝|
