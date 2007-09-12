@@ -80,6 +80,8 @@
 |Generator lozinka|
 |Options|
 |Opcije|
+|Collect &Entropy (recommended for strong passwords)|
+|Sakupi entropiju (preporučeno za jake lozinke)|
 |&Generate|
 |&Generiši|
 |&Accept|
@@ -776,8 +778,6 @@
 |Nepoznata greška|
 |You can choose a different hot key combination in 'Tools - Options - Setup'.|
 |Možete odabrati drugu prečicu u 'Alati - Opcije - Podešavanje'.|
-|&Use Master Password AND Key File|
-|Koristi Glavnu lozinku I ključnu datoteku|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
 |Odabrali ste mod I, tako da morate da unesete lozinku I da odaberete ključnu datoteku.|
 |cannot be loaded!|
@@ -1034,93 +1034,91 @@
 |Proveriti da medij koji sadržava ključnu datoteku je unešen i da KeePass ima sva na njega (proveriti prava pristupa datoteci, proveriti da ni jedan program ne blokira datoteku, ...).|
 |URL Field Features|
 |Sposobnosti polja URL|
-|There are too few characters in the character set to build up a password matching the specified rules|
-|Nema dovoljno karaktera da bi se kreirala lozinka odgavaručem pravilem|
+|&Use Master Password AND Key File|
+|Koristi glavnu lozinki I ključnu datoteku|
+|(Automatically generated passwords for new entries)|
+|(Auto generiši lozinke za nova ulaza)|
 |(Custom)|
 |(Prilagodi)|
-|Create profile from current settings|
-|Kreiraj profil sa akuelnog podešavanja|
-|Delete selected profile|
-|Izbriši odabran profil|
-|(Automatically generated passwords for new entries)|
-|(Automatsko generiši lozinke za nova ulaza)|
-|Password Generation Profile|
-|Profil generisanja profila|
-|Length Of Generated Password:|
-|Dužina generisane lozinke:|
-|Generate Using Character Set:|
-|Generiši koristeći ove karaktere:|
-|Generate Using Pattern:|
-|Generate Using Pattern:|
-|Also Include the Following Characters:|
-|I dozvoli i ova karaktera:|
-|Exclude Look-Alike Characters|
-|Izbaci sične karaktere|
-|Use local date/time format instead of ISO notation|
-|Koristi lokalni format datuma/vremena u mesto ISO-Notation|
 |<No Key File Selected>|
 |<Neodabrana ključna datoteka>|
+|Also Include the Following Characters:|
+|Ubaci i ove karaktere:|
 |Brackets ([, ], {, }, (, ), <, >)|
 |Zagrade ([, ], {, }, (, ), <, >)|
 |Change Composite Master Key|
 |Promeni kompozitni glavni ključ|
 |Create New Password Database|
 |Kreiraj novu bazu|
+|Create profile from current settings|
+|Kreiraj profil sa aktuelna podešavanja|
 |Current Settings|
 |Aktuelna podešavanja|
+|Delete selected profile|
+|Izbriši odabran profil|
 |Digits (0, 1, 2, ...)|
 |Cifre (0, 1, 2, ...)|
 |EITHER enter a master password OR select a key file.|
 |ILI uneti glavnu lozinku ILI odabrati ključnu datoteku.|
 |Enter Composite Master Key|
 |Uneti kompozitni glavni ključ|
-|Enter Password:|
-|Unos lozinke:|
 |Enter the composite master key.|
 |Uneti kompozitni glavni ključ.|
 |Enter the new composite master key.|
 |Uneti novi kompozitni glavni ključ.|
+|Exclude Look-Alike Characters|
+|Izbaci slične karaktere|
+|Generate Using Character Set:|
+|Generiši sa ovim karakterima|
+|Generate Using Pattern:|
+|Generiši koristeći šablon:|
 |Generated Password|
-|Lozinka generisana|
+|Generisana lozinka|
 |Here you can generate a random password.|
-|Ovde možete da generišete slučajnu lozinku.|
+|Ovde može se generisati slučajna lozinka.|
 |High ANSI Characters|
-|Visoki ANSI karakteri|
+|Visoke ANSI karaktere|
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
-|Ako imate problema sa naprednom metodom, vratiti se na vremesnsko brisanje klipborda.|
+|Ako imate problema sa naprednom metodom, vratite se na brisanje klipborda posle određenog vremena.|
 |Key File:|
-|Ključ datoteka:|
+|Datoeka:|
+|Length Of Generated Password:|
+|Dužina generisane lozinke:|
 |Lower-Case (a, b, c, ...)|
 |Mala slova (a, b, c, ...)|
 |Master Password:|
 |Glavna lozinka:|
+|Minus (-)|
+|Minus (-)|
 |Open Database|
 |Otvori bazu|
+|Password Generation Profile|
+|Profil generisanja lozinke|
+|Repeat Master Password|
+|Ponovi glavnu lozinku|
 |Repeat the master password for the new database.|
 |Ponovi glavnu lozinku za novu bazu.|
 |Repeat the new master password for this database.|
-|Ponovi glavnu lozinku za ovu bazu.|
+|Ponovi novu glavnu lozinku za ovu bazu.|
+|Save Key File Manually To...|
+|Sačuvaj ključnu datoteku u...|
 |Set Composite Master Key|
 |Postavi kompozitni glavni ključ|
 |Space ( )|
 |Razmak ( )|
 |Special (!, §, $, %, &&, ...)|
-|Scecijalno (!, §, $, %, &&, ...)|
+|Specijalno (!, §, $, %, &&, ...)|
 |Specify the composite master key.|
 |Uneti kompozitni glavni ključ.|
 |The composite master key has been changed!|
 |Kompozitni glavni ključ je promenjen!|
+|There are too few characters in the character set to build up a password matching the specified rules|
+|Nema dovoljno kljraktera da bi se kreiralo pravilo|
 |Underline (_)|
 |Podvučeno (_)|
 |Upper-Case (A, B, C, ...)|
 |Velika slova (A, B, C, ...)|
+|Use local date/time format instead of ISO notation|
+|Koristi lokalni format datuma umesto ISO|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
-|Pažnja! Može se desiti da opcija ne radi na vašem sistemu, pogotovu ako koristite poboljšan klipbord.|
-|Collect &Entropy (recommended for strong passwords)|
-|Kupi entropiju (preporučeno za jake lozinke)|
-|Minus (-)|
-|Minus (-)|
-|Repeat Master Password|
-|Potvrdi glavnu lozinku|
-|Save Key File Manually To...|
-|Sačuvaj ključnu datoteku u...|
+|Pažnja! Moguće je da ova opcija ne radi korsktno na vašem sistemu, posebno ako koristite poboljšan klipbord ili slučno.|
