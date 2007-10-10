@@ -1,4 +1,4 @@
-﻿|~LANGUAGEVERSION| |1.08|
+﻿|~LANGUAGEVERSION| |1.09|
 |~LANGUAGEAUTHOR|     |Doncho Angelov|
 |~LANGUAGEAUTHOREMAIL| |public@doncho.net|
 |~LANGUAGENAME|       |Български|
@@ -9,7 +9,6 @@
 |Password Safe|                |Сеиф за Пароли|
 
 |&Generate Random Password|    |&Генерирай произволна парола|
-|&Pick One|                    |&Избери една|
 |&Gen|                         |&Ген|
 
 |General|                      |Общи|
@@ -28,11 +27,9 @@
 |N&otes|                       |&Бележка/Коментар|
 |&Case sensitive|              |&Малки/големи букви|
 |Search in|                    |Търсене в|
-|Search this text:|            |Търсене на:|
 |Find|                         |Търсене|
 |&Find|                        |&Търсене|
-|Find a string in the password list|           |Търсене на текст в списъка с пароли|
-|Find text in password list|   |Търси текст в списъка с пароли|
+|Find a string in the password list.|           |Търсене на текст в списъка с пароли.|
 
 |About KeePass...|             |За KeePass...|
 
@@ -54,25 +51,20 @@
 |URL:|                         |URL:|
 |Icon:|                        |Икона:|
 |Password:|                    |Парола:|
-|Repeat Password:|             |Отново паролата:|
 |Notes:|                       |Забележка:|
 |***|                          |***|
 
 |Add Entry|                    |Нов запис|
-|Add a new password entry|     |Въвеждане на нов запис (парола)|
 |Edit Entry|                   |Редакция на запис|
-|Modify a password entry|      |Редактиране на данните за запис (парола)|
 
-|Group Name:|                  |Име на група:|
+|Group name:|                  |Име на група:|
 
 |Add Group|                    |Прибавяне на група|
-|Add a new password group|     |Прибавяне на нова група за пароли|
 |Edit Group|                   |Редактиране на група|
-|Modify a password group|      |Редакция на данните на група за пароли|
 
 |Random mouse input|           |Случаен вход от мишката|
 |Click to begin:|              |Начало:|
-|Use &Mouse As Random Source|  |&Използване на мишката като случаен вход|
+|Use &Mouse as Random Source|  |&Използване на мишката като случаен вход|
 |Move the mouse in the field above until this is full:|
     |Местете мишката, докато полето отгоре се запълни:|
 |Hint: It is best to use both mouse and keyboard random sources.|
@@ -87,15 +79,11 @@
 |The random the better.|       THIS ISN'T A ONE-TO-ONE TRANSLATION!
     |По-различно - по-добре.| /
 |Get Random|                   |Вземане на случайно|
-|Get random data for key generation|           |Вземане на случайна информация за генерацията на ключ|
+|Get Random Data for Key Generation|           |Вземане на случайна информация за генерацията на ключ|
 |Move the mouse and type some random text to generate random values.|
     |Местете мишката и въведете някакви данни, за да се генерира случайна поредица.|
 
-|Pick an icon|                 |Изберете икона|
 |Pick an Icon|                 |Изберете Икона|
-|Pick an icon from the list and click OK to set it.|
-    |Изберете икона от списъка и натиснете ОК за да се запомни.|
-
 
 |&File|                        |&Файл|
 |&Edit|                        |&Редактиране|
@@ -111,26 +99,23 @@
 |Export Group To &HTML...|     |Експорт на група в &HTML...|
 |Export Group To &XML...|      |Експорт на група в &XML...|
 |Export Group To &CSV...|      |Експорт на фрупа в &CSV...|
-|Copy &Password To Clipboard|  |Копиране на паролата в клипбоардът|
-|&Find In Database...|         |&Търсене в базата данни...|
+|Copy &Password to Clipboard|  |Копиране на паролата в клипбоардът|
+|&Find in Database...|         |&Търсене в базата данни...|
 |&Add Entry...|                |Прибавяне на &запис...|
 |&Edit/View Entry...|          |&Преглеждане/редакция на запис...|
 |&Delete Entry|                |И&зтриване на запис|
 |Dupli&cate Entry|             |&Дубликат на запис|
-|Move Entry To &Top|           |Преместване на запис в на&чалото|
+|Move Entry to &Top|           |Преместване на запис в на&чалото|
 |Move Entry &One Up|           |Преместване на за&пис едно нагоре|
 |Mo&ve Entry One Down|         |Преместване на запис едно надол&у|
-|Move Entry To &Bottom|        |Преместване на запис в &краят|
+|Move Entry to &Bottom|        |Преместване на запис в &краят|
 
-|Move Group To &Top|           |Местене на група най-&горе|
+|Move Group to &Top|           |Местене на група най-&горе|
 |Move Group One &Up|           |Местене на група едно наго&ре|
 |Move Group &One Down|         |Местене на гр&упа едно надолу|
-|Move Group To &Bottom|        |Местене на група най-&долу|
+|Move Group to &Bottom|        |Местене на група най-&долу|
 
 |Change &Language...|          |&Смяна на езика...|
-|Show &Title Column|           |Показване на колона '&Заглавие'|
-|Show &URL Column|             |Показване на колона '&URL'|
-|Show &Password Column|        |Показване на колона 'П&арола'|
 
 |Password &Generator...|       |&Генератор на пароли|
 
@@ -188,8 +173,8 @@
 |Cannot open temporary file for printing!|
     |Невъзможно е да се отвори временен файл за печатането!|
 
-|Load language file|           |Зареждане на файл с език|
-|Load a language file|         |Зареждане на файл с език|
+|Load Language File|           |Зареждане на файл с език|
+|Load a Language File|         |Зареждане на файл с език|
 |Select one of the languages in the list below.|
     |Изберете един от езиците от списъка|
 |Available Languages|          |Налични езици|
@@ -232,7 +217,7 @@
 |Select &Font|                 |Избор на &шрифт|
 
 |&Get more languages...|       |Вземане на още &езици...|
-|Start and Exit|               |Старт и изход|
+|Start and exit|               |Старт и изход|
 |Interface (GUI)|              |Интерфайс (GUI)|
 |Files|                        |Файлове|
 |Memory|                       |Памет|
@@ -247,22 +232,17 @@
     |KeePass е OSI сертифициран софтуер с отворен код.|
 |Automatically lock workspace after the following number of seconds:|
     |Автоматично заключване на сесията след изминаване на брой секунди:|
-|&Group Name|                  |&Име на група|
 |Every second row has a different background color. Use this color:|
     |Всеки втори ред има различен фонов цвят. Моля изберете цвета:|
 |Default|                      |По подразбиране|
 |More Colors...|               |Още цветове...|
-|Search results|               |Резултати от търсене|
+|Search Results|               |Резултати от търсене|
 
 |Creation Time|                |Дата на създаване|
 |Last Modification|            |Дата на последна промяна|
 |Last Access|                  |Дата на последно пипане|
 |Expires|                      |Изтича на|
 |UUID|                         |UUID|
-
-|Show &Creation Time Column|   |Показване на колоната с &дата на създаване|
-|Show Last &Modification Time Column|          |Показване на колоната с дата на &последната промяна|
-|Show UU&ID Column|                            |Показване на колоната на &UUID|
 
 |Visit KeePass Homepage|       |Посещаване Web страницата на KeePass|
 |Field copied to clipboard.|   |Полето беше копирано в клипборда.|
@@ -290,10 +270,9 @@
 |Sort List By Last &Access Time| |Сортира листа по Времето на по&следен достъп|
 |Sort List By &Expiration Time|	|Сортира листа по Времето на &изтичане|
 
-|Attachment:| |Прикачен:|
+|Attachment:| |Прикаченo:|
 
-|Attachment| |Прикачен|
-|Show &Attachment Column| |Показване на колона с прикаченото|
+|Attachment| |Прикаченo|
 
 |Generate a random password...| |Генериране на случайна парола...|
 |Open file and set as attachment...| |Отваряне и прикачване на файл...|
@@ -327,10 +306,10 @@
 |Author| |Автор|
 |Copy &All| |Копиране на &всичко|
 |Cu&t| |И&зрязване|
-|Currently used language| |В момента се използва език|
-|Language file version| |Версия на превода|
+|Currently Used Language| |Използване на език|
+|Language File Version| |Версия на превода|
 |TAN Wizard| |Помощник за TAN|
-|Translation author contact| |Контакт с преводача|
+|Translation Author Contact| |Контакт с преводача|
 |Translation information| |Информация за преводът|
 |Twofish (128-bit block cipher using 256-bit key)|
     |Twofish (128-битово криптиране с 256-битов ключ)|
@@ -438,9 +417,6 @@
 |Imported from Password Safe|
     |Внасяне от Password Safe|
     
-|Just paste your TANs into the edit window below. Formatting doesn't really matter, all non-alphanumerical characters are ignored (i.e. newlines, tabs, spaces, etc...) and only alphanumerical 'substrings' are added as TAN entries.|
-    |Просто сложете вашите TAN в текстовото поле долу. Форматирането няма значение, всички не-буквеноцифрови символи ще бъдат игнорирани (като нови редове, табове, интервали и т.н.) и само буквеноцифровите части от текста ще се прибавят като TAN записи.|
-    
 |Mark database as modified on last-access time change|
     |Маркира базата като модифицирана при смяна на времето на последен достъп|
     
@@ -540,9 +516,9 @@
 |File error: error while writing to the file|
 	|Файлова грешка: грешка при писане във файла|
 
-|Find In T&his Group...|
+|Find in t&his Group...|
 	|Търсене в &тази група...|
-|Get more plugins...|
+|Get More Plugins...|
 	|Вземане на още разширения...|
 |Global auto-type hot key combination:|
 	|Глобална клавишна комбинация за авто-писане:|
@@ -582,10 +558,6 @@
 	|Разширение|
 |Plugin has been designed for:|
 	|Това разширение служи за:|
-|Show &Last Access Time Column|
-	|Показване на колата &Последен достъп|
-|Show Note&s Column|
-	|Показване на &Забележките|
 |Sort List By &Title|
 	|Сортиране по &Заглавия на списъка|
 |Success|
@@ -633,7 +605,7 @@
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!|
 	|Не успя да се създаде KeePass авто-старт ключ в Windows registry!|
 
-|&Get more import plugins...|
+|&Get More Import Plugins...|
 	|&Вземане на още внасящи плъгини...|
 |Automatically resize table columns when resizing the main window|
 	|Автоматично мащабира колоните при преоразмеряване на основния прозорец|
@@ -726,7 +698,7 @@
 
 
 
-|&Always On Top|
+|&Always on Top|
 	|&Винати отгоре|
 	
 |&Donate...|
@@ -766,7 +738,7 @@
 	|Натиснете [Не] за да зададете нов ключ за експортирания файл.|
 |Click [Yes] to use the same key as the currently opened database.|
 	|Натиснете [Yes] за да се използва същия ключ като на сега отворения файл.|
-|Copy User &Name To Clipboard|
+|Copy User &Name to Clipboard|
 	|Копира Потр.&име в клипбоарда|
 |Create new IDs|
 	|Създава нови IDта|
@@ -791,20 +763,16 @@
 |Reuse the current key/password?|
 	|Преизпозване на текущия ключ/парола?|
 	
-|Show User &Name Column|
-	|Показва колона П&отр.име|
-|Show full path in the titlebar (instead of filename only)|
-	|Показва пълния път в заглавието на прозореца (вместо само името на файла)|
 |Sort List By User &Name|
 	|Сортира списъка по по&тр.име|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
 	|Файловия формат, който е указан за внясяне, поддържа ИДта на групи/записи. Моля укажете поведение при внасянето.|
 |User Name|
 	|Потр.име|
-|User Name:|
+|User name:|
 	|Потр.име:|
 
-|Copy &URL To Clipboard|
+|Copy &URL to Clipboard|
 	|Копиране на &URL-а в клипбоарда|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
 	|Копира URL-ите в клипборда вместо да ги стартира (освен: cmd:// URL-ите)|
@@ -835,13 +803,11 @@
     |Отваряне на файла само за четене?|
 |Show &Toolbar|
     |Показва &лента с бутони|
-|Show TAN &Indices In Entry Titles|
-    |Показва TAN &индекси само в заглавието на записа|
 |TAN View &Options|
     |Настройки н&а TAN изгледа|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
     |Файлът, който се опитвате да отворите, е закллючен т.е. друга програма го е отворила в режим за писане.|
-|Use &Simple List View For TAN-Only Groups|
+|Use &Simple List View for TAN-Only Groups|
     |Използване &обикновен лист за групита само с TAN|
 |Show All &Expired Entries|
     |Показва всички &изтекли записи|
@@ -925,8 +891,6 @@
     |Отбележете, че заглавието на програмата е получено от заявителя и може да е лъжливо (например вредна програма, опитваща се да получи достъп до вашите данни).|
 |Select the fields KeePass should remember|
     |Избор на полетата, които KeePass ще запомня|
-|Show &Expiration Time Column|
-    |&Показване на колона с Време на изтичане|
 |The following application requests access to your currently opened KeePass database:|
     |Посочената програма изисква достъп до отворената база с пароли:|
 |The group you selected cannot store entries. Please select a different group.|
@@ -938,20 +902,14 @@
 |You have the latest version.|
     |Имате последната версия.|
 
-|&Use Master Password AND Key File|
-    |Използване на главна парола И ключ-файл|
 |(Automatically generated passwords for new entries)|
     |Автоматично генериране на пароли за новите записи|
 |(Custom)|
     |(Друг)|
-|<No Key File Selected>|
-    |<Няма избран ключ-файл>|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
     |На това устройство има вече ключ-файл. Искате ли да го презапишете или ще използвате готовия?|
 |All Files|
     |Всички файлове|
-|Also Include the Following Characters:|
-    |Използване и на следните символи:|
 |Attachment Description|
     |Описание на прикрепеното|
 |Brackets ([, ], {, }, (, ), <, >)|
@@ -964,16 +922,10 @@
     |Изберете [Не/No] за да преизползвате избрания ключ-файл за тези данни.|
 |Click [Yes] to overwrite the key file.|
     |Изберете [Да/Yes] за да презапишете ключ-файла.|
-|Collect &Entropy (recommended for strong passwords)|
-    |Изчисляване на &ентропията (препоръчва се за сложни пароли)|
 |Create New Password Database|
     |Създаване на нова база с данни|
-|Create profile from current settings|
-    |Създаване на профил от текущите настройки|
-|Current Settings|
+|Current settings|
     |Текущи настройки|
-|Delete selected profile|
-    |Изтриване на избрания профил|
 |Digits (0, 1, 2, ...)|
     |Цифри (0, 1, 2, ...)|
 |EITHER enter a master password OR select a key file.|
@@ -988,17 +940,17 @@
     |Въведете общия главен ключ.|
 |Enter the new composite master key.|
     |Въведете новият общ главен ключ.|
-|Exclude Look-Alike Characters|
+|Exclude look-alike characters|
     |Изключване на символите, които си приличат|
-|Generate Using Character Set:|
+|Generate using character set:|
     |Генерацията ще използва набор от символи:|
-|Generate Using Pattern:|
+|Generate using pattern:|
     |Генерация чрез шаблон:|
-|Generated Password|
+|Generated password|
     |Генерирана парола|
 |Here you can generate a random password.|
     |Тук се генерира произволна парола.|
-|High ANSI Characters|
+|High ANSI characters|
     |Крайните ANSI символи|
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
     |Ако имате проблеми с разширения метод, използвайте предишния метод с изчистване на clipboard-а.|
@@ -1006,9 +958,9 @@
     |Файлове с пароли на KeePass|
 |Key File:|
     |Ключ файл:|
-|Length Of Generated Password:|	
+|Length of generated password:|	
     |Дължина на генерираната парола:|
-|Lower-Case (a, b, c, ...)|
+|Lower-case (a, b, c, ...)|
     |Долен регистър (a, b, c, ...)|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
     |Проверете дали носителя, съдържащ ключ-файла, е сложен и дали KeePass има права за достъп до него (проверете правата за достъп, проверете дали друга програма не блокира файла, ...).|
@@ -1018,18 +970,12 @@
     |Минус (-)|
 |Open Database|
     |Отваряна на база с данни|
-|Password Generation Profile|
-    |Профил за генерация на парола|
 |Repeat Master Password|
     |Повтаряне на главната парола|
 |Repeat the master password for the new database.|
     |Повторете главната парола за новата база данни.|
 |Repeat the new master password for this database.|
     |Повторете главната парола за тази база данни.|
-|Save Key File Manually To...|
-    |Ръчно записване на ключ-файла като...|
-|Select Key File Manually...|
-    |Ръчно избиране на ключ-файл...|
 |Set Composite Master Key|
     |Избирена не общ главен ключ|
 |Space ( )|
@@ -1046,7 +992,7 @@
     |Способности на полето с адрес|
 |Underline (_)|
     |Подчертаване (_)|
-|Upper-Case (A, B, C, ...)|
+|Upper-case (A, B, C, ...)|
     |Главни букви (A, B, C, ...)|
 |Use local date/time format instead of ISO notation|
     |Използване на локалния формат за дата/час вместо ISO нотацията|
@@ -1056,5 +1002,89 @@
     |Може да изберете различна комбинация за горещ клавиш от 'Инструменти - Опции - Настройка'.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
     |Избрали сте режим "И", така че трябва да въведета главна парола И да изберете ключ-файл.|
+|Special (!, В§, $, %, &&, ...)|
+    |Специални (!, В§, $, %, &&, ...)|
+
+
+|&Attachment|
+    |&Прикаченo:|
+|&Creation Time|
+    |&Дата на създаване|
+|&Expiration Time|
+    |&Време на изтичане|
+|&Group name|
+    |&Име на група|
+|&Last Access Time|
+    |&Последно редактиран|
+|&Use master password and key file|
+    |Използване на главна парола и ключ-файл|
+|(No key file selected)|
+    |(Няма избран ключ-файл)|
+|Also include the following characters:|
+    |Също използване и на следните символи:|
+|Arguments|
+    |Параметри|
+|Check for Update|
+    |Проверка за нова версия|
+|Choose an icon from the list of available entry and group icons.|
+    |Избор на картинка от списъка на налични картинки за групи и записи.|
+|Choose an icon.|
+    |Избор на картинка.|
+|Collect &entropy (recommended for strong passwords)|
+    |Изчисляване на &ентропията (препоръчва се за сложни пароли)|
+|Create a new password entry.|
+    |Създаване на нов запис на парола.|
+|Create a new password group.|
+    |Създаване на нова група записи.|
+|Delete currently selected profile.|
+    |Изтриване на текущо избрания профил.|
+|Failed to save the configuration.|
+    |Провал при записването на конфигурацията.|
+|Find what:|
+    |Търсене на:|
+|Hide passwords behind asterisks (***).|
+    |Скриване на паролата зад звездички (***).|
+|Last &Modification Time|
+    |Време на последна про&мяна|
+|Locked|
+    |Заключен|
+|Modify existing password entry.|
+    |Променяне на съществуващ запис.|
+|Modify existing password group.|
+    |Променяне на съществуваща група.|
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+    |Сложи TAN в кутията долу. Всички символи, които не са специално зададени като TAN символи ще бъдат третирани като разделители и само сериите от TAN символи ще се прибавят като TAN записи.|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+    |Моля въведете име за новия профил на генератора на пароли, или изберете съществуващ профил, който да се презапише:|
+|Profile|
+    |Профил|
+|Randomly permute characters of password|
+    |Разбъркване на символите от паролата|
+|Repeat:|
+    |Повторете:|
+|Save as Profile|
+    |Запис като Профил|
+|Save current settings as a profile.|
+    |Запис на текущите настройки като профил.|
+|Save current settings as password generator profile.|
+    |Запис на текущите настройки като профил на генератора на пароли.|
+|Save key file manually to...|
+    |Ръчен запис на ключа като...|
+|Select key file manually...|
+    |Ръчно избиране на ключ-файл...|
+|Show TAN &Indices in Entry Titles|
+    |Показване на TAN &индекси в заглавията на записите.|
+|Show full path in the title bar (instead of file name only)|
+    |Показване на пълен път в заглавието на прозореца (вместо само име на файл)|
+|Special|
+    |Специално|
+|TANs consist of the following characters:|
+    |TAN може да съдържат следните символи:|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+    |Помощният файл съдържа детайлно описание на очаквания входен формат. Да го покажа ли?|
+|UU&ID|
+    |UU&ID|
+|User &name|
+    |Потреб. &име|
 |Special (!, В§, $, %, &&, ...)|
     |Специални (!, В§, $, %, &&, ...)|
