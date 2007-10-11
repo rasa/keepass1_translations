@@ -1,7 +1,7 @@
-﻿2007-09-02 01:08|~LANGUAGENAME|
+﻿2007-10-11 01:09|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.07|
+|1.09|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
@@ -16,8 +16,6 @@
 |密码保险箱|
 |&Generate Random Password|
 |生成随机密码(&G)|
-|&Pick One|
-|选择(&P)|
 |&Gen|
 |生成(&G)|
 |General|
@@ -48,16 +46,14 @@
 |大小写不同(&C)|
 |Search in|
 |查找于|
-|Search this text:|
-|查找字串：|
+|Find what:|
+|查找内容：|
 |Find|
 |查找|
 |&Find|
 |查找(&F)|
-|Find a string in the password list|
+|Find a string in the password list.|
 |在密码列表中查找一个字串|
-|Find text in password list|
-|在密码列表中查找|
 |About KeePass...|
 |关于 KeePass...|
 |Password Groups|
@@ -94,8 +90,8 @@
 |输入管理密码/密匙|
 |Enter the composite master key.|
 |输入管理密码/密匙|
-|<No Key File Selected>|
-|<未选择密匙文件>|
+|(No key file selected)|
+|(未选择密匙文件)|
 |Key File:|
 |密匙文件:|
 |Password Generator|
@@ -104,19 +100,19 @@
 |在这里可以生成一个随机的密码。|
 |Options|
 |选项|
-|Current Settings|
+|Current settings|
 |当前配置|
-|Collect &Entropy (recommended for strong passwords)|
+|Collect &entropy (recommended for strong passwords)|
 |收集输入(生成高强度密码时建议使用)(&E)|
-|Generated Password|
+|Generated password|
 |生成的密码|
 |&Generate|
 |生成(&G)|
 |&Accept|
 |接受(&A)|
-|Upper-Case (A, B, C, ...)|
+|Upper-case (A, B, C, ...)|
 |大写字母 (A, B, C, ...)|
-|Lower-Case (a, b, c, ...)|
+|Lower-case (a, b, c, ...)|
 |小写字母 (a, b, c, ...)|
 |Digits (0, 1, 2, ...)|
 |数字 (1, 2, 3, ...)|
@@ -126,9 +122,9 @@
 |减号 (-)|
 |Space ( )|
 |空格 ( )|
-|Special (!, §, $, %, &&, ...)|
-|特殊字符(!, §, $, %, &&, ...)|
-|High ANSI Characters|
+|Special|
+|特殊字符|
+|High ANSI characters|
 |高位ANSI字符|
 |Brackets ([, ], {, }, (, ), <, >)|
 |括号 ([, ], {, }, (, ), <, >)|
@@ -136,7 +132,7 @@
 |群组：|
 |Title:|
 |标题：|
-|User Name:|
+|User name:|
 |用户名：|
 |URL:|
 |网址：|
@@ -144,7 +140,7 @@
 |图标|
 |Password:|
 |密码：|
-|Repeat Password:|
+|Repeat:|
 |确认密码：|
 |Notes:|
 |备注：|
@@ -152,27 +148,27 @@
 |***|
 |Add Entry|
 |添加记录|
-|Add a new password entry|
-|添加一个新的密码记录|
+|Create a new password entry.|
+|创建一个新的密码记录|
 |Edit Entry|
 |编辑记录|
-|Modify a password entry|
-|修改密码记录|
-|Group Name:|
+|Modify existing password entry.|
+|修改已有密码记录|
+|Group name:|
 |群组名称：|
 |Add Group|
 |添加群组|
-|Add a new password group|
+|Create a new password group.|
 |添加一个新的密码群组|
 |Edit Group|
 |编辑群组|
-|Modify a password group|
-|修改密码群组|
+|Modify existing password group.|
+|修改已有密码群组|
 |Random mouse input|
 |随机鼠标输入|
 |Click to begin:|
 |点击这里开始：|
-|Use &Mouse As Random Source|
+|Use &Mouse as Random Source|
 |使用鼠标作为随机数据来源(&M)|
 |Move the mouse in the field above until this is full:|
 |在上面的区域内移动鼠标至进度条结束：|
@@ -190,16 +186,16 @@
 |随机性越强越好。|
 |Get Random|
 |取得随机数据|
-|Get random data for key generation|
+|Get Random Data for Key Generation|
 |取得生成密匙所需的随机数据|
 |Move the mouse and type some random text to generate random values.|
 |移动鼠标并用键盘输入随机文本来产生随机值。|
-|Pick an icon|
+|Choose an icon.|
 |选择图标|
 |Pick an Icon|
 |选择图标|
-|Pick an icon from the list and click OK to set it.|
-|在列表中选择一个图标，并按“确定”。|
+|Choose an icon from the list of available entry and group icons.|
+|从记录和群组图标列表中选择一个图标。|
 |&File|
 |文件(&F)|
 |&Edit|
@@ -252,15 +248,15 @@
 |输出群组到CSV文件(&C)...|
 |Export Group To &TXT...|
 |输出群组到TXT文件(&T)...|
-|Copy User &Name To Clipboard|
+|Copy User &Name to Clipboard|
 |复制用户名(&N)|
-|Copy &Password To Clipboard|
+|Copy &Password to Clipboard|
 |复制密码(&P)|
 |Open &URL(s)|
 |打开网址(&U)|
-|&Find In Database...|
+|&Find in Database...|
 |在数据库中查找(&F)...|
-|Find In T&his Group...|
+|Find in t&his Group...|
 |在此群组内查找(&H)...|
 |&Add Entry...|
 |添加记录(&A)...|
@@ -270,37 +266,31 @@
 |删除记录(&D)|
 |Dupli&cate Entry|
 |复制记录(&C)|
-|Move Entry To &Top|
+|Move Entry to &Top|
 |移到顶部(&T)|
 |Move Entry &One Up|
 |向上移动(&O)|
 |Mo&ve Entry One Down|
 |向下移动(&V)|
-|Move Entry To &Bottom|
+|Move Entry to &Bottom|
 |移到底部(&B)|
-|Move Group To &Top|
+|Move Group to &Top|
 |移到顶部(&T)|
 |Move Group One &Up|
 |向上移动(&O)|
 |Move Group &One Down|
 |向下移动(&V)|
-|Move Group To &Bottom|
+|Move Group to &Bottom|
 |移到底部(&B)|
 |Change &Language...|
 |选择语言(&L)...|
-|Show &Title Column|
-|标题(&T)|
-|Show User &Name Column|
+|User &name|
 |用户名(&N)|
-|Show &URL Column|
-|网址(&U)|
-|Show &Password Column|
-|密码(&P)|
-|Show Note&s Column|
-|备注(&S)|
-|&Always On Top|
+|&Always on Top|
 |总在最前(&A)|
 |Hide &Passwords Behind Asterisks (***)|
+|隐藏密码为***(&P)|
+|Hide passwords behind asterisks (***).|
 |隐藏密码为***(&P)|
 |Password &Generator...|
 |密码生成器(&G)...|
@@ -380,9 +370,9 @@
 |确认删除群组|
 |Cannot open temporary file for printing!|
 |无法为打印打开临时文件！|
-|Load language file|
+|Load Language File|
 |载入语言文件|
-|Load a language file|
+|Load a Language File|
 |载入一个语言文件|
 |Select one of the languages in the list below.|
 |选择列表中的一个语言文件。|
@@ -462,7 +452,7 @@
 |导入(&I)|
 |&Get more languages...|
 |获取更多语言(&G)...|
-|Start and Exit|
+|Start and exit|
 |启动与退出|
 |Interface (GUI)|
 |界面(GUI)|
@@ -486,7 +476,7 @@
 |KeePass 是 OSI 认证的开放源码软件。|
 |Automatically lock workspace after the following number of seconds:|
 |不使用时，在下列秒数后自动锁定：|
-|&Group Name|
+|&Group name|
 |群组名(&G)|
 |Every second row has a different background color. Use this color:|
 |偶数行使用不同的背景色。选择颜色：|
@@ -494,7 +484,7 @@
 |默认|
 |More Colors...|
 |更多颜色...|
-|Search results|
+|Search Results|
 |查找结果|
 |Creation Time|
 |创建时间|
@@ -506,15 +496,15 @@
 |失效|
 |UUID|
 |唯一标识码(UUID)|
-|Show &Creation Time Column|
+|&Creation Time|
 |创建时间(&C)|
-|Show Last &Modification Time Column|
+|Last &Modification Time|
 |修改时间(&M)|
-|Show &Last Access Time Column|
+|&Last Access Time|
 |访问时间(&L)|
-|Show &Expiration Time Column|
+|&Expiration Time|
 |有效期(&E)|
-|Show UU&ID Column|
+|UU&ID|
 |唯一标识码(UU&ID)|
 |&Tools|
 |工具(&T)|
@@ -576,8 +566,10 @@
 |TAN 向导|
 |Using this wizard you can easily add TAN entries.|
 |通过本向导你可以轻松的添加 TAN 记录。|
-|Just paste your TANs into the edit window below. Formatting doesn't really matter, all non-alphanumerical characters are ignored (i.e. newlines, tabs, spaces, etc...) and only alphanumerical 'substrings' are added as TAN entries.|
-|直接将你的 TAN 粘贴到下面的编辑框。格式并不重要，所有无法显示的字符都将被忽略（比如换行、Tab、空格，等等...)，只有可显示的字串才可以加入 TAN 记录。|
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+|将你的 TAN 粘贴到下面的编辑框。所有未明确定义为 TAN 字符的字符将被当作分隔符，并且只有由 TAN 字符组成的字串才能被添加为 TAN 记录。|
+|TANs consist of the following characters:|
+|TAN 包含下列字符：|
 |<TAN>|
 |<TAN>|
 |Print Pre&view...|
@@ -586,13 +578,13 @@
 |关于本翻译(&T)...|
 |Translation information|
 |翻译信息|
-|Currently used language|
+|Currently Used Language|
 |当前语言|
-|Language file version|
+|Language File Version|
 |语言文件版本|
 |Author|
 |作者|
-|Translation author contact|
+|Translation Author Contact|
 |联系翻译作者|
 |&Rearrange|
 |排序(&R)|
@@ -628,7 +620,7 @@
 |附件|
 |Attachment Description|
 |附件描述|
-|Show &Attachment Column|
+|&Attachment|
 |附件(&A)|
 |Generate a random password...|
 |生成随机密码...|
@@ -760,9 +752,9 @@
 |执行自动输入|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
 |已启动自动排序，无法手动排序记录。|
-|Select Key File Manually...|
+|Select key file manually...|
 |选择密匙文件...|
-|Save Key File Manually To...|
+|Save key file manually to...|
 |保存密匙文件...|
 |Enter the new composite master key.|
 |输入新的管理密码。|
@@ -837,7 +829,7 @@
 |无效/损坏的文件结构|
 |Encryption/decryption error|
 |加密/解密错误|
-|Get more plugins...|
+|Get More Plugins...|
 |获取更多的插件...|
 |Global auto-type hot key combination:|
 |全局自动输入快捷键：|
@@ -847,7 +839,7 @@
 |可能其它应用程序已经占用了该快捷键。|
 |You can choose a different hot key combination in 'Tools - Options - Setup'.|
 |你可以在“编辑-选项-设置”中更改快捷键。|
-|&Use Master Password AND Key File|
+|&Use master password and key file|
 |同时使用密码和密匙文件(&U)|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
 |你已经选择了“同时使用”模式，请输入密码并选择密匙文件。|
@@ -911,7 +903,7 @@
 |用 '\n' 编码/代替换行符|
 |Export backup entries (entries in the 'Backup' group)|
 |导出备份记录(“备份”群组中的记录)|
-|&Get more import plugins...|
+|&Get More Import Plugins...|
 |获取更多的导入插件(&G)...|
 |1 Month|
 |1 月|
@@ -985,11 +977,11 @@
 |请选择新数据库是否继续使用当前打开数据库的密码/密匙？或者是否需要为其建立新的密码/密匙？|
 |Reuse the current key/password?|
 |继续使用当前的密码/密匙？|
-|Show full path in the titlebar (instead of filename only)|
+|Show full path in the title bar (instead of file name only)|
 |在标题栏显示完整的路径（而不是只显示文件名）|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
 |你所选择的导入文件格式支持群组 和/或 记录名称标识，请设置导入选项。|
-|Copy &URL To Clipboard|
+|Copy &URL to Clipboard|
 |复制网址(&U)|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
 |复制网址 但 不打开网址（例外：cmd:// URLs 格式的网址仍会打开）|
@@ -1015,17 +1007,19 @@
 |现在|
 |Open the file in read-only mode?|
 |以只读方式打开文件？|
-|Show TAN &Indices In Entry Titles|
+|Show TAN &Indices in Entry Titles|
 |在记录标题显示 TAN 索引(&I)|
 |TAN View &Options|
 |TAN 显示设置(&O)|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
 |你要打开的文件被锁定，可能正被另一进程打开和编辑。|
-|Use &Simple List View For TAN-Only Groups|
+|Use &Simple List View for TAN-Only Groups|
 |对只包含 TAN 的群组使用简单列表(&S)|
 |Disable 'Save' button if the database hasn't been modified|
 |若数据库未被修改，禁用“保存”功能|
 |Check For Update|
+|检查更新|
+|Check for Update|
 |检查更新|
 |New KeePass version available!|
 |发现新版本!|
@@ -1103,24 +1097,39 @@
 |所选字符集中字符数太少，无法生成满足指定条件的密码|
 |(Custom)|
 |（自定义）|
-|Create profile from current settings|
-|以当前设置创建方案|
-|Delete selected profile|
+|Save current settings as a profile.|
+|将当前设置保存为方案|
+|Delete currently selected profile.|
 |删除所选方案|
 |(Automatically generated passwords for new entries)|
 |（为新记录自动生成密码）|
-|Password Generation Profile|
-|密码生成方案|
-|Length Of Generated Password:|
+|Profile|
+|方案|
+|Length of generated password:|
 |所需密码长度:|
-|Generate Using Character Set:|
+|Generate using character set:|
 |使用字符集生成:|
-|Generate Using Pattern:|
+|Generate using pattern:|
 |使用样品生成:|
-|Also Include the Following Characters:|
+|Also include the following characters:|
 |同时包括下列字符:|
-|Exclude Look-Alike Characters|
+|Exclude look-alike characters|
 |排除象形字符|
 |Use local date/time format instead of ISO notation|
 |使用系统 日期/时间 格式（而非 ISO 标记方式）|
-
+|Save as Profile|
+|保存为方案|
+|Save current settings as password generator profile.|
+|保存当前设置为密码生成方案。|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+|请为新的密码生成方案输入名称，或选择覆盖一个已有的方案：|
+|Randomly permute characters of password|
+|随机排序|
+|Locked|
+|已锁定|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+|帮助文件中包含所需输入格式的详细信息，你想打开帮助吗？|
+|Failed to save the configuration.|
+|保存配置失败。|
+|Arguments|
+|参数|
