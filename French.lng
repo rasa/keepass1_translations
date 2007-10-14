@@ -1,11 +1,11 @@
 |~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.08|
+|1.09|
 |~LANGUAGEAUTHOR|
 |Marc Tissot|
 |~LANGUAGEAUTHOREMAIL|
-|mtissot@users.sourceforge.net|
+|mtissot@iota.ch, http://www.iota.ch/|
 |&OK|
 |&OK|
 |&Cancel|
@@ -16,8 +16,6 @@
 |KeePass Password Safe|
 |&Generate Random Password|
 |&Générer un mot de passe aléatoire|
-|&Pick One|
-|&Sélectionner|
 |&Gen|
 |&Gén|
 |General|
@@ -37,6 +35,8 @@
 |&Title|
 |&Titre|
 |User &Name|
+|&Nom d'Utilisateur|
+|User &name|
 |&Nom d'utilisateur|
 |&URL|
 |&URL|
@@ -48,16 +48,10 @@
 |&Sensible à la casse|
 |Search in|
 |Chercher dans|
-|Search this text:|
-|Rechercher ce texte :|
 |Find|
 |Chercher|
 |&Find|
 |&Chercher|
-|Find a string in the password list|
-|Chercher une chaîne dans la liste de mots de passe|
-|Find text in password list|
-|Chercher du texte dans la liste de mots de passe|
 |About KeePass...|
 |A propos de KeePass...|
 |Password Groups|
@@ -81,51 +75,43 @@
 |&Accept|
 |&Accepter|
 |Group:|
-|Groupe :|
+|Groupe:|
 |Title:|
-|Titre :|
-|User Name:|
-|Nom d'utilisateur :|
+|Titre:|
+|User name:|
+|Nom d'utilisateur:|
 |URL:|
-|URL :|
+|URL:|
 |Icon:|
-|Icône :|
+|Icône:|
 |Password:|
-|Mot de passe :|
-|Repeat Password:|
-|Confirmation :|
+|Mot de passe:|
 |Notes:|
-|Notes :|
+|Notes:|
 |***|
 |***|
 |Add Entry|
 |Ajouter une entrée|
-|Add a new password entry|
-|Ajouter une nouvelle entrée mot de passe|
 |Edit Entry|
 |Modifier l'entrée|
-|Modify a password entry|
-|Modifier l'entrée mot de passe|
-|Group Name:|
-|Nom de groupe :|
+|Group name:|
+|Nom de groupe:|
 |Add Group|
 |Ajouter un groupe|
-|Add a new password group|
-|Ajouter un groupe de mots de passe|
 |Edit Group|
 |Modifier un groupe|
-|Modify a password group|
-|Modifier un groupe de mots de passe|
 |Random mouse input|
 |Déplacement aléatoire de la souris|
 |Click to begin:|
-|Cliquer pour démarrer :|
-|Use &Mouse As Random Source|
-|Utilisez la &souris comme source d'aléa|
+|Cliquer pour démarrer:|
+|Use &Mouse as Random Source|
+|Utilisez la &Souris comme Source d'Aléa|
 |Move the mouse in the field above until this is full:|
-|Déplacez la souris dans le champ jusqu'à remplissage :|
+|Déplacez la souris dans le champ jusqu'à remplissage:|
 |Hint: It is best to use both mouse and keyboard random sources.|
-|Conseil : il est préférable d'utiliser la souris et le clavier simultanément.|
+|Conseil: il est préférable d'utiliser la souris et le clavier simultanément.|
+|Last &Modification Time|
+|Heure de la Dernière &Modification|
 |Random keyboard input|
 |Saisie aléatoire au clavier|
 |Just hack some random keys into the edit box above.|
@@ -134,20 +120,20 @@
 |Il n'est pas nécessaire de retenir les caractères saisis. Ils sont utilisés pour générer une valeur aléatoire.|
 |So, the more the better. The different, the better.|
 |Donc, plus il y a de caractères, meilleur c'est.|
+|Modify existing password entry.|
+|Modifier l'entrées actuelle de mot de passe.|
+|Modify existing password group.|
+|Modifier le groupe actuel de mots de passe.|
 |The random the better.|
 |Plus les caractères sont différents, meilleur c'est.|
 |Get Random|
 |Générer un aléa|
-|Get random data for key generation|
-|Générer des données aléatoires pour la génération de la clé|
+|Get Random Data for Key Generation|
+|Générer des Données Aléatoires pour la Génération de Clé|
 |Move the mouse and type some random text to generate random values.|
 |Déplacez la souris et saisissez un texte quelconque pour générer des valeurs aléatoires.|
-|Pick an icon|
-|Sélectionnez une icône|
 |Pick an Icon|
 |Sélectionnez une Icône|
-|Pick an icon from the list and click OK to set it.|
-|Sélectionnez une icône dans la liste et cliquez sur OK pour l'utiliser.|
 |&File|
 |&Fichier|
 |&Edit|
@@ -182,6 +168,8 @@
 |&Options...|
 |Add Password &Group...|
 |Ajouter un &groupe de mots de passe...|
+|Find what:|
+|Que rechercher:|
 |Add Password Su&bgroup...|
 |Ajouter un sous-g&roupe de mots de passe...|
 |Modif&y Password Group...|
@@ -196,53 +184,49 @@
 |Exporter le groupe en &CSV...|
 |Export Group To &TXT...|
 |Exporter le groupe en &TXT...|
-|Copy User &Name To Clipboard|
-|Copier le &nom d'utilisateur dans le presse-papiers|
-|Copy &Password To Clipboard|
-|Copier le mot de &passe dans le presse-papiers|
+|Failed to save the configuration.|
+|Impossible d'enregistrer la configuration.|
+|Find a string in the password list.|
+|Rechercher une chaîne dans la liste de mots de passe.|
+|Copy User &Name to Clipboard|
+|Copier le &Nom d'Utilisateur dans le Presse-Papiers|
+|Copy &Password to Clipboard|
+|Copier le Mot de &Passe dans le Presse-Papiers|
 |Open &URL(s)|
 |Ouvrir l'(es) &URL(s)|
-|&Find In Database...|
+|&Find in Database...|
 |Chercher dans la &base de mots de passe...|
-|Find In T&his Group...|
-|C&hercher dans ce groupe...|
+|Find in t&his Group...|
+|C&hercher dans ce Groupe...|
 |&Add Entry...|
 |A&jouter une entrée...|
 |&Edit/View Entry...|
 |Modi&fier/Afficher l'entrée...|
+|Locked|
+|Vérouillé(e)|
 |&Delete Entry|
 |Efface&r l'entrée|
 |Dupli&cate Entry|
 |&Dupliquer l'entrée|
-|Move Entry To &Top|
-|Déplacer l'entrée au &début|
+|Move Entry to &Top|
+|Déplacer l'Entrée au &Début|
 |Move Entry &One Up|
 |Déplacer l'entrée vers le &haut|
 |Mo&ve Entry One Down|
 |Déplacer l'entrée vers le &bas|
-|Move Entry To &Bottom|
-|Déplacer l'entrée à la &fin|
-|Move Group To &Top|
-|Déplacer le groupe au &début|
+|Move Entry to &Bottom|
+|Déplacer l'Entrée à la &Fin|
+|Move Group to &Top|
+|Déplacer le Groupe au &Début|
 |Move Group One &Up|
 |Déplacer le groupe vers le &haut|
 |Move Group &One Down|
 |Déplacer le groupe vers le &bas|
-|Move Group To &Bottom|
-|Déplacer le groupe à la &fin|
+|Move Group to &Bottom|
+|Déplacer le Groupe à la &Fin|
 |Change &Language...|
 |&Modifier la langue...|
-|Show &Title Column|
-|Colonne &Titre|
-|Show User &Name Column|
-|Colonne &Nom d'utilisateur|
-|Show &URL Column|
-|Colonne &URL|
-|Show &Password Column|
-|Colonne &Mot de passe|
-|Show Note&s Column|
-|Colonne Note&s|
-|&Always On Top|
+|&Always on Top|
 |&Toujours au premier plan|
 |Hide &Passwords Behind Asterisks (***)|
 |Cacher les mots de &passe avec des astérisques (***)|
@@ -273,7 +257,7 @@
 |Select at least one of the options in the list above!|
 |Sélectionnez au minimum une option dans la liste ci-dessus.|
 |The following self-tests failed:|
-|Les auto-tests suivants ont échoué :|
+|Les auto-tests suivants ont échoué:|
 |- SHA 32-bit variables|
 |- Vecteurs de test SHA-32|
 |- SHA 64-bit variables|
@@ -298,12 +282,18 @@
 |Contenu du presse-papiers effacé.|
 |Field copied to clipboard. Clipboard will be cleared in %d seconds.|
 |Champs copiés dans le presse-papiers. Effacement dans %d secondes.|
+|Profile|
+|Profil|
+|Repeat:|
+|Confirmer:|
 |Failed to set the master key!|
 |La clé maître ne peut être définie.|
 |File cannot be opened!|
 |Le fichier ne peut être ouvert.|
 |File cannot be saved!|
 |Le fichier ne peut être enregistré.|
+|Save as Profile|
+|Enregistrer comme Profil|
 |The current file has been modified.|
 |Le fichier courant a été modifié.|
 |Do you want to save the changes before closing?|
@@ -318,10 +308,10 @@
 |Confirmation de l'effacement du groupe|
 |Cannot open temporary file for printing!|
 |Impossible d'ouvrir le fichier temporaire pour l'impression.|
-|Load language file|
-|Ouvrir un fichier de langue|
-|Load a language file|
-|Ouvrir un fichier de langue|
+|Load Language File|
+|Ouvrir un Fichier Language|
+|Load a Language File|
+|Ouvrir un Fichier Language|
 |Select one of the languages in the list below.|
 |Sélectionnez une langue dans la liste ci-dessous.|
 |Available Languages|
@@ -331,13 +321,13 @@
 |Open &License File|
 |Ouvrir le fic&hier de &licence|
 |Newline sequence:|
-|Séquence nouvelle ligne :|
+|Séquence nouvelle ligne:|
 |Windows newline sequence (\r\n)|
 |Séquence Windows (\r\n)|
 |Unix newline sequence (\n)|
 |Séquence Unix (\n)|
 |Clipboard auto-clear time (seconds):|
-|Temps d'auto-effacement du presse-papiers (secondes) :|
+|Temps d'auto-effacement du presse-papiers (secondes):|
 |Settings|
 |Préférences|
 |Here you can configure KeePass.|
@@ -379,7 +369,9 @@
 |Select &Font|
 |Sélectionnez la &police|
 |Select a new font for the list controls:|
-|Sélectionnez une nouvelle police pour les contrôles de la liste :|
+|Sélectionnez une nouvelle police pour les contrôles de la liste:|
+|Save current settings as password generator profile.|
+|Enregistrer les paramètres courants comme profil générateur de mots de passe.|
 |Code&Wallet TXT File...|
 |Fichier TXT 'Code&Wallet'...|
 |&TXT File...|
@@ -396,12 +388,14 @@
 |&Importer de|
 |&Get more languages...|
 |&Obtenir d'autres langues...|
-|Start and Exit|
+|Start and exit|
 |Démarrer et quitter|
 |Interface (GUI)|
 |Interface (IHM)|
 |Files|
 |Fichiers|
+|Show full path in the title bar (instead of file name only)|
+|Montrer les chemins complets dans la barre de titre (plutôt que le seul nom de fichier)|
 |Memory|
 |Mémoire|
 |Lock workspace when minimizing the main window|
@@ -409,7 +403,7 @@
 |Minimize to tray instead of taskbar|
 |Réduire dans la zone de notification au lieu de la barre des tâches|
 |Encryption algorithm to use (for this database):|
-|Algorithme de chiffrement à utiliser (pour cette base de mots de passe) :|
+|Algorithme de chiffrement à utiliser (pour cette base de mots de passe):|
 |Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
 |Advanced Encryption Standard (AES) (blocs de 128 bits, clé de 256 bits)|
 |Twofish (128-bit block cipher using 256-bit key)|
@@ -419,37 +413,39 @@
 |KeePass is OSI Certified Open Source Software.|
 |KeePass est un logiciel Open Source certifié OSI.|
 |Automatically lock workspace after the following number of seconds:|
-|Verrouiller automatiquement l'espace de travail après le nombre de secondes suivant :|
-|&Group Name|
+|Verrouiller automatiquement l'espace de travail après le nombre de secondes suivant:|
+|&Group name|
 |Nom de &groupe|
 |Every second row has a different background color. Use this color:|
-|Chaque ligne paire utilise une couleur de fond différente. Utilisez cette couleur :|
+|Chaque ligne paire utilise une couleur de fond différente. Utilisez cette couleur:|
 |Start KeePass at Windows startup (for current user)|
 |Démarrer KeePass au démarrage de Windows (pour l'utilisateur courant)|
+|Special|
+|Spécial|
 |Default|
 |Par défaut|
 |More Colors...|
 |Plus de couleurs...|
-|Search results|
-|Résultats de la recherche|
+|Search Results|
+|Résultats de la Recherche|
+|&Creation Time|
+|Date de &création|
 |Creation Time|
-|Date de création|
+|Heure de Création|
 |Last Modification|
 |Dernière modification|
 |Last Access|
 |Dernier accès|
+|&Last Access Time|
+|Heure du &Dernier accès|
 |Expires|
-|Date d'expiration|
+|Expire|
+|&Expiration Time|
+|Heure d'&Expiration|
+|UU&ID|
+|UU&ID|
 |UUID|
 |UUID|
-|Show &Creation Time Column|
-|Colonne Date de &création|
-|Show Last &Modification Time Column|
-|Colonne Dernière &modification|
-|Show &Last Access Time Column|
-|Colonne &Dernier accès|
-|Show UU&ID Column|
-|Colonne UU&ID|
 |Show &Toolbar|
 |Afficher la barre d'ou&tils|
 |Visit KeePass Homepage|
@@ -459,17 +455,17 @@
 |Overwrite?|
 |Ecraser ?|
 |Expires:|
-|Expire le :|
+|Expire le:|
 |&Delete Selected Entries|
 |&Détruire les entrées sélectionnées|
 |&Mass Modify (All Selected)...|
 |Modifier &toute la sélection...|
 |Change group:|
-|Changer le groupe :|
+|Changer le groupe:|
 |Change entry icon:|
-|Changer l'icône de l'entrée :|
+|Changer l'icône de l'entrée:|
 |Change expiration time:|
-|Changer la date d'expiration :|
+|Changer la date d'expiration:|
 |Mass Modify|
 |Modifier la sélection|
 |Change fields of all selected entries|
@@ -500,8 +496,6 @@
 |Assistant TAN|
 |Using this wizard you can easily add TAN entries.|
 |Avec cet assistant, vous pouvez facilement ajouter des entrées TAN.|
-|Just paste your TANs into the edit window below. Formatting doesn't really matter, all non-alphanumerical characters are ignored (i.e. newlines, tabs, spaces, etc...) and only alphanumerical 'substrings' are added as TAN entries.|
-|Collez simplement vos TANs dans la fenêtre d'édition ci-dessous. Le formatage n'a pas réellement d'importance, tout caractère non alphanumérique est ignoré (sauts de ligne, tabulations, espaces, etc.) et seules les chaînes alphanumériques sont ajoutées comme entrées TAN.|
 |<TAN>|
 |<TAN>|
 |&Print...|
@@ -512,14 +506,14 @@
 |A propos de la &traduction...|
 |Translation information|
 |Informations de traduction|
-|Currently used language|
-|Langue actuelle |
-|Language file version|
-|Version du fichier de langue |
+|Currently Used Language|
+|Langue Actuelle Utilisée|
+|Language File Version|
+|Version du Fichier language |
 |Author|
 |Auteur |
-|Translation author contact|
-|Contacter l'auteur |
+|Translation Author Contact|
+|Contacts du traducteur|
 |&Rearrange|
 |&Réorganiser|
 |&Sort Group List|
@@ -548,12 +542,12 @@
 |Déplacer le groupe vers la &droite|
 |Hide &User Names Behind Asterisks (***)|
 |Cacher les noms d'&utilisateurs avec des astérisques (***)|
-|Attachment:|
-|Attachement :|
 |Attachment|
 |Attachement|
-|Show &Attachment Column|
-|Colonne &Attachement|
+|Attachment:|
+|Attachement:|
+|&Attachment|
+|&Attachement|
 |Generate a random password...|
 |Générer un mot de passe aléatoire...|
 |Open file and set as attachment...|
@@ -577,7 +571,7 @@
 |&Open with KeePass|
 |&Ouvrir avec KeePass|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
-|Vous pouvez associer ici l'extension .kdb avec KeePass (pour que KeePass ouvre ces fichiers lors d'un double-clic) :|
+|Vous pouvez associer ici l'extension .kdb avec KeePass (pour que KeePass ouvre ces fichiers lors d'un double-clic):|
 |Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
 |Les fichiers .kdb ont été associés avec succès avec KeePass. Un double-clic sur un fichier .kdb démarrera KeePass automatiquement.|
 |Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
@@ -621,7 +615,7 @@
 |Click on an entry to jump to it.|
 |Cliquez sur une entrée pour y accéder.|
 |Quality:|
-|Qualité :|
+|Qualité:|
 |Database Settings|
 |Configuration de la base de mots de passe|
 |Here you can configure the current database.|
@@ -629,7 +623,7 @@
 |Database Summary|
 |Résumé de la base de mots de passe|
 |Number of key encryption rounds:|
-|Nombre de passes de chiffrement de la clé :|
+|Nombre de passes de chiffrement de la clé:|
 |bits|
 |bits|
 |Personal &Vault TXT File...|
@@ -641,7 +635,7 @@
 |Total number of groups / entries|
 |Nombre total de groupes / entrées|
 |Total: %u groups / %u entries|
-|Total : %u groupes / %u entrées|
+|Total: %u groupes / %u entrées|
 |%u of %u selected|
 |%u de %u sélectionnés|
 |Number of selected entries (number of entries in the list)|
@@ -687,7 +681,7 @@
 |An error occured|
 |Une erreur est survenue|
 |Application version:|
-|Version de l'application :|
+|Version de l'application:|
 |Auto-Type|
 |Saisie automatique|
 |Clipboard behavior:|
@@ -701,25 +695,25 @@
 |Encryption/decryption error|
 |Erreur de chiffrement/déchiffrement|
 |Enhanced: allow pasting only once and protect against clipboard spies|
-|Amélioré : permet de coller une seule fois et protège immédiatemment contre les logiciels espions|
+|Amélioré: permet de coller une seule fois et protège immédiatemment contre les logiciels espions|
 |Error code|
 |Code d'erreur|
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
 |Impossible de changer l'association pour l'extension .kbd. Assurez-vous d'avoir les droits pour écrire dans la base de registres et modifier les associations de fichiers.|
 |File access error: failed to open file in read mode|
-|Erreur d'accès fichier : impossible d'ouvrir le fichier en mode lecture|
+|Erreur d'accès fichier: impossible d'ouvrir le fichier en mode lecture|
 |File access error: failed to open file in write mode|
-|Erreur d'accès fichier : impossible d'ouvrir le fichier en mode écriture|
+|Erreur d'accès fichier: impossible d'ouvrir le fichier en mode écriture|
 |File error: error while reading from the file|
-|Erreur de fichier : erreur lors de la lecture du fichier|
+|Erreur de fichier: erreur lors de la lecture du fichier|
 |File error: error while writing to the file|
-|Erreur de fichier : erreur lors de l'écriture du fichier|
-|Get more plugins...|
-|Obtenir plus de plugins...|
+|Erreur de fichier: erreur lors de l'écriture du fichier|
+|Get More Plugins...|
+|Obtenir plus de Plugins...|
 |Global auto-type hot key combination:|
-|Touches de raccourci pour la saisie automatique :|
+|Touches de raccourci pour la saisie automatique:|
 |Help:|
-|Aide :|
+|Aide:|
 |Here you can configure all installed KeePass plugins.|
 |Vous pouvez configurer ici tous les plugins installés sur KeePass.|
 |Internal error|
@@ -743,7 +737,7 @@
 |Plugin|
 |Plugin|
 |Plugin has been designed for:|
-|Ce plugin est conçu pour :|
+|Ce plugin est conçu pour:|
 |Success|
 |Succès|
 |Therefore save all data before you continue.|
@@ -755,7 +749,7 @@
 |This plugin will be enabled after you restart KeePass.|
 |Ce plugin sera activé au prochain démarrage de KeePass.|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
-|Temps limite : copie les données dans le presse-papiers et les efface automatiquement après quelques secondes.|
+|Temps limite: copie les données dans le presse-papiers et les efface automatiquement après quelques secondes.|
 |Too few memory (RAM) available|
 |Trop peu de mémoire (RAM) disponible|
 |Unknown error|
@@ -786,8 +780,8 @@
 |Montrer les entrées expirées (s'il y en a)|
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!|
 |Impossible de créer/supprimer la clé de démarrage automatique de KeePass dans le registre de Windows.|
-|&Get more import plugins...|
-|&Obtenir plus de plugins d'import...|
+|&Get More Import Plugins...|
+|&Obtenir plus de Plugins d'Import...|
 |Encode/replace newline characters by '\n'|
 |Encoder/remplacer les caractères nouvelle ligne par '\n'|
 |Export Options|
@@ -813,7 +807,7 @@
 |3 Months|
 |3 mois|
 |By default, new entries expire in the following number of days:|
-|Par défaut, les nouvelles entrées expirent dans un délai en jours de :|
+|Par défaut, les nouvelles entrées expirent dans un délai en jours de:|
 |Calculate rounds for a 1-second delay on this computer|
 |Cycle de calcul pour un délai d'1 seconde sur cet ordinateur|
 |Cannot register the global hot key.|
@@ -866,12 +860,16 @@
 |Base de mots de passe &KeePass...|
 |Acknowledgements|
 |Remerciements|
+|Create a new password entry.|
+|Créer une nouvelle entrée de mot de passe.|
+|Create a new password group.|
+|Créer un nouveau groupe de mot de passe.|
 |Click [No] to set a new key for the exported file.|
 |Cliquez sur [Non] pour définir une nouvelle clé pour le fichier exporté.|
 |Click [Yes] to use the same key as the currently opened database.|
 |Cliquez sur [Oui] pour utiliser la même clé que celle de la base de mots de passe actuellement ouverte.|
-|Copy &URL To Clipboard|
-|Copier l'&URL dans le presse-papiers|
+|Copy &URL to Clipboard|
+|Copier l'&URL dans le Presse-Papiers|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
 |Copier les URLs dans le presse-papiers plutôt que de les ouvrir (exception pour les URLs cmd://)|
 |Create new IDs|
@@ -890,18 +888,24 @@
 |Ecraser|
 |Overwrite if newer|
 |Ecraser si plus récent|
+|Choose an icon from the list of available entry and group icons.|
+|Choisir une icône dans la liste des entrées disponible et icônes de groupe.|
+|Choose an icon.|
+|Choisir une icône.|
 |Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
 |Veuillez choisir si KeePass doit utiliser la clé de la base de mots de passe actuellement ouverte ou vous demander de définir une nouvelle clé pour chiffrer le fichier exporté.|
 |Reuse the current key/password?|
 |Réutiliser la paire clé/mot de passe actuelle ?|
-|Show full path in the titlebar (instead of filename only)|
-|Afficher le chemin complet dans la barre de titre (plutôt que le nom seul)|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
 |Le format du fichier sélectionné pour l'import supporte les IDs de groupe et/ou d'entrée. Veuillez choisir un comportement d'import.|
 |&Help|
 |&Aide|
 |&Help Contents|
 |&Sommaire de l'aide|
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+|Collez simplement vos TANs dans la fenêtre d'édition ci-dessous. Le formatage n'a pas réellement d'importance, tout caractère non TAN est ignoré et seules les sous chaînes TANs sont ajoutées comme entrées TAN.|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+|Le fichier d'aide contient les informations détaillées a propos des formats d'entrée attendue. Voulez-vous ouvrir le fichier d'aide?|
 |&Tools|
 |&Outils|
 |Auto-Type Entry Selection|
@@ -916,18 +920,22 @@
 |Quitter le programme au lieu de verrouiller l'espace de travail après la durée spécifiée|
 |Multiple entries exist for the current window. Please select the entry to auto-type.|
 |Des entrées multiples existent dans la fenêtre courante. Veuillez sélectionner l'entrée à utiliser pour la saisie automatique.|
+|TANs consist of the following characters:|
+|TANs comprend les caractères suivants:|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+|Veuillez entrer un nom pour le nouveau profil de générateur de mots de passe, ou sélectionner un profil existant pour le remplacer:|
 |Now|
 |Maintenant|
 |Open the file in read-only mode?|
 |Ouvrir le fichier en mode lecture seule ?|
-|Show TAN &Indices In Entry Titles|
-|Montrer les &indices TAN dans le titre des entrées|
+|Show TAN &Indices in Entry Titles|
+|Montrer les &Indices TAN dans le Titre des Entrées|
 |TAN View &Options|
 |&Options d'affichage TAN|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
 |Le fichier que vous tentez d'utiliser est verrouillé, ce qui signifie que quelqu'un a déjà ouvert ce fichier et le modifie.|
-|Use &Simple List View For TAN-Only Groups|
-|Utilisez la vue Liste &simple pour les groupes TAN uniquement|
+|Use &Simple List View for TAN-Only Groups|
+|Utilisez la vue Liste &Simple pour les Groupes TAN Uniquement|
 |'Keyfile' or 'preselect' option is already specified|
 |L'option 'Fichier de clés' ou 'Présélection' est déja spécifiée|
 |'Pw' option is already specified|
@@ -935,11 +943,15 @@
 |Cache error (cannot open cached file).|
 |Erreur de cache (impossible d'ouvrir le fichier de cache).|
 |Check For Update|
-|Vérifier les mises à jour|
+|Vérifier les Mises à Jour|
+|Check for Update|
+|Vérifier les Mises à jour|
 |Check for update at KeePass startup|
 |Vérifier les mises à jour au démarrage de KeePass|
 |Command line argument|
 |Arguments de la ligne de commande|
+|Arguments|
+|Arguments|
 |Connect failed, cannot check for update.|
 |Erreur de connexion, impossible de vérifier les mises à jour.|
 |Database is already specified|
@@ -992,8 +1004,6 @@
 |Attention, le titre de l'application est fourni par l'application appelante et peut donc être incorrecte (un programme malveillant peut tenter d'accéder à votre base de données).|
 |Select the fields KeePass should remember|
 |Selectionner les champs que KeePass doit retenir|
-|Show &Expiration Time Column|
-|Colonne Date d'&Expiration |
 |The following application requests access to your currently opened KeePass database:|
 |L'application suivante demande d'accéder à la base de données KeePass actuellement ouverte:|
 |The group you selected cannot store entries. Please select a different group.|
@@ -1010,14 +1020,12 @@
 |Cliquez sur [Non] pour réutiliser le fichier clé sélectionné pour cette base de mots de passe.|
 |Enter Composite Master Key|
 |Saisir votre clé composite  principale|
-|&Use Master Password AND Key File|
-|&Utilisez Mot de Passe Principal et Fichier Clé|
-|Upper-Case (A, B, C, ...)|
+|&Use master password and key file|
+|&Utilisez mot de passe principal et fichier clé|
+|Upper-case (A, B, C, ...)|
 |Majuscules (A, B, C, ...)|
 |Space ( )|
 |Espace ( )|
-|Special (!, §, $, %, &&, ...)|
-|Spéciaux (!, §, $, %, &&, ...)|
 |URL Field Features|
 |Fonctionalités champ URL|
 |Text Files|
@@ -1028,30 +1036,32 @@
 |Mot de passe principal:|
 |Key File:|
 |Fichier Clé:|
+|Save current settings as a profile.|
+|Enregistrer les paramètres actuels comme profil.|
+|Randomly permute characters of password|
+|Permuter aléatoirement les caractères du mot de passe|
 |Minus (-)|
 |Moins (-)|
 |Open Database|
 |Ouvrir Base de données|
 |(Custom)|
 |(Personalisé)|
-|<No Key File Selected>|
-|<Aucun Fichier Clé Sélectionné>|
+|(No key file selected)|
+|(Aucun fichier clé sélectionné)|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
 |Un fichier clé est déjà présent sur ce disque. Voulez vous l'écraser ou le réutiliser?|
 |All Files|
 |Tous Fichiers|
-|Generate Using Character Set:|
-|Générer en utilisant les Jeux de Caractères:|
-|Generate Using Pattern:|
-|Générer  en utilisant les Motifs:|
-|Generated Password|
+|Generate using character set:|
+|Générer en utilisant les jeux de caractères:|
+|Generate using pattern:|
+|Générer  en utilisant les motifs:|
+|Generated password|
 |Mot de passe généré|
-|Length Of Generated Password:|
-|Longueur du Mot de Passe Généré:|
-|Lower-Case (a, b, c, ...)|
+|Length of generated password:|
+|Longueur du mot de passe généré:|
+|Lower-case (a, b, c, ...)|
 |Minuscule (a, b, c, ...)|
-|Password Generation Profile|
-|Profil de Génération de Mot de Passe|
 |Password Generator|
 |Générateur de Mot de Passe|
 |Repeat Master Password|
@@ -1066,42 +1076,42 @@
 |Saisir une clé composite principale.|
 |Enter the new composite master key.|
 |Saisir une nouvelle clé composite principale.|
-|Exclude Look-Alike Characters|
-|Exclure les Caractères Similaires|
+|Exclude look-alike characters|
+|Exclure les caractères similaires|
 |(Automatically generated passwords for new entries)|
 |(Mot de passe généré automatiquement pour les nouvelles entrées)|
-|Also Include the Following Characters:|
-|Inclure Egalement les Caractères Suivants:|
+|Hide passwords behind asterisks (***).|
+|Cacher les mots de passe par des asterix (***).|
+|Also include the following characters:|
+|Inclure également les caractères suivants:|
 |Attachment Description|
 |Description de l'attachement|
 |Change Composite Master Key|
 |Modifier la Clé Composite Pricipale|
 |Click [Yes] to overwrite the key file.|
 |Cliquer [Oui] pour écraser le fichier clé.|
-|Collect &Entropy (recommended for strong passwords)|
-|Collecter l'&Entropie (recommendée pour mots de passe forts)|
+|Collect &entropy (recommended for strong passwords)|
+|Collecter l'&entropie (recommendée pour mots de passe forts)|
 |Create New Password Database|
 |Créer une Nouvelle Base de Mots de Passe|
-|Create profile from current settings|
-|Créer un profil à partir des options courantes|
-|Current Settings|
-|Options Courantes|
-|Delete selected profile|
-|Détruire le profil sélectionné|
+|Current settings|
+|Options courantes|
+|Delete currently selected profile.|
+|Détruire le profil courant sélectionné|
 |Here you can generate a random password.|
 |Vous pouvez générer ici un mot de passe aléatoire.|
-|High ANSI Characters|
-|Caractères ANSI Hauts|
+|High ANSI characters|
+|Caractères ANSI hauts|
 |KeePass Password Safe Files|
 |Fichier KeePass Password Safe|
 |Repeat the master password for the new database.|
 |Confirmer le mot de passe principal pour la nouvelle base.|
 |Repeat the new master password for this database.|
 |Confirmer le mot de passe principal pour cette base.|
-|Save Key File Manually To...|
-|Enregistrer Manuellement le Fichier Sous...|
-|Select Key File Manually...|
-|Selectionner le Fichier Clé Manuellement...|
+|Save key file manually to...|
+|Enregistrer manuellement le fichier sous...|
+|Select key file manually...|
+|Selectionner le fichier clé manuellement...|
 |Set Composite Master Key|
 |Définir la Clé Composite Principale|
 |Specify the composite master key.|
