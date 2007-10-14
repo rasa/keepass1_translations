@@ -1,52 +1,50 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.08|
+|~LANGUAGEVERSION|             |1.09|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
-|&OK|                          |&OK|
-|&Cancel|                      |&Отмена|
-|&Close|                       |&Закрыть|
-|Password Safe|                |База паролей|
+|&OK|           |&OK|
+|&Cancel|       |&Отмена|
+|&Close|        |&Закрыть|
+|Password Safe| |База паролей|
 
 |&Generate Random Password|    |&Генерация случайного пароля|
-|&Pick One|                    |&Выбрать|
-|&Gen|                         |&Ген|
+|&Gen|          |&Ген|
 
-|General|                      |Общие|
-|Windows|                      |ОС|
-|Network|                      |Сеть|
-|Internet|                     |Интернет|
-|eMail|                        |Почта|
-|Homebanking|                  |Счета|
+|General|       |Общие|
+|Windows|       |ОС|
+|Network|       |Сеть|
+|Internet|      |Интернет|
+|eMail|         |Почта|
+|Homebanking|   |Счета|
 
-|Entry|                        |Запись|
+|Entry|         |Запись|
 
-|&Title|                       |&Названий|
-|User &Name|                   |&Имен|
-|&URL|                         |&Ссылок|
-|&Password|                    |&Паролей|
-|N&otes|                       |&Комментариев|
-|&Case sensitive|              |&Различать регистр|
-|Search in|                    |Искать среди|
-|Search this text:|            |Искать текст:|
-|Find|                         |Поиск|
-|&Find|                        |&Поиск|
-|Find a string in the password list|           |Поиск строки в списке паролей|
-|Find text in password list|   |Поиск текста в списке паролей|
+|&Title|          |&Название|
+|User &Name|      |&Имя|
+|&URL|            |&Ссылка|
+|&Password|       |&Пароль|
+|N&otes|          |&Комментарий|
+|&Case sensitive| |&Различать регистр|
+|Search in|       |Искать среди|
+|Find what:|      |Искать текст:|
+|Find|            |Поиск|
+|&Find|           |&Поиск|
+|Find a string in the password list.| |Поиск строки в списке паролей.|
 
-|About KeePass...|             |О программе...|
+|About KeePass...| |О программе...|
 
-|Password Groups|              |Группы паролей|
-|Title|                        |Название|
-|User Name|                    |Имя|
-|URL|                          |Ссылка|
-|Password|                     |Пароль|
-|Notes|                        |Комментарии|
+|Password Groups|  |Группы паролей|
+|Title|            |Название|
+|User Name|        |Имя|
+|URL|              |Ссылка|
+|Password|         |Пароль|
+|Notes|            |Комментарии|
 
-|Ready.|                       |Готов.|
+|Ready.|           |Готов.|
 
 |Enter the composite master key.| |Введите составной пароль.|
-|Enter Password:|              |Введите пароль:|
+|Enter Password:|  |Введите пароль:|
 
 |Create New Password Database| |Создание новой базы паролей|
 |Set Composite Master Key|     |Ввод составного пароля|
@@ -59,69 +57,68 @@
 |Master Password:|             |Основной пароль:|
 |Enter Composite Master Key|   |Введите составной пароль|
 |Key File:|                    |Файл с паролем:|
-|<No Key File Selected>|       |<Файл с паролем не выбран>|
+|(No key file selected)|       |<Файл с паролем не выбран>|
 
 |Password Generator|              |Генератор паролей|
 |Here you can generate a random password.|
     |Здесь можно сгенерировать случайный пароль.|
-|Password Generation Profile|     |Профиль генератора паролей|
 |(Automatically generated passwords for new entries)|
     |(Авто-сгенерированные пароли для новых записей)|
 |(Custom)|                        |(Пользовательский)|
-|Create profile from current settings|
-    |Создать провиль на основе текущих настроек|
-|Delete selected profile|         |Удалить выбранный профиль|
-|Current Settings|                |Текущие настройки|
-|Generate Using Character Set:|   |Использовать наборы символов:|
-|Length Of Generated Password:|   |Длина сгенерированного пароля:|
-|Generate Using Pattern:|         |Использовать шаблон:|
-|Exclude Look-Alike Characters|   |Исключать похожие символы|
+|Save current settings as a profile.|
+    |Сохранить текущие настройки как профиль.|
+|Delete currently selected profile.| |Удалить выбранный профиль.|
+|Current settings|                |Текущие настройки|
+|Generate using character set:|   |Использовать наборы символов:|
+|Length of generated password:|   |Длина сгенерированного пароля:|
+|Generate using pattern:|         |Использовать шаблон:|
+|Exclude look-alike characters|   |Исключать похожие символы|
 |Options|                         |Настройки|
-|Also Include the Following Characters:|
+|Also include the following characters:|
     |Также использовать следующие символы:|
-|Collect &Entropy (recommended for strong passwords)|
-    |Сбор &Энтропии (рекомендуется для большей устойчивости паролей)|
-|Generated Password|              |Сгенерированный пароль|
+|Collect &entropy (recommended for strong passwords)|
+    |Сбор &энтропии (рекомендуется для большей устойчивости паролей)|
+|Generated password|              |Сгенерированный пароль|
 |&Generate|                       |&Генерация|
 |&Accept|                         |&Принять|
-|Upper-Case (A, B, C, ...)|       |Заглавные (A, B, C, ...)|
-|Lower-Case (a, b, c, ...)|       |Строчные (a, b, c, ...)|
+|Upper-case (A, B, C, ...)|       |Заглавные (A, B, C, ...)|
+|Lower-case (a, b, c, ...)|       |Строчные (a, b, c, ...)|
 |Digits (0, 1, 2, ...)|           |Цифры (0, 1, 2, ...)|
 |Underline (_)|                   |Подчеркивание (_)|
 |Minus (-)|                       |Минус (-)|
 |Space ( )|                       |Пробел ( )|
-|Special (!, §, $, %, &&, ...)|   |Спецсимволы (!, §, $, %, &&, ...)|
-|High ANSI Characters|            |Верхние ANSI-символы|
+|Special|                         |Спецсимволы|
+|High ANSI characters|            |Верхние ANSI-символы|
 |Brackets ([, ], {, }, (, ), <, >)|
     |Скобки ([, ], {, }, (, ), <, >)|
 |There are too few characters in the character set to build up a password matching the specified rules|
     |Недостаточно символов для генерации пароля, соответствующего указанным правилам|
 
-|Group:|                       |Группа:|
-|Title:|                       |Название:|
-|User Name:|                   |Имя:|
-|URL:|                         |Ссылка:|
-|Icon:|                        |Значок:|
-|Password:|                    |Пароль:|
-|Repeat Password:|             |Повтор:|
-|Notes:|                       |Комментарии:|
-|***|                          |***|
+|Group:|     |Группа:|
+|Title:|     |Название:|
+|User name:| |Имя:|
+|URL:|       |Ссылка:|
+|Icon:|      |Значок:|
+|Password:|  |Пароль:|
+|Repeat:|    |Повтор:|
+|Notes:|     |Комментарии:|
+|***|        |***|
 
 |Add Entry|                    |Добавить запись|
-|Add a new password entry|     |Добавить новую запись с паролем|
+|Create a new password entry.| |Создать новую запись с паролем.|
 |Edit Entry|                   |Изменить запись|
-|Modify a password entry|      |Изменить запись с паролем|
+|Modify existing password entry.| |Изменить запись с паролем|
 
-|Group Name:|                  |Имя группы:|
+|Group name:|                  |Имя группы:|
 
 |Add Group|                    |Добавить группу|
-|Add a new password group|     |Добавить новую группу для паролей|
+|Create a new password group.| |Создать новую группу для паролей.|
 |Edit Group|                   |Изменить группу|
-|Modify a password group|      |Изменить группу для паролей|
+|Modify existing password group.| |Изменить группу для паролей.|
 
 |Random mouse input|           |Случайные движения мышью|
 |Click to begin:|              |Начать:|
-|Use &Mouse As Random Source|  |&Использовать мышь|
+|Use &Mouse as Random Source|  |&Использовать мышь|
 |Move the mouse in the field above until this is full:|
     |Двигайте мышью до окончания процесса:|
 |Hint: It is best to use both mouse and keyboard random sources.|
@@ -133,17 +130,17 @@
     |Запоминать введеные символы не надо. Они нужны только для генерации случайного числа.|
 |So, the more the better. The different, the better.|
     |Так что побольше и поразнообразнее.|
-|The random the better.|       THIS ISN'T A ONE-TO-ONE TRANSLATION!
+|The random the better.|
     |И чем случайнее, тем лучше.|
 |Get Random|                   |Получение случайности|
-|Get random data for key generation|           |Получение случайности для генерации пароля|
+|Get Random Data for Key Generation| |Получение случайности для генерации пароля|
 |Move the mouse and type some random text to generate random values.|
     |Подвигайте мышью и введите случайный текст для генерации случайных чисел.|
 
-|Pick an icon|           |Выбор значка|
+|Choose an icon.|        |Выберите значок.|
 |Pick an Icon|           |Выбор значка|
-|Pick an icon from the list and click OK to set it.|
-    |Выберите значок из списка и нажмите OK для его установки.|
+|Choose an icon from the list of available entry and group icons.|
+    |Выберите значок из списка доступных значков для записей и групп.|
 
 |&File|                  |&Файл|
 |&Edit|                  |&Изменить|
@@ -174,32 +171,28 @@
 |Export Group To &XML...|      |Экспортировать группу в &XML...|
 |Export Group To &CSV...|      |Экспортировать группу в &CSV...|
 |Export Group To &TXT...|      |Экспортировать группу в &TXT...|
-|Copy User &Name To Clipboard| |Скопировать &имя пользователя в буфер обмена|
-|Copy &Password To Clipboard|  |Скопировать &пароль в буфер обмена|
+|Copy User &Name to Clipboard| |Скопировать &имя пользователя в буфер обмена|
+|Copy &Password to Clipboard|  |Скопировать &пароль в буфер обмена|
 |Open &URL(s)|                 |Открыть &ссылку(и)|
-|&Find In Database...|         |П&оиск по базе паролей...|
-|Find In T&his Group...|       |Поис&к по группе...|
+|&Find in Database...|         |П&оиск по базе паролей...|
+|Find in t&his Group...|       |Поис&к по группе...|
 |&Add Entry...|                |Добавить &запись...|
 |&Edit/View Entry...|          |Изменить/просмотреть з&апись...|
 |&Delete Entry|                |Уда&лить запись|
 |Dupli&cate Entry|             |Проду&блировать запись|
-|Move Entry To &Top|           |Переместить в самый верх|
-|Move Entry &One Up|           |Переместить на одну позицию вверх|
-|Mo&ve Entry One Down|         |Переместить на одну позицию вниз|
-|Move Entry To &Bottom|        |Переместить в самый низ|
+|Move Entry to &Top|           |Переместить запись в начало|
+|Move Entry &One Up|           |Переместить запись вверх|
+|Mo&ve Entry One Down|         |Переместить запись вниз|
+|Move Entry to &Bottom|        |Переместить запись в конец|
 
-|Move Group To &Top|           |Переместить в самый верх|
-|Move Group One &Up|           |Переместить на одну позицию вверх|
-|Move Group &One Down|         |Переместить на одну позицию вниз|
-|Move Group To &Bottom|        |Переместить в самый низ|
+|Move Group to &Top|           |Переместить группу в начало|
+|Move Group One &Up|           |Переместить группу вверх|
+|Move Group &One Down|         |Переместить группу вниз|
+|Move Group to &Bottom|        |Переместить группу в конец|
 
 |Change &Language...|          |Изменить &язык...|
-|Show &Title Column|           |Показывать столбец &назавания|
-|Show User &Name Column|       |Показывать столбец &имени пользователя|
-|Show &URL Column|             |Показывать столбец &ссылки|
-|Show &Password Column|        |Показывать столбец &пароля|
-|Show Note&s Column|           |Показывать столбец &комментариев|
-|&Always On Top|               |&Всегда наверху|
+|User &name|                   |&Имя|
+|&Always on Top|               |&Всегда наверху|
 |Hide &Passwords Behind Asterisks (***)|       |Показывать (***) вместо &пароля|
 
 |Password &Generator...|       |Г&енератор паролей...|
@@ -273,8 +266,8 @@
 |Cannot open temporary file for printing!|
     |Невозможно открыть временный файл для печати!|
 
-|Load language file|           |Загрузка языкового файла|
-|Load a language file|         |Загрузка языкового файла|
+|Load Language File|           |Загрузка языкового файла|
+|Load a Language File|         |Загрузка языкового файла|
 |Select one of the languages in the list below.|
     |Выберите один из языков из списка ниже.|
 |Available Languages|          |Доступные языки|
@@ -336,7 +329,7 @@
 |&Import From|                 |И&мпортировать используя|
 
 |&Get more languages...|       |&Больше языков...|
-|Start and Exit|               |Запуск и выход|
+|Start and exit|               |Запуск и выход|
 |Interface (GUI)|              |Интерфейс|
 |Files|                        |Файлы|
 |Memory|                       |Память|
@@ -355,12 +348,12 @@
     |KeePass - OSI сертифицированное приложение с открытым кодом.|
 |Automatically lock workspace after the following number of seconds:|
     |Автоматически блокировать базу через (секунд):|
-|&Group Name|                  |&Названий групп|
+|&Group name|                  |&Названий групп|
 |Every second row has a different background color. Use this color:|
     |Каждая вторая строка имеет другой цвет фона. Использовать цвет:|
 |Default|                      |По усолчанию|
 |More Colors...|               |Больше цветов...|
-|Search results|               |Поиск результатов|
+|Search Results|               |Результаты поиска|
 
 |Creation Time|     |Создание|
 |Last Modification| |Изменение|
@@ -368,11 +361,11 @@
 |Expires|           |Окончание|
 |UUID|              |Идентификатор|
 
-|Show &Creation Time Column|          |Показывать столбец &времени создания|
-|Show Last &Modification Time Column| |Показывать столбец времени последнего и&зменения|
-|Show &Last Access Time Column|       |Показывать столбец времени последнего п&росмотра|
-|Show &Expiration Time Column|        |Показывать столбец времени &окончания действия|
-|Show UU&ID Column|                   |Показывать столбец ид&ентификатора|
+|&Creation Time|          |&Время создания|
+|Last &Modification Time| |Время и&зменения|
+|&Last Access Time|       |Время п&росмотра|
+|&Expiration Time|        |&Окончание действия|
+|UU&ID|                   |Ид&ентификатор|
 
 |Show &Toolbar|                |Показывать панель &управления|
 |Visit KeePass Homepage|       |Перейти на домашнюю страницу KeePass|
@@ -407,18 +400,18 @@
 |Using this wizard you can easily add TAN entries.|
     |Этот "мастер" предназначен для упрощенного добавления TAN записей.|
 
-|Just paste your TANs into the edit window below. Formatting doesn't really matter, all non-alphanumerical characters are ignored (i.e. newlines, tabs, spaces, etc...) and only alphanumerical 'substrings' are added as TAN entries.|
-    |Просто вставьте ваши TANы в область редактирования ниже. Форматирование не имеет значения, все не буквенно-цифровые символы игнорируются (например, перевод строки, табуляция и т.д.) и только буквенно-цифровые последовательности добавляются как TAN записи.|
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+    |Вставьте ваши TANы в область редактирования ниже. Символы, явно не указанные как TAN символы, считаются разделителями. Только подстроки, состоящие из TAN символов, будут добавлены как TAN записи.|
 
 |<TAN>|                        |<TAN>|
 |Print Pre&view...|            |Предварительный &просмотр...|
 
 |About &Translation...|        |О &переводе...|
 |Translation information|      |Информация о переводе|
-|Currently used language|      |Текущий язык|
-|Language file version|        |Версия языкового файла|
+|Currently Used Language|      |Текущий язык|
+|Language File Version|        |Версия языкового файла|
 |Author|                       |Автор|
-|Translation author contact|   |Адрес переводчика|
+|Translation Author Contact|   |Адрес переводчика|
 |&Rearrange|                   |Пор&ядок|
 |&Sort Group List|             |&Сортировать список групп|
 |Sort List By &Title|          |Сортировать по &названию|
@@ -434,9 +427,9 @@
 |Move Group One &Right|        |Переместить на уровень в&право|
 
 |Hide &User Names Behind Asterisks (***)|  |Показывать (***) вместо &имени пользователя|
-|Attachment:|                  |Файл:|
-|Attachment|                   |Файл|
-|Show &Attachment Column|      |Показывать столбец присоединенных &файлов|
+|Attachment:| |Файл:|
+|Attachment|  |Файл|
+|&Attachment| |Присоединенные &файлы|
 
 |Generate a random password...|           |Генерация случайного пароля...|
 |Open file and set as attachment...|      |Открыть файл и присоединить...|
@@ -523,8 +516,8 @@
 |Perform Auto-&Type|                      |Начать а&втонабор|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
     |Автосортировка списка паролей включена - вы не можете сортировать записи вручную.|
-|Select Key File Manually...|             |Выберите файл с паролем вручную...|
-|Save Key File Manually To...|            |Сохранить файл с паролем вручную как...|
+|Select key file manually...|             |Выберите файл с паролем вручную...|
+|Save key file manually to...|            |Сохранить файл с паролем вручную как...|
 |Enter the new composite master key.|     |Введите новой составной пароль.|
 |Repeat the new master password for this database.|
     |Повторите ввод нового пароля для текущей базы паролей.|
@@ -551,7 +544,7 @@
 |File access error: failed to open file in write mode|  |Ошибка доступа к файлу: невозможно открыть файл в режиме записи|
 |File error: error while reading from the file|         |Файловая ошибка: ошибка во время чтения из файла|
 |File error: error while writing to the file|           |Файловая ошибка: ошибка во время записи в файл|
-|Get more plugins...|  |Найти больше модулей...|
+|Get More Plugins...|  |Получить больше модулей...|
 |Global auto-type hot key combination:|                 |Глобальная "горячая" клавиша для автонабора:|
 |Help:|                |Справка:|
 |Here you can configure all installed KeePass plugins.| |Здесь вы можете настроить все установленные подключаемые модули для KeePass.|
@@ -589,7 +582,7 @@
     |Вы можете установить другую "горячую" клавишу в "Изменить - Настройки - Настройки".|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
     |Вы выбрали режим "и" для ввода пароля, поэтому вы должны ввести пароль И выбрать файл с паролем.|
-|&Use Master Password AND Key File| |&Использовать пароль + файл с паролем|
+|&Use master password and key file| |&Использовать пароль + файл с паролем|
 |cannot be loaded!|         |не может быть загружен!|
 
 |Advanced| |Расширенные|
@@ -609,7 +602,7 @@
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!|
     |Невозможно создать/удалить запить в реестре для автоматического старта KeePass!|
 
-|&Get more import plugins...| |&Новые модули после скачивания...|
+|&Get More Import Plugins...| |&Получить больше модулей импорта...|
 |Encode/replace newline characters by '\n'|  |Изменять символ перевода строки на '\n'|
 |Export Options|   |Настройки экспорта|
 |Export backup entries (entries in the 'Backup' group)| |Экспортировать резервные записи (из группы "Резервирование")|
@@ -664,7 +657,7 @@
 |Click [No] to set a new key for the exported file.|                |Нажмите [Нет] чтобы установить новый основной пароль для экспортируемого файла.|
 |Reuse the current key/password?| |Использовать текущий основной пароль?|
 |Export Group To &KeePass Database...| |Экспортировать группу в базу паролей &KeePass...|
-|Show full path in the titlebar (instead of filename only)| |Показывать полный путь в заголовке (вместо только имени файла)|
+|Show full path in the title bar (instead of file name only)| |Показывать полный путь в заголовке (вместо только имени файла)|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
     |Формат импортируемого файла поддерживает идентификаторы для групп и/или записей. Выберите режим импортирования.|
 |Create new IDs|     |Создавать новые идентификаторы|
@@ -677,7 +670,7 @@
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
     |KeePass сравнит время последнего изменения группы/записи и заменит существующие только если импортируемые более новые.|
 
-|Copy &URL To Clipboard| |Скопировать &ссылку в буфер обмена|
+|Copy &URL to Clipboard| |Скопировать &ссылку в буфер обмена|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
     |Копировать ссылки в буфер обмена вместо их открытия (за исключением cmd://)|
 |Disable all auto-type features| |Запрещать все возможности автонабора|
@@ -693,11 +686,11 @@
 |Multiple entries exist for the current window. Please select the entry to auto-type.| |Существует несколько подходящих записей для текущего окна. Пожалуйста, выберите запись для автонабора.|
 |Now| |Сейчас|
 |Open the file in read-only mode?| |Открыть файл в режиме чтения?|
-|Show TAN &Indices In Entry Titles| |Показывать TAN &индексы в заголовке записи|
+|Show TAN &Indices in Entry Titles| |Показывать TAN &индексы в заголовке записи|
 |TAN View &Options| |О&тображение TAN|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
     |Файл, который вы пытаетесь открыть, заблокирован, т.е. этот файл открыт на редактирование из другой программы.|
-|Use &Simple List View For TAN-Only Groups| |&Использовать простой список при отображении групп, содержащих только TAN|
+|Use &Simple List View for TAN-Only Groups| |&Использовать простой список при отображении групп, содержащих только TAN|
 
 |'Keyfile' or 'preselect' option is already specified| |'Keyfile' или 'preselect' опция уже задана|
 |'Pw' option is already specified| |'Pw' опция уже задана|
@@ -749,3 +742,18 @@
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
     |Убедитесь, что носитель файла с паролем вставлен и что у KeePass есть нужные права доступа (проверьте права доступа к файлу, убедитесь, что другие приложения не блокируют файл, ...).|
 |URL Field Features| |Возможности поля Ссылка|
+
+|Arguments| |Аргументы|
+|Check for Update| |Проверить обновление|
+|Failed to save the configuration.| |Ошибка при сохранении конфигурации.|
+|Hide passwords behind asterisks (***).| |Показывать (***) вместо пароля|
+|Locked| |Заблокировано|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+    |Пожалуйста введите имя нового профиля или выберите существующий профиль, чтобы переписать его:|
+|Profile| |Профиль|
+|Randomly permute characters of password| |Случайно перемешать символы пароля|
+|Save as Profile| |Сохранить как профиль|
+|Save current settings as password generator profile.| |Сохранить текущие настройки как профиль.|
+|TANs consist of the following characters:| |TANы состоят из следующий символов:|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+    |Файл справки содержит подробную информацию об ожидаемом формате ввода. Вы хотите открыть справку?|
