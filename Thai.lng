@@ -379,7 +379,7 @@
 |Select one of the languages in the list below.|
 |เลือกภาษาจากรายการด้านล่าง|
 |Available Languages|
-|ภาษาที่ใช้ได้|
+|ภาษาที่มีให้|
 |&Help|
 |&วิธีใช้|
 |&Help Contents|
@@ -647,15 +647,16 @@
 |&Open with KeePass|
 |เ&ปิดด้วย KeePass|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
-|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
+|ที่นี่คุณสามารถทำให้แฟ้ม .kdb กับ KeePass รู้จักกัน (ดังนั้นโปรแกรม KeePass จะเปิดแฟ้มเมื่อดับเบิลคลิกที่แฟ้ม):|
 |Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
-|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
+|ตอนนี้โปรแกรม KeePass ได้รู้จักแฟ้ม .kdb อย่างสมบูรณ์แล้ว! เมื่อดับเบิลคลิกบนแฟ้ม .kdb  โปรแกรม KeePass จะเริ่มต้นโดยอัตโนมัติ!|
 |Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
-|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
+|ลบการเกี่ยวข้องอย่างสมบูรณ์! KeePass จะไม่เริ่มต้นอีกแล้ว เมื่อดับเบิลคลิกที่แฟ้ม .kdb!|
 |Create &Association|
-|Create &Association|
+|สร้าง&การเกี่ยวข้อง|
 |&Remove Association|
-|&Remove Association|
+|&ลบการเกี่ยวข้อง|
+|Setup|
 |Setup|
 |ติดตั้ง|
 |Password List|
@@ -835,11 +836,11 @@
 |Global auto-type hot key combination:|
 |Global auto-type hot key combination:|
 |Cannot register the global hot key.|
-|Cannot register the global hot key.|
+|ไม่สามารถลงทะเบียนคีย์ลัดแบบ global|
 |Most probably another application has reserved this hot key already.|
 |Most probably another application has reserved this hot key already.|
 |You can choose a different hot key combination in 'Tools - Options - Setup'.|
-|You can choose a different hot key combination in 'Tools - Options - Setup'.|
+|คุณสามารถเลือกคีย์ลัดเป็นคีย์อื่นได้โดยไปที่ 'เครื่องมือ - ตัวเลือก - ติดตั้ง'|
 |&Use master password and key file|
 |&ใช้ทั้งรหัสผ่านหลักและคีย์ไฟล์|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
@@ -873,7 +874,7 @@
 |Show expired entries (if any)|
 |แสดงรายการที่หมดอายุ(ถ้ามี)|
 |Show entries that will expire soon (if any)|
-|Show entries that will expire soon (if any)|
+|แสดงรายการที่ใกล้จะหมดอายุ (ถ้ามี)|
 |Integration|
 |Integration|
 |Start KeePass at Windows startup (for current user)|
@@ -883,7 +884,7 @@
 |Backup|
 |สำรองข้อมูล|
 |Save backups of modified entries into the 'Backup' group|
-|Save backups of modified entries into the 'Backup' group|
+|บันทึกการสำรองข้อมูลของรายการที่แก้ไขเข้าไปในกลุ่ม 'สำรองข้อมูล'|
 |Failed to create backup of this entry!|
 |Failed to create backup of this entry!|
 |The composite master key has been changed!|
@@ -909,7 +910,7 @@
 |Field has been pasted.|
 |Field has been pasted.|
 |Waiting for paste command.|
-|Waiting for paste command.|
+|รอการวางคำสั่ง|
 |Paste operation completed.|
 |Waiting for paste command.|
 |Limit to single instance|
@@ -921,11 +922,11 @@
 |Single left click instead of double-click for default tray icon action|
 |Single left click instead of double-click for default tray icon action|
 |Exclude entries in the '&Backup' group|
-|Exclude entries in the '&Backup' group|
+|ไม่รวมรายการในกลุ่ม '&สำรองข้อมูล'|
 |By default, new entries expire in the following number of days:|
-|By default, new entries expire in the following number of days:|
+|โดยปรกติ, รายการใหม่จะหมดอายุใน ...วัน:||
 |Click to expire the entry in %u days|
-|Click to expire the entry in %u days|
+|คลิกเพื่อกำหนดเวลาหมดอายุของรายการใน %u วัน|
 |Calculate rounds for a 1-second delay on this computer|
 |Calculate rounds for a 1-second delay on this computer|
 |The program is distributed under the terms of the GNU General Public License v2 or later.|
@@ -943,17 +944,17 @@
 |1 Year|
 |1 ปี|
 |Include backup entries in quick searches (toolbar)|
-|Include backup entries in quick searches (toolbar)|
+|รวมถึงรายการในสำรองเมื่อค้นหาแบบรวดเร็ว (แถบเครื่องมือ)|
 |&Donate...|
 |&บริจาค...|
 |Use alternative auto-type method (minimize window)|
 |Use alternative auto-type method (minimize window)|
 |Delete all backup entries before saving the database|
-|Delete all backup entries before saving the database|
+|ลบรายการการสำรองข้อมูลทั้งหมดก่อนจะบันทึกฐานข้อมูล|
 |&Repair KeePass Database File...|
 |&ซ่อมแซมไฟล์ฐานข้อมูล KeePass...|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
-|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
+|รูปแบบแฟ้มที่คุณได้เลือกเพื่อนำเข้า สนับสนุนกลุ่มและ/หรือรายการ  IDs โปรดเลือกพฤติกรรมการนำเข้า|
 |Create new IDs|
 |สร้าง IDs ใหม่|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
@@ -981,9 +982,9 @@
 |Export Group To &KeePass Database...|
 |ส่งออกกลุ่มไปยังฐานข้อมูล &KeePass...|
 |Show full path in the title bar (instead of file name only)|
-|Show full path in the title bar (instead of file name only)|
+|แสดงที่ตั้งแบบเต็มในแถบชื่อเรื่อง (แทนชื่อแฟ้มเท่านั้น)|
 |Disable all auto-type features|
-|Disable all auto-type features|
+|ระงับความสามารถการพิมพ์อัตโนมัติทั้งหมด|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
 |Copy &URL to Clipboard|
@@ -991,7 +992,7 @@
 |Exit program instead of locking the workspace after the specified time|
 |Exit program instead of locking the workspace after the specified time|
 |Click on an entry to auto-type it.|
-|Click on an entry to auto-type it.|
+|คลิกที่รายการเพื่อพิมพ์อัตโนมัติ|
 |Auto-Type Entry Selection|
 |Auto-Type Entry Selection|
 |Multiple entries exist for the current window. Please select the entry to auto-type.|
@@ -999,17 +1000,17 @@
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
 |Open the file in read-only mode?|
-|Open the file in read-only mode?|
+|เปิดแฟ้มในโหมดอ่านอย่างเดียว?|
 |Click [Yes] to open the file in read-only mode.|
-|Click [Yes] to open the file in read-only mode.|
+|คลิก [ใช่] เพื่อเปิดแฟ้มในโหมดอ่านอย่างเดียว|
 |Click [No] to open the file in normal writing mode.|
-|Click [No] to open the file in normal writing mode.|
+|คลิก [ไม่ใช่] เพื่อเปิดแฟ้มในโหมดปรกติที่เขียนได้|
 |Now|
 |เดี๋ยวนี้|
 |&Tools|
 |เ&ครื่องมือ|
 |TAN View &Options|
-|TAN View &Options|
+|&ตัวเลือก TAN View|
 |Use &Simple List View for TAN-Only Groups|
 |Use &Simple List View for TAN-Only Groups|
 |Show TAN &Indices in Entry Titles|
@@ -1059,7 +1060,7 @@
 |Lock workspace when locking Windows or switching user|
 |ล็อค workspace เมื่อล็อควินโดว์สหรือเปลี่ยนผู้ใช้|
 |Value|
-|Value|
+|ค่า|
 |Select the fields KeePass should remember|
 |Select the fields KeePass should remember|
 |Fields to remember|
@@ -1071,13 +1072,13 @@
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
 |Do you grant the application access to your KeePass database?|
-|Do you grant the application access to your KeePass database?|
+|คุณจะอนุญาตให้โปรแกรมสามารถเข้าถึงฐานข้อมูล KeePass ของคุณไหม?|
 |&Read-Only|
 |&อ่านอย่างเดียว|
 |&Full|
-|&Full|
+|เ&ต็ม|
 |&Deny|
-|&Deny|
+|&ปฏิเสธ|
 |Incoming IPC Request|
 |Incoming IPC Request|
 |An application requests access through inter-process communication|
