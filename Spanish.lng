@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.09|
+|~LANGUAGEVERSION||1.10|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -159,7 +159,7 @@
 |Clipboard cleared.||Portapapeles borrado.|
 |Close button [X] minimizes the main window instead of terminating the application||Botón de cerrar [X] minimiza la ventana principal en vez de terminar la aplicación|
 |Code&Wallet TXT File...||Archivo TXT Code&Wallet...|
-|Collect &entropy (recommended for strong passwords)||Recolectar &entropía (recomendado para contraseñas fuertes)|
+|Collect additional &entropy||Recolectar &entropía adicional|
 |Command line argument||Argumento para la línea de comandos|
 |Connect failed, cannot check for update.||Falló la conexión, no se pudo comprobar si habían actualizaciones.|
 |Copy &All||Copiar &Todos|
@@ -222,11 +222,6 @@
 |Expires:||Expiración:|
 |Expires||Expiración|
 |Export backup entries (entries in the 'Backup' group)||Exportar entradas de respaldo (entradas del grupo 'Respaldo')|
-|Export Group To &CSV...||Exportar Grupo en &CSV...|
-|Export Group To &HTML...||Exportar Grupo en &HTML...|
-|Export Group To &KeePass Database...||Exportar Grupo a la Base de Datos de &KeePass...|
-|Export Group To &TXT...||Exportar Grupo en &TXT...|
-|Export Group To &XML...||Exportar Grupo en &XML...|
 |Export Options||Exportar Opciones|
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.||No se pudo cambiar la asociación de archivos .kdb. Revise que tiene los permisos necesarios para escribir en el registro y modificar las asociaciones de archivos.|
 |Failed to create backup of this entry!||¡No se pudo crear una copia de seguridad de esta entrada!|
@@ -296,7 +291,7 @@
 |KeePass Password Safe Files||KeePass Password Safe Files|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.||KeePass comparará la última vez que fueron modificados(as) los grupos y entradas, y los reemplazará únicamente si los elementos a importar son más recientes.|
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.||KeePass reemplazará todos los grupos y entradas existentes por aquellos(as) en el archivo a importar, en caso de tener la misma ID.|
-|Key File:||Archivo de Clave:|
+|Key File||Archivo de Clave|
 |'Keyfile' or 'preselect' option is already specified||La opción 'keyfile' o 'preselect' se encuentra ya especificada|
 |Language file cannot be opened!||¡Archivo de idioma no puede ser abierto!|
 |Language file cannot be registered!||¡Archivo de idioma no puede ser registrado!|
@@ -369,7 +364,6 @@
 |Password Groups||Grupos de Contraseña|
 |Password is empty||La contraseña está vacía|
 |Password List||Lista de Contraseñas|
-|Password Safe||Contraseña Segura|
 |Password:||Contraseña:|
 |Password||Contraseña|
 |Paste operation completed.||Operación de pegado completada.|
@@ -566,3 +560,22 @@
 |The help file contains detailed information about the expected input format. Do you want to open the help file?||El archivo de ayuda contiene información detallada acerca del formato de entrada adecuado. ¿Desea abrir el archivo de ayuda?|
 |UU&ID||UU&ID|
 |User &Name||&Nombre de Usuario|
+|&Export Group To||&Exportar grupo a|
+|Advanced Password Generator Options||Opciones del Generador de Contraseñas Avanzado|
+|Clear Search History||Limpiar el Historial de Búsqueda|
+|Default user name for new entries:||Nombre de usuario por defecto para nuevas entradas:|
+|Exclude the following characters:||Excluir los siguientes caracteres:|
+|Fields to print||Campos a imprimir|
+|Here you can customize the printed sheet.||Aquí usted puede personalizar la hoja impresa.|
+|No repeating characters||Sin repetir caracteres|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.||Las opciones/reglas marcadas con un asterisco disminuyen la seguridad de las contraseñas generadas. Sólo actívelas si está forzado a seguir dichas reglas por el sitio web o aplicación.|
+|Print Options||Opciones de Impresión|
+|Print backup entries (entries in the 'Backup' group)||Imprimir entradas de respaldo (entradas que se encuentren en el grupo 'Respaldo')|
+|Provider||Proveedor|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)||Registrar Ctrl-Alt-K como hotkey (trae al frente la ventana de KeePass)|
+|Regular expression||Expresión regular|
+|Search...||Buscar...|
+|TANs are imported into the currently selected group||TANs son importados en el grupo seleccionado actualmente|
+|The key provider plugin did not supply a valid key|||
+|Type to search the database||Escriba para buscar en la base de datos|
+|in "Minimal functionality" mode||en modo de "Funcionalidad mínima"|
