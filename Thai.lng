@@ -19,7 +19,7 @@
 |General|
 |ทั่วไป|
 |Windows|
-|หน้าต่าง|
+|วินโดวส์|
 |Network|
 |เครือข่าย|
 |Internet|
@@ -1101,7 +1101,7 @@
 |Profile|
 |รูปแบบ|
 |Length of generated password:|
-|L?nge des generierten Passworts:|
+|ความยาวของรหัสผ่านที่สร้าง:|
 |Generate using character set:|
 |สร้างโดยใช้ชุดตัวอักษร:|
 |Generate using pattern:|
@@ -1111,7 +1111,7 @@
 |Exclude look-alike characters|
 |Exclude look-alike characters|
 |Use local date/time format instead of ISO notation|
-|Use local date/time format instead of ISO notation|
+|ใช้รูปแบบวันที่/เวลาภายในแทน ISO notation|
 |Save as Profile|
 |บันทึกเป็นรูปแบบ|
 |Save current settings as password generator profile.|
@@ -1125,11 +1125,11 @@
 |The help file contains detailed information about the expected input format. Do you want to open the help file?|
 |The help file contains detailed information about the expected input format. Do you want to open the help file?|
 |Failed to save the configuration.|
-|Failed to save the configuration.|
+|การบันทึกการตั้งค่าล้มเหลว|
 |Arguments|
 |Argumente|
 |&Export Group To|
-|&Export Group To|
+|&ส่งออกกลุ่มไปที่|
 |in "Minimal functionality" mode|
 |in "Minimal functionality" mode|
 |Regular expression|
@@ -1205,7 +1205,7 @@
 |The master password must be at least %u characters long!|
 |รหัสผ่านหลักต้องมีความยาวอย่างน้อยที่สุด %u ตัวอักษร!|
 |The estimated quality of the master password must be at least %u bits!|
-|The estimated quality of the master password must be at least %u bits!|
+|คุณภาพอย่างน้อยที่สุดของรหัสผ่านหลักคือ %u บิต!|
 |Copy [of an item]|
 |คัดลอก [ของรายการ]|
 |Focus entry list after a successful quick search (toolbar)|
