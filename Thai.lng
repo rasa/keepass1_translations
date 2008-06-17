@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |ไทย|
 |~LANGUAGEVERSION|
-|1.09|
+|1.10|
 |~LANGUAGEAUTHOR|
 |Luckhana Suwancharthree & Prasit Kaephukhieo|
 |~LANGUAGEAUTHOREMAIL|
@@ -12,8 +12,6 @@
 |&ยกเลิก|
 |&Close|
 |ปิ&ด|
-|Password Safe|
-|Password Safe|
 |&Generate Random Password|
 |&สร้างรหัสผ่านแบบสุ่ม|
 |&Gen|
@@ -92,8 +90,8 @@
 |ป้อนคีย์หลัก|
 |(No key file selected)|
 |(ยังไม่ได้เลือกไฟล์คีย์)|
-|Key File:|
-|ไฟล์คีย์:|
+|Key File|
+|ไฟล์คีย์|
 |Password Generator|
 |เครื่องสร้างรหัสผ่าน|
 |Here you can generate a random password.|
@@ -102,8 +100,8 @@
 |ตัวเลือก|
 |Current settings|
 |การตั้งค่าปัจจุบัน|
-|Collect &entropy (recommended for strong passwords)|
-|Collect &entropy (recommended for strong passwords)|
+|Collect additional &entropy|
+|Collect additional &entropy|
 |Generated password|
 |รหัสผ่านที่ได้|
 |&Generate|
@@ -242,14 +240,6 @@
 |&ลบกลุ่มรหัสผ่าน...|
 |Pr&int Group...|
 |พิ&มพ์กลุ่ม...|
-|Export Group To &HTML...|
-|ส่งออกกลุ่มเป็น &HTML...|
-|Export Group To &XML...|
-|ส่งออกกลุ่มเป็น &XML...|
-|Export Group To &CSV...|
-|ส่งออกกลุ่มเป็น &CSV...|
-|Export Group To &TXT...|
-|ส่งออกกลุ่มเป็น &TXT...|
 |Copy User &Name to Clipboard|
 |คัดลอก&ชื่อผู้ใช้ไปที่คลิปบอร์ด|
 |Copy &Password to Clipboard|
@@ -657,7 +647,6 @@
 |&Remove Association|
 |&ลบการเกี่ยวข้อง|
 |Setup|
-|Setup|
 |ติดตั้ง|
 |Password List|
 |รายการรหัสผ่าน|
@@ -792,9 +781,9 @@
 |Enabled, loaded|
 |เปิดใช้งานแล้ว, โหลดแล้ว|
 |Disabled, not loaded|
-|ปิดการใช้งานแล้ว, ไม่โหลดแล้ว|
+|ปิดการใช้งานแล้ว, ไม่โหลด|
 |This plugin will be enabled after you restart KeePass.|
-|ปลั๊กอินนี้ จะใช้ได้หลังจากที่คุณเริ่มต้น KeePassอีกครั้ง|
+|ปลั๊กอินนี้ จะใช้ได้หลังจากที่คุณเริ่มต้น KeePass อีกครั้ง|
 |&Enable|
 |เ&ปิดการใช้งาน|
 |&Disable|
@@ -979,8 +968,6 @@
 |กด [ไม่ใช่] เพื่อกำหนดคีย์ใหม่สำหรับไฟล์ที่ส่งออก|
 |Reuse the current key/password?|
 |Reuse the current key/password?|
-|Export Group To &KeePass Database...|
-|ส่งออกกลุ่มไปยังฐานข้อมูล &KeePass...|
 |Show full path in the title bar (instead of file name only)|
 |แสดงที่ตั้งแบบเต็มในแถบชื่อเรื่อง (แทนชื่อแฟ้มเท่านั้น)|
 |Disable all auto-type features|
@@ -1135,3 +1122,41 @@
 |TANs consist of the following characters:|
 |The help file contains detailed information about the expected input format. Do you want to open the help file?|
 |วิธีใช้ประกอบด้วยข้อมูลรายละเอียดเกี่ยวกับรูปแบบสิ่งที่นำเข้า คุณต้องการเปิดไฟล์วิธีใช้ไหมคะ?|
+|Advanced Password Generator Options|
+|ตัวเลือกการสร้างรหัสผ่านขั้นสูง|
+|Clear Search History|
+|ลบประวัติการค้นหา|
+|&Export Group To|
+|&ส่งออกกลุ่มไปที่|
+|Default user name for new entries:|
+|ชื่อผู้ใช้พื้นฐานสำหรับรายการใหม่:|
+|Exclude the following characters:|
+|Exclude the following characters:|
+|Fields to print|
+|ช่องที่จะพิมพ์|
+|Here you can customize the printed sheet.|
+|ที่นี่คุณสามารถกำหนดส่วนที่จะพิมพ์ได้|
+|No repeating characters|
+|No repeating characters|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
+|Print Options|
+|ตัวเลือกพิมพ์|
+|Print backup entries (entries in the 'Backup' group)|
+|พิมพ์รายการสำรองข้อมูล (รายการใน กลุ่ม 'สำรองข้อมูล')|
+|Provider|
+|Provider|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+|ลงทะเบียนคีย์ลัด Ctrl-Alt-K (นำหน้าต่าง KeePass ไว้ข้างหน้าสุด)|
+|Regular expression|
+|Regular expression|
+|Search...|
+|ค้นหา...|
+|TANs are imported into the currently selected group|
+|TANs are imported into the currently selected group|
+|The key provider plugin did not supply a valid key|
+|The key provider plugin did not supply a valid key|
+|Type to search the database|
+|พิมพ์เพื่อค้นหาฐานข้อมูล|
+|in "Minimal functionality" mode|
+|ในโหมด "Minimal functionality"|
