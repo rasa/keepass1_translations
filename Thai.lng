@@ -1,11 +1,11 @@
 ﻿|~LANGUAGENAME|
 |ไทย|
 |~LANGUAGEVERSION|
-|1.10|
+|1.11|
 |~LANGUAGEAUTHOR|
 |Luckhana Suwancharthree & Prasit Kaephukhieo|
 |~LANGUAGEAUTHOREMAIL|
-|mooawn@gmail.com, hs3pln@Gmail.com|
+|mooawn, hs3pln at Gmail.com|
 |&OK|
 |&ตกลง|
 |&Cancel|
@@ -14,8 +14,8 @@
 |ปิ&ด|
 |&Generate Random Password|
 |&สร้างรหัสผ่านแบบสุ่ม|
-|&Gen|
-|&สร้าง|
+|Choose an icon.|
+|เลือกไอคอน|
 |General|
 |ทั่วไป|
 |Windows|
@@ -29,7 +29,7 @@
 |Homebanking|
 |Homebanking|
 |Entry|
-|Entry|
+|รายการ|
 |&Title|
 |&หัวข้อ|
 |User &Name|
@@ -44,14 +44,14 @@
 |เ&ทียบตัวอักษรเล็กใหญ่|
 |Search in|
 |ค้นหาใน|
+|Find what:|
+|ค้นหาอะไร:|
 |Find|
 |ค้นหา|
 |&Find|
-|&ค้นหา|
+|ค้น&หา|
 |Find a string in the password list.|
 |ค้นหาข้อความในรายการรหัสผ่าน|
-|Find what:|
-|สิ่งที่ค้นหา:|
 |About KeePass...|
 |เกี่ยวกับ KeePass...|
 |Password Groups|
@@ -60,6 +60,8 @@
 |หัวข้อ|
 |User Name|
 |ชื่อผู้ใช้|
+|User &name|
+|&ชื่อผู้ใช้|
 |URL|
 |URL|
 |Password|
@@ -83,7 +85,7 @@
 |Repeat the master password for the new database.|
 |ป้อนรหัสผ่านหลักสำหรับฐานข้อมูลใหม่ซ้ำอีกครั้ง|
 |Open Database|
-|เิปิดฐานข้อมูล|
+|ิเปิดฐานข้อมูล|
 |Enter Composite Master Key|
 |ป้อนคีย์หลัก|
 |Enter the composite master key.|
@@ -93,7 +95,7 @@
 |Key File|
 |ไฟล์คีย์|
 |Password Generator|
-|เครื่องสร้างรหัสผ่าน|
+|ตัวสร้างรหัสผ่าน|
 |Here you can generate a random password.|
 |ที่นี่คุณสามารถสร้างรหัสผ่านแบบสุ่มได้ค่ะ|
 |Options|
@@ -107,7 +109,7 @@
 |&Generate|
 |&สร้าง|
 |&Accept|
-|&ตกลง|
+|&ยอมรับ|
 |Upper-case (A, B, C, ...)|
 |อักษรใหญ่ (A, B, C, ...)|
 |Lower-case (a, b, c, ...)|
@@ -115,11 +117,11 @@
 |Digits (0, 1, 2, ...)|
 |ตัวเลข (0, 1, 2, ...)|
 |Underline (_)|
-|ชีดเส้นใต้ (_)|
+|ขีดเส้นใต้ (_)|
 |Minus (-)|
 |ลบ (-)|
 |Space ( )|
-|ว่าง ( )|
+|เคาะว่าง ( )|
 |Special|
 |พิเศษ|
 |High ANSI characters|
@@ -171,25 +173,23 @@
 |Move the mouse in the field above until this is full:|
 |Move the mouse in the field above until this is full:|
 |Hint: It is best to use both mouse and keyboard random sources.|
-|Hint: It is best to use both mouse and keyboard random sources.|
+|คำใบ้: มันดีที่สุดที่จะใช้ทั้งแหล่งข้อมูลแบบสุ่มเม้าท์และคีย์บอร์ด|
 |Random keyboard input|
-|Random keyboard input|
+|นำเข้าคีย์บอร์ดแบบสุ่ม|
 |Just hack some random keys into the edit box above.|
-|Just hack some random keys into the edit box above.|
+|ต้อง hack คีย์แบบสุ่มจำนวนหนึ่งเข้าไปในกล่องแก้ไขข้างบน|
 |You don't have to remember the keys you type in. They are used to generate a random value.|
-|You don't have to remember the keys you type in. They are used to generate a random value.|
+|คุณไม่ต้องจำคีย์ที่คุณพิมพ์ลงไป พวกเขาถูกใช้เพื่อสร้างค่าแบบสุ่ม|
 |So, the more the better. The different, the better.|
-|So, the more the better. The different, the better.|
+|ดังนั้น, มากกว่าย่อมดีกว่า แตกต่างก็ย่อมดีกว่า|
 |The random the better.|
 |The random the better.|
 |Get Random|
-|Get Random|
+|เริ่มสุ่ม|
 |Get Random Data for Key Generation|
-|Get Random Data for Key Generation|
+|เริ่มสุ่มข้อมูลแบบสุ่มเพื่อสร้างคีย์|
 |Move the mouse and type some random text to generate random values.|
-|Move the mouse and type some random text to generate random values.|
-|Choose an icon.|
-|เลือกไอคอน|
+|ย้ายเม้าท์และพิมพ์ข้อความแบบสุ่มจำนวนหนึ่งเพื่อสร้างค่าแบบสุ่ม|
 |Pick an Icon|
 |เลือกไอคอน|
 |Choose an icon from the list of available entry and group icons.|
@@ -199,9 +199,9 @@
 |&Edit|
 |แ&ก้ไข|
 |&View|
-|&มุมมอง|
+|มุมม&อง|
 |E&xtras|
-|E&xtras|
+|&Extras|
 |&?|
 |&?|
 |&New...|
@@ -217,7 +217,7 @@
 |Change &Master Key...|
 |เปลี่ยนคีย์&หลัก...|
 |&Print...|
-|&พิมพ์...|
+|&&พิมพ์...|
 |&Export To|
 |&ส่งออกไปที่|
 |&Lock Workspace|
@@ -276,12 +276,10 @@
 |เลื่อนกลุ่มลงล่า&งสุด|
 |Change &Language...|
 |เปลี่ยน&ภาษา(Language)...|
-|User &name|
-|&ชื่อผู้ใช้|
 |&Always on Top|
 |&บนสุดเสมอ|
 |Hide &Passwords Behind Asterisks (***)|
-|ซ่อน&รหัสผ่านหลังเครื่องหมายดอกจันทร์ (***)|
+|ซ่อนรหัสผ่านหลังเครื่องหมา&ยดอกจันทร์ (***)|
 |Hide passwords behind asterisks (***).|
 |ซ่อนรหัสผ่านหลังเครื่องหมายดอกจันทร์ (***)|
 |Password &Generator...|
@@ -303,19 +301,19 @@
 |Enter a group name!|
 |ป้อนชื่อกลุ่ม!|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
-|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
+|คุณต้องสร้างค่าแบบสุ่มจำนวนหนึ่งโดยใช้กล่องนำเข้าเม้าท์แบบสุ่มหรือช่องแก้ไขก่อนคุณสามารถปิดกล่องโต้ตอบนี้|
 |No random input|
-|No random input|
+|ไม่มีการนำเข้าแบบสุ่ม|
 |EITHER enter a master password OR select a key file.|
 |เปิดป้อนรหัสผ่านหลักหรือเลือกไฟล์คีย์ด้วยค่ะ|
 |The password must consist of at least one character!|
-|The password must consist of at least one character!|
+|รหัสผ่านต้องประกอบด้วยอย่างน้อยหนึ่งตัวอักษร!|
 |Select at least one of the options in the list above!|
-|Select at least one of the options in the list above!|
+|เลือกอย่างน้อยหนึ่งตัวเลือกในรายการข้างบน!|
 |The following self-tests failed:|
-|The following self-tests failed:|
+|การทดสอบตัวเองดังต่อไปนี้ล้มเหลว:|
 |- SHA 32-bit variables|
-|- SHA 32-bit variables|
+|- SHA 32-bit Variablen|
 |- SHA 64-bit variables|
 |- SHA 64-bit variables|
 |- SHA-256 test vector(s)|
@@ -331,25 +329,25 @@
 |- Twofish algorithm|
 |- Twofish algorithm|
 |The program will exit now.|
-|The program will exit now.|
+|โปรแกรมจะปิดเดี๋ยวนี้|
 |Self-Test(s) Failed|
-|Self-Test(s) Failed|
+|การทดสอบตัวเองล้มเหลว|
 |Clipboard cleared.|
 |เคลียร์คลิปบอร์ด|
 |Field copied to clipboard. Clipboard will be cleared in %d seconds.|
-|Field copied to clipboard. Clipboard will be cleared in %d seconds.|
+|ช่องถูกคัดลอกไปยังคลิปบอร์ดคลิปบอร์ดจะถูกลบใน %d วินาที|
 |Failed to set the master key!|
-|Failed to set the master key!|
+|ล้มเหลวในการกำหนดคีย์หลัก!|
 |File cannot be opened!|
-|File cannot be opened!|
+|ไฟล์ไม่สามารถถูกเปิด!|
 |File cannot be saved!|
-|File cannot be saved!|
+|ไฟล์ไม่สามารถถูกบันทึก!|
 |KeePass Password Safe Files|
-|ไฟล์รหัสผ่านของ KeePass Password Safe|
+|ไฟล์ KeePass Password Safe|
 |All Files|
 |ทุกไฟล์|
-|The current file has been modified.|
-|ไฟล์ปัจจุบันมีการเปลี่ยนแปลง|
+|The current database file has been modified|
+|ไฟล์ฐานข้อมูลปัจจุบันมีการเปลี่ยนแปลง|
 |Do you want to save the changes before closing?|
 |คุณต้องการบันทึกสิ่งที่เปลี่ยนแปลงก่อนปิดโปรแกรมไหมคะ?|
 |KeePass - Save Before Close/Lock?|
@@ -424,8 +422,8 @@
 |ไฟล์ CSV|
 |Text Files|
 |ไฟล์ข้อความ|
-|An error occured while importing the file. File cannot be imported.|
-|An error occured while importing the file. File cannot be imported.|
+|An error occurred while importing the file. File cannot be imported.|
+|An error occurred while importing the file. File cannot be imported.|
 |&CSV File...|
 |ไฟล์ &CSV...|
 |&PwSafe v2 TXT File...|
@@ -559,9 +557,11 @@
 |TAN Wizard|
 |TAN Wizard|
 |Using this wizard you can easily add TAN entries.|
-|Using this wizard you can easily add TAN entries.|
+|การใช้วิซาร์ดนี้ คุณสามารถเพิ่มรายการ TAN ได้โดยง่าย|
 |Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
 |Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+|TANs consist of the following characters:|
+|TANs consist of the following characters:|
 |<TAN>|
 |<TAN>|
 |Print Pre&view...|
@@ -647,25 +647,25 @@
 |&Remove Association|
 |&ลบการเกี่ยวข้อง|
 |Setup|
-|ติดตั้ง|
+|Setup|
 |Password List|
 |รายการรหัสผ่าน|
 |Exit?|
 |ออก?|
 |The file couldn't be saved.|
-|ไม่สามารถบันทึกไฟล์|
+|ไฟล์ไม่สามารถถูกบันทึก|
 |Maybe it's read-only or the storage media has been removed.|
-|Maybe it's read-only or the storage media has been removed.|
+|บางทีมันอาจจะเป็นสื่อแบบอ่านได้อย่างเดียวหรือสื่อที่ใช้บันทึกได้ถูกเอาออกไปแล้ว|
 |If you exit now, all changes to the current database will be lost.|
-|Maybe it's read-only or the storage media has been removed.|
+|ถ้าคุณออกตอนนี้, การเปลี่ยนแปลงทั้งหมดที่ทำกับฐานข้อมูลปัจจุบันจะเสียหาย|
 |Would you like to exit anyway?|
 |คุณต้องการออกไม่ว่ายังไงใช่มั๊ยคะ?|
 |Cannot access the selected drive.|
-|Cannot access the selected drive.|
+|ไม่สามารถเข้าถึงไดร์ฟที่เลือก|
 |Make sure a writable medium is inserted.|
-|Make sure a writable medium is inserted.|
+|ตรวจสอบให้แน่ใจว่าเครื่องมือแบบเขียนได้ถูกใส่แล้ว|
 |Not enough free disk space!|
-|Not enough free disk space!|
+|มีพื้นที่ว่างบนดิสก์ไม่พอ!|
 |Disable unsafe (security-critical) operations like exports, etc.|
 |Disable unsafe (security-critical) operations like exports, etc.|
 |Unsafe operations are disabled.|
@@ -673,7 +673,7 @@
 |To execute this operation you must enable unsafe operations in the options dialog.|
 |To execute this operation you must enable unsafe operations in the options dialog.|
 |You have changed an option that requires restarting KeePass to get active.|
-|You have changed an option that requires restarting KeePass to get active.|
+|คุณได้เปลี่ยนตัวเลือกซึ่งต้องการการเริ่มต้น KeePass อีกครั้งเพื่อให้การเปลี่ยนแปลงมีผล|
 |Expired Entries|
 |รายการที่หมดอายุ|
 |This is a list of all expired entries|
@@ -691,11 +691,11 @@
 |Database Summary|
 |ข้อสรุปฐานข้อมูล|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
-|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
+|คีย์ของคุณถูกเข้ารหัสแล้ว อาจใช้เวลาหลายนาทีเพื่อทำให้คีย์เข้ารหัสฐานข้อมูลเสร็จสิ้น สิ่งนี้เพิ่มเวลาและทำให้การโจมตีแบบเดาพจนานุกรมยากมากขึ้น|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
-|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
+|ตัวเลขที่สูงกว่านี้ แสดงความยากในการโจมตีแบบเดาตามพจนานุกรม แต่ตัวเลขที่สูงกว่า ก็ยังแสดงถึงความช้าในการโหลด ฐานข้อมูล และการบันทึกด้วยเช่นกัน|
 |Number of key encryption rounds:|
-|Number of key encryption rounds:|
+|จำนวนของรอบการเข้ารหัสคีย์:|
 |bits|
 |บิต|
 |Personal &Vault TXT File...|
@@ -717,11 +717,11 @@
 |The database file has been modified!|
 |ไฟล์ฐานข้อมูลได้ถูกแก้ไข!|
 |Most probably someone has changed the file while you were editing it.|
-|Most probably someone has changed the file while you were editing it.|
+|ความน่าจะเป็นมากที่สุดก็คือ มีใครบางคนได้เปลี่ยนแปลงไฟล์ ขณะที่คุณกำลังแก้ไขมัน|
 |Do you want to overwrite it?|
 |คุณต้องการเขียนทับมันไหมคะ?|
 |The group you selected cannot store entries. Please select a different group.|
-|The group you selected cannot store entries. Please select a different group.|
+|กลุ่มที่คุณเลือกไม่สามารถเก็บรายการได้ โปรดเลือกกลุ่มอื่นๆ|
 |This will remove all selected entries unrecoverably!|
 |สิ่งนี้จะลบรายการที่เลือกทั้งหมดออก และไม่สามารถกู้คืนได้!|
 |Are you sure you want to delete all selected entries?|
@@ -731,7 +731,7 @@
 |Use PuTTY for ssh: and telnet: URLs|
 |ใช้ PuTTY สำหรับ ssh: และ telnet: URLs|
 |Mark database as modified on last-access time change|
-|Mark database as modified on last-access time change|
+|ทำเครื่องหมายฐานข้อมูลเป็นแก้ไขแล้วตามเวลาที่เข้าถึงล่าสุด|
 |Se&lect All|
 |เลือก&ทั้งหมด|
 |Auto-&Sort Password List|
@@ -739,11 +739,11 @@
 |N&o Auto-Sort|
 |ไ&ม่ต้องจัดเรียงอัตโนมัติ|
 |Auto-sorting of the password list is enabled, you cannot move entries manually.|
-|Auto-sorting of the password list is enabled, you cannot move entries manually.|
+|การจัดเรัยง-อัตโนมัติของรายการรหัสผ่านถูกเปิดใช้งาน คุณไม่สามารถย้ายรายการเองได้ในขณะนี้|
 |Perform Auto-&Type|
 |Perform Auto-&Type|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
-|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
+|การจัดเรัยง-อัตโนมัติของรายการรหัสผ่านถูกเปิดใช้งาน คุณไม่สามารถจัดเรียงรายการเองได้ในขณะนี้|
 |Select key file manually...|
 |เลือกไฟล์คีย์เอง...|
 |Save key file manually to...|
@@ -769,11 +769,11 @@
 |Application version:|
 |โปรแกรมรุ่น:|
 |Plugin has been designed for:|
-|Plugin has been designed for:|
+|ปลั๊กอินได้รับการออกแบบสำหรับ:|
 |It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
-|It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
+|มันเป็นไปได้ว่าปลั๊กอินสามารถเข้ากันได้, แต่มันยังเป็นไปได้อีกว่ามันจะทำให้ KeePass พังได้|
 |Therefore save all data before you continue.|
-|Therefore save all data before you continue.|
+|เพราะฉะนั้นบันทึกข้อมูลทั้งหมดก่อนที่คุณจะทำต่อไป|
 |Do you want to load the plugin?|
 |คุณต้องการโหลดปลั๊กอินไหมคะ?|
 |This plugin will be disabled after you restart KeePass.|
@@ -790,8 +790,8 @@
 |ปิ&ดการใช้งาน|
 |About &Plugin...|
 |เกี่ยวกับ&ปลั๊กอิน...|
-|An error occured|
-|An error occured|
+|An error occurred|
+|เกิดข้อผิดพลาด|
 |Error code|
 |รหัสข้อผิดพลาด|
 |Unknown error|
@@ -801,25 +801,25 @@
 |Invalid parameter|
 |พารามิเตอร์ไม่ถูกต้อง|
 |Too few memory (RAM) available|
-|Too few memory (RAM) available|
+|หน่วยความจำ (แรม) ที่เหลือมีน้อยมาก|
 |Invalid/wrong key|
 |คีย์ไม่ถูกต้อง|
 |File access error: failed to open file in read mode|
-|File access error: failed to open file in read mode|
+|เกิดข้อผิดพลาดในการเข้าถึงไฟล์: ล้มเหลวในการเปิดไฟล์ในโหมดอ่าน|
 |File access error: failed to open file in write mode|
-|File access error: failed to open file in write mode|
+|เกิดข้อผิดพลาดในการเข้าถึงไฟล์: ล้มเหลวในการเปิดไฟล์ในโหมดเขียน|
 |File error: error while reading from the file|
-|File error: error while reading from the file|
+|ไฟล์เกิดข้อผิดพลาด: เกิดข้อผิดพลาดขณะที่กำลังอ่านจากไฟล์|
 |File error: error while writing to the file|
-|File error: error while writing to the file|
+|ไฟล์เกิดข้อผิดพลาด: เกิดข้อผิดพลาดขณะที่กำลังเขียนไปยังไฟล์|
 |Internal error|
 |ข้อผิดพลาดภายใน|
 |Invalid random source|
-|Invalid random source|
+|ข้อมูลแบบสุ่มไม่ถูกต้อง|
 |Invalid/corrupted file structure|
-|Invalid/corrupted file structure|
+|โครงสร้างไฟล์ไม่ถูกต้อง/เสียหาย|
 |Encryption/decryption error|
-|Encryption/decryption error|
+|การเข้ารหัส/ถอดรหัสเกิดข้อผิดพลาด|
 |Get More Plugins...|
 |ปลั๊กอินเพิ่มเติม...|
 |Global auto-type hot key combination:|
@@ -833,27 +833,27 @@
 |&Use master password and key file|
 |&ใช้ทั้งรหัสผ่านหลักและคีย์ไฟล์|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
-|You've selected the AND key mode, so you must enter a password AND select a key file.|
+|คุณได้เลือกโหมดคีย์ AND, ดังนั้นคุณต้องใส่รหัสผ่านและเลือกไฟล์คีย์|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
-|Timed: copy data to the clipboard and clear it automatically after some seconds|
+|เวลา: คัดลอกข้อมูลไปยังคลิปบอร์ดและลบมันโดยอัตโนมัติหลังจากหลายนาที|
 |Enhanced: allow pasting only once and protect against clipboard spies|
 |Enhanced: allow pasting only once and protect against clipboard spies|
 |Clipboard behavior:|
-|Clipboard behavior:|
+|พฤติกรรมคลิปบอร์ด:|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
-|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
+|คำเตือน! มันเป็นไปได้ว่าตัวเลือกนี้จะไม่ทำงานอย่างถูกต้องบนระบบของคุณ, ถ้าคุณกำลังใช้คลิปบอร์ดราวมกับโปรแกรมอื่นๆหรือเครื่องมือการสำรองคลิปบอร์ด|
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
-|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
+|ล้มเหลวในการเปลี่ยนแปลงการลงทะเบียนไฟล์ .kdb ตรวจสอบให้แน่ใจว่าคุณมีสิทธิ์ในการเขียนไปยังรีกิสทรีและการเปลี่ยนแปลงการลงทะเบียนไฟล์|
 |Number the TANs consecutively, starting from this value|
 |Number the TANs consecutively, starting from this value|
 |Never expires|
-|Never expires|
+|ไม่มีการหมดอายุ|
 |Auto-Type|
 |พิมพ์-อัตโนมัติ|
 |Help:|
-|Help:|
+|วิธีใช้:|
 |Advanced|
 |ขั้นสูง|
 |Start minimized and locked|
@@ -875,51 +875,59 @@
 |Save backups of modified entries into the 'Backup' group|
 |บันทึกการสำรองข้อมูลของรายการที่แก้ไขเข้าไปในกลุ่ม 'สำรองข้อมูล'|
 |Failed to create backup of this entry!|
-|Failed to create backup of this entry!|
+|ล้มเหลวในการสร้างการสำรองของรายการนี้!|
 |The composite master key has been changed!|
-|The composite master key has been changed!|
+|คีย์หลักได้ถูกเปลี่ยนแปลง!|
 |Save the database now in order to get the new key applied.|
 |Save the database now in order to get the new key applied.|
 |Fields to export|
-|Fields to export|
+|ช่องที่จะส่งออก|
+|Fields to print|
+|ช่องที่จะพิมพ์|
 |Icon|
 |ไอคอน|
 |Group Tree|
 |Group Tree|
 |Export Options|
 |ตัวเลือกการส่งออก|
+|Print Options|
+|ตัวเลือกการพิมพ์|
 |Here you can customize the exported files.|
-|Here you can customize the exported files.|
+|ที่นี่คุณสามารถกำหนดค่าการส่งออกไฟล์ได้เอง|
+|Here you can customize the printed sheet.|
+|ที่นี่คุณสามารถกำหนดค่าการพิมพ์ได้เอง|
 |Encode/replace newline characters by '\n'|
 |Encode/replace newline characters by '\n'|
 |Export backup entries (entries in the 'Backup' group)|
 |Export backup entries (entries in the 'Backup' group)|
+|Print backup entries (entries in the 'Backup' group)|
+|Print backup entries (entries in the 'Backup' group)|
 |&Get More Import Plugins...|
-|&ปลั๊กอินเพิ่มเติม...|
+|&Get More Import Plugins...|
 |Field has been pasted.|
 |Field has been pasted.|
 |Waiting for paste command.|
 |รอการวางคำสั่ง|
 |Paste operation completed.|
-|Waiting for paste command.|
+|Paste operation completed.|
 |Limit to single instance|
 |Limit to single instance|
 |Use more secure password edit controls|
 |Use more secure password edit controls|
 |Press Shift-Home or Shift-End to clear this edit control|
-|กดปุ่ม Shift-Home หรือ Shift-End เพื่อลบรายการในช่องนี้|
+|กด Shift-Home หรือ Shift-End เพื่อเคลียร์ edit control นี้|
 |Single left click instead of double-click for default tray icon action|
 |Single left click instead of double-click for default tray icon action|
 |Exclude entries in the '&Backup' group|
-|ไม่รวมรายการในกลุ่ม '&สำรองข้อมูล'|
+|Exclude entries in the '&Backup' group|
 |By default, new entries expire in the following number of days:|
-|โดยปรกติ, รายการใหม่จะหมดอายุใน ...วัน:||
+|โดยพื้นฐาน, รายการใหม่จะหมดอายุในจำนวนดังต่อไปนี้ของวัน:|
 |Click to expire the entry in %u days|
-|คลิกเพื่อกำหนดเวลาหมดอายุของรายการใน %u วัน|
+|คลิกเพื่อหมดอายุรายการใน  %u วัน|
 |Calculate rounds for a 1-second delay on this computer|
 |Calculate rounds for a 1-second delay on this computer|
 |The program is distributed under the terms of the GNU General Public License v2 or later.|
-|The program is distributed under the terms of the GNU General Public License v2 or later.|
+|โปรแกรมถูกเผยแพร่ภายใต้ข้อตกลงใบอนุญาตของ GNU General Public License v2 หรือใหม่กว่า|
 |1 Week|
 |1 สัปดาห์|
 |2 Weeks|
@@ -941,17 +949,17 @@
 |Delete all backup entries before saving the database|
 |ลบรายการการสำรองข้อมูลทั้งหมดก่อนจะบันทึกฐานข้อมูล|
 |&Repair KeePass Database File...|
-|&ซ่อมแซมไฟล์ฐานข้อมูล KeePass...|
+|ซ่อ&มแซมไฟล์ฐานข้อมูล KeePass...|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
 |รูปแบบแฟ้มที่คุณได้เลือกเพื่อนำเข้า สนับสนุนกลุ่มและ/หรือรายการ  IDs โปรดเลือกพฤติกรรมการนำเข้า|
 |Create new IDs|
 |สร้าง IDs ใหม่|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
-|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
+|ถ้าคุณเลือกตัวเลือกนี้, KeePass จะสร้าง IDs ใหม่สำหรับกลุ่มและรายการทั้งหมด ดังนั้นกลุ่มและรายการของฐานข้อมูลที่มีอยู่ที่เปิดในปัจจุบันจะถูกแก้ไขหรือเขียนทับ|
 |Overwrite|
 |เขียนทับ|
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
-|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
+|KeePass จะแทนที่กลุ่มและรายการที่มีอยู่ทั้งหมดโดยหนึ่งในไฟล์เพื่อนำเข้า, ถ้าพวกเขามี ID เดียวกัน|
 |Overwrite if newer|
 |เขียนทับถ้าใหม่กว่า|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
@@ -961,9 +969,9 @@
 |Acknowledgements|
 |กิตติกรรมประกาศ|
 |Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
-|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
+|โปรดเลือกถ้า KeePass จะใช้คีย์ของฐานข้อมูลที่กำลังเปิดหรือถามคุณเพื่อกำหนดคีย์ใหม่สำหรับเข้ารหัสไฟล์ที่ส่งออก|
 |Click [Yes] to use the same key as the currently opened database.|
-|Click [Yes] to use the same key as the currently opened database.|
+|กด [ใช่] เพื่อใช้คีย์เดียวกับฐานข้อมูลที่เปิดในปัจจุบัน|
 |Click [No] to set a new key for the exported file.|
 |กด [ไม่ใช่] เพื่อกำหนดคีย์ใหม่สำหรับไฟล์ที่ส่งออก|
 |Reuse the current key/password?|
@@ -973,17 +981,17 @@
 |Disable all auto-type features|
 |ระงับความสามารถการพิมพ์อัตโนมัติทั้งหมด|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
+|คัดลอก URL ไปยังคลิปบอร์ดแทนการเรียกใช้ (ข้อยกเว้น: cmd:// URLs)|
 |Copy &URL to Clipboard|
-|Copy &URL to Clipboard|
+|คัดลอก &URL ไปยังคลิปบอร์ด|
 |Exit program instead of locking the workspace after the specified time|
-|Exit program instead of locking the workspace after the specified time|
+|ออกโปรแกรมแทนการล็อค workspace หลังเวลาที่กำหนด|
 |Click on an entry to auto-type it.|
 |คลิกที่รายการเพื่อพิมพ์อัตโนมัติ|
 |Auto-Type Entry Selection|
 |Auto-Type Entry Selection|
 |Multiple entries exist for the current window. Please select the entry to auto-type.|
-|Multiple entries exist for the current window. Please select the entry to auto-type.|
+|หลายรายการมีอยู่แล้วสำหรับหน้าต่างปัจจุบัน โปรดเลือกรายการเพื่อพิมพ์อัตโนมัติ|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
 |Open the file in read-only mode?|
@@ -1003,7 +1011,7 @@
 |Show TAN &Indices in Entry Titles|
 |Show TAN &Indices in Entry Titles|
 |Disable 'Save' button if the database hasn't been modified|
-|Disable 'Save' button if the database hasn't been modified|
+|ปิดการใช้งานปุ่ม 'บันทึก' ถ้าฐานข้อมูลไม่ได้ถูกแก้ไข|
 |Check For Update|
 |ตรวจสอบการอัพเดต|
 |Check for Update|
@@ -1044,8 +1052,8 @@
 |Reason|
 |KeePass Initialization|
 |KeePass Initialization|
-|Lock workspace when locking Windows or switching user|
-|ล็อค workspace เมื่อล็อควินโดว์สหรือเปลี่ยนผู้ใช้|
+|Lock workspace when locking Windows, switching user or sleeping|
+|ล็อค workspace เมื่อล็อควินโดว์ส เปลี่ยนผู้ใช้หรือเข้าสู่โหมด sleeping|
 |Value|
 |ค่า|
 |Select the fields KeePass should remember|
@@ -1078,18 +1086,14 @@
 |Enable remote control (allow applications to communicate with KeePass)|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
-|URL Field Features|
-|ความสามารถของช่อง URL|
+|URL Field: Help|
+|วิธีใช้ช่อง: URL|
 |There are too few characters in the character set to build up a password matching the specified rules|
 |There are too few characters in the character set to build up a password matching the specified rules|
 |(Custom)|
 |(กำหนดเอง)|
 |Save current settings as a profile.|
 |บันทึกการตั้งค่าปัจจุบันเป็นรูปแบบ|
-|Save as Profile|
-|บันทึกเป็นรูปแบบ|
-|Save current settings as password generator profile.|
-|บันทึกการตั้งค่าปัจจุบันเป็นรูปแบบตัวสร้างรหัสผ่าน|
 |Delete currently selected profile.|
 |ลบรูปแบบปัจจุบันที่เลือก|
 |(Automatically generated passwords for new entries)|
@@ -1097,7 +1101,7 @@
 |Profile|
 |รูปแบบ|
 |Length of generated password:|
-|ความยาวของรหัสผ่าน:|
+|L?nge des generierten Passworts:|
 |Generate using character set:|
 |สร้างโดยใช้ชุดตัวอักษร:|
 |Generate using pattern:|
@@ -1108,55 +1112,117 @@
 |Exclude look-alike characters|
 |Use local date/time format instead of ISO notation|
 |Use local date/time format instead of ISO notation|
-|Arguments|
-|Arguments|
-|Failed to save the configuration.|
-|Failed to save the configuration.|
+|Save as Profile|
+|บันทึกเป็นรูปแบบ|
+|Save current settings as password generator profile.|
+|บันทึกการตั้งค่าปัจจุบันเป็นรูปแบบตัวสร้างรหัสผ่าน|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+|โปรดป้อนชื่อสำหรับรูปแบบใหม่ของตัวสร้างรหัสผ่าน หรือเลือกรูปแบบที่มีอยู่เพื่อเขียนทับ:|
+|Randomly permute characters of password|
+|Randomly permute characters of password|
 |Locked|
 |ล็อคแล้ว|
-|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
-|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
-|Randomly permute characters of password|
-|Randomly permute characters of password|
-|TANs consist of the following characters:|
-|TANs consist of the following characters:|
 |The help file contains detailed information about the expected input format. Do you want to open the help file?|
-|วิธีใช้ประกอบด้วยข้อมูลรายละเอียดเกี่ยวกับรูปแบบสิ่งที่นำเข้า คุณต้องการเปิดไฟล์วิธีใช้ไหมคะ?|
-|Advanced Password Generator Options|
-|ตัวเลือกการสร้างรหัสผ่านขั้นสูง|
-|Clear Search History|
-|ลบประวัติการค้นหา|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+|Failed to save the configuration.|
+|Failed to save the configuration.|
+|Arguments|
+|Argumente|
 |&Export Group To|
-|&ส่งออกกลุ่มไปที่|
+|&Export Group To|
+|in "Minimal functionality" mode|
+|in "Minimal functionality" mode|
+|Regular expression|
+|Regular expression|
 |Default user name for new entries:|
-|ชื่อผู้ใช้พื้นฐานสำหรับรายการใหม่:|
+|Default user name for new entries:|
+|Advanced Password Generator Options|
+|ตัวเลือกตัวสร้างรหัสผ่านขั้นสูง|
 |Exclude the following characters:|
 |Exclude the following characters:|
-|Fields to print|
-|ช่องที่จะพิมพ์|
-|Here you can customize the printed sheet.|
-|ที่นี่คุณสามารถกำหนดส่วนที่จะพิมพ์ได้|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
 |No repeating characters|
 |No repeating characters|
-|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
-|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
-|Print Options|
-|ตัวเลือกพิมพ์|
-|Print backup entries (entries in the 'Backup' group)|
-|พิมพ์รายการสำรองข้อมูล (รายการใน กลุ่ม 'สำรองข้อมูล')|
 |Provider|
 |Provider|
+|The key provider plugin did not supply a valid key|
+|The key provider plugin did not supply a valid key|
 |Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
-|ลงทะเบียนคีย์ลัด Ctrl-Alt-K (นำหน้าต่าง KeePass ไว้ข้างหน้าสุด)|
-|Regular expression|
-|Regular expression|
-|Search...|
-|ค้นหา...|
-|TANs are imported into the currently selected group|
-|TANs are imported into the currently selected group|
-|The key provider plugin did not supply a valid key|
-|The key provider plugin did not supply a valid key|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
 |Type to search the database|
 |พิมพ์เพื่อค้นหาฐานข้อมูล|
-|in "Minimal functionality" mode|
-|ในโหมด "Minimal functionality"|
+|Search...|
+|ค้นหา...|
+|Clear Search History|
+|เคลียร์ประวัติการค้นหา|
+|TANs are imported into the currently selected group|
+|TANs ถูกนำเข้าเข้าไปในกลุ่มที่เลือกในปัจจุบัน|
+|The selected key file already exists|
+|ไฟล์คีย์ที่เลือกมีอยู่แล้ว|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+|สร้างคีย์ใหม่และเขียนทับไฟล์คีย์ที่มีอยู่ คีย์ปัจจุบันที่เก็บไว้ในไฟล์คีย์ที่มีอยู่จะถูกทำลาย|
+|Reuse|
+|ใช้ซ้ำ|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+|โหลดไฟล์คีย์ที่มีอยู่และใช้มันเป็นคีย์สำหรับฐานข้อมูลปัจจุบัน ไฟล์คีย์จะไม่ถูกแก้ไข|
+|Cancel|
+|ยกเลิก|
+|Abort specifying a new key for the current database.|
+|เลิกทำการกำหนดคีย์ใหม่สำหรับฐานข้อมูลปัจจุบัน|
+|Overwrite existing key file?|
+|เขียนทับไฟล์คีย์ที่มีอยู่?|
+|Save|
+|บันทึก|
+|Discard changes|
+|ไม่บันทึกการเปลี่ยนแปลง|
+|Save database changes before closing the file?|
+|บันทึกการเปลี่ยนแปลงฐานข้อมูลก่อนปิดไฟล์?|
+|Save database changes before exiting KeePass?|
+|บันทึกการเปลี่ยนแปลงฐานข้อมูลก่อนออกจาก KeePass ใช่หรือไม่?|
+|Save database changes before locking the workspace?|
+|บันทึกการเปลี่ยนแปลงฐานข้อมูลก่อนล็อค workspace ใช่หรือไม่?|
+|Save all changes made to the database and close the file.|
+|บันทึกการเปลี่ยนแปลงทั้งหมดที่ทำไปยังฐานข้อมูลและปิดแฟ้ม|
+|Save all changes made to the database and exit KeePass.|
+|บันทึกการเปลี่ยนแปลงทั้งหมดที่ทำไปยังฐานข้อมูลและออกจาก KeePass|
+|Save all changes made to the database and lock the KeePass workspace.|
+|บันทึกการเปลี่ยนแปลงทั้งหมดที่ทำไปยังฐานข้อมูลและล็อค KeePass workspace|
+|Discard all changes made to the database and close the file.|
+|ละทิ้งการเปลี่ยนแปลงทั้งหมดที่ทำไปยังฐานข้อมูลและปิดไฟล์|
+|Discard all changes made to the database and exit KeePass.|
+|ละทิ้งการแลกเปลี่ยนทั้งหมดที่ทำไปยังฐานข้อมูลและออกจาก KeePass|
+|Discard all changes made to the database and lock the KeePass workspace.|
+|ละทิ้งการแลกเปลี่ยนทั้งหมดที่ทำไปยังฐานข้อมูลและล็อค KeePass workspace|
+|Abort the current operation.|
+|เลิกทำงานปัจจุบัน|
+|The KeePass workspace will not be locked.|
+|KeePass workspace จะไม่ถูกล็อค|
+|KeePass will not be closed.|
+|KeePass จะไม่ถูกปิด|
+|The file will not be closed.|
+|ไฟล์จะไม่ถูกปิด|
+|The master password must be at least %u characters long!|
+|รหัสผ่านหลักต้องมีความยาวอย่างน้อยที่สุด %u ตัวอักษร!|
+|The estimated quality of the master password must be at least %u bits!|
+|The estimated quality of the master password must be at least %u bits!|
+|Copy [of an item]|
+|คัดลอก [ของรายการ]|
+|Focus entry list after a successful quick search (toolbar)|
+|โฟกัสที่รายการหลังจากเสร็จสิ้นการค้นหาอย่างรวดเร็ว (แถบเครื่องมือ)|
+|Always grant full access through remote control (not recommended)|
+|อนุญาตให้เข้าถึงแบบเต็มที่ผ่านการควบคุมระยะไฟลเสมอ (ไม่แนะนำ)|
+|URL Field: Select Application...|
+|ช่อง URL: เลือกโปรแกรม...|
+|URL Field: Select Document...|
+|ช่อง URL: เลือกเอกสาร...|
+|URL Field: Insert Placeholder|
+|ช่อง URL: แทรก Placeholder|
+|Auto-Type: Help|
+|พิมพ์-อัตโนมัติ: วิธีใช้|
+|Auto-Type: Select Target Window...|
+|พิมพ์-อัตโนมัติ:  เลือกหน้าต่างเป้าหมาย...|
+|Select the target window for the current entry.|
+|เลือกหน้าต่างเป้าหมายสำหรับรายการปัจจุบัน|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+|เพื่อกำหนดหน้าต่างเป้าหมาย, เลือกหน้าต่างอันใดอันหนึ่งที่มีอยู่ที่เปิดในปัจจุบันจากรายการ drop-down หรือป้อนชื่อหัวข้อหน้าต่างเอง:|
