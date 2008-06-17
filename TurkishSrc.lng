@@ -1,13 +1,11 @@
-﻿|~LANGUAGENAME|                |Türkçe <Turkish>|
-|~LANGUAGEVERSION|             |1.09|
+|~LANGUAGENAME|                |Türkçe <Turkish>|
+|~LANGUAGEVERSION|             |1.10|
 |~LANGUAGEAUTHOR|              |Erhan BURHAN|
 |~LANGUAGEAUTHOREMAIL|         |<eburhan@gmail.com>|
 
 |&OK|                          |&Tamam|
 |&Cancel|                      |İ&ptal|
 |&Close|                       |&Kapat|
-|Password Safe|                |Parola Güvenliği|
-
 |&Generate Random Password|    |&Rasgele parola üret|
 |Choose an icon.|              |Bir simge seçin.|
 |&Gen|                         |&Üret|
@@ -57,14 +55,14 @@
 |Enter Composite Master Key|    |Karmaşık ana anahtarı gir|
 |Enter the composite master key.|   |Karmaşık ana ahatarı gir.|
 |(No key file selected)|        |(seçili anahtar dosyası yok)|
-|Key File:|                     |Anahtar dosyası:|
+|Key File|                     |Anahtar dosyası|
 
 |Password Generator|           |Parola Üreticisi|
 |Here you can generate a random password.|        |Bu pencereden rasgele parolalar üretebilirsiniz.|
 |Options|                      |Seçenekler|
 |Current settings|              |Geçerli ayarlar|
 
-|Collect &entropy (recommended for strong passwords)|   |&Termodinamik toplam (güçlü parolalar için önerilir)|
+|Collect additional &entropy|  |Ek &termodinamik toplam|
 |Generated password|           |Oluşturulan parola|
 |&Generate|                    |Ü&ret|
 |&Accept|                      |&Kullan|
@@ -149,10 +147,6 @@
 |Modif&y Password Group...|    |Parola grubunu &düzenle...|
 |&Delete Password Group...|    |Parola grubunu &sil...|
 |Pr&int Group...|              |Grubu &yazdır...|
-|Export Group To &HTML...|     |Grubu &HTML olarak dışarı aktar...|
-|Export Group To &XML...|      |Grubu &XML olarak dışarı aktar...|
-|Export Group To &CSV...|      |Grubu &CSV olarak dışarı aktar...|
-|Export Group To &TXT...|      |Grubu &TXT olarak dışarı aktar...|
 |Copy User &Name to Clipboard| |&Kullanıcı adını panoya kopyala|
 |Copy &Password to Clipboard|  |&Parolayı panoya kopyala|
 |Open &URL(s)|                 |&Web adresini (URL) aç|
@@ -606,13 +600,19 @@
 |Save the database now in order to get the new key applied.|
     |Yeni anahtarı uygulamak için veritabanını şimdi kaydet.|
 |Fields to export|                        |Dışarı aktarılacak alanlar|
+|Fields to print|                         |Yazdırılacak alanlar|
 |Icon|                                    |Simge|
 |Group Tree|                              |Grup Ağacı|
 |Export Options|                          |Seçenekleri dışarı aktar|
-|Here you can customize the exported files.| |Dışarı aktarılan dosyaları buradan özelleştirebilirsiniz.|
+|Print Options|                           |Yazdırma seçenekleri|
+|Here you can customize the exported files.| |Dışarı aktarılacak dosyaları buradan özelleştirebilirsiniz.|
+|Here you can customize the printed sheet.|  |Yazdırılacak sayfayı buradan özelleştirebilirsiniz.|
 |Encode/replace newline characters by '\n'| |Yeni satır karakterlerini '\n' ile değiştir/kodla|
 |Export backup entries (entries in the 'Backup' group)|
     |Yedek kayıtları dışarı aktar ('Yedek' grubundaki tüm kayıtlar)|
+|Print backup entries (entries in the 'Backup' group)|
+    |Yedek kayıtları yazdır ('Yedek' grubundaki kayıtlar)|
+
 |&Get More Import Plugins...|             |İçeri daha çok eklenti &aktar|
 
 |Field has been pasted.|                  |Alan yapıştırıldı.|
@@ -664,7 +664,6 @@
 |Click [No] to set a new key for the exported file.|
     |Dışarı aktarılan dosyaya yeni bir anahtar atamak için [Hayır]'a tıklayın.|
 |Reuse the current key/password?|            |Geçerli anahtar/parola yeniden kullanısın mı?|
-|Export Group To &KeePass Database...|       |Grubu &KeePass veritabanına çıkart...|
 |Show full path in the title bar (instead of file name only)|
     |Başlık çubuğunda tam yolu göster (sadece dosya ismi yerine)|
 |Disable all auto-type features|             |Tüm otomatik yazma özelliklerini devre dışı bırak|
@@ -830,3 +829,48 @@
 
 |Arguments|
 |Değişkenler|
+
+|&Export Group To|
+|&Grubu buraya çıkart|
+
+|in "Minimal functionality" mode|
+|"Minimum işlevsellik" modunda|
+
+|Regular expression|
+|Düzenli ifade|
+
+|Default user name for new entries:|
+|Yeni kayıtlar için varsayılan kullanıcı adı:|
+
+|Advanced Password Generator Options|
+|Gelişmiş parola oluşturma seçenekleri|
+
+|Exclude the following characters:|
+|Aşağıdaki karakterleri dışarıda tut:|
+
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
+|Yıldızla işaretlenmiş seçenekler/kurallar oluşturulan parolaların güvenliğini azaltırlar. Yalnızca bir websitesi veya bir uygulama tarafından bu kuralları uygulamak zorunda bırakılırsanız onları işaretleyin.|
+
+|No repeating characters|
+|Karakterler tekrar etmesin|
+
+|Provider|
+|Sağlayıcı|
+
+|The key provider plugin did not supply a valid key|
+|Anahtar sağlayıcı eklentisi geçerli bir anahtar sağlayamadı|
+
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+|Ctrl-Alt-K kısayolunu kayıt ettir (KeePass penceresini öne getirir)|
+
+|Type to search the database|
+|Veritabanı aramak için yazın|
+
+|Search...|
+|Ara...|
+
+|Clear Search History|
+|Arama geçmişini temizle|
+
+|TANs are imported into the currently selected group|
+|TAN parolaları şu anda seçili olan gruba aktarıldı|
