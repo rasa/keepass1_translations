@@ -1,12 +1,11 @@
 ﻿|~LANGUAGENAME||Norsk (Nynorsk)|
-|~LANGUAGEVERSION||1.10|
+|~LANGUAGEVERSION||1.11|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||nynorsk@strilen.net|
 |&OK||&OK|
 |&Cancel||&Avbryt|
 |&Close||L&ukk|
 |&Generate Random Password||&Lag tilfeldig passord|
-|&Gen||&Lag|
 |General||Generelt|
 |Windows||Windows|
 |Network||Nettverk|
@@ -169,7 +168,6 @@
 |File cannot be saved!||Klarer ikkje å lagra fila|
 |KeePass Password Safe Files||KeePass Password Safe-filer|
 |All Files||Alle filer|
-|The current file has been modified.||Den noverande fila er endra.|
 |Do you want to save the changes before closing?||Vil du lagra endringane før fila blir lukka?|
 |KeePass - Save Before Close/Lock?||KeePass - Vil du lagra før lukking/låsing?|
 |Deleting a group will delete all items and subgroups in that group, too.||Å sletta ei gruppe vil òg sletta alle postane og undergruppene i gruppa.|
@@ -207,7 +205,6 @@
 |Please restart KeePass manually.||Start om att KeePass manuelt.|
 |CSV Files||CSV-filer|
 |Text Files||Tekstfiler|
-|An error occured while importing the file. File cannot be imported.||Det oppstod en feil: fila kan ikkje importerast.|
 |&CSV File...||&CSV-fil…|
 |&PwSafe v2 TXT File...||&PwSafe v2 TXT-fil…|
 |Select &Font||Vel skri&fttype|
@@ -392,7 +389,6 @@
 |&Enable||&Ta i bruk|
 |&Disable||&Slå av|
 |About &Plugin...||Om &programtillegg…|
-|An error occured||Det skjedde ein feil|
 |Error code||Feilkode|
 |Unknown error||Ukjend feil|
 |Success||Vellykka|
@@ -519,7 +515,6 @@
 |ignored||ignorert|
 |Reason||Grunn|
 |KeePass Initialization||KeePass-initialisering|
-|Lock workspace when locking Windows or switching user||Lås arbeidsflata når Windows er låst eller ved brukarbyte|
 |Value||Verdi|
 |Select the fields KeePass should remember||Vel kva for felt KeePass skal hugsa|
 |Fields to remember||Felt å hugsa|
@@ -536,8 +531,7 @@
 |Unknown||Ukjent|
 |Enable remote control (allow applications to communicate with KeePass)||Slå på fjernkontroll (lèt applikasjonar kommunisera direkte med KeePass)|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).||Sjå til at mediet som inneheld nøkkelfila er på plass og at KeePass har tilgangsrettane det treng (sjekk filtilgangsrettar, sjå til at ingen annan applikasjon blokkerer fila, …).|
-|URL Field Features||Adressefelteigenskapar|
-|There are too few characters in the character set to build up a password matching the specified rules||Det er for få teikn i teiknsettet til å lage eit passord som svarer til krava|
+|There are too few characters in the character set to build up a password matching the specified rules||Det er for få teikn i teiknsettet til å laga eit passord som svarer til krava|
 |(Custom)||(Brukardefinert)|
 |Save current settings as a profile.||Lagra gjeldande innstillingar som ein profil.|
 |Delete currently selected profile.||Slett den valde profilen.|
@@ -567,7 +561,6 @@
 |Here you can customize the printed sheet.||Her kan du tilpassa utskrifta.|
 |Key File||Nøkkelfil|
 |No repeating characters||Ingen gjentakande teikn|
-|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.||Val/reglar merka med ein asterisk minskar tryggleiken av laga passord. Ta dei berre i bruk dersom nettstader/program krev det.| 
 |Print Options||Utskriftsval|
 |Print backup entries (entries in the 'Backup' group)||Skriv ut kopipostar (postar i tryggleikskopigruppa)|
 |Provider||Tilbydar|
@@ -578,3 +571,43 @@
 |The key provider plugin did not supply a valid key||Nøkkeltilbydartillegget gav ikkje ein gyldig nøkkel|
 |Type to search the database||Skriv for å søkja i databasen|
 |in "Minimal functionality" mode||i "lågfunksjons"-modus|
+|Abort specifying a new key for the current database.||Avbryt laginga av ny nøkkel til den noverande databasen.|
+|Abort the current operation.||Avbryt handlinga.|
+|Always grant full access through remote control (not recommended)||Tillat alltid full tilgang gjennom fjernkontroll (ikkje tilrådd)|
+|An error occurred||Det oppstod ein feil|
+|An error occurred while importing the file. File cannot be imported.||Det oppstod ein feil under filimporten.|
+|Auto-Type: Help||Auto-inntasting: Hjelp|
+|Auto-Type: Select Target Window...||Auto-inntasting: Vel målvindauge…|
+|Cancel||Avbryt|
+|Copy [of an item]||(Element)kopi|
+|Discard all changes made to the database and close the file.||Forkast databaseendringane og lukk fila.|
+|Discard all changes made to the database and exit KeePass.||Forkast databaseendringane og avslutt KeePass.|
+|Discard all changes made to the database and lock the KeePass workspace.||Forkast databaseendringane og lås KeePass si arbeidsflate.|
+|Discard changes||Forkast endringane|
+|Focus entry list after a successful quick search (toolbar)||Fokuser på postlista etter eit vellykka søk (verktøylinje)|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.||Lag ein ny nøkkel og skriv over den eksisterande nøkkelfila. Den gamle nøkkelen vil forsvinna.|
+|KeePass will not be closed.||KeePass vil ikkje lukkast.|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.||Last inn den eksisterande nøkkelfila og bruk han for denne databasen. Nøkkelfila vil ikkje endrast.|
+|Lock workspace when locking Windows, switching user or sleeping||Lås arbeidsflata når Windows blir låst, ved brukarbyte eller ved dvaling.|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.||Val/reglar som er merka med ein asterisk vil minska tryggleiken til dei laga passorda. Slå dei berre på om du er nøydd til å følgja reglane til nettstaden, applikasjonen eller passordregimet.|
+|Overwrite existing key file?||Skriva over eksisterande nøkkelfil?|
+|Reuse||Bruk om att|
+|Save||Lagra|
+|Save all changes made to the database and close the file.||Lagra alle databaseendringane og lukk fila.|
+|Save all changes made to the database and exit KeePass.||Lagra alle databaseendringane og avslutt KeePass.|
+|Save all changes made to the database and lock the KeePass workspace.||Lagra alle databaseendringane og lås KeePass si arbeidsflate.|
+|Save database changes before closing the file?||Lagra databaseendringane før fila blir lukka?|
+|Save database changes before exiting KeePass?||Lagra databaseendringane før KeePass blir avslutta?|
+|Save database changes before locking the workspace?||Lagra databaseendringane før arbeidsflata blir låst?|
+|Select the target window for the current entry.||Vel målvindauge for denne oppføringa.|
+|The KeePass workspace will not be locked.||Arbeidsflata til KeePass vil ikkje låsast.|
+|The current database file has been modified||Databasefila er endra|
+|The estimated quality of the master password must be at least %u bits!||Den foreslåtte kvaliteten til hovudpassordet må minst vera %u bitar.|
+|The file will not be closed.||Fila vil ikkje lukkast.|
+|The master password must be at least %u characters long!||Hovudpassordet må minst innehalda %u teikn.|
+|The selected key file already exists||Den valde nøkkelfila finst allereie.|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:||For å føra opp målvindauget må du anten velja eit vindauge frå nedtrekkslista, eller sjølv skriva inn vindaugsnamnet:|
+|URL Field: Help||Adressefelt: Hjelp|
+|URL Field: Insert Placeholder||Adressefelt: Set inn plasshaldar|
+|URL Field: Select Application...||Adressefelt: Vel applikasjon…|
+|URL Field: Select Document...||Adressefelt: Vel dokument…|
