@@ -1,7 +1,7 @@
-﻿2007-10-11 01:09|~LANGUAGENAME|
+﻿2008-01-14 01:10|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.09|
+|1.10|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
@@ -12,8 +12,6 @@
 |取消(&C)|
 |&Close|
 |关闭(&C)|
-|Password Safe|
-|密码保险箱|
 |&Generate Random Password|
 |生成随机密码(&G)|
 |&Gen|
@@ -92,8 +90,8 @@
 |输入管理密码/密匙|
 |(No key file selected)|
 |(未选择密匙文件)|
-|Key File:|
-|密匙文件:|
+|Key File|
+|密匙文件|
 |Password Generator|
 |密码生成器|
 |Here you can generate a random password.|
@@ -102,8 +100,8 @@
 |选项|
 |Current settings|
 |当前配置|
-|Collect &entropy (recommended for strong passwords)|
-|收集输入(生成高强度密码时建议使用)(&E)|
+|Collect additional &entropy|
+|收集附加熵(&E)|
 |Generated password|
 |生成的密码|
 |&Generate|
@@ -240,14 +238,6 @@
 |删除群组(&D)...|
 |Pr&int Group...|
 |打印群组(&I)...|
-|Export Group To &HTML...|
-|输出群组到HTML文件(&H)...|
-|Export Group To &XML...|
-|输出群组到XML文件(&X)...|
-|Export Group To &CSV...|
-|输出群组到CSV文件(&C)...|
-|Export Group To &TXT...|
-|输出群组到TXT文件(&T)...|
 |Copy User &Name to Clipboard|
 |复制用户名(&N)|
 |Copy &Password to Clipboard|
@@ -890,19 +880,27 @@
 |Save the database now in order to get the new key applied.|
 |保存数据库以使新的密匙生效。|
 |Fields to export|
-|导出的字段|
+|要导出的字段|
+|Fields to print|
+|要打印的字段|
 |Icon|
 |图标|
 |Group Tree|
 |树状群组|
 |Export Options|
 |导出选项|
+|Print Options|
+|打印选项|
+|Here you can customize the printed sheet.|
+|在此自定义打印表|
 |Here you can customize the exported files.|
 |在此自定义导出文件|
 |Encode/replace newline characters by '\n'|
 |用 '\n' 编码/代替换行符|
 |Export backup entries (entries in the 'Backup' group)|
 |导出备份记录(“备份”群组中的记录)|
+|Print backup entries (entries in the 'Backup' group)|
+|打印备份记录(“备份”群组中的记录)|
 |&Get More Import Plugins...|
 |获取更多的导入插件(&G)...|
 |1 Month|
@@ -961,8 +959,6 @@
 |点击 [是] 使用当前打开数据库的密码/密匙。|
 |Create new IDs|
 |新建标识|
-|Export Group To &KeePass Database...|
-|导出群组为新的 &KeePass 数据库...|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
 |KeePass 将会为 导入的群组和记录 创建新的名称标识，因此不会修改或覆盖 当前打开数据库中的群组和记录 。|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
@@ -1133,3 +1129,33 @@
 |保存配置失败。|
 |Arguments|
 |参数|
+|&Export Group To|
+|输出群组到(&E)|
+|in "Minimal functionality" mode|
+|in "最小化功能"模式|
+|Regular expression|
+|正则表达式|
+|Default user name for new entries:|
+|新建记录的默认用户名:|
+|Advanced Password Generator Options|
+|高级密码生成器选项|
+|Exclude the following characters:|
+|排除下列字符:|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
+|带星号的 选项/规则 降低了生成密码的安全性。请仅在 网站/程序 强制使用此类规则时启用。|
+|No repeating characters|
+|不包括重复字符|
+|Provider|
+|提供者|
+|The key provider plugin did not supply a valid key|
+|密匙提供插件未提供一个有效密匙|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+|注册热键 Ctrl-Alt-K （激活 KeePass 窗口）|
+|Type to search the database|
+|键入以搜索数据库|
+|Search...|
+|搜索...|
+|Clear Search History|
+|清除搜索历史|
+|TANs are imported into the currently selected group|
+|TANs 被导出到当前选定组|
