@@ -1,7 +1,7 @@
-﻿2008-01-14 01:10|~LANGUAGENAME|
+﻿2008-04-14 01:11|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.10|
+|1.11|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
@@ -14,8 +14,6 @@
 |关闭(&C)|
 |&Generate Random Password|
 |生成随机密码(&G)|
-|&Gen|
-|生成(&G)|
 |General|
 |常规|
 |Windows|
@@ -346,8 +344,8 @@
 |KeePass Password Safe 文件|
 |All Files|
 |所有文件|
-|The current file has been modified.|
-|文件已更改。|
+|The current database file has been modified|
+|当前数据文件已更改。|
 |Do you want to save the changes before closing?|
 |关闭前保存更改吗？|
 |KeePass - Save Before Close/Lock?|
@@ -418,7 +416,7 @@
 |CSV文件|
 |Text Files|
 |文本文件|
-|An error occured while importing the file. File cannot be imported.|
+|An error occurred while importing the file. File cannot be imported.|
 |在导入文件时发生错误。文件无法导入。|
 |&CSV File...|
 |&CSV文件...|
@@ -565,9 +563,9 @@
 |Print Pre&view...|
 |打印预览(&V)...|
 |About &Translation...|
-|关于本翻译(&T)...|
+|关于语言文件(&T)...|
 |Translation information|
-|翻译信息|
+|语言文件信息|
 |Currently Used Language|
 |当前语言|
 |Language File Version|
@@ -770,7 +768,6 @@
 |该插件对应主程序版本：|
 |It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
 |插件可能是稳定的，也可能使 KeePass 崩溃。|
-
 |Therefore save all data before you continue.|
 |因此在继续前，请保存所有资料。|
 |Do you want to load the plugin?|
@@ -789,7 +786,7 @@
 |停用(&D)|
 |About &Plugin...|
 |关于插件(&P)...|
-|An error occured|
+|An error occurred|
 |发生错误|
 |Error code|
 |错误代码|
@@ -1053,6 +1050,8 @@
 |原因|
 |KeePass Initialization|
 |初始化 KeePass|
+|Lock workspace when locking Windows, switching user or sleeping|
+|锁定 Windows、切换用户或休眠时锁定 KeePass|
 |&Deny|
 |拒绝(&D)|
 |&Full|
@@ -1070,9 +1069,7 @@
 |Fields to remember|
 |记忆字段|
 |Incoming IPC Request|
-|收入 IPC 请求|
-|Lock workspace when locking Windows or switching user|
-|Windows 锁定或切换用户时锁定 KeePass|
+|收到 IPC 请求|
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
 |注意程序标题是由请求程序添加的，因此可能不正确（恶意程序可能会试图访问数据库）|
 |Select the fields KeePass should remember|
@@ -1087,8 +1084,8 @@
 |启用远程控制（允许其他程序与 KeePass 通信）|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
 |请确保已插入了包含密匙文件的介质，并且 KeePass 有权访问该文件（检查文件访问权限，确保没有其他程序阻止对文件的访问，……）。|
-|URL Field Features|
-|网址字段属性|
+|URL Field: Help|
+|网址: 帮助|
 |There are too few characters in the character set to build up a password matching the specified rules|
 |所选字符集中字符数太少，无法生成满足指定条件的密码|
 |(Custom)|
@@ -1141,8 +1138,8 @@
 |高级密码生成器选项|
 |Exclude the following characters:|
 |排除下列字符:|
-|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
-|带星号的 选项/规则 降低了生成密码的安全性。请仅在 网站/程序 强制使用此类规则时启用。|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+|带星号的 选项/规则 降低了生成密码的安全性。请仅在 网站/程序/密码规则 强制使用此类规则时启用。|
 |No repeating characters|
 |不包括重复字符|
 |Provider|
@@ -1159,3 +1156,71 @@
 |清除搜索历史|
 |TANs are imported into the currently selected group|
 |TANs 被导出到当前选定组|
+|The selected key file already exists|
+|所选密匙文件已经存在|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+|生成一个新密匙并覆盖已有的密匙文件。原密匙文件中保存的密匙将丢失。|
+|Reuse|
+|重复使用|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+|载入已有的密匙文件并用它作为当前数据库的密匙。密匙文件将不被更改。|
+|Cancel|
+|取消|
+|Abort specifying a new key for the current database.|
+|放弃为当前数据库指定新密匙文件。|
+|Overwrite existing key file?|
+|覆盖已有的密匙文件？|
+|Save|
+|保存|
+|Discard changes|
+|不保存更改|
+|Save database changes before closing the file?|
+|关闭文件前保存数据库更改？|
+|Save database changes before exiting KeePass?|
+|退出 KeePass 前保存数据库更改？|
+|Save database changes before locking the workspace?|
+|锁定 KeePass 前保存数据库更改？|
+|Save all changes made to the database and close the file.|
+|保存所有数据库更改并关闭文件。|
+|Save all changes made to the database and exit KeePass.|
+|保存所有数据库更改并退出 KeePass。|
+|Save all changes made to the database and lock the KeePass workspace.|
+|保存所有数据库更改并并锁定 KeePass。|
+|Discard all changes made to the database and close the file.|
+|放弃所有数据库更改并关闭文件。|
+|Discard all changes made to the database and exit KeePass.|
+|放弃所有数据库更改并退出 KeePass。|
+|Discard all changes made to the database and lock the KeePass workspace.|
+|放弃所有数据库更改并并锁定 KeePass。|
+|Abort the current operation.|
+|终止当前操作。|
+|The KeePass workspace will not be locked.|
+|KeePass 将不会被锁定。|
+|KeePass will not be closed.|
+|KeePass 将不会退出。|
+|The file will not be closed.|
+|文件将不会被关闭。|
+|The master password must be at least %u characters long!|
+|管理密码长度必须至少 %u 字符！|
+|The estimated quality of the master password must be at least %u bits!|
+|管理密码的评估质量必须至少 %u 位！|
+|Copy [of an item]|
+|复制 [条目的]|
+|Focus entry list after a successful quick search (toolbar)|
+|当成功进行快速查找（工具栏）后，定位到记录列表|
+|Always grant full access through remote control (not recommended)|
+|远程控制时总是允许完全控制（不推荐）|
+|URL Field: Select Application...|
+|网址: 选择程序...|
+|URL Field: Select Document...|
+|网址: 选择文档...|
+|URL Field: Insert Placeholder|
+|网址: 插入标志符|
+|Auto-Type: Help|
+|自动输入: 帮助|
+|Auto-Type: Select Target Window...|
+|自动输入: 选择目标窗口...|
+|Select the target window for the current entry.|
+|为当前记录选择目标窗口|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+|从下拉列表中选择当前打开的窗口，或者手工输入窗口标题:|
