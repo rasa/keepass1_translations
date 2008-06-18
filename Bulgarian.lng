@@ -1,4 +1,4 @@
-﻿|~LANGUAGEVERSION| |1.09|
+﻿|~LANGUAGEVERSION| |1.10|
 |~LANGUAGEAUTHOR|     |Doncho Angelov|
 |~LANGUAGEAUTHOREMAIL| |public@doncho.net|
 |~LANGUAGENAME|       |Български|
@@ -6,7 +6,6 @@
 |&OK|                          |&OK|
 |&Cancel|                      |&Отказ|
 |&Close|                       |&Затваря|
-|Password Safe|                |Сеиф за Пароли|
 
 |&Generate Random Password|    |&Генерирай произволна парола|
 |&Gen|                         |&Ген|
@@ -96,9 +95,6 @@
 |&Lock/Unlock Workspace|       |&Заключване/отключване на програмата|
 
 |&Delete Password Group...|    |&Изтриване на групата за пароли...|
-|Export Group To &HTML...|     |Експорт на група в &HTML...|
-|Export Group To &XML...|      |Експорт на група в &XML...|
-|Export Group To &CSV...|      |Експорт на фрупа в &CSV...|
 |Copy &Password to Clipboard|  |Копиране на паролата в клипбоардът|
 |&Find in Database...|         |&Търсене в базата данни...|
 |&Add Entry...|                |Прибавяне на &запис...|
@@ -407,9 +403,6 @@
     
 |Do you want to overwrite it?|
     |Да се презапише ли?|
-    
-|Export Group To &TXT...|
-    |Изнасяне на групата като &TXT...|
     
 |Field copied to clipboard. Clipboard will be cleared in %d seconds.|
     |Полето е копирано в клипбоардa. Kлипбоардът ще бъде изчистен след %d секунди.|
@@ -744,8 +737,6 @@
 	|Създава нови IDта|
 |Deleting a group will delete all items and subgroups in that group, too.|
 	|Изтриването на група ще изтрие също така всички записи и подгрупи в нея.|
-|Export Group To &KeePass Database...|
-	|Изнася група в &KeePass база данни...|
 |Hide &User Names Behind Asterisks (***)|
 	|&Скрива потр.име зад звездички (***)|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
@@ -956,8 +947,6 @@
     |Ако имате проблеми с разширения метод, използвайте предишния метод с изчистване на clipboard-а.|
 |KeePass Password Safe Files|
     |Файлове с пароли на KeePass|
-|Key File:|
-    |Ключ файл:|
 |Length of generated password:|	
     |Дължина на генерираната парола:|
 |Lower-case (a, b, c, ...)|
@@ -1030,8 +1019,7 @@
     |Избор на картинка от списъка на налични картинки за групи и записи.|
 |Choose an icon.|
     |Избор на картинка.|
-|Collect &entropy (recommended for strong passwords)|
-    |Изчисляване на &ентропията (препоръчва се за сложни пароли)|
+
 |Create a new password entry.|
     |Създаване на нов запис на парола.|
 |Create a new password group.|
@@ -1088,3 +1076,66 @@
     |Потреб. &име|
 |Special (!, В§, $, %, &&, ...)|
     |Специални (!, В§, $, %, &&, ...)|
+
+|&Export Group To|
+    |&Експортира групата в|
+
+|Advanced Password Generator Options|
+    |Разширени настройки на генератора на пароли|
+
+|Clear Search History|
+    |Изчиства история на търсенето|
+
+|Collect additional &entropy|
+    |Събира допълнителна &ентропия|
+
+|Default user name for new entries:|
+    |Потребителско име за новите записи:|
+
+|Exclude the following characters:|
+    |Изключват се следните символи:|
+
+|Fields to print|
+    |Полета за печат|
+
+|Here you can customize the printed sheet.|
+    |Тук са допълнителните настройки за печат.|
+
+|Key File|
+    |Ключ файл|
+
+|No repeating characters|
+    |Без повтарящи се символи|
+
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
+    |Настройките/правилата със звезда намалят сигурността на генерираната парола. Включвайте ги само ако сте принудени да ползвате подобни правила за паролите.|
+
+|Print Options|
+    |Настройки на печат|
+
+|Print backup entries (entries in the 'Backup' group)|
+    |Печатане на Архивираните записи (тези в 'Backup')|
+
+|Provider|
+    |Доставчик|
+
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+    |Регистриране на Ctrl-Alt-K комбинацията (показване на  KeePass)|
+
+|Regular expression|
+    |Регулярен израз|
+
+|Search...|
+    |Търсене...|
+
+|TANs are imported into the currently selected group|
+    |TAN са внесени в текущо избраната група|
+
+|The key provider plugin did not supply a valid key|
+|Плъгинът за ключ не предостави валиден такъв|
+
+|Type to search the database|
+    |Напиши за търсене в базата|
+
+|in "Minimal functionality" mode|
+    |в режим "Минимална функционалност"|
