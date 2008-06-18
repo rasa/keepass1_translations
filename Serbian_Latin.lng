@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Srpski|
 |~LANGUAGEVERSION|
-|1.09|
+|1.10|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -12,8 +12,6 @@
 |&Otkaži|
 |&Close|
 |&Zatvori|
-|Password Safe|
-|Sigurna lozinka|
 |&Generate Random Password|
 |&Generiši lozinku|
 |Choose an icon.|
@@ -96,8 +94,8 @@
 |Uneti kompozitni glavni ključ.|
 |(No key file selected)|
 |(Neodabrana ključna datoteka)|
-|Key File:|
-|Datoteka:|
+|Key File|
+|Datoteka|
 |Password Generator|
 |Generator lozinka|
 |Here you can generate a random password.|
@@ -106,8 +104,8 @@
 |Opcije|
 |Current settings|
 |Aktuelna podešavanja|
-|Collect &entropy (recommended for strong passwords)|
-|Sakupi entropiju (preporučeno za jake lozinke)|
+|Collect additional &entropy|
+|Sakupi dodatnu entropiju|
 |Generated password|
 |Generisana lozinka|
 |&Generate|
@@ -244,14 +242,6 @@
 |Izbriši grupu lozinka...|
 |Pr&int Group...|
 |Š&tampaj grupu...|
-|Export Group To &HTML...|
-|Izvoz grupe u HTML...|
-|Export Group To &XML...|
-|Izvoz grupe u XML...|
-|Export Group To &CSV...|
-|Izvoz grupe u CSV...|
-|Export Group To &TXT...|
-|Izvoz grupe u TXT...|
 |Copy User &Name to Clipboard|
 |Kopiraj korisnik u klipbord|
 |Copy &Password to Clipboard|
@@ -894,18 +884,26 @@
 |Sačuvati bazu da bi se koristio nov ključ.|
 |Fields to export|
 |Polja za izvoz|
+|Fields to print|
+|Polja za štampanje|
 |Icon|
 |Ikona|
 |Group Tree|
 |Drvo grupa|
 |Export Options|
 |Opcije izvoza|
+|Print Options|
+|Opcije štampanja|
 |Here you can customize the exported files.|
 |Ovde možete da podesite izvizene datoteke.|
+|Here you can customize the printed sheet.|
+|Ovde možete da podesite list štampanja.|
 |Encode/replace newline characters by '\n'|
 |Kodiraj/promeni karaktere nove linije sa '\n'|
 |Export backup entries (entries in the 'Backup' group)|
 |Izvoz kopiranih stavka (stavke iz grupe 'Kopija')|
+|Print backup entries (entries in the 'Backup' group)|
+|Štampaj kopiranih stavka (iz 'Kopija' grupe)|
 |&Get More Import Plugins...|
 |Dobiti još dodatka za unos...|
 |Field has been pasted.|
@@ -980,8 +978,6 @@
 |Kliknuti [Ne] za postavljanje novog kljula za iznetu datoteku.|
 |Reuse the current key/password?|
 |Koristi aktuelni ključ/lozinku?|
-|Export Group To &KeePass Database...|
-|Iznos grupe u KeePass bazu...|
 |Show full path in the title bar (instead of file name only)|
 |Pokaži ceo put i nazivnoj traci (umesto samo ime)|
 |Disable all auto-type features|
@@ -1134,3 +1130,33 @@
 |Neuspešno sačuvavanje podešavanja.|
 |Arguments|
 |Argumenti|
+|&Export Group To|
+|Izvoz grupe u|
+|in "Minimal functionality" mode|
+|u modu „Minimalna funkcionalnost“|
+|Regular expression|
+|Regularni izraz|
+|Default user name for new entries:|
+|Standardno ime za nove stavke:|
+|Advanced Password Generator Options|
+|Opcije naprednog generisanja lozinke|
+|Exclude the following characters:|
+|Izbaci ove karaktere:|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
+|Opcije/pravile markirani sa zvezdicom smanjuje sigurnost generisanih lozinka. Omogućiti samo ako morate da pratite takvih pravila za sajt/program.|
+|No repeating characters|
+|Ne ponoviti karaktere|
+|Provider|
+|Provajder|
+|The key provider plugin did not supply a valid key|
+|Davać kauča nije dao validan ključ|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+|Registruj prečicu Ctrl-Alt-K (postavlja napred prozor „KeePass“-a)|
+|Type to search the database|
+|Uneti za nalaženje baze|
+|Search...|
+|Traži...|
+|Clear Search History|
+|Isprazni historijat traženja|
+|TANs are imported into the currently selected group|
+|TANs su uvezeni u aktuelnoj odabranoj grupi|
