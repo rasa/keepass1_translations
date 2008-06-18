@@ -1,12 +1,11 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.09|
+|~LANGUAGEVERSION|             |1.10|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
 |&OK|           |&OK|
 |&Cancel|       |&Отмена|
 |&Close|        |&Закрыть|
-|Password Safe| |База паролей|
 
 |&Generate Random Password|    |&Генерация случайного пароля|
 |&Gen|          |&Ген|
@@ -56,7 +55,7 @@
 |Open Database|                |Открытие базы паролей|
 |Master Password:|             |Основной пароль:|
 |Enter Composite Master Key|   |Введите составной пароль|
-|Key File:|                    |Файл с паролем:|
+|Key File|                     |Файл с паролем|
 |(No key file selected)|       |<Файл с паролем не выбран>|
 
 |Password Generator|              |Генератор паролей|
@@ -76,8 +75,7 @@
 |Options|                         |Настройки|
 |Also include the following characters:|
     |Также использовать следующие символы:|
-|Collect &entropy (recommended for strong passwords)|
-    |Сбор &энтропии (рекомендуется для большей устойчивости паролей)|
+|Collect additional &entropy|     |Сбор дополнительной &энтропии|
 |Generated password|              |Сгенерированный пароль|
 |&Generate|                       |&Генерация|
 |&Accept|                         |&Принять|
@@ -167,10 +165,7 @@
 |Modif&y Password Group...|    |Изм&енить группу...|
 |&Delete Password Group...|    |&Удалить группу...|
 |Pr&int Group...|              |&Распечатать группу...|
-|Export Group To &HTML...|     |Экспортировать группу в &HTML...|
-|Export Group To &XML...|      |Экспортировать группу в &XML...|
-|Export Group To &CSV...|      |Экспортировать группу в &CSV...|
-|Export Group To &TXT...|      |Экспортировать группу в &TXT...|
+|&Export Group To|             |&Экспортировать группу в|
 |Copy User &Name to Clipboard| |Скопировать &имя пользователя в буфер обмена|
 |Copy &Password to Clipboard|  |Скопировать &пароль в буфер обмена|
 |Open &URL(s)|                 |Открыть &ссылку(и)|
@@ -656,7 +651,6 @@
 |Click [Yes] to use the same key as the currently opened database.| |Нажмите [Да] чтобы использовать основной пароль открытой сейчас базы паролей.|
 |Click [No] to set a new key for the exported file.|                |Нажмите [Нет] чтобы установить новый основной пароль для экспортируемого файла.|
 |Reuse the current key/password?| |Использовать текущий основной пароль?|
-|Export Group To &KeePass Database...| |Экспортировать группу в базу паролей &KeePass...|
 |Show full path in the title bar (instead of file name only)| |Показывать полный путь в заголовке (вместо только имени файла)|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
     |Формат импортируемого файла поддерживает идентификаторы для групп и/или записей. Выберите режим импортирования.|
@@ -711,7 +705,7 @@
 |Password is empty| |Пустой пароль|
 |Path is invalid| |Неверный путь|
 |Reason| |Причина|
-|You have the latest version.| |У Вас установлена посленяя версия.|
+|You have the latest version.| |У Вас установлена последняя версия.|
 |ignored| |проигнорированна|
 
 |&Deny| |&Отказать|
@@ -757,3 +751,24 @@
 |TANs consist of the following characters:| |TANы состоят из следующий символов:|
 |The help file contains detailed information about the expected input format. Do you want to open the help file?|
     |Файл справки содержит подробную информацию об ожидаемом формате ввода. Вы хотите открыть справку?|
+
+|Advanced Password Generator Options| |Расширенные опции генератора паролей|
+|Clear Search History| |Очистить историю поисков|
+|Default user name for new entries:| |Предопределенное имя для новых записей:|
+|Exclude the following characters:| |Исключать следующие символы:|
+|Fields to print| |Поля для печати|
+|Here you can customize the printed sheet.| |Здесь можно настроить страницу для печати.|
+|No repeating characters| |Без повторяющихся символов|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
+    |Настройки/правила, помеченные звездочкой, уменьшают защищенность генерируемых паролей. Включайте их только если приложение, для которого используется пароль, требует этого.|
+|Print Options| |Настройки печати|
+|Print backup entries (entries in the 'Backup' group)| |Распечатывать резервные записи (записи из группы 'Резервирование')|
+|Provider| |Провайдер|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+    |Зарегистрировать Ctrl-Alt-K комбинацию клавиш (чтобы сделать KeePass активным окном)|
+|Regular expression| |Регулярное выражение|
+|Search...| |Поиск...|
+|TANs are imported into the currently selected group| |TAN-ы проимпортированы в текущую группу|
+|The key provider plugin did not supply a valid key| |Модуль провайдера ключа не предоставил допустимый ключ|
+|Type to search the database| |Введите фразу для поиска|
+|in "Minimal functionality" mode| |в режиме "Наименьшей функциональности"|
