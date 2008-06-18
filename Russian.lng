@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.10|
+|~LANGUAGEVERSION|             |1.11|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -8,7 +8,6 @@
 |&Close|        |&Закрыть|
 
 |&Generate Random Password|    |&Генерация случайного пароля|
-|&Gen|          |&Ген|
 
 |General|       |Общие|
 |Windows|       |ОС|
@@ -246,8 +245,8 @@
 |KeePass Password Safe Files|  |Файлы баз паролей KeePass|
 |All Files|                    |Все файлы|
 
-|The current file has been modified.|
-    |Текущий файл был изменен.|
+|The current database file has been modified|
+    |Текущий файл базы паролей был изменен.|
 |Do you want to save the changes before closing?|
     |Хотите сохранить изменения перед закрытием?|
 
@@ -309,7 +308,7 @@
 
 |CSV Files|                    |CSV файлы|
 |Text Files|                   |Тесктовые файлы|
-|An error occured while importing the file. File cannot be imported.|
+|An error occurred while importing the file. File cannot be imported.|
     |Произошла ошибка во время импорта файла. Невозможно проимпортировать файл.|
 |&CSV File...|                 |&CSV файл...|
 |&PwSafe v2 TXT File...|       |&PwSafe v2 TXT файл...|
@@ -470,7 +469,7 @@
     |Вы изменили настройку, которая требует перезакгрузки KeePass для ее активации.|
 |Expired Entries|                         |Просроченные записи|
 |This is a list of all expired entries|   |Список всех просроченных записей|
-|Show All &Expired Entries|               |Показать все &просроченные записи|
+|Show All &Expired Entries|               |Показывать все &просроченные записи|
 |Click on an entry to jump to it.|        |Щелкните по записи для перехода на нее.|
 |Quality:|                                |Качество:|
 |Database Settings|                       |Настройки базы паролей|
@@ -522,7 +521,7 @@
 |&Enable|              |&Разблокировать|
 |&Plugins...|          |&Модули...|
 |About &Plugin...|     |О &модуле...|
-|An error occured|     |Произошла ошибка|
+|An error occurred|    |Произошла ошибка|
 |Application version:| |Версия приложения:|
 |Auto-Type|            |Автонабор|
 |Clipboard behavior:|  |Режим буфера обмена:|
@@ -720,8 +719,8 @@
     |Разрешить приложению доступ у базе данных KeePass?|
 |Fields to remember| |Поля для запоминания|
 |Incoming IPC Request| |Входящий IPC запрос|
-|Lock workspace when locking Windows or switching user|
-    |Блокировать при блокировке или переключении пользователя Windows|
+|Lock workspace when locking Windows, switching user or sleeping|
+    |Блокировать при блокировке Windows, переключении пользователя или переходе в спящий режим|
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
     |Имейте ввиду, что название приложения предоставляется им самим и поэтому может быть неправильным (таким образом злоумышленники могут попытаться получить доступ к Вашим паролям).|
 |Select the fields KeePass should remember| |Выберите поля, которые KeePass должен помнить|
@@ -735,7 +734,6 @@
 |Attachment Description| |Описание файла|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
     |Убедитесь, что носитель файла с паролем вставлен и что у KeePass есть нужные права доступа (проверьте права доступа к файлу, убедитесь, что другие приложения не блокируют файл, ...).|
-|URL Field Features| |Возможности поля Ссылка|
 
 |Arguments| |Аргументы|
 |Check for Update| |Проверить обновление|
@@ -759,7 +757,7 @@
 |Fields to print| |Поля для печати|
 |Here you can customize the printed sheet.| |Здесь можно настроить страницу для печати.|
 |No repeating characters| |Без повторяющихся символов|
-|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
     |Настройки/правила, помеченные звездочкой, уменьшают защищенность генерируемых паролей. Включайте их только если приложение, для которого используется пароль, требует этого.|
 |Print Options| |Настройки печати|
 |Print backup entries (entries in the 'Backup' group)| |Распечатывать резервные записи (записи из группы 'Резервирование')|
@@ -772,3 +770,44 @@
 |The key provider plugin did not supply a valid key| |Модуль провайдера ключа не предоставил допустимый ключ|
 |Type to search the database| |Введите фразу для поиска|
 |in "Minimal functionality" mode| |в режиме "Наименьшей функциональности"|
+
+|Abort specifying a new key for the current database.| |Прекратить изменение ключа текущей базы паролей.|
+|Abort the current operation.| |Прекратить текущую операцию.|
+|Always grant full access through remote control (not recommended)| |Всегда разрешать полный доступ через удаленное управление (не рекомендуется)|
+|Auto-Type: Help| |Автонабор: Помощь|
+|Auto-Type: Select Target Window...| |Автонабор: Выбор целевого окна...|
+|Cancel| |Отмена|
+|Copy [of an item]| |Копия [элемента]|
+|Discard all changes made to the database and close the file.| |Отменить все изменения в базе паролей и закрыть файл.|
+|Discard all changes made to the database and exit KeePass.| |Отменить все изменения в базе паролей и выйти из KeePass.|
+|Discard all changes made to the database and lock the KeePass workspace.| |Отменить все изменения в базе паролей и заблокировать KeePass.|
+|Discard changes| |Отменить изменения|
+|Focus entry list after a successful quick search (toolbar)|
+    |Установить фокус на списке записей после успешного быстрого поиска (через панель управления)|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+    |Сгенерировать новый ключ и переписать существующий файл с паролем. Текущий ключ будет потерян.|
+|KeePass will not be closed.| |KeePass не будет закрыт.|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+    |Загрузить существующий файл с паролем и использовать его как ключ для текущей базы паролей. Файл с паролем не изменится.|
+|Overwrite existing key file?| |Переписать существующий файл с паролем?|
+|Reuse| |Повторно|
+|Save| |Сохранить|
+|Save all changes made to the database and close the file.| |Сохранить все изменения в базе паролей и закрыть файл.|
+|Save all changes made to the database and exit KeePass.| |Сохранить все изменения в базе паролей и выйти из KeePass.|
+|Save all changes made to the database and lock the KeePass workspace.| |Сохранить все изменения в базе паролей и заблокировать KeePass.|
+|Save database changes before closing the file?| |Сохранить изменения перед закрытием базы паролей?|
+|Save database changes before exiting KeePass?| |Сохранить изменения перед выходом из KeePass?|
+|Save database changes before locking the workspace?| |Сохранить изменения перед блокировкой KeePass?|
+|Select the target window for the current entry.| |Выберите целевое окно для текущей записи.|
+|The KeePass workspace will not be locked.| |KeePass не будет заблокирован.|
+|The estimated quality of the master password must be at least %u bits!|
+    |Ожидаемое качество основного пароля должно быть не меньше %u бит(а)!|
+|The file will not be closed.| |Файл не будет закрыт.|
+|The master password must be at least %u characters long!| |Основной пароль должен быть не короче %u символов(а)|
+|The selected key file already exists| |Выьранный файл с паролем уже существует|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+    |Чтобы указать целевое окно, выберите из списка открытых окон, или введите заголовок окна:|
+|URL Field: Help| |Поле ссылки: Помощь|
+|URL Field: Insert Placeholder| |Поле ссылки: Вставить шаблон|
+|URL Field: Select Application...| |Поле ссылки: Выбор приложения...|
+|URL Field: Select Document...| |Поле ссылки: Выбор документа...|
