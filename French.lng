@@ -1,19 +1,17 @@
 |~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.09|
+|1.10|
 |~LANGUAGEAUTHOR|
-|Marc Tissot|
+|Marc Tissot - Audran Moulard|
 |~LANGUAGEAUTHOREMAIL|
-|mtissot@iota.ch, http://www.iota.ch/|
+|mtissot@iota.ch, http://www.iota.ch/ - gthf@users.sf.net|
 |&OK|
 |&OK|
 |&Cancel|
 |&Annuler|
 |&Close|
 |&Fermer|
-|Password Safe|
-|KeePass Password Safe|
 |&Generate Random Password|
 |&Générer un mot de passe aléatoire|
 |&Gen|
@@ -121,7 +119,7 @@
 |So, the more the better. The different, the better.|
 |Donc, plus il y a de caractères, meilleur c'est.|
 |Modify existing password entry.|
-|Modifier l'entrées actuelle de mot de passe.|
+|Modifier l'entrée actuelle de mot de passe.|
 |Modify existing password group.|
 |Modifier le groupe actuel de mots de passe.|
 |The random the better.|
@@ -137,7 +135,7 @@
 |&File|
 |&Fichier|
 |&Edit|
-|&Edition|
+|&Édition|
 |&View|
 |&Affichage|
 |E&xtras|
@@ -176,14 +174,6 @@
 |Modif&ier le groupe de mots de passe...|
 |&Delete Password Group...|
 |&Effacer le groupe de mots de passe...|
-|Export Group To &HTML...|
-|Exporter le groupe en &HTML...|
-|Export Group To &XML...|
-|Exporter le groupe en &XML...|
-|Export Group To &CSV...|
-|Exporter le groupe en &CSV...|
-|Export Group To &TXT...|
-|Exporter le groupe en &TXT...|
 |Failed to save the configuration.|
 |Impossible d'enregistrer la configuration.|
 |Find a string in the password list.|
@@ -203,13 +193,13 @@
 |&Edit/View Entry...|
 |Modi&fier/Afficher l'entrée...|
 |Locked|
-|Vérouillé(e)|
+|Verrouillé(e)|
 |&Delete Entry|
 |Efface&r l'entrée|
 |Dupli&cate Entry|
 |&Dupliquer l'entrée|
 |Move Entry to &Top|
-|Déplacer l'Entrée au &Début|
+|Déplacer l'entrée au &Début|
 |Move Entry &One Up|
 |Déplacer l'entrée vers le &haut|
 |Mo&ve Entry One Down|
@@ -311,7 +301,7 @@
 |Load Language File|
 |Ouvrir un Fichier Language|
 |Load a Language File|
-|Ouvrir un Fichier Language|
+|Ouvrir un Fichier Langage|
 |Select one of the languages in the list below.|
 |Sélectionnez une langue dans la liste ci-dessous.|
 |Available Languages|
@@ -453,7 +443,7 @@
 |Field copied to clipboard.|
 |Champ copié dans le presse-papiers.|
 |Overwrite?|
-|Ecraser ?|
+|Écraser ?|
 |Expires:|
 |Expire le:|
 |&Delete Selected Entries|
@@ -509,7 +499,7 @@
 |Currently Used Language|
 |Langue Actuelle Utilisée|
 |Language File Version|
-|Version du Fichier language |
+|Version du Fichier langage |
 |Author|
 |Auteur |
 |Translation Author Contact|
@@ -543,21 +533,21 @@
 |Hide &User Names Behind Asterisks (***)|
 |Cacher les noms d'&utilisateurs avec des astérisques (***)|
 |Attachment|
-|Attachement|
+|Fichier joint|
 |Attachment:|
-|Attachement:|
+|Fichier joint:|
 |&Attachment|
-|&Attachement|
+|&Fichier joint|
 |Generate a random password...|
 |Générer un mot de passe aléatoire...|
 |Open file and set as attachment...|
-|Ouvrir un fichier et l'utiliser comme attachement...|
+|Ouvrir un fichier et l'utiliser comme un fichier joint...|
 |Save attached file to disk...|
 |Enregistrer le fichier attaché sur le disque...|
 |There already is a file attached with this entry.|
 |Un fichier est déjà attaché à cette entrée.|
 |Do you want to overwrite the current attachment?|
-|Voulez vous écraser l'attachement courant ?|
+|Voulez vous écraser le fichier joint actuel ?|
 |&Save Attached File To...|
 |Enregi&strer le fichier attaché sous...|
 |There is no file attached with this entry.|
@@ -695,7 +685,7 @@
 |Encryption/decryption error|
 |Erreur de chiffrement/déchiffrement|
 |Enhanced: allow pasting only once and protect against clipboard spies|
-|Amélioré: permet de coller une seule fois et protège immédiatemment contre les logiciels espions|
+|Amélioré: permet de coller une seule fois et protège immédiatement contre les logiciels espions|
 |Error code|
 |Code d'erreur|
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
@@ -731,7 +721,7 @@
 |Never expires|
 |N'expire jamais|
 |Number the TANs consecutively, starting from this value|
-|Numéroter les TANs de manière incrémentale, à partir de cette valeur|
+|Numéroter les TANs de manière incrémentielle, à partir de cette valeur|
 |Plugins|
 |Plugins|
 |Plugin|
@@ -767,7 +757,7 @@
 |Failed to create backup of this entry!|
 |Impossible de créer une sauvegarde de cette entrée.|
 |Immediately after opening a database|
-|Immédiatemment après l'ouverture d'une base de mots de passe|
+|Immédiatement après l'ouverture d'une base de mots de passe|
 |Integration|
 |Intégration|
 |Start minimized and locked|
@@ -876,8 +866,6 @@
 |Créer de nouveaux IDs|
 |Disable all auto-type features|
 |Désactiver toutes les fonctionnalités de saisie automatique|
-|Export Group To &KeePass Database...|
-|Exporter le groupe vers une base de mots de passe &KeePass...|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
 |Si vous sélectionnez cette option, KeePass créera de nouveaux IDs pour tous les groupes et entrées. Par conséquent aucun groupe ni entrée de la base de mots de passe actuellement ouverte ne sera modifié ou écrasé.|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
@@ -885,9 +873,9 @@
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
 |KeePass remplacera tous les groupes et entrées existants par ceux du fichier à importer, s'ils ont le même ID.|
 |Overwrite|
-|Ecraser|
+|Écraser|
 |Overwrite if newer|
-|Ecraser si plus récent|
+|Écraser si plus récent|
 |Choose an icon from the list of available entry and group icons.|
 |Choisir une icône dans la liste des entrées disponible et icônes de groupe.|
 |Choose an icon.|
@@ -921,7 +909,7 @@
 |Multiple entries exist for the current window. Please select the entry to auto-type.|
 |Des entrées multiples existent dans la fenêtre courante. Veuillez sélectionner l'entrée à utiliser pour la saisie automatique.|
 |TANs consist of the following characters:|
-|TANs comprend les caractères suivants:|
+|Les TANs se composent des caractères suivants:|
 |Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
 |Veuillez entrer un nom pour le nouveau profil de générateur de mots de passe, ou sélectionner un profil existant pour le remplacer:|
 |Now|
@@ -985,9 +973,9 @@
 |&Read-Only|
 |&Lecture seule|
 |An application requests access through inter-process communication|
-|Une application demande un accüs au travers de la communication inter-processus|
+|Une application demande un accès au travers de la communication inter-processus|
 |An entry already exists for the current URL.|
-|Une entrée existe déjà pour l'URL courrante.|
+|Une entrée existe déjà pour l'URL courante.|
 |Application|
 |Application|
 |Do you grant the application access to your KeePass database?|
@@ -999,15 +987,15 @@
 |Incoming IPC Request|
 |Demande IPC entrante|
 |Lock workspace when locking Windows or switching user|
-|Vérouiller l'espace de travail en vérouillant Windows ou en changeant d'utilisateur|
+|Verrouiller l'espace de travail en verrouillant Windows ou en changeant d'utilisateur|
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
 |Attention, le titre de l'application est fourni par l'application appelante et peut donc être incorrecte (un programme malveillant peut tenter d'accéder à votre base de données).|
 |Select the fields KeePass should remember|
-|Selectionner les champs que KeePass doit retenir|
+|Sélectionner les champs que KeePass doit retenir|
 |The following application requests access to your currently opened KeePass database:|
 |L'application suivante demande d'accéder à la base de données KeePass actuellement ouverte:|
 |The group you selected cannot store entries. Please select a different group.|
-|Le groupe selectionné ne peut pas contenir d'entrées. Sölectionnez SVP un groupe différent.|
+|Le groupe sélectionné ne peut pas contenir d'entrées. Sélectionnez SVP un groupe différent.|
 |Unknown|
 |Inconnu|
 |Value|
@@ -1027,15 +1015,13 @@
 |Space ( )|
 |Espace ( )|
 |URL Field Features|
-|Fonctionalités champ URL|
+|Fonctionnalités champ URL|
 |Text Files|
 |Fichier Texte|
 |Underline (_)|
 |Souligné (_)|
 |Master Password:|
 |Mot de passe principal:|
-|Key File:|
-|Fichier Clé:|
 |Save current settings as a profile.|
 |Enregistrer les paramètres actuels comme profil.|
 |Randomly permute characters of password|
@@ -1045,7 +1031,7 @@
 |Open Database|
 |Ouvrir Base de données|
 |(Custom)|
-|(Personalisé)|
+|(Personnalisé)|
 |(No key file selected)|
 |(Aucun fichier clé sélectionné)|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
@@ -1069,7 +1055,7 @@
 |Digits (0, 1, 2, ...)|
 |Chiffres (0, 1, 2, ...)|
 |EITHER enter a master password OR select a key file.|
-|Au CHOIX entrer un mot de passe principal OU selectioner un fichier clé.|
+|Au CHOIX entrer un mot de passe principal OU sélectionner un fichier clé.|
 |Enter Password:|
 |Saisir Mot de Passe:|
 |Enter the composite master key.|
@@ -1081,17 +1067,15 @@
 |(Automatically generated passwords for new entries)|
 |(Mot de passe généré automatiquement pour les nouvelles entrées)|
 |Hide passwords behind asterisks (***).|
-|Cacher les mots de passe par des asterix (***).|
+|Cacher les mots de passe par des astérisque (***).|
 |Also include the following characters:|
 |Inclure également les caractères suivants:|
 |Attachment Description|
-|Description de l'attachement|
+|Description du fichier joint|
 |Change Composite Master Key|
-|Modifier la Clé Composite Pricipale|
+|Modifier la Clé Composite Principale|
 |Click [Yes] to overwrite the key file.|
 |Cliquer [Oui] pour écraser le fichier clé.|
-|Collect &entropy (recommended for strong passwords)|
-|Collecter l'&entropie (recommendée pour mots de passe forts)|
 |Create New Password Database|
 |Créer une Nouvelle Base de Mots de Passe|
 |Current settings|
@@ -1111,7 +1095,7 @@
 |Save key file manually to...|
 |Enregistrer manuellement le fichier sous...|
 |Select key file manually...|
-|Selectionner le fichier clé manuellement...|
+|Sélectionner le fichier clé manuellement...|
 |Set Composite Master Key|
 |Définir la Clé Composite Principale|
 |Specify the composite master key.|
@@ -1123,12 +1107,54 @@
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
 |Si vous notez un problème avec la méthode évoluée, revenez à la méthode temporelle de vidange du presse-papier.|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
-|Vereifier que le médioa contenant le fichier clé est inséré et que KeePass possède les droits d'accès (Verifier les droits d'accès et qu'aucune autre application ne bloque ce fichier, ...).|
+|Vérifier que le média contenant le fichier clé est inséré et que KeePass possède les droits d'accès (Vérifier les droits d'accès et qu'aucune autre application ne bloque ce fichier, ...).|
 |There are too few characters in the character set to build up a password matching the specified rules|
-|Il y a trop de caractères dans ce jeux pour générer un mot de passe correpsondant aux règles spécifiées|
+|Il y a trop de caractères dans ce jeux pour générer un mot de passe correspondant aux règles spécifiées|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
 |Attention! Il est possible que cette option ne fonctionne pas correctement sur votre système, spécialement si vous utilisez un presse-papier évolué ou un outil de sauvegarde du presse-papier.|
 |You can choose a different hot key combination in 'Tools - Options - Setup'.|
 |Vous pouvez choisir une autre combinaison de touches dans 'Outils - Options - Configurer'.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
-|Vous avez sélectionneé le mode clé ET, vous devez donc saisir un mot de passe ET sélectionner un fichier clé.|
+|Vous avez sélectionnée le mode clé ET, vous devez donc saisir un mot de passe ET sélectionner un fichier clé.|
+|&Export Group To|
+|&Exporter le groupe en|
+|Advanced Password Generator Options|
+|Options avancées du générateur de mot de passe|
+|Clear Search History|
+|Effacer l'historique de recherche|
+|Collect additional &entropy|
+|Collecter de l'entropie additionnel|
+|Default user name for new entries:|
+|Nom d'utilisateur par défaut pour la nouvelle entrée|
+|Exclude the following characters:|
+|Exclure les caractères suivants:|
+|Fields to print|
+|Champs à imprimer|
+|Here you can customize the printed sheet.|
+|Ici vous pouvez personnaliser la feuille à imprimer.|
+|Key File|
+|Fichier clé|
+|No repeating characters|
+|Ne pas répéter les caractères|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
+|Les options/règles marquées avec un astérisque réduisent la sécurité des mots de passe générés. Activez les seulement si vous êtes forcés de suivre les règles d'un site web ou d'une application.|
+|Print Options|
+|Options d'impression|
+|Print backup entries (entries in the 'Backup' group)|
+|Imprimer les entrées sauvegardées (entrées du groupe 'Sauvegarde')|
+|Provider|
+|Fournisseur|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+|Enregistrer le raccourci Ctrl-Alt-K (met la fenêtre Keepass au premier plan)|
+|Regular expression|
+|Expression régulière|
+|Search...|
+|Recherche...|
+|TANs are imported into the currently selected group|
+|Les TANs seront importés dans le groupe actuellement sélectionné|
+|The key provider plugin did not supply a valid key|
+|Le plugin du fournisseur de la clé n'a pas fourni une clé valide|
+|Type to search the database|
+|Taper une recherche dans la base de donnée|
+|in "Minimal functionality" mode|
+|en mode "Fonctionnalité minimale"|
