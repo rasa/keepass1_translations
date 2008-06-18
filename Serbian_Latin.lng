@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Srpski|
 |~LANGUAGEVERSION|
-|1.10|
+|1.11|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -16,8 +16,6 @@
 |&Generiši lozinku|
 |Choose an icon.|
 |Odaberi ikonu.|
-|&Gen|
-|&Gen|
 |General|
 |Opšte|
 |Windows|
@@ -348,8 +346,6 @@
 |Datoteke Password Safe KeePass|
 |All Files|
 |Sve|
-|The current file has been modified.|
-|Aktuelna datoteka promenjena.|
 |Do you want to save the changes before closing?|
 |Sačuvati promene pre zatvaranja?|
 |KeePass - Save Before Close/Lock?|
@@ -424,8 +420,6 @@
 |CSV datoteke|
 |Text Files|
 |Tekst datoteke|
-|An error occured while importing the file. File cannot be imported.|
-|Greška pri unosu datoteke. Datoteka ne može da se unese.|
 |&CSV File...|
 |CSV datoteka...|
 |&PwSafe v2 TXT File...|
@@ -792,8 +786,6 @@
 |Onesposobi|
 |About &Plugin...|
 |O dadatku...|
-|An error occured|
-|Greška se pojavila|
 |Error code|
 |Kod greške|
 |Unknown error|
@@ -1054,8 +1046,6 @@
 |Razlog|
 |KeePass Initialization|
 |Inicijalizacija KeePass-a|
-|Lock workspace when locking Windows or switching user|
-|Blokiraj površinu na blokiranje Vindoza ili promene korisnika|
 |Value|
 |Vrednost|
 |Select the fields KeePass should remember|
@@ -1088,8 +1078,6 @@
 |Omogući udaljena kontrola (dozvoli da programe komiciraju sa KeePass)|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
 |Proveriti da medij koji sadržava ključnu datoteku je unešen i da KeePass ima sva na njega (proveriti prava pristupa datoteci, proveriti da ni jedan program ne blokira datoteku, ...).|
-|URL Field Features|
-|Sposobnosti polja URL|
 |There are too few characters in the character set to build up a password matching the specified rules|
 |Nema dovoljno kljraktera da bi se kreiralo pravilo|
 |(Custom)|
@@ -1142,8 +1130,6 @@
 |Opcije naprednog generisanja lozinke|
 |Exclude the following characters:|
 |Izbaci ove karaktere:|
-|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
-|Opcije/pravile markirani sa zvezdicom smanjuje sigurnost generisanih lozinka. Omogućiti samo ako morate da pratite takvih pravila za sajt/program.|
 |No repeating characters|
 |Ne ponoviti karaktere|
 |Provider|
@@ -1160,3 +1146,83 @@
 |Isprazni historijat traženja|
 |TANs are imported into the currently selected group|
 |TANs su uvezeni u aktuelnoj odabranoj grupi|
+|Abort specifying a new key for the current database.|
+|Poništavanje specifiranja novog ključa za aktuelnu bazu.|
+|Abort the current operation.|
+|Poništi aktuelni rad.|
+|Always grant full access through remote control (not recommended)|
+|Uvek dozvoli puni pristup na udaljen pristup (nije preporučeno)|
+|An error occurred|
+|Desila se greška|
+|An error occurred while importing the file. File cannot be imported.|
+|Greška pri uvoza datoteke. Datoteka ne može de se uveze.|
+|Auto-Type: Help|
+|Auto-Unos: Pomoć|
+|Auto-Type: Select Target Window...|
+|Auto-Unos: Odabrati ciljni prozor...|
+|Cancel|
+|Poništi|
+|Copy [of an item]|
+|Kopija [od elementa]|
+|Discard all changes made to the database and close the file.|
+|Odbaci sve promene baze i zatvori datoteku.|
+|Discard all changes made to the database and exit KeePass.|
+|Odbaci sve promene baze i zatvori „KeePass“.|
+|Discard all changes made to the database and lock the KeePass workspace.|
+|Odbaci sve promene baze i blokiraj „KeePass“.|
+|Discard changes|
+|Odbaci promene|
+|Focus entry list after a successful quick search (toolbar)|
+|Fokus u spisku posle uspešnog nalaženja (alatna traka)|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+|Generisati novi ključ i prepisati staru ključnu datoteku. Aktuelni ključ iz ključne dljtoteke će biti izgubljen.|
+|KeePass will not be closed.|
+|„KeePass“ neće biti zatvoren.|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+|Učitaj postojeću ključnu datoeku i koristi je za aktuelnu bazu. Ključna datoeke neće biti promenjena.|
+|Lock workspace when locking Windows, switching user or sleeping|
+|Blokiraj radnu površinu na blokiranje „Windows“-a, promene korisnika ili uspavanja|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+|Opcije/pravila markirani sa zvezdicom smanjuje sigurnost generisanih lozinka. Omogućiti ih samo ako morate da pratite ta pravila.|
+|Overwrite existing key file?|
+|Prepisati ključnu datoteku?|
+|Reuse|
+|Ponovo koristi|
+|Save|
+|Sačuvaj|
+|Save all changes made to the database and close the file.|
+|Sačuvaj sve promene baze i zatvori datoteku.|
+|Save all changes made to the database and exit KeePass.|
+|Sačuvaj sve promene daze i zatvori „KeePass“.|
+|Save all changes made to the database and lock the KeePass workspace.|
+|Sačuvaj sve promene baze i blokiraj površinu „KeePass“-a.|
+|Save database changes before closing the file?|
+|Sačuvati promene baze pre zatvaranja datoteke?|
+|Save database changes before exiting KeePass?|
+|Sačuvati promene baze pre zatvaranja „KeePass“-a?|
+|Save database changes before locking the workspace?|
+|Sačuvati promene baze pre blokiranja površine?|
+|Select the target window for the current entry.|
+|Odabrati ciljni prozor za aktuelni elemenat.|
+|The KeePass workspace will not be locked.|
+|Površina „KeePass“-a neće biti blokirana.|
+|The current database file has been modified|
+|Aktuelna datoteka ja promenjena|
+|The estimated quality of the master password must be at least %u bits!|
+|Kvalitet glavne lozinke treba biti najmanje %u bita!|
+|The file will not be closed.|
+|Datoteka neće biti zatvorena.|
+|The master password must be at least %u characters long!|
+|Glavna lozinka treba da ima makar %u karaktera!|
+|The selected key file already exists|
+|Odabrana ključna datoteka već postoji|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+|Za specifiranje ciljnog prozora, ili odabrati već otvoren prozor sa spiska ili uneti njegov naziv:|
+|URL Field: Help|
+|URL Polje: Pomoć|
+|URL Field: Insert Placeholder|
+|URL Polje: Uneti Placeholder|
+|URL Field: Select Application...|
+|URL Polje: Odabrati program...|
+|URL Field: Select Document...|
+|URL Polje: Odabrati dokumenat...|
