@@ -1,11 +1,11 @@
 |~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.10|
+|1.11|
 |~LANGUAGEAUTHOR|
-|Marc Tissot - Audran Moulard|
+|Marc Tissot - Audran Moulard - whibo|
 |~LANGUAGEAUTHOREMAIL|
-|mtissot@iota.ch, http://www.iota.ch/ - gthf@users.sf.net|
+|mtissot@iota.ch, http://www.iota.ch/ - gthf@users.sf.net - http://portableapps.com/user/14824|
 |&OK|
 |&OK|
 |&Cancel|
@@ -14,8 +14,6 @@
 |&Fermer|
 |&Generate Random Password|
 |&Générer un mot de passe aléatoire|
-|&Gen|
-|&Gén|
 |General|
 |Général|
 |Windows|
@@ -284,8 +282,6 @@
 |Le fichier ne peut être enregistré.|
 |Save as Profile|
 |Enregistrer comme Profil|
-|The current file has been modified.|
-|Le fichier courant a été modifié.|
 |Do you want to save the changes before closing?|
 |Voulez-vous enregistrer les modifications avant de quitter ?|
 |KeePass - Save Before Close/Lock?|
@@ -350,8 +346,6 @@
 |L'application ne peut redémarrer automatiquement.|
 |Please restart KeePass manually.|
 |Veuillez redémarrer KeePass manuellement.|
-|An error occured while importing the file. File cannot be imported.|
-|Une erreur est survenue durant l'importation du fichier. Le fichier ne peut être importé.|
 |&CSV File...|
 |Fichier &CSV...|
 |&PwSafe v2 TXT File...|
@@ -668,8 +662,6 @@
 |&Plugins...|
 |About &Plugin...|
 |A propos du &plugin|
-|An error occured|
-|Une erreur est survenue|
 |Application version:|
 |Version de l'application:|
 |Auto-Type|
@@ -986,8 +978,6 @@
 |Champs à retenir|
 |Incoming IPC Request|
 |Demande IPC entrante|
-|Lock workspace when locking Windows or switching user|
-|Verrouiller l'espace de travail en verrouillant Windows ou en changeant d'utilisateur|
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
 |Attention, le titre de l'application est fourni par l'application appelante et peut donc être incorrecte (un programme malveillant peut tenter d'accéder à votre base de données).|
 |Select the fields KeePass should remember|
@@ -1014,8 +1004,6 @@
 |Majuscules (A, B, C, ...)|
 |Space ( )|
 |Espace ( )|
-|URL Field Features|
-|Fonctionnalités champ URL|
 |Text Files|
 |Fichier Texte|
 |Underline (_)|
@@ -1136,8 +1124,6 @@
 |Fichier clé|
 |No repeating characters|
 |Ne pas répéter les caractères|
-|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website/application.|
-|Les options/règles marquées avec un astérisque réduisent la sécurité des mots de passe générés. Activez les seulement si vous êtes forcés de suivre les règles d'un site web ou d'une application.|
 |Print Options|
 |Options d'impression|
 |Print backup entries (entries in the 'Backup' group)|
@@ -1158,3 +1144,83 @@
 |Taper une recherche dans la base de donnée|
 |in "Minimal functionality" mode|
 |en mode "Fonctionnalité minimale"|
+|Abort specifying a new key for the current database.|
+|Annuler la spécification d'une nouvelle clé pour la base de données actuelle.|
+|Abort the current operation.|
+|Annuler l'opération actuelle.|
+|Always grant full access through remote control (not recommended)|
+|Toujours autoriser l'accès complet par le contrôle à distance (non recommandé)|
+|An error occurred|
+|Une erreur s'est produite|
+|An error occurred while importing the file. File cannot be imported.|
+|Une erreur s'est produite pendant que vous importiez le fichier. Le fichier ne peut pas être importé.|
+|Auto-Type: Help|
+|Auto-Type: Aide|
+|Auto-Type: Select Target Window...|
+|Auto-Type: Choisir la fenêtre cible...|
+|Cancel|
+|Annuler|
+|Copy [of an item]|
+|Copie [d'un item]|
+|Discard all changes made to the database and close the file.|
+|Annuler tout les changements apportés à la base de données et fermer le fichier.|
+|Discard all changes made to the database and exit KeePass.|
+|Annuler tout les changements apportés à la base de données et fermer KeePass.|
+|Discard all changes made to the database and lock the KeePass workspace.|
+|Annuler tout les changements apportés à la base de données et barrer l'espace de travail KeePass.|
+|Discard changes|
+|Annuler tout les changements|
+|Focus entry list after a successful quick search (toolbar)|
+|Restreindre la liste d'entrées après une recherche rapide concluante (barre d'outils)|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+|Générer une nouvelle clé et écrire par-dessus le fichier de clé existant. La clé actuellement enregistré dans le fichier de clé existant va être perdue.|
+|KeePass will not be closed.|
+|KeePass ne vas pas être fermé.|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+|Charger le fichier de clé existant et l'utiliser pour la base de données actuelle. Le fichier de clé ne va pas être modifié.|
+|Lock workspace when locking Windows, switching user or sleeping|
+|Barrer l'espace de travail après avoir barré Windows, avoir changer d'utilisateur ou avoir mit Windows en veille.|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+|Les options et les règles marquées d'un astérisque réduise la sécurité des mots de passes générés. Ne les activez que si vous êtes forcés de suivre certaines règles d'un site, d'une application ou d'une police de mots de passe.|
+|Overwrite existing key file?|
+|Écrire par-dessus le fichier de clé existant?|
+|Reuse|
+|Réutiliser|
+|Save|
+|Enregistrer|
+|Save all changes made to the database and close the file.|
+|Enregistrer tout les changements apportés à la base de données et fermer le fichier.|
+|Save all changes made to the database and exit KeePass.|
+|Enregistrer tout les changements apportés à la base de données et fermer KeePass.|
+|Save all changes made to the database and lock the KeePass workspace.|
+|Enregistrer tout les changements apportés à la base de données et barrer l'espace de travail KeePass.|
+|Save database changes before closing the file?|
+|Enregistrer tout les changements apportés à la base de données avant de fermer le fichier?|
+|Save database changes before exiting KeePass?|
+|Enregistrer tout les changements apportés à la base de données avant de fermer KeePass?|
+|Save database changes before locking the workspace?|
+|Enregistrer tout les changements apportés à la base de données avant de barrer l'espace de travail KeePass ?|
+|Select the target window for the current entry.|
+|Choisir la fenêtre cible pour l'entrée actuelle.|
+|The KeePass workspace will not be locked.|
+|L'espace de travail KeePass ne va pas être barrée.|
+|The current database file has been modified|
+|Le fichier de la base de données actuelle a été modifié|
+|The estimated quality of the master password must be at least %u bits!|
+|La qualité estimée du mot de passe principal doit être d'au moins %u bits!|
+|The file will not be closed.|
+|Le fichier ne va pas être fermé.|
+|The master password must be at least %u characters long!|
+|Le mot de passe principal doit être d'au moins %u chiffres de long!|
+|The selected key file already exists|
+|Le fichier de clé sélectionné existe déjà|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+|Pour spécifier la fenêtre cible, vous pouvez choisir une fenêtre déjà ouverte dans la liste ci-dessous ou vous pouvez entrer le nom de la fenêtre manuellement:|
+|URL Field: Help|
+|Champ URL: Aide|
+|URL Field: Insert Placeholder|
+|Champ URL: Insérer un paramètre de remplacement|
+|URL Field: Select Application...|
+|Champ URL: Choisir l'application...|
+|URL Field: Select Document...|
+|Champ URL: Choisir le document...|
