@@ -1,7 +1,7 @@
-﻿2008-04-14 01:11|~LANGUAGENAME|
+﻿2008-08-11 01:12|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.11|
+|1.12|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
@@ -972,14 +972,14 @@
 |继续使用当前的密码/密匙？|
 |Show full path in the title bar (instead of file name only)|
 |在标题栏显示完整的路径（而不是只显示文件名）|
+|Enable auto-type features|
+|启用自动输入功能|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
 |你所选择的导入文件格式支持群组 和/或 记录名称标识，请设置导入选项。|
 |Copy &URL to Clipboard|
 |复制网址(&U)|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
 |复制网址 但 不打开网址（例外：cmd:// URLs 格式的网址仍会打开）|
-|Disable all auto-type features|
-|禁用所有自动输入功能|
 |&Help|
 |帮助(&H)|
 |&Help Contents|
@@ -1224,3 +1224,37 @@
 |为当前记录选择目标窗口|
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
 |从下拉列表中选择当前打开的窗口，或者手工输入窗口标题:|
+|Default auto-type sequence for standard entries:|
+|标准记录的默认自动输入规则|
+|Prepend special initialization sequence for Internet Explorer windows|
+|为 IE 窗口预设特殊初始规则|
+|Here you can configure auto-type.|
+|在此设置自动输入|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+|目标文件或处于出错状态，请重试，若仍然失败，请保存数据文件至新的路径。|
+|Drop to background when copying data to the clipboard|
+|复制数据到剪贴板时程序切换至后台|
+|Insert Field Reference|
+|插入字段引用|
+|In Title Field|
+|标题字段|
+|In User Name Field|
+|用户名字段|
+|In URL Field|
+|URL 字段|
+|In Password Field|
+|密码字段|
+|In Notes Field|
+|备注字段|
+|Field to reference|
+|引用的字段|
+|Identify source entry by|
+|源记录识别字段|
+|Source field to reference|
+|引用源字段|
+|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).|
+|用于识别源记录的字段包含非法字符（像大括号{}、换行符等...）。|
+|Multiple entries match the specified identifying field.|
+|指定的识别字段匹配到多条记录|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+|为精确匹配，可以通过唯一标识码来识别|
