@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.11|
+|~LANGUAGEVERSION||1.12|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -181,7 +181,6 @@
 |Delete Entries Confirmation||Confirmación de Borrado de Entradas|
 |Delete Group Confirmation||Confirmación de Borrado de Grupo|
 |Deleting a group will delete all items and subgroups in that group, too.||Borrar un grupo borrará también todos los elementos y subgrupos presentes en el grupo.|
-|Disable all auto-type features||Deshabilitar todas las funciones de escritura automática|
 |Disable 'Save' button if the database hasn't been modified||Deshabilitar el botón 'Guardar' si la base de datos no ha sido modificada|
 |Disable unsafe (security-critical) operations like exports, etc.||Deshabilitar operaciones inseguras (seguridad crítica) como exportar, etc.|
 |Disabled, not loaded||Deshabilitado, no fue cargado|
@@ -398,7 +397,7 @@
 |Save key file manually to...||Guardar archivo de clave manualmente en...|
 |Save the database now in order to get the new key applied.||Guardar la base de datos ahora para que pueda ser aplicada la nueva clave.|
 |Se&lect All||Se&leccionar Todo|
-|Search in||Buscaen en|
+|Search in||Buscar en|
 |Search Results||Resultados de la Búsqueda|
 |Security||Seguridad|
 |Select &Font||Seleccionar &Fuente|
@@ -542,7 +541,7 @@
 |Create a new password group.||Crear un nuevo grupo de contraseñas.|
 |Delete currently selected profile.||Eliminar el perfil seleccionado.|
 |Failed to save the configuration.||Error al guardar la configuración.|
-|Find what:||Buscar qué:|
+|Find what:||Buscar:|
 |Hide passwords behind asterisks (***).||Ocultar contraseñas mediante asteriscos (***).|
 |Last &Modification Time||Fecha de la Última &Modificación|
 |Locked||Bloqueado|
@@ -612,3 +611,21 @@
 |URL Field: Insert Placeholder||Campo URL: Insertar Marcador de Posición|
 |URL Field: Select Application...||Campo URL: Seleccionar Aplicación...|
 |URL Field: Select Document...||Campo URL: Seleccionar Documento...|
+|Default auto-type sequence for standard entries:||Secuencia por defecto de escritura automática para entradas estándar:|
+|Drop to background when copying data to the clipboard||Mover a segundo plano al copiar información al portapapeles|
+|Enable auto-type features||Habilitar las características de escritura automática|
+|Field to reference||Campo de referencia|
+|Here you can configure auto-type.||Aquí puede configurar la escritura automática|
+|Identify source entry by||Identificar la entrada de origen por|
+|In Notes Field||Campo Notas|
+|In Password Field||Campo Contraseña|
+|In Title Field||Campo Título|
+|In URL Field||Campo URL|
+|In User Name Field||Campo Nombre de Usuario|
+|Insert Field Reference||Insertar campo de referencia|
+|Multiple entries match the specified identifying field.||Múltiples entradas se ajustan al campo de identificación especificado.|
+|Prepend special initialization sequence for Internet Explorer windows||Agregar secuencia especial de inicialización para ventanas de Internet Explorer|
+|Source field to reference||Campo de origen para referencia|
+|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).||El campo seleccionado, que identifica la entrada de origen, contiene caracteres no permitidos (como '{', '}', saltos de línea, etc.)|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.||El archivo de destino puede estar dañado. Por favor intente guardarlo de nuevo y, si vuelve a fallar, guarde la base de datos en una ubicación diferente.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.||Para evitar ambigüedades, las entradas pueden ser identificadas por sus UUID.|
