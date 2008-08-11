@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Norsk (Nynorsk)|
-|~LANGUAGEVERSION||1.11|
+|~LANGUAGEVERSION||1.12|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||nynorsk@strilen.net|
 |&OK||&OK|
@@ -354,7 +354,7 @@
 |Most probably someone has changed the file while you were editing it.||Det kan henda at nokon andre har endra fila medan du arbeidde med ho.|
 |Do you want to overwrite it?||Vil du skriva over ho?|
 |The group you selected cannot store entries. Please select a different group.||Gruppa du valde kan ikkje lagra postar. Du må velja ei anna gruppe.|
-|This will remove all selected entries unrecoverably!||Dette vil fjerna alle postar for alltid.|
+|This will remove all selected entries unrecoverably!||Dette vil fjerna alle valde postar for alltid.|
 |Are you sure you want to delete all selected entries?||Er du sikker på du vil sletta alle dei valde postane?|
 |Delete Entries Confirmation||Stadfest slettinga av postane|
 |Use PuTTY for ssh: and telnet: URLs||Bruk PuTTY for ssh:- og telnet:-adresser|
@@ -418,7 +418,7 @@
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.||Klarte ikkje å endra tilknytinga til .kdb-filer. Sjå til at du har nok rettar til systemregisteret og at du kan endra tilknytingar.|
 |Number the TANs consecutively, starting from this value||Nummerer TAN i rekkjefølgje frå denne verdien|
 |Never expires||Går aldri ut|
-|Auto-Type||Auto-inntasting|
+|Auto-Type||Auto-inntast.|
 |Help:||Hjelp:|
 |Advanced||Avansert|
 |Start minimized and locked||Start programmet minimert og låst|
@@ -478,7 +478,6 @@
 |Click [No] to set a new key for the exported file.||Klikk [Nei] for å lage ein ny nøkkel til den eksporterte fila.|
 |Reuse the current key/password?||Bruka om att den noverande nøkkelen/passordet?|
 |Show full path in the title bar (instead of file name only)||Vis full filbane i tittelfeltet (ikkje berre filnamnet)|
-|Disable all auto-type features||Slå av alle auto-inntastingseigenskapane|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)||Kopier adresser til utklippstavla i staden for å kjøra dei (unntak er cmd://-adresser)|
 |Copy &URL to Clipboard||Kopier &adressa til utklippstavla|
 |Exit program instead of locking the workspace after the specified time||Avslutt programmet i staden for berre å låsa arbeidsflata når tida er ute|
@@ -611,3 +610,21 @@
 |URL Field: Insert Placeholder||Adressefelt: Set inn plasshaldar|
 |URL Field: Select Application...||Adressefelt: Vel applikasjon…|
 |URL Field: Select Document...||Adressefelt: Vel dokument…|
+|Default auto-type sequence for standard entries:||Standard auto-inntastingssekvens for standardpostar:|
+|Drop to background when copying data to the clipboard||Gå til bakgrunnen ved datakopiering til utklippstavla|
+|Enable auto-type features||Slå på auto-inntastingseigenskapar|
+|Field to reference||Referansefelt|
+|Here you can configure auto-type.||Her kan du endra auto-inntastingsvala.|
+|Identify source entry by||Identifiser kjeldeoppføring etter|
+|In Notes Field||I merknadsfeltet|
+|In Password Field||I passordfeltet|
+|In Title Field||I tittelfeltet|
+|In URL Field||I adressefeltet|
+|In User Name Field||I brukarnamnfeltet|
+|Insert Field Reference||Set inn feltreferanse|
+|Multiple entries match the specified identifying field.||Fleire postar samsvarer med søkefeltet.|
+|Prepend special initialization sequence for Internet Explorer windows||Føy til spesiell initialiseringssekvens for Internet Explorer-vindauge|
+|Source field to reference||Referansekjeldefelt|
+|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).||Det valde feltet, som identifiserer kjeldeposten, inneheld ugyldige teikn (som t.d. '{', '}', nylinje-teikn, …).|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.||Målfila kan vera øydelagd. Prøv å lagra på nytt. Dersom lagringa framleis feilar, lagra databasen ein annan stad.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.||Ein sikrar at postar er eintydige om ein identifiserer dei ved hjelp av UUID-ane deira.|
