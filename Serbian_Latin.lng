@@ -1,7 +1,7 @@
-﻿|~LANGUAGENAME|
+|~LANGUAGENAME|
 |Srpski|
 |~LANGUAGEVERSION|
-|1.11|
+|1.12|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -346,6 +346,8 @@
 |Datoteke Password Safe KeePass|
 |All Files|
 |Sve|
+|The current database file has been modified|
+|Aktuelna baza je promenjena|
 |Do you want to save the changes before closing?|
 |Sačuvati promene pre zatvaranja?|
 |KeePass - Save Before Close/Lock?|
@@ -420,6 +422,8 @@
 |CSV datoteke|
 |Text Files|
 |Tekst datoteke|
+|An error occurred while importing the file. File cannot be imported.|
+|Greška pri uvoza datoteke. Datoteka ne nože da se uveze.|
 |&CSV File...|
 |CSV datoteka...|
 |&PwSafe v2 TXT File...|
@@ -786,6 +790,8 @@
 |Onesposobi|
 |About &Plugin...|
 |O dadatku...|
+|An error occurred|
+|reška se pojavila|
 |Error code|
 |Kod greške|
 |Unknown error|
@@ -972,8 +978,8 @@
 |Koristi aktuelni ključ/lozinku?|
 |Show full path in the title bar (instead of file name only)|
 |Pokaži ceo put i nazivnoj traci (umesto samo ime)|
-|Disable all auto-type features|
-|Ugasi sva sposobnosti auto-punjenja|
+|Enable auto-type features|
+|Upali sposobnosti auto-punjenja|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
 |Kopiraj URL u klipbordu umesto da se otvore (osim za URL cmd://)|
 |Copy &URL to Clipboard|
@@ -1046,6 +1052,8 @@
 |Razlog|
 |KeePass Initialization|
 |Inicijalizacija KeePass-a|
+|Lock workspace when locking Windows, switching user or sleeping|
+|Blokiraj površinu na blokiranje Windows-a, promena korisnika ili uspavanja|
 |Value|
 |Vrednost|
 |Select the fields KeePass should remember|
@@ -1078,6 +1086,8 @@
 |Omogući udaljena kontrola (dozvoli da programe komiciraju sa KeePass)|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
 |Proveriti da medij koji sadržava ključnu datoteku je unešen i da KeePass ima sva na njega (proveriti prava pristupa datoteci, proveriti da ni jedan program ne blokira datoteku, ...).|
+|URL Field: Help|
+|URL polje: Pomoć|
 |There are too few characters in the character set to build up a password matching the specified rules|
 |Nema dovoljno kljraktera da bi se kreiralo pravilo|
 |(Custom)|
@@ -1130,6 +1140,8 @@
 |Opcije naprednog generisanja lozinke|
 |Exclude the following characters:|
 |Izbaci ove karaktere:|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+|Opcije/pravila markirani sa zvezdicom smanjuje sigurnost generisanih lozinka. Omogućiti ih samo ako morate da pratite ta pravila.|
 |No repeating characters|
 |Ne ponoviti karaktere|
 |Provider|
@@ -1182,8 +1194,6 @@
 |Učitaj postojeću ključnu datoeku i koristi je za aktuelnu bazu. Ključna datoeke neće biti promenjena.|
 |Lock workspace when locking Windows, switching user or sleeping|
 |Blokiraj radnu površinu na blokiranje „Windows“-a, promene korisnika ili uspavanja|
-|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
-|Opcije/pravila markirani sa zvezdicom smanjuje sigurnost generisanih lozinka. Omogućiti ih samo ako morate da pratite ta pravila.|
 |Overwrite existing key file?|
 |Prepisati ključnu datoteku?|
 |Reuse|
@@ -1225,4 +1235,38 @@
 |URL Field: Select Application...|
 |URL Polje: Odabrati program...|
 |URL Field: Select Document...|
-|URL Polje: Odabrati dokumenat...|
+|URL Polje: Odabrati dokumenat...||Default auto-type sequence for standard entries:|
+|Default auto-type sequence for standard entries:|
+|Inicijalna auto6unosna sekvencija za standardna unosa:|
+|Drop to background when copying data to the clipboard|
+|Postavi u pozadinu na kopiranje podataka u klipbordu|
+|Field to reference|
+|Polje za odnos|
+|Here you can configure auto-type.|
+|Ovde se podešava auto-unos.|
+|Identify source entry by|
+|Identifikuj izvor po|
+|In Notes Field|
+|U polje beleške|
+|In Password Field|
+|U polje lozinke|
+|In Title Field|
+|U polje naziva|
+|In URL Field|
+|U polje URL|
+|In User Name Field|
+|U polje korisnika|
+|Insert Field Reference|
+|Ubaci odnos polja|
+|Multiple entries match the specified identifying field.|
+|Više unosa odgovaraju specifiranom polju identifikacije.|
+|Prepend special initialization sequence for Internet Explorer windows|
+|Prepend special initialization sequence for Internet Explorer windows|
+|Source field to reference|
+|Izvorno polje za odnos|
+|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).|
+|Odabrano polje, koji identifikuje izvorni ulaz, sadržava nedozvoljena karaktera (kao '{', '}', nova linija, ...).|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+|Ciljna datoteka je možda pokvarena. Pokušajte da je ponovo sačuvate, ako to ne uspe, sačuvati bazu na drugi smeštaj.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+|Da bi izbegli dvosmislenost, stavke su identifikovane po UUID, koji je unikat.|

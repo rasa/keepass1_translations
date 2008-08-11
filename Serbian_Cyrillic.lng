@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Српски|
 |~LANGUAGEVERSION|
-|1.11|
+|1.12|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -346,6 +346,8 @@
 |Датотеке Password Safe KeePass|
 |All Files|
 |Све|
+|The current database file has been modified|
+|Актуелна база је промењена|
 |Do you want to save the changes before closing?|
 |Сачувати промене пре затварања?|
 |KeePass - Save Before Close/Lock?|
@@ -420,6 +422,8 @@
 |CSV датотеке|
 |Text Files|
 |Текст датотеке|
+|An error occurred while importing the file. File cannot be imported.|
+|Грешка при увоза датотеке. Датотека не ноже да се увезе.|
 |&CSV File...|
 |CSV датотека...|
 |&PwSafe v2 TXT File...|
@@ -786,6 +790,8 @@
 |Онеспособи|
 |About &Plugin...|
 |О дадатку...|
+|An error occurred|
+|Грешка се појавила|
 |Error code|
 |Код грешке|
 |Unknown error|
@@ -972,8 +978,8 @@
 |Користи актуелни кључ/лозинку?|
 |Show full path in the title bar (instead of file name only)|
 |Покажи цео пут и називној траци (уместо само име)|
-|Disable all auto-type features|
-|Угаси сва способности ауто-пуњења|
+|Enable auto-type features|
+|Упали способности ауто-пуњења|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
 |Копирај УРЛ у клипборду уместо да се отворе (осим за УРЛ cmd://)|
 |Copy &URL to Clipboard|
@@ -1046,6 +1052,8 @@
 |Разлог|
 |KeePass Initialization|
 |Иницијализација KeePass-а|
+|Lock workspace when locking Windows, switching user or sleeping|
+|Блокирај површину на блокирање Windows-а, промена корисника или успавања|
 |Value|
 |Вредност|
 |Select the fields KeePass should remember|
@@ -1078,6 +1086,8 @@
 |Омогући удаљена контрола (дозволи да програме комицирају са KeePass)|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
 |Проверити да медиј који садржава кључну датотеку је унешен и да KeePass има сва на њега (проверити права приступа датотеци, проверити да ни један програм не блокира датотеку, ...).|
+|URL Field: Help|
+|URL поље: Помоћ|
 |There are too few characters in the character set to build up a password matching the specified rules|
 |Нема довољно кљрактера да би се креирало правило|
 |(Custom)|
@@ -1130,6 +1140,8 @@
 |Опције напредног генерисања лозинке|
 |Exclude the following characters:|
 |Избаци ове карактере:|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+|Опције/правила маркирани са звездицом смањује сигурност генерисаних лозинка. Омогућити их само ако морате да пратите та правила.|
 |No repeating characters|
 |Не поновити карактере|
 |Provider|
@@ -1146,83 +1158,105 @@
 |Испразни хисторијат тражења|
 |TANs are imported into the currently selected group|
 |TANs су увезени у актуелној одабраној групи|
-|Abort specifying a new key for the current database.|
-|Поништавање специфирања новог кључа за актуелну базу.|
-|Abort the current operation.|
-|Поништи актуелни рад.|
-|Always grant full access through remote control (not recommended)|
-|Увек дозволи пуни приступ на удаљен приступ (није препоручено)|
-|An error occurred|
-|Десила се грешка|
-|An error occurred while importing the file. File cannot be imported.|
-|Грешка при увоза датотеке. Датотека не може де се увезе.|
-|Auto-Type: Help|
-|Ауто-Унос: Помоћ|
-|Auto-Type: Select Target Window...|
-|Ауто-Унос: Одабрати циљни прозор...|
-|Cancel|
-|Поништи|
-|Copy [of an item]|
-|Копија [од елемента]|
-|Discard all changes made to the database and close the file.|
-|Одбаци све промене базе и затвори датотеку.|
-|Discard all changes made to the database and exit KeePass.|
-|Одбаци све промене базе и затвори „KeePass“.|
-|Discard all changes made to the database and lock the KeePass workspace.|
-|Одбаци све промене базе и блокирај „KeePass“.|
-|Discard changes|
-|Одбаци промене|
-|Focus entry list after a successful quick search (toolbar)|
-|Фокус у списку после успешног налажења (алатна трака)|
+|The selected key file already exists|
+|Одабрана кључна датотека већ постоји|
 |Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
 |Генерисати нови кључ и преписати стару кључну датотеку. Актуелни кључ из кључне дљтотеке ће бити изгубљен.|
-|KeePass will not be closed.|
-|„KeePass“ неће бити затворен.|
-|Load the existing key file and use it as key for the current database. The key file will not be modified.|
-|Учитај постојећу кључну датоеку и користи је за актуелну базу. Кључна датоеке неће бити промењена.|
-|Lock workspace when locking Windows, switching user or sleeping|
-|Блокирај радну површину на блокирање „Windows“-а, промене корисника или успавања|
-|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
-|Опције/правила маркирани са звездицом смањује сигурност генерисаних лозинка. Омогућити их само ако морате да пратите та правила.|
-|Overwrite existing key file?|
-|Преписати кључну датотеку?|
 |Reuse|
 |Поново користи|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+|Учитај постојећу кључну датоеку и користи је за актуелну базу. Кључна датоеке неће бити промењена.|
+|Cancel|
+|Поништи|
+|Abort specifying a new key for the current database.|
+|Поништавање специфирања новог кључа за актуелну базу.|
+|Overwrite existing key file?|
+|Преписати кључну датотеку?|
 |Save|
 |Сачувај|
-|Save all changes made to the database and close the file.|
-|Сачувај све промене базе и затвори датотеку.|
-|Save all changes made to the database and exit KeePass.|
-|Сачувај све промене дазе и затвори „KeePass“.|
-|Save all changes made to the database and lock the KeePass workspace.|
-|Сачувај све промене базе и блокирај површину „KeePass“-а.|
+|Discard changes|
+|Одбаци промене|
 |Save database changes before closing the file?|
 |Сачувати промене базе пре затварања датотеке?|
 |Save database changes before exiting KeePass?|
 |Сачувати промене базе пре затварања „KeePass“-а?|
 |Save database changes before locking the workspace?|
 |Сачувати промене базе пре блокирања површине?|
-|Select the target window for the current entry.|
-|Одабрати циљни прозор за актуелни елеменат.|
+|Save all changes made to the database and close the file.|
+|Сачувај све промене базе и затвори датотеку.|
+|Save all changes made to the database and exit KeePass.|
+|Сачувај све промене дазе и затвори „KeePass“.|
+|Save all changes made to the database and lock the KeePass workspace.|
+|Сачувај све промене базе и блокирај површину „KeePass“-а.|
+|Discard all changes made to the database and close the file.|
+|Одбаци све промене базе и затвори датотеку.|
+|Discard all changes made to the database and exit KeePass.|
+|Одбаци све промене базе и затвори „KeePass“.|
+|Discard all changes made to the database and lock the KeePass workspace.|
+|Одбаци све промене базе и блокирај „KeePass“.|
+|Abort the current operation.|
+|Поништи актуелни рад.|
 |The KeePass workspace will not be locked.|
 |Површина „KeePass“-а неће бити блокирана.|
-|The current database file has been modified|
-|Актуелна датотека ја промењена|
-|The estimated quality of the master password must be at least %u bits!|
-|Квалитет главне лозинке треба бити најмање %u бита!|
+|KeePass will not be closed.|
+|„KeePass“ неће бити затворен.|
 |The file will not be closed.|
 |Датотека неће бити затворена.|
 |The master password must be at least %u characters long!|
 |Главна лозинка треба да има макар %u карактера!|
-|The selected key file already exists|
-|Одабрана кључна датотека већ постоји|
-|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
-|За специфирање циљног прозора, или одабрати већ отворен прозор са списка или унети његов назив:|
-|URL Field: Help|
-|URL Поље: Помоћ|
-|URL Field: Insert Placeholder|
-|URL Поље: Унети Placeholder|
+|The estimated quality of the master password must be at least %u bits!|
+|Квалитет главне лозинке треба бити најмање %u бита!|
+|Copy [of an item]|
+|Копија [од елемента]|
+|Focus entry list after a successful quick search (toolbar)|
+|Фокус у списку после успешног налажења (алатна трака)|
+|Always grant full access through remote control (not recommended)|
+|Увек дозволи пуни приступ на удаљен приступ (није препоручено)|
 |URL Field: Select Application...|
 |URL Поље: Одабрати програм...|
 |URL Field: Select Document...|
 |URL Поље: Одабрати докуменат...|
+|URL Field: Insert Placeholder|
+|URL Поље: Унети Placeholder|
+|Auto-Type: Help|
+|Ауто-Унос: Помоћ|
+|Auto-Type: Select Target Window...|
+|Ауто-Унос: Одабрати циљни прозор...|
+|Select the target window for the current entry.|
+|Одабрати циљни прозор за актуелни елеменат.|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+|За специфирање циљног прозора, или одабрати већ отворен прозор са списка или унети његов назив:|
+|Default auto-type sequence for standard entries:|
+|Иницијална ауто6уносна секвенција за стандардна уноса:|
+|Prepend special initialization sequence for Internet Explorer windows|
+|Prepend special initialization sequence for Internet Explorer windows|
+|Here you can configure auto-type.|
+|Овде се подешава ауто-унос.|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+|Циљна датотека је можда покварена. Покушајте да је поново сачувате, ако то не успе, сачувати базу на други смештај.|
+|Drop to background when copying data to the clipboard|
+|Постави у позадину на копирање података у клипборду|
+|Insert Field Reference|
+|Убаци однос поља|
+|In Title Field|
+|У поље назива|
+|In User Name Field|
+|У поље корисника|
+|In URL Field|
+|У поље URL|
+|In Password Field|
+|У поље лозинке|
+|In Notes Field|
+|У поље белешке|
+|Field to reference|
+|Поље за однос|
+|Identify source entry by|
+|Идентификуј извор по|
+|Source field to reference|
+|Изворно поље за однос|
+|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).|
+|Одабрано поље, који идентификује изворни улаз, садржава недозвољена карактера (као '{', '}', нова линија, ...).|
+|Multiple entries match the specified identifying field.|
+|Више уноса одговарају специфираном пољу идентификације.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+|Да би избегли двосмисленост, ставке су идентификоване по UUID, који је уникат.|
