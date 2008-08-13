@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |پارسی|
-|~LANGUAGEVERSION|             |1.11|
+|~LANGUAGEVERSION|             |1.12|
 |~LANGUAGEAUTHOR|              |TormenT|
 |~LANGUAGEAUTHOREMAIL|         |Sunken.Soul@Yahoo.com|
 
@@ -338,7 +338,7 @@
 |KeePass is OSI Certified Open Source Software.|
     |.برنامه ای مجاز و متن باز است KeePass|
 |Automatically lock workspace after the following number of seconds:|
-    |: قفل خودکارفضای کاری بعد ازتعداد ثانیه زیر |
+    |: قفل خودکارفضای کاری بعد از تعداد ثانیه زیر |
 |&Group name|                  |&نام گروه|
 |Every second row has a different background color. Use this color:|
     |: ...هر ردیف دوم یک رنگ متفاوت دارد.از این رنگ استفاده شود|
@@ -383,7 +383,7 @@
 |Show &Entry View|             |نمایش نمای وارده |
 
 |Automatically resize table columns when resizing the main window|
-    |تغیر اندازه خودکتار جدول ستون ها بهنگام تغییر اندازه پنجره اصلی|
+    |تغیر اندازه خودکار جدول ستون ها بهنگام تغییر اندازه پنجره اصلی|
 |&Copy|                        |کپی|
 |Copy &All|                    |کپی همه|
 |&Undo|                        |خنثی|
@@ -442,12 +442,12 @@
 |Remove the currently attached file|      |حذف پرونده ضمیمه شده کنونی|
 
 |Close button [X] minimizes the main window instead of terminating the application|
-    |به جای  بستن برنامه پنجره اصلی را کوچک می کند [X]دکمه بستن|
+    |به جای  بستن برنامه ؛ پنجره اصلی را کوچک می کند [X]دکمه بستن|
 
 |KeePass Password Database|               |KeePass پایگاه داده پسورد|
 |&Open with KeePass|                      |KeePass گشایش توسط|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
-    |:(را با برنامه مرتبط کنید (آنگاه وقتی روی پرونده دبل کلیک کنید برنامه آن را می گشاید .kdb دراینجا می توانید پرونده های با پسوند |
+    |:(را با برنامه مرتبط کنید (آنگاه وقتی روی پرونده دبل کلیک کنید برنامه آن را می گشاید .kdb دراینجا می توانید پرونده|
 |Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
     |!مرتبط کردن موفقیت آمیز بود! با دبل کلیک روی پرونده مورد نظر برنامه به صورت خودکار اجرا می شود|
 |Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
@@ -482,7 +482,7 @@
 |Here you can configure the current database.| |.در اینجا می توانید پایگاه داده فعلی را پیکر بندی کنید|
 |Database Summary|                        |خلاصه پایگاه داده|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
-    |.کلید شما چندین باربرای ساخت کلید کدگزاری شده نهایی پایگاه داده کدگذاری شده است و یک ضریب ثابت زمان اضافه می کند که حدس زدن را بسیار دشوارتزر می سازد|
+    |.کلید شما چندین باربرای ساخت کلید کدگزاری شده نهایی پایگاه داده کدگذاری شده است و یک ضریب ثابت زمان اضافه می کند که حدس زدن را بسیار دشوارتر می سازد|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
     |.بزرگی این عدد یعنی دشوارتر شدن حملات واژه نامه ها.اما همچنین بزرگی عدد بارگذاری و ذخیره آهسته تر پایگاه داده را نیز در بر دارد|
 |Number of key encryption rounds:|        |:تعداد دوره های کدگذاری کلید|
@@ -505,7 +505,7 @@
 |Are you sure you want to delete all selected entries?|
     |آیا مطمئنید می خواهید تمام وارده های انتخاب شده را پاک کنید؟|
 |Delete Entries Confirmation|             |تاییدیه حذف وارده ها|
-|Use PuTTY for ssh: and telnet: URLs|     |.یرای آدرس های اینترنتی استفاده کنید telnetواز ssh برای PuTTYاز |
+|Use PuTTY for ssh: and telnet: URLs|     |.برای آدرس های اینترنتی استفاده کنید telnetواز ssh برای PuTTYاز |
 |Mark database as modified on last-access time change|
     |علامت گذاری پایگاه داده به عنوان اصلاح شده درهنگام تغییر زمان آخرین دسترسی |
 |Se&lect All|                             |انتخاب همه|
@@ -513,10 +513,10 @@
 |N&o Auto-Sort|                           |عدم مرتب سازی خودکار|
 |Auto-sorting of the password list is enabled, you cannot move entries manually.|
     |.مرتب سازی خودکارلیست پسورد فعال شد ، نمی توانید وارده ها را دستی انتقال دهید |
-|Perform Auto-&Type|                      |اجرا کردن نوع خودکار|
+|Perform Auto-&Type|                      |اجرا ی تایپ خودکار|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
     |.مرتب سازی خودکارلیست پسورد فعال شد ،اکنون نمی توانید لیست را دستی مرتب کنید|
-|Select key file manually...|             |...اتنخاب دستیرونده کلید|
+|Select key file manually...|             |...اتنخاب دستی پرونده کلید|
 |Save key file manually to...|            |...ذخیره دستی پرونده کلید به|
 |Enter the new composite master key.|
     |.شاه کلید مرکب جدیدی را وارد کنید|
@@ -565,7 +565,7 @@
 |Invalid/corrupted file structure|        |ساختار پرونده نادرست یا صدمه دیده|
 |Encryption/decryption error|             |خطای رمز گذاری / رمز گشایی|
 |Get More Plugins...|                     |...دستیابی به پلاگین های بیشتر|
-|Global auto-type hot key combination:|   |: کلید مرکب نوع-خودکار اصلی|
+|Global auto-type hot key combination:|   |: کلید مرکب اصلی تایپ خوکار|
 |Cannot register the global hot key.|     |.عدم توانایی در ثبت کلید اصلی|
 |Most probably another application has reserved this hot key already.|
     |.شاید برنامه دیگری این کلید را انودخته است|
@@ -582,13 +582,13 @@
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
     |.هشدار! ممکن است این اختیار به طور صحیح در سیستم شما کار نکند.مخصوصا" اگر از برنامه های کمکی حافظه موقت استفاده کنید|
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
-    |.اگر به روش بهبودیافته به مشکل برخوردید به حالت زمانبندی شده بازگردید|
+    |.اگر در روش بهبودیافته به مشکل برخوردید به حالت زمانبندی شده بازگردید|
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
-    |.مظمئن شوید آیا می توانید در رجیستری چیزی بنویسید و مرتبط کننده پرونده را تغییر دهید .kdb ناموفق در مرتبط سازی پرونده|
+    |.مطمئن شوید آیا می توانید در رجیستری چیزی بنویسید و مرتبط کننده پرونده را تغییر دهید .kdb ناموفق در مرتبط سازی پرونده|
 |Number the TANs consecutively, starting from this value|
     |.های متوالی از این ارزش شروع می شود TAN تعداد |
 |Never expires|                           |عدم فسخ|
-|Auto-Type|                               |نوع-خودکار|
+|Auto-Type|                               |تایپ خودکار|
 |Help:|                                   |:راهنما|
 |Advanced|                                |پیش رفته|
 |Start minimized and locked|              |شروع کوچک و قفل شده|
@@ -599,7 +599,7 @@
     |(نمایش وارده هایی که بزودی منسوخ می شوند(در صورت وجود|
 |Integration|                             |پیوست|
 |Start KeePass at Windows startup (for current user)|
-    |(شروع برنامه بهنگام شروع ویندوز(برای کاربر کنونی|
+    |(شروع برنامه بهنگام شروع ویندوز (برای کاربر کنونی|
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!|
     |ناتوان در ساخت / حذف کلید شروع شونده خودکار برنامه در رجیسترسی ویندوز|
 |Backup|                                  |پشتیبان|
@@ -617,7 +617,7 @@
 |Export Options|                          |اختیارات صدور|
 |Print Options|                           |اختیارات چاپ|
 |Here you can customize the exported files.| |.در اینجا می توانید پرونده های صادر شده را مرتب کنید|
-|Here you can customize the printed sheet.| |.در اینجا می توانید صفحه پاپ شده را مرتب کنید|
+|Here you can customize the printed sheet.| |.در اینجا می توانید صفحه چاپ شده را مرتب کنید|
 |Encode/replace newline characters by '\n'| |'\n' کدگذاری / جایگزینی حروف خط جدید با |
 |Export backup entries (entries in the 'Backup' group)|
     |(صادرکردن پشتیبان های وارده ها (وارده ها در گروه پشتیبان|
@@ -646,9 +646,9 @@
 |3 Months|                                   |سه ماه|
 |6 Months|                                   |شش ماه|
 |1 Year|                                     |یک سال|
-|Include backup entries in quick searches (toolbar)|  |(قرار دادن وارده پشتیبان در جستجوی سریع(نوارابزار|
+|Include backup entries in quick searches (toolbar)|  |(قرار دادن وارده پشتیبان در جستجوی سریع (نوارابزار|
 |&Donate...|                                 |...اهدا|
-|Use alternative auto-type method (minimize window)|    |(استفاده از روش تناوبی نوع-خودکار(پنجره کوچک|
+|Use alternative auto-type method (minimize window)|    |(استفاده از روش تناوبی تایپ خودکار (پنجره کوچک|
 |Delete all backup entries before saving the database|  |حذف همه وارده های پشتیبان قبل از ذخیره پایگاه داده|
 |&Repair KeePass Database File...|           |...تعمیر پرونده پایگاه داده&|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
@@ -673,16 +673,16 @@
 |Reuse the current key/password?|            |استفاده مجدد از کلید / پسورد کنونی؟|
 |Show full path in the title bar (instead of file name only)|
     |(نمایش آدرس کامل در نوار عنوان (بجای نمایش فقط نام|
-|Disable all auto-type features|             |auto-type غیرفعال کردن همه ویژگی های|
+|Disable all auto-type features|             | غیرفعال کردن همه ویژگی های تایپ خودکار|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
-    |کپی ادرس اینترنتی به حافظه موقت بجای اجرا کردنشان|
+    |کپی آدرس اینترنتی به حافظه موقت بجای اجرا کردنشان|
 |Copy &URL to Clipboard|                     |کپی آدرس اینترنتی به حافظه موقت|
 |Exit program instead of locking the workspace after the specified time|
     |خروج از برنامه بجای قفل فضای کاری بعد از زمان معین|
-|Click on an entry to auto-type it.|         |.روی آن ها کلیک کنید auto-type برای تغییر ویژگی وارده ها به |
-|Auto-Type Entry Selection|                  |auto-type انتخاب وارده |
+|Click on an entry to auto-type it.|         |.برای تایپ خودکار وارده روی آن کلیک کنید|
+|Auto-Type Entry Selection|                  |انتخاب تایپ خودکار وارده|
 |Multiple entries exist for the current window. Please select the entry to auto-type.|
-    |.وارده های چند گانه برای این پنجره وجود دارد.لطفا" وارده را برای نوع-خودکار انتخاب کنید|
+    |.وارده های چند گانه برای این پنجره وجود دارد.لطفا" وارده را برای تایپ خودکار انتخاب کنید|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
     |.پرونده ای که تلاش می کنید بگشایید قفل است.ممکن است کسی دیگرپرونده را گشوده و ویرایشش کرده باشد|
 |Open the file in read-only mode?|                    |گشایش پرونده در حالت فقط خواندنی؟|
@@ -692,9 +692,9 @@
 |&Tools| |اب&زار|
 |TAN View &Options|                            |TAN اختیارات نمایش|
 |Use &Simple List View for TAN-Only Groups|    |TAN استفاده از نمایش لیست ساده تنها برای گروه های|
-|Show TAN &Indices in Entry Titles|            |در عناوین وارده TANنمایش نشان |
+|Show TAN &Indices in Entry Titles|            |در عناوین وارده TAN نمایش نشان |
 |Disable 'Save' button if the database hasn't been modified|
-    |غیرفعال کردن دکمه "ذخیره" اگرپایگاه دادهاصلاح نشده است|
+    |غیرفعال کردن دکمه "ذخیره" اگرپایگاه داده اصلاح نشده است|
 |Check For Update|                             |بررسی برای بروزرسانی|
 |Check for Update|                             |بررسی برای بروزرسانی|
 |New KeePass version available!|               |!نسخه جدیدی از این برنامه موجود است|
@@ -726,7 +726,7 @@
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
     |.(دقت کنید که عنوان برنامه از برنامه درخواست کننده تغذیه می شود و ممکن است نادرست باشد (یک برنامه مخرب میتواند سعی در دستیابی به پایگاه داده داشته باشد |
 |Do you grant the application access to your KeePass database?|
-    |آیا قبول می کنید برنامه به پایگاه داده تان دسترسی پیدا کند؟|
+    |آیا می پذیرید برنامه به پایگاه داده تان دسترسی پیدا کند؟|
 |&Read-Only|                                   |فقط خواندن|
 |&Full|                                        |کامل|
 |&Deny|                                        |انکار|
@@ -742,7 +742,7 @@
 |URL Field: Help|                              |URL-Feld: راهنما|
 |There are too few characters in the character set to build up a password matching the specified rules|
     |حروف زیادی در مجموعه حروف برای ساخت قانون تعیین شده تطبیق دهنده پسورد وجود دارد |
-|(Custom)| |(عقیدتی)|
+|(Custom)| |(دلخواه)|
 |Save current settings as a profile.|            |.ذخیره تنظیمات کنونی بعنوان پروفایل|
 |Delete currently selected profile.|             |.حذف پروفایل کنونی انتخاب شده|
 |(Automatically generated passwords for new entries)|
@@ -766,14 +766,14 @@
 |Failed to save the configuration.|            |.ذخیره پیکر بندی نا موفق بود|
 |Arguments|                                    |شناسه ها|
 |&Export Group To|                             |صدور گروه  ها به|
-|in "Minimal functionality" mode|              |"درحالت " عاملیت حدقل|
+|in "Minimal functionality" mode|              |"درحالت " عاملیت حداقل|
 |Regular expression|                           |مبین منظم|
 |Default user name for new entries:|           |: کاربر پیش فرض برای وارده های جدید|
 |Advanced Password Generator Options|          |اختیارات مولد پسورد پیشرفته|
 |Exclude the following characters:|            |:بجز حروف زیر|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
     |.اختیارات/قوانین با یک ستاره به دلایل امنیتی پسورد های تولیدی علامتدار شد.تنها اگرمجبورید آن ها را فعال کنید |
-|No repeating characters|                      |عدم وجود پروف تکرار شونده|
+|No repeating characters|                      |عدم وجود حروف تکرار شونده|
 |Provider|                                     |تهیه کننده|
 |The key provider plugin did not supply a valid key|
     |پلاگین تهیه کننده کلید ، کلید درستی را تامین نکرد|
@@ -827,7 +827,7 @@
 |Focus entry list after a successful quick search (toolbar)|
     |(تمرکز روی لیست وارده  پس از یک جستجوی سریع موفقیت آمیز(نوار ابزار|
 |Always grant full access through remote control (not recommended)|
-    |(همیشه اجازه دسترسی کامل را به کنترل از راه دور بده(توصیه نمی شود|
+    |(همیشه اجازه دسترسی کامل را به کنترل از راه دور بده (توصیه نمی شود|
 |URL Field: Select Application...|  |URL-Feld: ...انتخاب برنامه|
 |URL Field: Select Document...|     |URL-Feld: ...انتخاب سند|
 |URL Field: Insert Placeholder|     |URL-Feld: درج جاگیر|
@@ -837,4 +837,24 @@
     |.پنجره مقصد را برای وارده کنونی انتخاب کنید|
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
     |:برای بررسی پنجره مقصد ، یا یک پنجره باز موجود از لیست کشویی انتخاب کنید ، یا به صورت دستی عنوان پنجره را وارد کنید |
-
+|Default auto-type sequence for standard entries:|        |: ترتیب پیش فرض تایپ خودکار برای وارده های استاندارد|
+|Drop to background when copying data to the clipboard|           |وقتی اطلاعات به حافظه موقت کپی می شود آنرا به پس زمینه بسپار|
+|Enable auto-type features|                                |فعال کردن خصوصیات تایپ خودکار|
+|Field to reference|                          |فیلد مرجوع|
+|Here you can configure auto-type.| |در اینجا می توانید تایپ خودکار را پیکر بندی کنید|
+|Identify source entry by|     |تشخیص واره منبع با|
+|In Notes Field|               |در فیلد نکات|
+|In Password Field|          |در فیلد پسورد|
+|In Title Field|             |در فیلد عنوان|
+|In URL Field|             |در فیلد  آدرس اینترنتی|
+|In User Name Field|   |در فیلد نام کاربری|
+|Insert Field Reference|  |درج فیلد مرجع|
+|Multiple entries match the specified identifying field.|      |.وارده های چندگانه مطابق فیلد های مجزا|
+|Prepend special initialization sequence for Internet Explorer windows|  |اضافه کردن ترتیب قالب ویژه برای مرورگر اینترنت اکسپلور ویندوز|
+|Source field to reference|                           |فیلد منبع و مرجع|
+|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).|
+|.( فیلد انتخاب شده که وارده منبع را تشخیص می دهد ، شامل حروف غیر مجاز است (مثل '{', '}' ، حروف خط جدید و غیره|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+|.پرونده مقصد ممکن است در محلی خراب باشد.لطفا" مجددآ ذخیره کنید و اگر نا موفق بود پایگاه داده را در جایی دیگر ذخیره کنید|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+|.هایشان مشخص شوند که منخصر به فردند UUID برای دوری از ابهام ، وارده ها می توانند با|
