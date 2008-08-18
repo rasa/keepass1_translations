@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.11|
+|~LANGUAGEVERSION|             |1.12|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -666,7 +666,7 @@
 |Copy &URL to Clipboard| |Скопировать &ссылку в буфер обмена|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
     |Копировать ссылки в буфер обмена вместо их открытия (за исключением cmd://)|
-|Disable all auto-type features| |Запрещать все возможности автонабора|
+|Enable auto-type features| |Включить автонабор|
 
 |&Help| |&Справка|
 |&Help Contents| |Вызов &справки|
@@ -811,3 +811,25 @@
 |URL Field: Insert Placeholder| |Поле ссылки: Вставить шаблон|
 |URL Field: Select Application...| |Поле ссылки: Выбор приложения...|
 |URL Field: Select Document...| |Поле ссылки: Выбор документа...|
+
+|Default auto-type sequence for standard entries:| |Последовательность нажатий клавиш для автонабора по умолчанию:|
+|Drop to background when copying data to the clipboard| |Переключаться в фоновый режим при копировании данных в буфер|
+|Field to reference| |Поле для ссылки|
+|Here you can configure auto-type.| |Здесь можно сконфигурировать автонабор.|
+|Identify source entry by| |Определять запись-источник по полю|
+|In Notes Field| |В поле Комментарии|
+|In Password Field| |В поле Пароль|
+|In Title Field| |В поле Название|
+|In URL Field| |В поле Ссылка|
+|In User Name Field| |В поле Имя|
+|Insert Field Reference| |Вставить ссылку на поле|
+|Multiple entries match the specified identifying field.| |Несколько записей имеют одинаковое значение в выбранном поле.|
+|Prepend special initialization sequence for Internet Explorer windows|
+    |Предварительно вставить специальную последовательность для Internet Explorer|
+|Source field to reference| |Поле для ссылки|
+|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).|
+    |Поле, определяющее запись-источник, содержит недопустимые символы ('{', '}', перевод строки, ...).|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+    |Файл возможно испорчен. Пожалуйста попробуйте сохранить еще раз. Если не получится, сохраните базу паролей в другое место.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+    |Во избежание неопределенности, запись лучше определять по его идентификатору, который уникален.|
