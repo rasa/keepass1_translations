@@ -292,7 +292,7 @@
 |Language file cannot be opened!|
     |Невозможно открыть языковой файл!|
 |Language file cannot be registered!|
-    |Нефозможно зарегистрировать языковой файл!|
+    |Невозможно зарегистрировать языковой файл!|
 |The language file has been installed.|
     |Языковой файл установлен.|
 |You must restart KeePass in order to use the new language.|
@@ -345,7 +345,7 @@
 |&Group name|                  |&Названий групп|
 |Every second row has a different background color. Use this color:|
     |Каждая вторая строка имеет другой цвет фона. Использовать цвет:|
-|Default|                      |По усолчанию|
+|Default|                      |По умолчанию|
 |More Colors...|               |Больше цветов...|
 |Search Results|               |Результаты поиска|
 
@@ -466,7 +466,7 @@
 |To execute this operation you must enable unsafe operations in the options dialog.|
     |Для выполнения этой операции вы должны разрешить небезопасные операции в диалоге настроек.|
 |You have changed an option that requires restarting KeePass to get active.|
-    |Вы изменили настройку, которая требует перезакгрузки KeePass для ее активации.|
+    |Вы изменили настройку, которая требует перезагрузки KeePass для ее активации.|
 |Expired Entries|                         |Просроченные записи|
 |This is a list of all expired entries|   |Список всех просроченных записей|
 |Show All &Expired Entries|               |Показывать все &просроченные записи|
@@ -562,7 +562,7 @@
 |Success|              |Успешно|
 |Therefore save all data before you continue.|            |Поэтому сохраните все данные перед продолжением.|
 |This plugin has been designed for a different application version and may be incompatible with this one.|
-    |Этот модуль был сделан для другой версии приложения и может быть несовместим с ним.|
+    |Этот модуль был сделан для другой версии приложения и может быть несовместим с этой версией.|
 |This plugin will be disabled after you restart KeePass.| |Этот модуль будет заблокирован после перезагрузки KeePass.|
 |This plugin will be enabled after you restart KeePass.|  |Этот модуль будет разблокирован после перезагрузки KeePass.|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
@@ -573,7 +573,7 @@
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
     |Внимание! Этот режим может работать неправильно в вашей системе, особенно если вы используете программы для расширения возможностей буфера обмена.|
 |You can choose a different hot key combination in 'Tools - Options - Setup'.|
-    |Вы можете установить другую "горячую" клавишу в "Изменить - Настройки - Настройки".|
+    |Вы можете установить другую "горячую" клавишу в "Изменить - Настройки - Расширенные - Автонабор".|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
     |Вы выбрали режим "и" для ввода пароля, поэтому вы должны ввести пароль И выбрать файл с паролем.|
 |&Use master password and key file| |&Использовать пароль + файл с паролем|
@@ -594,7 +594,7 @@
 |Show expired entries (if any)| |Показывать просроченные записи (если они есть)|
 |Start KeePass at Windows startup (for current user)| |Запускать KeePass при старте системы (для текущего пользователя)|
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!|
-    |Невозможно создать/удалить запить в реестре для автоматического старта KeePass!|
+    |Невозможно создать/удалить запись в реестре для автоматического старта KeePass!|
 
 |&Get More Import Plugins...| |&Получить больше модулей импорта...|
 |Encode/replace newline characters by '\n'|  |Изменять символ перевода строки на '\n'|
@@ -661,7 +661,7 @@
     |KeePass заменит все существующие группы и записи на новые из импортируемого файла, если они имеют одинаковые идентификаторы.|
 |Overwrite if newer| |Переписывать новые|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
-    |KeePass сравнит время последнего изменения группы/записи и заменит существующие только если импортируемые более новые.|
+    |KeePass сравнит время последнего изменения групп/записей и заменит существующие только если импортируемые более новые.|
 
 |Copy &URL to Clipboard| |Скопировать &ссылку в буфер обмена|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
@@ -690,10 +690,10 @@
 |Cache error (cannot open cached file).| |Ошибка кэша (невозможно открыть файл кэша).|
 |Check For Update| |Проверить обновление|
 |Check for update at KeePass startup| |Проверять обновление при запуске KeePass|
-|Command line argument| |Аргумент коммандной строки|
+|Command line argument| |Аргумент командной строки|
 |Connect failed, cannot check for update.| |Нет соединения, невозможно проверить обновление.|
 |Database is already specified| |База паролей уже задана|
-|Disable 'Save' button if the database hasn't been modified| |Блокировать кнопу 'Сохранить' если база паролей не менялась|
+|Disable 'Save' button if the database hasn't been modified| |Блокировать кнопку 'Сохранить' если база паролей не менялась|
 |Use local date/time format instead of ISO notation| |Использовать локальный формат даты/времени вместо ISO|
 |Do you want to visit the KeePass homepage now?| |Вы хотите посетить домашнюю страницу KeePass сейчас?|
 |Filename not found| |Файл не найден|
@@ -713,10 +713,10 @@
 |An application requests access through inter-process communication|
     |Другое приложение запросило доступ на меж-процессное соединение (IPC)|
 |An entry already exists for the current URL.|
-    |Запись с таким URL уже существует.|
+    |Запись с такой ссылкой уже существует.|
 |Application| |Приложение|
 |Do you grant the application access to your KeePass database?|
-    |Разрешить приложению доступ у базе данных KeePass?|
+    |Разрешить приложению доступ к базе данных KeePass?|
 |Fields to remember| |Поля для запоминания|
 |Incoming IPC Request| |Входящий IPC запрос|
 |Lock workspace when locking Windows, switching user or sleeping|
@@ -804,7 +804,7 @@
     |Ожидаемое качество основного пароля должно быть не меньше %u бит(а)!|
 |The file will not be closed.| |Файл не будет закрыт.|
 |The master password must be at least %u characters long!| |Основной пароль должен быть не короче %u символов(а)|
-|The selected key file already exists| |Выьранный файл с паролем уже существует|
+|The selected key file already exists| |Выбранный файл с паролем уже существует|
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
     |Чтобы указать целевое окно, выберите из списка открытых окон, или введите заголовок окна:|
 |URL Field: Help| |Поле ссылки: Помощь|
