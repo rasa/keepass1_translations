@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Belarusian|
-|~LANGUAGEVERSION|             |1.12|
+|~LANGUAGEVERSION|             |1.13|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -27,7 +27,7 @@
 |Find what:|      |Шукаць:|
 |Find|            |Пошук|
 |&Find|           |&Пошук|
-|Find a string in the password list.| |Пошук радка у спісе пароляў.|
+|Find a string in the password list.| |Пошук радка ў спісе пароляў.|
 
 |About KeePass...| |Аб KeePass...|
 
@@ -183,7 +183,7 @@
 |&Edit/View Entry...|            |Змяніць/&Агляздець запіс...|
 |Dupli&cate Entry|               |Пра&дубліраваць запіс|
 |&Delete Entry|                  |Выда&ліць запіс|
-|&Mass Modify (All Selected)...| |З&мяніць ўсе вылучаныя...|
+|&Modify All Selected...|        |З&мяніць ўсе вылучаныя...|
 |Se&lect All|                    |В&ылучыць усе|
 |&Find in Database...|           |&Шукаць па базе пароляў...|
 |Find in t&his Group...|         |Шу&каць у групе...|
@@ -305,7 +305,7 @@
     |Немагчыма захаваць файл!|
 
 |KeePass Password Safe Files|  |Файлы баз пароляў KeePass|
-|All Files|                    |Усі файлы|
+|All Files|                    |Усе файлы|
 
 |The current database file has been modified|
     |Бягучы файл базы пароляў быў зменен.|
@@ -395,7 +395,7 @@
     |KeePass - OSI сертыфіцыраванае праграма з адкрытым кодам.|
 |Automatically lock workspace after the following number of seconds:|
     |Аўтаматычна блакіраваць базу праз (секунд):|
-|&Group name|                  |&Назва групы|
+|&Group name|                  |Назва &групы|
 |Every second row has a different background color. Use this color:|
     |Кожны другі радок мае іншы колер фону. Ужывать наступны колер:|
 |Default|                      |Па змаўчанню|
@@ -412,10 +412,9 @@
 |Field copied to clipboard.|   |Поле скапіравана ў буфер абмену.|
 
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
-    |Такі ключавы файл ужо існуе. Жадаеце перапісаць яго або ужыць паўторна?|
+    |Такі ключавы файл ужо існуе. Жадаеце перапісаць яго або ўжыць паўторна?|
 |Overwrite?|                   |Перапісаць?|
 |Expires:|                     |Спыніць:|
-|&Delete Selected Entries|     |Выдаліц&ь вылучаныя запісы|
 |Change group:|                |Змяніць групу:|
 |Change entry icon:|           |Змяніць абраз:|
 |Change expiration time:|      |Змяніць час спынення:|
@@ -481,7 +480,7 @@
 |Maybe it's read-only or the storage media has been removed.|
     |Магчыма ён толькі для чытання або ўстройства хавання было выдалена.|
 |If you exit now, all changes to the current database will be lost.|
-    |Калі вы выйдзіце зараз, усі змены ў бягучай базе пароляў будут страчаны.|
+    |Калі вы выйдзіце зараз, усе змены ў бягучай базе пароляў будут страчаны.|
 |Would you like to exit anyway?|          |Ці жадаеце вы выйсці ўсё роўна?|
 |Cannot access the selected drive.|       |Няма доступу да выбранага дыску.|
 |Make sure a writable medium is inserted.||Праверце што дыск для запісу ўстаўлены.|
@@ -501,7 +500,7 @@
 |Here you can configure the current database.| |Тут можна змяніць настройкі бягучай базы пароляў.|
 |Database Summary|                        |Зводка па базе пароляў|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
-    |Ваш асноўны пароль шыфруеца некалькі разоў да атрымання канчатковага ключа шыфравання базы пароляў. Гэта дадаст няшмат часу але значна ускладніт ужыванне ацэначных атак і атак па слоўніку.|
+    |Ваш асноўны пароль шыфруеца некалькі разоў да атрымання канчатковага ключа шыфравання базы пароляў. Гэта дадаст няшмат часу але значна ўскладніт ужыванне ацэначных атак і атак па слоўніку.|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
    |Чым вышэй гэты лік, тым складаней атакі па слоўніку. Але чым больш гэты лік, тым даўжэй загружаецца і захоўваецца база пароляў.|
 |Number of key encryption rounds:|        |Колькасць цыклаў шыфравання:|
@@ -527,9 +526,9 @@
 |Mark database as modified on last-access time change|
     |Памячаць базу пароляў як змененую пры аглядзе|
 |Auto-sorting of the password list is enabled, you cannot move entries manually.|
-    |Аўтасартаванне спіса пароляў уключана - немагчыма перамяшчаць запісы уручную.|
+    |Аўтасартаванне спіса пароляў уключана - немагчыма перамяшчаць запісы ўручную.|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
-    |Аўтасартаванне спіса пароляў уключана - немагчыма сартаваць запісы уручную.|
+    |Аўтасартаванне спіса пароляў уключана - немагчыма сартаваць запісы ўручную.|
 |Select key file manually...|             |Выбраць ключавы файл уручную...|
 |Save key file manually to...|            |Захаваць ключавы файл уручную як...|
 |Enter the new composite master key.|     |Увядзіце новы састаўны пароль.|
@@ -546,7 +545,7 @@
 |Clipboard behavior:|  |Паводзіны буфера абмену:|
 |Disabled, not loaded| |Адключаны, не загружаны.|
 |Do you want to load the plugin?| |Вы жадаеце загрузіць модуль?|
-|Enabled, loaded|      |Падключан, загружан.|
+|Enabled, loaded|      |Падключаны, загружаны.|
 |Encryption/decryption error|     |Памылка шыфравання/дэшыфравання|
 |Enhanced: allow pasting only once and protect against clipboard spies|
     |Пашыраны: дазваляе толькі адну ўстаўку і абараняе ад праграм, якія сачаць за буферам|
@@ -560,7 +559,7 @@
 |Get More Plugins...|  |Больш мадулёў...|
 |Global auto-type hot key combination:|                 |Глабальная "гарачая" камбінацыя клавіш для аўтанабора:|
 |Help:|                |Даведка:|
-|Here you can configure all installed KeePass plugins.| |Тут можна наладзіць усе усталяваныя модулі для KeePass.|
+|Here you can configure all installed KeePass plugins.| |Тут можна наладзіць усе ўсталяваныя модулі для KeePass.|
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
     |Калі ў вас з'явяцца праблемы пры ўжыванні пашыранага рэжыма, пераключыцеся назад у часовы рэжым ачысткі буферу.|
 |Internal error|       |Унутраная памылка|
@@ -579,7 +578,7 @@
 |Plugins|              |Модулі|
 |Plugin has been designed for:|     |Модуль быў зроблен для:|
 |Success|              |Паспяхова|
-|Therefore save all data before you continue.|            |Таму захавайце ўсі даныя перад працягванням.|
+|Therefore save all data before you continue.|            |Таму захавайце ўсе даныя перад працягванням.|
 |This plugin has been designed for a different application version and may be incompatible with this one.|
     |Гэты модуль быў зроблен для іншай версіі праграмы і можа быць несумяшчальным з гэтай.|
 |This plugin will be disabled after you restart KeePass.| |Гэты модуль будзе адключаны пасля перазапуску KeePass.|
@@ -591,8 +590,8 @@
 |Unknown error|        |Невядомая памылка|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
     |Увага! Гэты рэжым можа рабіць няправільна ў вашай сістэме, асабліва калі вы ўжываеце праграмы для пашырэння нагчымасцей буфера абмену.|
-|You can choose a different hot key combination in 'Tools - Options - Setup'.|
-    |Вы можыце усталяваць іншую "гарачую" камбінацыю клавіш у "Інструменты - Настройкі - Пашыраныя - Аўтанабор".|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+    |Вы можыце ўсталяваць іншую "гарачую" камбінацыю клавіш у 'Інструменты' - 'Настройкі' - 'Пашыраныя' - 'Аўтанабор'.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
     |Вы выбралі рэжым "і" для ўвода паролю, таму вам трэба ўвесці пароль і выбраць ключавы файл.|
 |cannot be loaded!|         |немагчыма загрузіць!|
@@ -630,13 +629,13 @@
 |2 Weeks|  |2 тыдня|
 |3 Months| |3 месяца|
 |By default, new entries expire in the following number of days:|
-    |Па змаўчанню, час ужывання новых запісваў канчаецца праз (дзён):|
+    |Па змаўчанню, час ужывання новых запісаў спыняецца праз (дзён):|
 |Calculate rounds for a 1-second delay on this computer|
     |Падлічыць колькасць цыклаў для 1-секунднага інтэрвалу на гэтым кампутары|
 |Click to expire the entry in %u days|
     |Націскніце каб спыніць запіс праз %u дзён|
 |Exclude entries in the '&Backup' group|
-    |Не шукаць у групе 'Рэзерваванне'|
+    |Не шукаць у групе '&Рэзерваванне'|
 |Field has been pasted.|     |Поле ўстаўлена.|
 |Limit to single instance|   |Абмяжоўваць адзіным экземплярам|
 |Paste operation completed.| |Аперацыя ўстаўкі завяршана.|
@@ -653,7 +652,7 @@
 |Include backup entries in quick searches (toolbar)|
     |Далучаць рэзервныя запісы да выніку хуткага пошука (на панэлі кіравання)|
 
-|Delete all backup entries before saving the database| |Выдаляць усі рэзервныя запісы перад захаваннем базы пароляў|
+|Delete all backup entries before saving the database| |Выдаляць усе рэзервныя запісы перад захаваннем базы пароляў|
 |Press Shift-Home or Shift-End to clear this edit control| |Націскніце Shift-Home або Shift-End каб ачысціць гэта поле|
 |Use alternative auto-type method (minimize window)| |Ужываць альтэрнатыўны метад аўтанабора (згортываць акно)|
 
@@ -668,10 +667,10 @@
     |Выбраны фармат імпартуемага файла падтрымлівае ідэнтыфікатары для груп і/або запісаў. Выбярыце рэжым імпартавання.|
 |Create new IDs|     |Ствараць новыя ідэнтыфікатары|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
-    |Калі вы выбярыце гэту опцыю, KeePass створыць новыя ідэнтыфікатары для ўсіх груп і запісаў. Таму ўсі існуючыя групы і запісы ў бягучай адчыненай базе пароляў будут пакінуты без змен.|
+    |Калі вы выбярыце гэту опцыю, KeePass створыць новыя ідэнтыфікатары для ўсіх груп і запісаў. Таму ўсе існуючыя групы і запісы ў бягучай адчыненай базе пароляў будут пакінуты без змен.|
 |Overwrite|          |Перапісываць|
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
-    |KeePass зменіць ўсі існуючыя групы і запісы на новыя з імпартуемага файла, калі яны маюць аднолькавыя ідэнтыфікатары.|
+    |KeePass зменіць ўсе існуючыя групы і запісы на новыя з імпартуемага файла, калі яны маюць аднолькавыя ідэнтыфікатары.|
 |Overwrite if newer| |Перапісываць новыя|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
     |KeePass параўнуе час змены груп/запісаў і заменіць існуючыя толькі калі імпартуемыя больш новыя.|
@@ -785,9 +784,9 @@
 |Auto-Type: Select Target Window...| |Аўтанабор: Выбар мэтавага акна...|
 |Cancel| |Адмена|
 |Copy [of an item]| |Копія [элемента]|
-|Discard all changes made to the database and close the file.| |Скасаваць усі змяненні ў базе пароляў і зачыніць файл.|
-|Discard all changes made to the database and exit KeePass.| |Скасаваць усі змяненні ў базе пароляў і выйсці з KeePass.|
-|Discard all changes made to the database and lock the KeePass workspace.| |Скасаваць усі змяненні ў базе пароляў і заблакіраваць KeePass.|
+|Discard all changes made to the database and close the file.| |Скасаваць усе змяненні ў базе пароляў і зачыніць файл.|
+|Discard all changes made to the database and exit KeePass.| |Скасаваць усе змяненні ў базе пароляў і выйсці з KeePass.|
+|Discard all changes made to the database and lock the KeePass workspace.| |Скасаваць усе змяненні ў базе пароляў і заблакіраваць KeePass.|
 |Discard changes| |Скасаваць змяненні|
 |Focus entry list after a successful quick search (toolbar)|
     |Усталяваць фокус на спісе запісаў пасля паспяховага хуткага пошука (на панэлі кіравання)|
@@ -799,9 +798,9 @@
 |Overwrite existing key file?| |Перапісаць існуючы ключавы файл?|
 |Reuse| |Ужыць паўторна|
 |Save| |Захаваць|
-|Save all changes made to the database and close the file.| |Захаваць усі змяненні і зачыніць файл.|
-|Save all changes made to the database and exit KeePass.| |Захаваць усі змяненні і выйсці з KeePass.|
-|Save all changes made to the database and lock the KeePass workspace.| |Захаваць усі змяненні і заблакіраваць KeePass.|
+|Save all changes made to the database and close the file.| |Захаваць усе змяненні і зачыніць файл.|
+|Save all changes made to the database and exit KeePass.| |Захаваць усе змяненні і выйсці з KeePass.|
+|Save all changes made to the database and lock the KeePass workspace.| |Захаваць усе змяненні і заблакіраваць KeePass.|
 |Save database changes before closing the file?| |Захаваць змяненні перад зачыненнем файла?|
 |Save database changes before exiting KeePass?| |Захаваць змяненні перад выхадам з KeePass?|
 |Save database changes before locking the workspace?| |Захаваць змяненні перад блакіроўкай KeePass?|
@@ -834,9 +833,20 @@
 |Prepend special initialization sequence for Internet Explorer windows|
     |Спачатку ўставіць спецыяльную паслядоўнасць для Internet Explorer|
 |Source field to reference| |Поле для спасылкі|
-|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
     |Поле, якое вызначае запіс-крыніцу, ўтрымлівае недапушчальныя сімвалы ('{', '}', новы радок, ...).|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
     |Мэтавы файл магчыма сапсаваны. Калі ласка паспрабуйце захаваць зноў. Калі не атрымаецца, захавайце базу пароляў у іншае месца.|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
-    |Каб пазбегнуць няпэўнасць, лепш вызначаць запіс па яго ідэнтыфікатару, які унікальны.|
+    |Каб пазбегнуць няпэўнасць, лепш вызначаць запіс па яго ідэнтыфікатару, які ўнікальны.|
+
+|Auto-Type: Customize Sequence| |Аўтанабор: Настроіць|
+|Clear clipboard when closing/locking the database| |Ачышчаць буфер абмену пры зачыненні/блакіроўке базы пароляў|
+|Exclude &expired entries| |Выключаць сп&ыненыя запісы|
+|Include expired entries in quick searches (toolbar)| |Далучаць спыненыя запісы да выніку хуткага пошука (на панэлі кіравання)|
+|Normal| |Звычайны|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+    |Адчыніць файл у рэжыме для чытання. Змяненні можна захаваць у іншы файл.|
+|Read-only| |Толькі для чытання|
+|Sort items in the auto-type entry selection dialog| |Сартаваць запісы ў акне выбара запісаў для аўтанабора|
+|Take ownership of the file and open it in normal writing mode.| |Узяць файл у манапольнае карыстанне і адчыніць яго ў звычайным рэжыме запісу.|
