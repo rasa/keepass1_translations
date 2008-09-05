@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.12|
+|1.13|
 |~LANGUAGEAUTHOR|
 |Marc Tissot|
 |~LANGUAGEAUTHOREMAIL|
@@ -440,10 +440,6 @@
 |Écraser ?|
 |Expires:|
 |Expire le:|
-|&Delete Selected Entries|
-|&Détruire les entrées sélectionnées|
-|&Mass Modify (All Selected)...|
-|Modifier &toute la sélection...|
 |Change group:|
 |Changer le groupe:|
 |Change entry icon:|
@@ -1098,8 +1094,6 @@
 |Il y a trop de caractères dans ce jeux pour générer un mot de passe correspondant aux règles spécifiées|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
 |Attention! Il est possible que cette option ne fonctionne pas correctement sur votre système, spécialement si vous utilisez un presse-papier évolué ou un outil de sauvegarde du presse-papier.|
-|You can choose a different hot key combination in 'Tools - Options - Setup'.|
-|Vous pouvez choisir une autre combinaison de touches dans 'Outils - Options - Configurer'.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
 |Vous avez sélectionnée le mode clé ET, vous devez donc saisir un mot de passe ET sélectionner un fichier clé.|
 |&Export Group To|
@@ -1249,12 +1243,34 @@
 |Multiple entries match the specified identifying field.|
 |Plusieures entrées correspondent le champ d'identification sélectionné.|
 |Prepend special initialization sequence for Internet Explorer windows|
-|Séquence spéciale d'initialisation préalable pour les fenêtres d'Internet Explorer
+|Séquence spéciale d'initialisation préalable pour les fenêtres d'Internet Explorer|
 |Source field to reference|
 |Champs origine pour référence|
-|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).|
-|Le champ sélectionné, qui identifie l'entrée d'origine, contient des caractères (tels que '{', '}', caractère de nouvelle ligne...) interdits.|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
 |Le fichier cible est peut être dans un état corrompu. Essayer de l'enregistrer encore une fois, et si cela ne fonctionne pas, enregistrer la base de données dans un répertoire différent.|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
 |Afin d'éviter les ambigüités, les entrées peuvent être identifiées par leur UUID, qui sont unique.|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
+|Le champ sélectionné, qui identifie l'entrée d'origine, contient des caractères (tels que '{', '}', caractère de nouvelle ligne...) interdits.|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+|Vous pouvez choisir une autre combinaison de touches dans 'Outils' - 'Options' - 'Avancé' - 'Saisie Automatique'.|
+|&Modify All Selected...|
+|Modifier &toute la sélection...|
+|Auto-Type: Customize Sequence|
+|Saisie Automatique: Séquence Personnalisée|
+|Clear clipboard when closing/locking the database|
+|Effacer le presse-papier en fermant/verouillant la base de données|
+|Exclude &expired entries|
+|Exclure les entrées &expirées|
+|Include expired entries in quick searches (toolbar)|
+|Inclure les entrées expirées  dans les recherches rapides (barre d'outils)|
+|Normal|
+|Normal|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+|Ouvrir le fichier en mode lecture seule. Les changements de la base de données peuvent être enregiströs dans un fichier différent.|
+|Read-only|
+|Lecture seule|
+|Sort items in the auto-type entry selection dialog|
+|Trier les éléments dans le dialogue de sélection des entrées de saisie automatique|
+|Take ownership of the file and open it in normal writing mode.|
+|Récupérer la propriété du fichier et l'ouvrir en mode écriture normale.|
