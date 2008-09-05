@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.12|
+|~LANGUAGEVERSION|             |1.13|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -342,7 +342,7 @@
     |KeePass - OSI сертифицированное приложение с открытым кодом.|
 |Automatically lock workspace after the following number of seconds:|
     |Автоматически блокировать базу через (секунд):|
-|&Group name|                  |&Названий групп|
+|&Group name|                  |Названий &групп|
 |Every second row has a different background color. Use this color:|
     |Каждая вторая строка имеет другой цвет фона. Использовать цвет:|
 |Default|                      |По умолчанию|
@@ -369,8 +369,6 @@
     |Файл с паролем уже сущесвует. Хотите переписать его или использовать повторно?|
 |Overwrite?|                   |Переписать?|
 |Expires:|                     |Окончание:|
-|&Delete Selected Entries|     |Удалить выделенные записи|
-|&Mass Modify (All Selected)...|               |&Массовое изменение (все выделенные)...|
 |Change group:|                |Изменить группу:|
 |Change entry icon:|           |Изменить значок записи:|
 |Change expiration time:|      |Изменить время окончания:|
@@ -390,6 +388,7 @@
 |&Delete|                      |&Удалить|
 |&TAN Wizard...|               |&TAN мастер...|
 |TAN Wizard|                   |TAN мастер|
+|&Modify All Selected...| |Из&менить все выделенные...|
 
 |Using this wizard you can easily add TAN entries.|
     |Этот "мастер" предназначен для упрощенного добавления TAN записей.|
@@ -572,8 +571,8 @@
 |Unknown error|        |Неизвестная ошибка|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
     |Внимание! Этот режим может работать неправильно в вашей системе, особенно если вы используете программы для расширения возможностей буфера обмена.|
-|You can choose a different hot key combination in 'Tools - Options - Setup'.|
-    |Вы можете установить другую "горячую" клавишу в "Изменить - Настройки - Расширенные - Автонабор".|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+    |Вы можете установить другую "горячую" клавишу в 'Изменить' - 'Настройки' - 'Расширенные' - 'Автонабор'.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
     |Вы выбрали режим "и" для ввода пароля, поэтому вы должны ввести пароль И выбрать файл с паролем.|
 |&Use master password and key file| |&Использовать пароль + файл с паролем|
@@ -620,7 +619,7 @@
 |Click to expire the entry in %u days|
     |Установить окончание через %u дней|
 |Exclude entries in the '&Backup' group|
-    |Не искать в группе 'Резервирование'|
+    |Не искать в группе 'Р&езервирование'|
 |Field has been pasted.|     |Поле вставлено.|
 |Limit to single instance|   |Ограничивать одним экземпляром|
 |Paste operation completed.| |Операция вставки завершена.|
@@ -705,7 +704,7 @@
 |Path is invalid| |Неверный путь|
 |Reason| |Причина|
 |You have the latest version.| |У Вас установлена последняя версия.|
-|ignored| |проигнорированна|
+|ignored| |проигнорирован|
 
 |&Deny| |&Отказать|
 |&Full| |&Полный доступ|
@@ -827,9 +826,20 @@
 |Prepend special initialization sequence for Internet Explorer windows|
     |Предварительно вставить специальную последовательность для Internet Explorer|
 |Source field to reference| |Поле для ссылки|
-|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
     |Поле, определяющее запись-источник, содержит недопустимые символы ('{', '}', перевод строки, ...).|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
     |Файл возможно испорчен. Пожалуйста попробуйте сохранить еще раз. Если не получится, сохраните базу паролей в другое место.|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
     |Во избежание неопределенности, запись лучше определять по его идентификатору, который уникален.|
+
+|Auto-Type: Customize Sequence| |Автонабор: Настроить|
+|Clear clipboard when closing/locking the database| |Очищать буфер обмена при закрытии/блокировке базы паролей|
+|Exclude &expired entries| |Искл&ючать просроченные записи|
+|Include expired entries in quick searches (toolbar)| |Включать просроченные записи при быстром поиске (панель управления)|
+|Normal| |Обычный|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+    |Открыть файл в режиме для чтения. Изменения можно сохранить в другой файл.|
+|Read-only| |Только для чтения|
+|Sort items in the auto-type entry selection dialog| |Сортировать записи в окне выбора записей для автонабора|
+|Take ownership of the file and open it in normal writing mode.| |Взять файл в монопольное использование и открыть в обычном режиме для записи.|
