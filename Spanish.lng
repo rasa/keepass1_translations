@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.12|
+|~LANGUAGEVERSION||1.13|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -24,7 +24,6 @@
 |&Database Settings...||Configuración de la Base de &Datos...|
 |&Delete Entry||&Eliminar Entrada|
 |&Delete Password Group...||&Eliminar Grupo de Contraseñas...|
-|&Delete Selected Entries||&Eliminar las entradas seleccionadas|
 |&Delete||&Eliminar|
 |&Deny||&Denegar|
 |&Disable||&Deshabilitar|
@@ -49,7 +48,6 @@
 |&KeePass Database...||Base de datos de &KeePass...|
 |&Lock Workspace||&Bloquear área de trabajo|
 |&Lock/Unlock Workspace||&Bloquear/Desbloquear área de trabajo|
-|&Mass Modify (All Selected)...||&Modificación Masiva (Todas las Seleccionadas)...|
 |&New...||&Nuevo...|
 |&OK||&OK|
 |&Open with KeePass||&Abrir con KeePass|
@@ -122,12 +120,12 @@
 |Automatically save database on exit and workspace locking||Guardar automáticamente la base de datos al salir y al bloquear el área de trabajo|
 |Auto-sorting of the password list is enabled, you cannot move entries manually.||Ordenar automáticamente la lista de contraseñas se encuentra activado, usted no puede mover las entradas manualmente.|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.||Ordenar automáticamente la lista de contraseñas está activado, usted no puede ordenar la lista manualmente.|
-|Auto-Type Entry Selection||Escribir Automáticamente Selección de Entradas|
-|Auto-Type||Escritura Automática|
+|Auto-Type Entry Selection||Selección de Entradas para la Escritura Automática|
+|Auto-Type||Autocompletar|
 |Available Languages||Idiomas Disponibles|
 |Backup||Respaldo|
 |bits||bits|
-|By default, new entries expire in the following number of days:||Por defecto, las nuevas entradas expiran en el siguiente número de días:|
+|By default, new entries expire in the following number of days:||Por defecto, las nuevas entradas caducan en el siguiente número de días:|
 |Cache error (cannot open cached file).||Error de caché (el archivo en caché no puede ser abierto).|
 |Calculate rounds for a 1-second delay on this computer||Calcular el número de vueltas que causarán un retraso de 1 segundo en esta computadora|
 |Cannot access the selected drive.||No es posible acceder la unidad seleccionada.|
@@ -152,7 +150,7 @@
 |Click on an entry to auto-type it.||Haga click en una entrada para escribirla automáticamente.|
 |Click on an entry to jump to it.||Haga click en una entrada para ir a ella.|
 |Click to begin:||Haga click para comenzar:|
-|Click to expire the entry in %u days||Click para expirar la entrada en %u días|
+|Click to expire the entry in %u days||Click para caducar la entrada en %u días|
 |Clipboard auto-clear time (seconds):||Tiempo para la limpieza automática del portapapeles (segundos):|
 |Clipboard behavior:||Comportamiento del portapapeles:|
 |Clipboard cleared.||Portapapeles borrado.|
@@ -216,9 +214,9 @@
 |Exclude entries in the '&Backup' group||Excluir entradas en el grupo '&Respaldo'|
 |Exit program instead of locking the workspace after the specified time||Salir del programa en vez de bloquear el área de trabajo después del tiempo especificado|
 |Exit?||¿Salir?|
-|Expired Entries||Entradas Expiradas|
-|Expires:||Expiración:|
-|Expires||Expiración|
+|Expired Entries||Entradas Caducadas|
+|Expires:||Vencimiento:|
+|Expires||Vencimiento|
 |Export backup entries (entries in the 'Backup' group)||Exportar entradas de respaldo (entradas del grupo 'Respaldo')|
 |Export Options||Exportar Opciones|
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.||No se pudo cambiar la asociación de archivos .kdb. Revise que tiene los permisos necesarios para escribir en el registro y modificar las asociaciones de archivos.|
@@ -413,9 +411,9 @@
 |Show &Columns||Mostrar &Columnas|
 |Show &Entry View||Mostrar &Vista Previa de las Entradas|
 |Show &Toolbar||&Mostrar barra de herramientas|
-|Show All &Expired Entries||Mostrar Todas las Entradas Expiradas|
+|Show All &Expired Entries||Mostrar Todas las &Entradas Vencidas|
 |Show entries that will expire soon (if any)||Mostras entradas próximas a expirar (en caso de haberlas)|
-|Show expired entries (if any)||Mostrar entradas expiradas (en caso de haberlas)|
+|Show expired entries (if any)||Mostrar entradas vencidas (en caso de haberlas)|
 |Show full path in the title bar (instead of file name only)||Mostrar la ruta completa en la barra del título (en lugar de solamente el nombre del archivo)|
 |Show grid lines in password entry list||Mostrar líneas cuadriculadas en la lista de contraseñas|
 |Single left click instead of double-click for default tray icon action||Click único en vez de doble-click para ejecutar desde el icono en la bandeja de sistema|
@@ -458,7 +456,7 @@
 |There already is a file attached with this entry.||Ya hay un archivo adjuntado a esta entrada.|
 |There is no file attached with this entry.||No hay ningún archivo adjuntado a esta entrada.|
 |Therefore save all data before you continue.||Por lo tanto guarde todo antes de continuar.|
-|This is a list of all expired entries||Esta es una lista de todas las entradas expiradas.|
+|This is a list of all expired entries||Esta es una lista de todas las entradas vencidas.|
 |This plugin has been designed for a different application version and may be incompatible with this one.||Este plugin ha sido desarrollado para una versión distinta de la aplicación y puede ser incompatible con esta.|
 |This plugin will be disabled after you restart KeePass.||Este plugin será deshabilitado después de que reinicie el KeePass.|
 |This plugin will be enabled after you restart KeePass.||Este plugin será activado después de que reinicie el KeePass.|
@@ -484,7 +482,7 @@
 |URL||URL|
 |Use &Mouse as Random Source||Usar &Mouse como fuente aleatoria|
 |Use &Simple List View for TAN-Only Groups||Usar Vista de Lista Simple para Grupos de Solo-Tan|
-|Use alternative auto-type method (minimize window)||Usar método de tipeo automático alternativo (minimizar la ventana)|
+|Use alternative auto-type method (minimize window)||Usar método alternativo de escritura automática (minimizar la ventana)|
 |Use local date/time format instead of ISO notation||Usar hora y fecha local en lugar de la notación ISO|
 |Use more secure password edit controls||Usar controles de edición de contraseña más seguros|
 |Use PuTTY for ssh: and telnet: URLs||Usar PuTTY para manejar urls ssh: y telnet:|
@@ -505,7 +503,6 @@
 |Workspace cannot be unlocked!||¡Área de trabajo no puede ser desbloqueada!|
 |Workspace locked||Área de trabajo bloqueada|
 |Would you like to exit anyway?||¿Desea salir de todos modos?|
-|You can choose a different hot key combination in 'Tools - Options - Setup'.||Usted puede escoger otra combinación de teclas en 'Herramientas - Opciones - Configuración'.|
 |You don't have to remember the keys you type in. They are used to generate a random value.||Usted no tiene que recordar las claves que ha escrito. Ella son usadas únicamente para generar un valor aleatorio.|
 |You have changed an option that requires restarting KeePass to get active.||Usted a cambiado una opción que requiere reiniciar KeePass para que tenga efecto.|
 |You have the latest version.||Usted cuenta con la versión más reciente.|
@@ -626,6 +623,17 @@
 |Multiple entries match the specified identifying field.||Múltiples entradas se ajustan al campo de identificación especificado.|
 |Prepend special initialization sequence for Internet Explorer windows||Agregar secuencia especial de inicialización para ventanas de Internet Explorer|
 |Source field to reference||Campo de origen para referencia|
-|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).||El campo seleccionado, que identifica la entrada de origen, contiene caracteres no permitidos (como '{', '}', saltos de línea, etc.)|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.||El archivo de destino puede estar dañado. Por favor intente guardarlo de nuevo y, si vuelve a fallar, guarde la base de datos en una ubicación diferente.|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.||Para evitar ambigüedades, las entradas pueden ser identificadas por sus UUID.|
+|&Modify All Selected...||&Modificar todas las seleccionadas|
+|Auto-Type: Customize Sequence||Escritura automática: Personalizar secuencia|
+|Clear clipboard when closing/locking the database||Limpiar el portapapeles al cerrar/bloquear la base de datos|
+|Exclude &expired entries||Excluir entradas v&encidas|
+|Include expired entries in quick searches (toolbar)||Incluir entradas vencidas en las búsquedas rápidas (barra de herramientas)|
+|Normal||Normal|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.||Abrir el archivo en modo de sólo lectura. Los cambios en la base de datos pueden ser guardados en un archivo distinto.|
+|Read-only||Sólo lectura|
+|Sort items in the auto-type entry selection dialog||Ordenar los elementos en el cuadro de selección de entradas para la escritura automática|
+|Take ownership of the file and open it in normal writing mode.||Tomar la posesión del archivo y abrirlo en modo de escritura.|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).||El campo seleccionado, que identifica la entrada de origen, contiene caracteres inválidos (como '{', '}', saltos de línea, ...).|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.||Puede escoger otra combinación de teclas en 'Herramientas' - 'Opciones' - 'Avanzado' - 'Autocompletar'.|
