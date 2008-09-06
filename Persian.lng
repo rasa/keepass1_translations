@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |پارسی|
-|~LANGUAGEVERSION|             |1.12|
+|~LANGUAGEVERSION|             |1.13|
 |~LANGUAGEAUTHOR|              |TormenT|
 |~LANGUAGEAUTHOREMAIL|         |Sunken.Soul@Yahoo.com|
 
@@ -372,8 +372,6 @@
 
 |Overwrite?|                   |جایگزینی؟|
 |Expires:|                     |:منقضی شدن|
-|&Delete Selected Entries|     |حذف وارده های انتخاب شده|
-|&Mass Modify (All Selected)...|               |...(اصلاح جمعی(انتخاب همه|
 |Change group:|                |:تغییر گروه|
 |Change entry icon:|           |:تغییر نشانه وارده|
 |Change expiration time:|      |:تغییر زمان انقضا|
@@ -569,8 +567,6 @@
 |Cannot register the global hot key.|     |.عدم توانایی در ثبت کلید اصلی|
 |Most probably another application has reserved this hot key already.|
     |.شاید برنامه دیگری این کلید را انودخته است|
-|You can choose a different hot key combination in 'Tools - Options - Setup'.|
-    |.انتخاب کنید 'Tools - Options - Setup'می توانید کلید مرکب دیگری را در این آدرس |
 |&Use master password and key file|       |انتخاب پسورد اصلی  پرونده کلید|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
     |.را برگزیدید.پس باید پسورد را وارد و پرونده کلید را انتخاب کنید AND شما حالت کلید |
@@ -617,7 +613,7 @@
 |Export Options|                          |اختیارات صدور|
 |Print Options|                           |اختیارات چاپ|
 |Here you can customize the exported files.| |.در اینجا می توانید پرونده های صادر شده را مرتب کنید|
-|Here you can customize the printed sheet.| |.در اینجا می توانید صفحه چاپ شده را مرتب کنید|
+|Here you can customize the printed sheet.| |.در اینجا می توانید صفحه پاپ شده را مرتب کنید|
 |Encode/replace newline characters by '\n'| |'\n' کدگذاری / جایگزینی حروف خط جدید با |
 |Export backup entries (entries in the 'Backup' group)|
     |(صادرکردن پشتیبان های وارده ها (وارده ها در گروه پشتیبان|
@@ -673,7 +669,6 @@
 |Reuse the current key/password?|            |استفاده مجدد از کلید / پسورد کنونی؟|
 |Show full path in the title bar (instead of file name only)|
     |(نمایش آدرس کامل در نوار عنوان (بجای نمایش فقط نام|
-|Disable all auto-type features|             | غیرفعال کردن همه ویژگی های تایپ خودکار|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
     |کپی آدرس اینترنتی به حافظه موقت بجای اجرا کردنشان|
 |Copy &URL to Clipboard|                     |کپی آدرس اینترنتی به حافظه موقت|
@@ -837,24 +832,45 @@
     |.پنجره مقصد را برای وارده کنونی انتخاب کنید|
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
     |:برای بررسی پنجره مقصد ، یا یک پنجره باز موجود از لیست کشویی انتخاب کنید ، یا به صورت دستی عنوان پنجره را وارد کنید |
-|Default auto-type sequence for standard entries:|        |: ترتیب پیش فرض تایپ خودکار برای وارده های استاندارد|
-|Drop to background when copying data to the clipboard|           |وقتی اطلاعات به حافظه موقت کپی می شود آنرا به پس زمینه بسپار|
-|Enable auto-type features|                                |فعال کردن خصوصیات تایپ خودکار|
-|Field to reference|                          |فیلد مرجوع|
-|Here you can configure auto-type.| |در اینجا می توانید تایپ خودکار را پیکر بندی کنید|
-|Identify source entry by|     |تشخیص واره منبع با|
-|In Notes Field|               |در فیلد نکات|
-|In Password Field|          |در فیلد پسورد|
-|In Title Field|             |در فیلد عنوان|
-|In URL Field|             |در فیلد  آدرس اینترنتی|
-|In User Name Field|   |در فیلد نام کاربری|
-|Insert Field Reference|  |درج فیلد مرجع|
-|Multiple entries match the specified identifying field.|      |.وارده های چندگانه مطابق فیلد های مجزا|
-|Prepend special initialization sequence for Internet Explorer windows|  |اضافه کردن ترتیب قالب ویژه برای مرورگر اینترنت اکسپلور ویندوز|
-|Source field to reference|                           |فیلد منبع و مرجع|
-|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).|
-|.( فیلد انتخاب شده که وارده منبع را تشخیص می دهد ، شامل حروف غیر مجاز است (مثل '{', '}' ، حروف خط جدید و غیره|
+
+
+|&Modify All Selected...| |...اصلاح همه انتخابی ها|
+|Auto-Type: Customize Sequence| |تایپ خودکار : ترتیب دلخواه|
+|Clear clipboard when closing/locking the database||بهنگام بستن/قفل پایگاه داده حافظه موقت را پاک کن|
+|Default auto-type sequence for standard entries:| |ترتیب تایپ خودکار پیش فرض برای وارده های استاندارد|
+|Drop to background when copying data to the clipboard| |وقتی داده ای به حافظه موقت کپی شد آن را به زمینه بسپار |
+|Enable auto-type features||فعال کردن خصوصیات تایپ خودکار|
+|Exclude &expired entries||در نظر نگرفتن وارده های منسوخ|
+|Field to reference||فیلد مرجع|
+|Here you can configure auto-type.| |.دراینجا می توانید تایپ خودکار را پیکربندی کنید|
+|Identify source entry by| |تعیین وارده منبع با|
+|In Notes Field| |در فیلد نکات|
+|In Password Field| |در فیلد پسورد|
+|In Title Field||در فیلد عنوان|
+|In URL Field| |در فیلد آدرس اینترنتی|
+|In User Name Field||در فیلد نام کاربری|
+|Include expired entries in quick searches (toolbar)|
+|در نظر گرفتن وارده های منسوخ در جستجوهای سریع|
+|Insert Field Reference||قراردادن فیلد مرجع|
+|Multiple entries match the specified identifying field.|   |.وارده های چندگانه همسان با فیلد تشخیص دهنده ی تعیین شده|
+|Normal| |معمولی|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+|.گشایش فایل در حالت فقط خواندی.تغییرات پایگاه داده می تواند در پرونده دیگری ذخیره شود|
+|Prepend special initialization sequence for Internet Explorer windows| 
+|اضافه کردن بخش نصب ویژه برای پنجره مرورگر اینترنت |
+|Read-only||فقط خواندنی|
+|Sort items in the auto-type entry selection dialog||مرتب کردن آیتم ها در دیالوگ انتخابی وارده تایپ خودکار |
+|Source field to reference| |فیلد منبع برای رجوع |
+|Take ownership of the file and open it in normal writing mode.||گرفتن مالکیت پرونده و گشایش آن در حالت نوشتن معمولی |
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
+|.(...فیلد انتخاب شده ، که وارده ی منبع را مشخص می کند ، شامل حروف غیر مجاز است (مثل "{" و "}"و|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
-|.پرونده مقصد ممکن است در محلی خراب باشد.لطفا" مجددآ ذخیره کنید و اگر نا موفق بود پایگاه داده را در جایی دیگر ذخیره کنید|
+|پرونده مقصد صدمه دیده باشد.لطفا"مجددا"دوباره ذخیره کنید و اگر ناموفق بود ، پایگاه داده را در جای دیگری ذخیره کنید |
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
-|.هایشان مشخص شوند که منخصر به فردند UUID برای دوری از ابهام ، وارده ها می توانند با|
+|هایشان مشخص شوند ، که منحصربفردند UUID برای دوری از ابهام ، وارده ها می توانند با |
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+|'Tools' - 'Options' - 'Advanced' - 'Auto-Type' می توانید کلید ترکیبی دیگری را برگزینید |
+
+
+
+
