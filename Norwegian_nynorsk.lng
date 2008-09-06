@@ -252,8 +252,6 @@
 |Click [Cancel] to abort changing the key.||Klikk [Avbryt] for å avbryte nøkkelendringa.|
 |Overwrite?||Skriva over?|
 |Expires:||Gyldig til:|
-|&Delete Selected Entries||&Slett valde postar|
-|&Mass Modify (All Selected)...||E&ndra alle valde postar…|
 |Change group:||Endra gruppe:|
 |Change entry icon:||Endra postikon:|
 |Change expiration time:||Endra utløpsdato:|
@@ -407,7 +405,6 @@
 |Global auto-type hot key combination:||Global tastatursnarveg for auto-inntasting:|
 |Cannot register the global hot key.||Klarer ikkje å registrera tastatursnarvegen.|
 |Most probably another application has reserved this hot key already.||Truleg nyttar eit anna program den same snarvegen.|
-|You can choose a different hot key combination in 'Tools - Options - Setup'.||Vel ein annan tastatursnarveg i 'Verktøy - Innstillingar - Eigenskapar'.|
 |&Use master password and key file||&Bruk hovudpassord og nøkkelfil|
 |You've selected the AND key mode, so you must enter a password AND select a key file.||Du har vald AND-nøkkelmodus. Du må derfor skriva både eit passord OG velja ei passordfil.|
 |Timed: copy data to the clipboard and clear it automatically after some seconds||Tidsstyrt: kopierer data til utklippstavla og slettar dei automatisk etter nokre sekund|
@@ -625,6 +622,17 @@
 |Multiple entries match the specified identifying field.||Fleire postar samsvarer med søkefeltet.|
 |Prepend special initialization sequence for Internet Explorer windows||Føy til spesiell initialiseringssekvens for Internet Explorer-vindauge|
 |Source field to reference||Referansekjeldefelt|
-|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).||Det valde feltet, som identifiserer kjeldeposten, inneheld ugyldige teikn (som t.d. '{', '}', nylinje-teikn, …).|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.||Målfila kan vera øydelagd. Prøv å lagra på nytt. Dersom lagringa framleis feilar, lagra databasen ein annan stad.|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.||Ein sikrar at postar er eintydige om ein identifiserer dei ved hjelp av UUID-ane deira.|
+|&Modify All Selected...||&Endra alle valde …|
+|Auto-Type: Customize Sequence||Auto-inntasting: tilpass sekvens|
+|Clear clipboard when closing/locking the database||Tøm utklippstavla når databasen blir lukka/låst|
+|Exclude &expired entries||Sjå vekk frå &utgåtte postar|
+|Include expired entries in quick searches (toolbar)||Ta med utgåtte postar i hurtigsøk (verktøylinje)|
+|Normal||Normal|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.||Opna fila i lesemodus. Databaseendringar kan lagrast i ei anna fil.|
+|Read-only||Berre lesing|
+|Sort items in the auto-type entry selection dialog||Sorter postane i auto-inntastingsvindauget|
+|Take ownership of the file and open it in normal writing mode.||Ta eigarskap til fila og opna ho i normal skrivemodus.|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).||Det valde feltet identifserer kjeldeposten. Det inneheld ulovlege teikn (slike som  '{', '}', nylinje-teikn, …).|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.||Du kan velja ein annan tastekombinasjon i 'Verktøy' - 'Val' - 'Avansert' - 'Auto-inntasting'.|
