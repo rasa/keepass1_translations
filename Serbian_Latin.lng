@@ -1,7 +1,7 @@
-|~LANGUAGENAME|
+﻿|~LANGUAGENAME|
 |Srpski|
 |~LANGUAGEVERSION|
-|1.12|
+|1.13|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -75,7 +75,7 @@
 |Master Password:|
 |Glavna lozinka:|
 |Create New Password Database|
-|Kreiraj novu bazu|
+|Kreiraj novu bazu lozinka|
 |Set Composite Master Key|
 |Postavi kompozitni glavni ključ|
 |Specify the composite master key.|
@@ -105,7 +105,7 @@
 |Collect additional &entropy|
 |Sakupi dodatnu entropiju|
 |Generated password|
-|Generisana lozinka|
+|Generisane lozinke|
 |&Generate|
 |&Generiši|
 |&Accept|
@@ -125,7 +125,7 @@
 |Special|
 |Specijalno|
 |High ANSI characters|
-|Visoka ANSI slova|
+|Visoka „ANSI“ slova|
 |Brackets ([, ], {, }, (, ), <, >)|
 |Zagrade ([, ], {, }, (, ), <, >)|
 |Group:|
@@ -163,7 +163,7 @@
 |Edit Group|
 |Promeni grupu|
 |Modify existing password group.|
-|Promeni grupu lozinka|
+|Promeni postojeću grupu lozinka|
 |Random mouse input|
 |Slučajni unos miša|
 |Click to begin:|
@@ -171,9 +171,9 @@
 |Use &Mouse as Random Source|
 |Koristi miš kao slučajni izvor|
 |Move the mouse in the field above until this is full:|
-|Pomeri miš u polje sve dok nije puno:|
+|Pomeri miš u polje sve dok se polje ne napuni:|
 |Hint: It is best to use both mouse and keyboard random sources.|
-|Savet: bolje je da se koristi i miš i tastatura u isto vreme.|
+|Savet: bolje je da se u isto vreme koristi i miš i tastatura.|
 |Random keyboard input|
 |Slučajni unos tastature|
 |Just hack some random keys into the edit box above.|
@@ -329,23 +329,23 @@
 |- Twofish algorithm|
 |- Twofish algoritam|
 |The program will exit now.|
-|Program će se zatvoriti.|
+|Program će se sada zatvoriti.|
 |Self-Test(s) Failed|
 |Auto-test neuspešan|
 |Clipboard cleared.|
 |Klipbord izbrisan.|
 |Field copied to clipboard. Clipboard will be cleared in %d seconds.|
-|Polje kopiran u klipbordu. Brisanje za %d sekunda.|
+|Polje kopiran u klipbordu. Brisanje klipborda za %d sekunda.|
 |Failed to set the master key!|
-|Glavni ključ ne može da se definiše!|
+|Glavni ključ ne može da se postavi!|
 |File cannot be opened!|
-|Datoeka ne može da se otvori!|
+|Datoteka ne može da se otvori!|
 |File cannot be saved!|
 |Datoteka ne može da se sačuva!|
 |KeePass Password Safe Files|
-|Datoteke Password Safe KeePass|
+|Datoteke „Password Safe KeePass“|
 |All Files|
-|Sve|
+|Sve datoteke|
 |The current database file has been modified|
 |Aktuelna baza je promenjena|
 |Do you want to save the changes before closing?|
@@ -361,13 +361,13 @@
 |Cannot open temporary file for printing!|
 |Ne može da se otvori privremena datoteka za štampanje!|
 |Load Language File|
-|Učitaj jezik|
+|Učitaj jezičku datoteku|
 |Load a Language File|
 |Učitaj jezičku datoteku|
 |Select one of the languages in the list below.|
-|Odabrati jedan jezik sa liste.|
+|Odabrati jedan jezik sa spiska.|
 |Available Languages|
-|Dostupno|
+|Dostupni jezici|
 |&Help|
 |&Pomoć|
 |&Help Contents|
@@ -403,11 +403,11 @@
 |Loading error|
 |Greška učitavanja|
 |Language file cannot be opened!|
-|Jezik ne može da se otvori!|
+|Jezična datoteka ne može da se otvori!|
 |Language file cannot be registered!|
-|Jezik ne može da se registruje!|
+|Jezična datoteka ne može da se registruje!|
 |The language file has been installed.|
-|Jezik instaliran.|
+|Jezična datoteka instalirana.|
 |You must restart KeePass in order to use the new language.|
 |Trebate ponovo pokrenuti KeePass za korišćenje novog jezika.|
 |Do you wish to restart KeePass now?|
@@ -459,7 +459,7 @@
 |Minimize to tray instead of taskbar|
 |Minimizuj u sistemu umesto radne trake|
 |Encryption algorithm to use (for this database):|
-|Šifrovanje (za ovu bazu):|
+|Algoritam šifrovanja (za ovu bazu):|
 |Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
 |Advanced Encryption Standard (AES) (blokovi od 128 bita, ključ od 256 bita)|
 |Twofish (128-bit block cipher using 256-bit key)|
@@ -493,7 +493,7 @@
 |&Creation Time|
 |Datum kreacije|
 |Last &Modification Time|
-|Zadnje promene|
+|Zadnja promena|
 |&Last Access Time|
 |Zadnji pristup|
 |&Expiration Time|
@@ -505,23 +505,19 @@
 |Visit KeePass Homepage|
 |Ići na sajt KeePass-a|
 |Field copied to clipboard.|
-|Polje kopiranu klipbordu.|
+|Polje kopiran u klipbordu.|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
 |Ključna datoteka već postoji na ovom drajvu. Da li da se prepiše ili da se koristi?|
 |Click [Yes] to overwrite the key file.|
 |Kliknuti [Da] za prepisivanje ključne datoteke.|
 |Click [No] to reuse the selected key file for this database.|
-|Kliknuti [Ne] za ponovnu upotrebu odabranog ključnoe datoteke za ovu bazu.|
+|Kliknuti [Ne] za ponovnu upotrebu odabrane ključne datoteke za ovu bazu.|
 |Click [Cancel] to abort changing the key.|
 |Kliknuti [Otkaži] za poništavanje promene ključa.|
 |Overwrite?|
 |Prepisati?|
 |Expires:|
 |Završava se:|
-|&Delete Selected Entries|
-|Izbriši odabrane stavke|
-|&Mass Modify (All Selected)...|
-|Promeni sve odabrano...|
 |Change group:|
 |Promeni grupu:|
 |Change entry icon:|
@@ -529,9 +525,9 @@
 |Change expiration time:|
 |Promeni datum završavanja:|
 |Mass Modify|
-|Promeniti odabiranje|
+|Promeniti odabirano|
 |Change fields of all selected entries|
-|Promeni polja od odabirane stavke|
+|Promeni polja od odabiranih stavka|
 |Show &Columns|
 |Pokaži kolone|
 |Show &Entry View|
@@ -559,7 +555,7 @@
 |Using this wizard you can easily add TAN entries.|
 |Sa ovim asistentom možete lako dodati TAN stavke.|
 |Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
-|Prilepite vaše TAN u ovaj prozor. Sve karaktere koji nisu specifirani kao TAN slova su tretirani kao odvajač i samo podslova sa TAN slova su dodati kao TAN ulaze.|
+|Prilepite vaše TAN u ovom prozoru. Svi karakteri koji nisu specifirani kao TAN slova su tretirani kao odvajač i samo podslova sa TAN slova su dodati kao TAN ulaze.|
 |TANs consist of the following characters:|
 |Ovi karakteri su TAN:|
 |<TAN>|
@@ -575,15 +571,15 @@
 |Language File Version|
 |Verzija jezika |
 |Author|
-|Autor |
+|Autor|
 |Translation Author Contact|
-|Kontakt autora |
+|Kontakt autora|
 |&Rearrange|
 |Organizuj|
 |&Sort Group List|
 |Sortiraj listu grupa|
 |Sort List By &Title|
-|Sortiraj po naziv|
+|Sortiraj po nazivu|
 |Sort List By User &Name|
 |Sortiraj po imenu|
 |Sort List By &URL|
@@ -593,19 +589,19 @@
 |Sort List By Note&s|
 |Sortiraj po beleškama|
 |Sort List By &Creation Time|
-|Sortiraj po kreaciji|
+|Sortiraj po vreme kreacije|
 |Sort List By Last &Modify Time|
-|Sortiraj po modifikaciji|
+|Sortiraj po vreme modifikaciji|
 |Sort List By Last &Access Time|
-|Sortiraj po pristupu|
+|Sortiraj po vreme pristupu|
 |Sort List By &Expiration Time|
-|Sortiraj po završetku|
+|Sortiraj po vreme završetka|
 |Move Group One &Left|
 |Premesti grupu na levo|
 |Move Group One &Right|
 |Premesti grupu na desno|
 |Hide &User Names Behind Asterisks (***)|
-|Sakri imena iza zvezdice (***)|
+|Sakri korisnička imena iza zvezdice (***)|
 |Attachment:|
 |Priloženo:|
 |Attachment|
@@ -617,11 +613,11 @@
 |Generate a random password...|
 |Generiši slučajnu lozinku...|
 |Open file and set as attachment...|
-|Otvori datoteku i koristiti je kao prilog...|
+|Otvori datoteku i postaviti je kao prilog...|
 |Save attached file to disk...|
 |Sačuvaj priloženu datoteku na disk...|
 |There already is a file attached with this entry.|
-|Već ima priložena datoteka za ovau stavku.|
+|Već ima priložena datoteka za ovu stavku.|
 |Do you want to overwrite the current attachment?|
 |Prepisati aktuelnu priloženu datoteku?|
 |&Save Attached File To...|
@@ -631,7 +627,7 @@
 |Remove the currently attached file|
 |Skini aktuelnu priloženu datoteku|
 |Close button [X] minimizes the main window instead of terminating the application|
-|Dugme zatvaranja [X] snanjuje prozor u mesto da zatvori program|
+|Dugme zatvaranja [X] smanjuje prozor umesto da zatvori program|
 |KeePass Password Database|
 |KeePass baza|
 |&Open with KeePass|
@@ -693,21 +689,21 @@
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
 |Vaš ključ je šifriran više puta da bi se dobilo konačni ključ za bazu. To otežava nalaz ključa sa napadom nagađanjem ili rečnikom.|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
-|Što veći broj, teže napadanje. Ali to usporava učitavanje i sačuvavanje baze.|
+|Što veći broj, teže je napadanje. Ali to usporava učitavanje i sačuvavanje baze.|
 |Number of key encryption rounds:|
 |Broj okruženja ključa šifrovanja:|
 |bits|
 |bita|
 |Personal &Vault TXT File...|
-|Lična TXT Vault datoteka...|
+|Lična tekst „Vault“ datoteka...|
 |Imported from Password Safe|
-|Uvezeno sa Password Safe|
+|Uvezeno sa „Password Safe“|
 |Remember last opened file|
 |Zapamti zadnju otvorenu datoteku|
 |Total number of groups / entries|
 |Broj grupa / stavka|
 |Total: %u groups / %u entries|
-|Zbir: %u grupa / %u stavke|
+|Zbir: %u grupe / %u stavke|
 |%u of %u selected|
 |Odabrano %u od %u|
 |Number of selected entries (number of entries in the list)|
@@ -717,7 +713,7 @@
 |The database file has been modified!|
 |Baza je promenjena!|
 |Most probably someone has changed the file while you were editing it.|
-|Najverovatnije je neko promenio datoteku dok ste je uredili.|
+|Najverovatnije je neko promenio datoteku dok ste je uređivali.|
 |Do you want to overwrite it?|
 |Prepisati?|
 |The group you selected cannot store entries. Please select a different group.|
@@ -729,7 +725,7 @@
 |Delete Entries Confirmation|
 |Potvrda brisanja stavka|
 |Use PuTTY for ssh: and telnet: URLs|
-|Korsiti PuTTY za ssh: i telnet: URL-i|
+|Koristi PuTTY za ssh: i telnet: URL-i|
 |Mark database as modified on last-access time change|
 |Postavi bazu kao promenjenu pri promeni zadnjeg pristupa|
 |Se&lect All|
@@ -757,7 +753,7 @@
 |Plugin|
 |Dodatak|
 |cannot be loaded!|
-|ne može da se učita.|
+|Ne može da se učita.|
 |Plugins|
 |Dodatci|
 |&Plugins...|
@@ -789,9 +785,9 @@
 |&Disable|
 |Onesposobi|
 |About &Plugin...|
-|O dadatku...|
+|O dodatku...|
 |An error occurred|
-|reška se pojavila|
+|Greška se pojavila|
 |Error code|
 |Kod greške|
 |Unknown error|
@@ -805,9 +801,9 @@
 |Invalid/wrong key|
 |Nevažan/pogrešan ključ|
 |File access error: failed to open file in read mode|
-|Greška pristupa: Ne može das e otvori datoteka u čitnom modu|
+|Greška pristupa: Ne može da se otvori datoteka u čitnom modu|
 |File access error: failed to open file in write mode|
-|Greška pristupa: Ne može das e otvori datoteka u pisnom modu|
+|Greška pristupa: Ne može da se otvori datoteka u pisnom modu|
 |File error: error while reading from the file|
 |Greška: greška pri čitanja datoteke|
 |File error: error while writing to the file|
@@ -825,11 +821,9 @@
 |Global auto-type hot key combination:|
 |Prečica za auto-punjenje:|
 |Cannot register the global hot key.|
-|Ne može das e registruje prečica.|
+|Ne može da se registruje prečica.|
 |Most probably another application has reserved this hot key already.|
-|Jajverovatnije je drugi program rezervisao tu prečicu.|
-|You can choose a different hot key combination in 'Tools - Options - Setup'.|
-|Možete odabrati drugu prečicu u 'Alati - Opcije - Podešavanje'.|
+|Najverovatnije je drugi program rezervisao tu prečicu.|
 |&Use master password and key file|
 |Koristi glavnu lozinki I ključnu datoteku|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
@@ -841,7 +835,7 @@
 |Clipboard behavior:|
 |Rad klipborda|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
-|Pažnja! Moguće je da ova opcija ne radi korsktno na vašem sistemu, posebno ako koristite poboljšan klipbord ili slučno.|
+|Pažnja! Moguće je da ova opcija ne radi korektno na vašem sistemu, posebno ako koristite poboljšan klipbord ili slučno.|
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
 |Ako imate problema sa naprednom metodom, vratite se na brisanje klipborda posle određenog vremena.|
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
@@ -867,15 +861,15 @@
 |Integration|
 |Integracija|
 |Start KeePass at Windows startup (for current user)|
-|Pokreni KeePass sa Vindozom (za aktuelnog korisnika)|
+|Pokreni KeePass sa Windows (za aktuelnog korisnika)|
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!|
 |Ne može da se kreira/izbriše ključ za pokretanje KeePass-a iz registra.|
 |Backup|
-|Kopija|
+|Bekap|
 |Save backups of modified entries into the 'Backup' group|
-|Sačuvaj kopije promenjene stavke u grupu 'Kopija'|
+|Sačuvaj kopije promenjene stavke u grupu 'Bekap'|
 |Failed to create backup of this entry!|
-|Ne može da se kreira kopija stavke!|
+|Ne može da se kreira bekap stavke!|
 |The composite master key has been changed!|
 |Kompozitni glavni ključ je promenjen!|
 |Save the database now in order to get the new key applied.|
@@ -887,25 +881,25 @@
 |Icon|
 |Ikona|
 |Group Tree|
-|Drvo grupa|
+|Drvo grupe|
 |Export Options|
 |Opcije izvoza|
 |Print Options|
 |Opcije štampanja|
 |Here you can customize the exported files.|
-|Ovde možete da podesite izvizene datoteke.|
+|Ovde možete da podesite izvoz datoteke.|
 |Here you can customize the printed sheet.|
-|Ovde možete da podesite list štampanja.|
+|Ovde možete da podesite tabelu štampanja.|
 |Encode/replace newline characters by '\n'|
 |Kodiraj/promeni karaktere nove linije sa '\n'|
 |Export backup entries (entries in the 'Backup' group)|
-|Izvoz kopiranih stavka (stavke iz grupe 'Kopija')|
+|Izvoz bekap stavke (stavke iz grupe 'Bekap')|
 |Print backup entries (entries in the 'Backup' group)|
-|Štampaj kopiranih stavka (iz 'Kopija' grupe)|
+|Štampaj bekap stavke (iz 'Bekap' grupe)|
 |&Get More Import Plugins...|
-|Dobiti još dodatka za unos...|
+|Dobiti još dodataka za unos...|
 |Field has been pasted.|
-|Polje je kopirano.|
+|Polje je prilepljeno.|
 |Waiting for paste command.|
 |Čekanje na prilepljivanje.|
 |Paste operation completed.|
@@ -915,11 +909,11 @@
 |Use more secure password edit controls|
 |Koristi sigurnije kontrole promene lozinke|
 |Press Shift-Home or Shift-End to clear this edit control|
-|Stisnuti Shift-Home ili Shift-End za brisanje ovog kontrola|
+|Stisnuti „Shift-Home“ ili „Shift-End“ za brisanje ovog kontrola|
 |Single left click instead of double-click for default tray icon action|
 |Jedan klik, umesto dva, na ikonu za standardni rad|
 |Exclude entries in the '&Backup' group|
-|Isključi stavke iz grupe 'Kopija'|
+|Isključi stavke iz grupe 'Bekap'|
 |By default, new entries expire in the following number of days:|
 |Inicijalno, nove stavke se završavaju za ovoliko dana:|
 |Click to expire the entry in %u days|
@@ -927,7 +921,7 @@
 |Calculate rounds for a 1-second delay on this computer|
 |Izračunavanje za 1 sekund na ovom računaru|
 |The program is distributed under the terms of the GNU General Public License v2 or later.|
-|Program je distribuiran ispod GNU GPL licence, verzija 2 ili više.|
+|Program je distribuiran ispod „GNU GPL“ licence verzija 2 ili više.|
 |1 Week|
 |1 nedelja|
 |2 Weeks|
@@ -941,13 +935,13 @@
 |1 Year|
 |1 godina|
 |Include backup entries in quick searches (toolbar)|
-|Ubaci i kopirane stavke u brzu pretragu (alatna traka)|
+|Ubaci i bekap stavke u brzu pretragu (alatna traka)|
 |&Donate...|
-|Doniraj...|
+|Donacija...|
 |Use alternative auto-type method (minimize window)|
 |Koristi alternativnu metodu auto-punjenja (minimiziran prozor)|
 |Delete all backup entries before saving the database|
-|Brisati sve kopije stavke pre sačuvavanja baze|
+|Brisati sve bekap stavke pre sačuvavanja baze|
 |&Repair KeePass Database File...|
 |Popravi bazu KeePass-a...|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
@@ -981,7 +975,7 @@
 |Enable auto-type features|
 |Upali sposobnosti auto-punjenja|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
-|Kopiraj URL u klipbordu umesto da se otvore (osim za URL cmd://)|
+|Kopiraj URL u klipbordu umesto da se otvore (osim: cmd:// URL)|
 |Copy &URL to Clipboard|
 |Kopiraj URL u klipbordu|
 |Exit program instead of locking the workspace after the specified time|
@@ -1027,7 +1021,7 @@
 |Cache error (cannot open cached file).|
 |Greška keša (ne može da se otvori keš datoteka).|
 |Check for update at KeePass startup|
-|Proveri ažuriranje na pokretanje KeePassa|
+|Proveri ažuriranje na pokretanje KeePass-a|
 |'Keyfile' or 'preselect' option is already specified|
 |Opcija 'Ključna datoteka' ili 'preselekcija' je več navedena|
 |Path is invalid|
@@ -1085,11 +1079,11 @@
 |Enable remote control (allow applications to communicate with KeePass)|
 |Omogući udaljena kontrola (dozvoli da programe komiciraju sa KeePass)|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
-|Proveriti da medij koji sadržava ključnu datoteku je unešen i da KeePass ima sva na njega (proveriti prava pristupa datoteci, proveriti da ni jedan program ne blokira datoteku, ...).|
+|Proveriti da medij koji sadržava ključnu datoteku je unešen i da KeePass ima prava na njega (proveriti prava pristupa datoteci, proveriti da ni jedan program ne blokira datoteku, ...).|
 |URL Field: Help|
 |URL polje: Pomoć|
 |There are too few characters in the character set to build up a password matching the specified rules|
-|Nema dovoljno kljraktera da bi se kreiralo pravilo|
+|Nema dovoljno karaktera da bi se kreirala lozinka za ovo pravilo|
 |(Custom)|
 |(Prilagodi)|
 |Save current settings as a profile.|
@@ -1105,19 +1099,19 @@
 |Generate using character set:|
 |Generiši sa ovim karakterima|
 |Generate using pattern:|
-|Generiši koristeći šablon:|
+|Generiši koristeći model:|
 |Also include the following characters:|
 |Ubaci i ove karaktere:|
 |Exclude look-alike characters|
 |Izbaci slične karaktere|
 |Use local date/time format instead of ISO notation|
-|Koristi lokalni format datuma umesto ISO|
+|Koristi lokalni format datuma umesto „ISO“|
 |Save as Profile|
 |Sačuvaj kao profil|
 |Save current settings as password generator profile.|
 |Sačuvaj aktuelna podašavanja kao profil generatora lozinke.|
 |Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
-|Uneti ime zo nov profil generisanja lozinke, ili odabrati postojeći za prepisivanje:|
+|Uneti ime za nov profil generisanja lozinke, ili odabrati postojeći za prepisivanje:|
 |Randomly permute characters of password|
 |Nasumno okreni slova lozinke|
 |Locked|
@@ -1135,7 +1129,7 @@
 |Regular expression|
 |Regularni izraz|
 |Default user name for new entries:|
-|Standardno ime za nove stavke:|
+|Inicijalno ime za nove stavke:|
 |Advanced Password Generator Options|
 |Opcije naprednog generisanja lozinke|
 |Exclude the following characters:|
@@ -1147,9 +1141,9 @@
 |Provider|
 |Provajder|
 |The key provider plugin did not supply a valid key|
-|Davać kauča nije dao validan ključ|
+|Davać ključa nije dao validan ključ|
 |Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
-|Registruj prečicu Ctrl-Alt-K (postavlja napred prozor „KeePass“-a)|
+|Registruj prečicu Ctrl-Alt-K (postavlja unapred prozor KeePass-a)|
 |Type to search the database|
 |Uneti za nalaženje baze|
 |Search...|
@@ -1157,116 +1151,128 @@
 |Clear Search History|
 |Isprazni historijat traženja|
 |TANs are imported into the currently selected group|
-|TANs su uvezeni u aktuelnoj odabranoj grupi|
-|Abort specifying a new key for the current database.|
-|Poništavanje specifiranja novog ključa za aktuelnu bazu.|
-|Abort the current operation.|
-|Poništi aktuelni rad.|
-|Always grant full access through remote control (not recommended)|
-|Uvek dozvoli puni pristup na udaljen pristup (nije preporučeno)|
-|An error occurred|
-|Desila se greška|
-|An error occurred while importing the file. File cannot be imported.|
-|Greška pri uvoza datoteke. Datoteka ne može de se uveze.|
-|Auto-Type: Help|
-|Auto-Unos: Pomoć|
-|Auto-Type: Select Target Window...|
-|Auto-Unos: Odabrati ciljni prozor...|
-|Cancel|
-|Poništi|
-|Copy [of an item]|
-|Kopija [od elementa]|
-|Discard all changes made to the database and close the file.|
-|Odbaci sve promene baze i zatvori datoteku.|
-|Discard all changes made to the database and exit KeePass.|
-|Odbaci sve promene baze i zatvori „KeePass“.|
-|Discard all changes made to the database and lock the KeePass workspace.|
-|Odbaci sve promene baze i blokiraj „KeePass“.|
-|Discard changes|
-|Odbaci promene|
-|Focus entry list after a successful quick search (toolbar)|
-|Fokus u spisku posle uspešnog nalaženja (alatna traka)|
+|TAN su uvezeni u aktuelnoj odabranoj grupi|
+|The selected key file already exists|
+|Odabrana ključna datoteka već postoji|
 |Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
-|Generisati novi ključ i prepisati staru ključnu datoteku. Aktuelni ključ iz ključne dljtoteke će biti izgubljen.|
-|KeePass will not be closed.|
-|„KeePass“ neće biti zatvoren.|
-|Load the existing key file and use it as key for the current database. The key file will not be modified.|
-|Učitaj postojeću ključnu datoeku i koristi je za aktuelnu bazu. Ključna datoeke neće biti promenjena.|
-|Lock workspace when locking Windows, switching user or sleeping|
-|Blokiraj radnu površinu na blokiranje „Windows“-a, promene korisnika ili uspavanja|
-|Overwrite existing key file?|
-|Prepisati ključnu datoteku?|
+|Generisati novi ključ i prepisati staru ključnu datoteku. Aktuelni ključ iz ključne datoteke će biti izgubljen.|
 |Reuse|
 |Ponovo koristi|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+|Učitaj postojeću ključnu datoteku i koristi je za aktuelnu bazu. Ključna datoteka neće biti promenjena.|
+|Cancel|
+|Poništi|
+|Abort specifying a new key for the current database.|
+|Poništavanje specifiranja novog ključa za aktuelnu bazu.|
+|Overwrite existing key file?|
+|Prepisati ključnu datoteku?|
 |Save|
 |Sačuvaj|
-|Save all changes made to the database and close the file.|
-|Sačuvaj sve promene baze i zatvori datoteku.|
-|Save all changes made to the database and exit KeePass.|
-|Sačuvaj sve promene daze i zatvori „KeePass“.|
-|Save all changes made to the database and lock the KeePass workspace.|
-|Sačuvaj sve promene baze i blokiraj površinu „KeePass“-a.|
+|Discard changes|
+|Odbaci promene|
 |Save database changes before closing the file?|
 |Sačuvati promene baze pre zatvaranja datoteke?|
 |Save database changes before exiting KeePass?|
-|Sačuvati promene baze pre zatvaranja „KeePass“-a?|
+|Sačuvati promene baze pre zatvaranja KeePass-a?|
 |Save database changes before locking the workspace?|
-|Sačuvati promene baze pre blokiranja površine?|
-|Select the target window for the current entry.|
-|Odabrati ciljni prozor za aktuelni elemenat.|
+|Sačuvati promene baze pre blokiranja radne površine?|
+|Save all changes made to the database and close the file.|
+|Sačuvaj sve promene baze i zatvori datoteku.|
+|Save all changes made to the database and exit KeePass.|
+|Sačuvaj sve promene daze i zatvori KeePass.|
+|Save all changes made to the database and lock the KeePass workspace.|
+|Sačuvaj sve promene baze i blokiraj radnu površinu KeePass-a.|
+|Discard all changes made to the database and close the file.|
+|Odbaci sve promene baze i zatvori datoteku.|
+|Discard all changes made to the database and exit KeePass.|
+|Odbaci sve promene baze i zatvori KeePass.|
+|Discard all changes made to the database and lock the KeePass workspace.|
+|Odbaci sve promene baze i blokiraj radnu površinu KeePass-a.|
+|Abort the current operation.|
+|Poništi aktuelni rad.|
 |The KeePass workspace will not be locked.|
-|Površina „KeePass“-a neće biti blokirana.|
-|The current database file has been modified|
-|Aktuelna datoteka ja promenjena|
-|The estimated quality of the master password must be at least %u bits!|
-|Kvalitet glavne lozinke treba biti najmanje %u bita!|
+|Površina KeePass-a neće biti blokirana.|
+|KeePass will not be closed.|
+|KeePass neće biti zatvoren.|
 |The file will not be closed.|
 |Datoteka neće biti zatvorena.|
 |The master password must be at least %u characters long!|
 |Glavna lozinka treba da ima makar %u karaktera!|
-|The selected key file already exists|
-|Odabrana ključna datoteka već postoji|
-|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
-|Za specifiranje ciljnog prozora, ili odabrati već otvoren prozor sa spiska ili uneti njegov naziv:|
-|URL Field: Help|
-|URL Polje: Pomoć|
-|URL Field: Insert Placeholder|
-|URL Polje: Uneti Placeholder|
+|The estimated quality of the master password must be at least %u bits!|
+|Kvalitet glavne lozinke treba biti najmanje %u bita!|
+|Copy [of an item]|
+|Kopija [od elementa]|
+|Focus entry list after a successful quick search (toolbar)|
+|Fokus u spisku posle uspešnog nalaženja (alatna traka)|
+|Always grant full access through remote control (not recommended)|
+|Uvek dozvoli puni pristup na udaljen pristup (nije preporučeno)|
 |URL Field: Select Application...|
 |URL Polje: Odabrati program...|
 |URL Field: Select Document...|
-|URL Polje: Odabrati dokumenat...||Default auto-type sequence for standard entries:|
+|URL Polje: Odabrati dokumenat...|
+|URL Field: Insert Placeholder|
+|URL Polje: Uneti Placeholder|
+|Auto-Type: Help|
+|Auto-Unos: Pomoć|
+|Auto-Type: Select Target Window...|
+|Auto-Unos: Odabrati ciljni prozor...|
+|Select the target window for the current entry.|
+|Odabrati ciljni prozor za aktuelni elemenat.|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+|Za specifiranje ciljnog prozora, ili odabrati već otvoren prozor sa spiska ili uneti njegov naziv:|
 |Default auto-type sequence for standard entries:|
-|Inicijalna auto6unosna sekvencija za standardna unosa:|
-|Drop to background when copying data to the clipboard|
-|Postavi u pozadinu na kopiranje podataka u klipbordu|
-|Field to reference|
-|Polje za odnos|
+|Inicijalna auto-unosna sekvencija za standardna unosa:|
+|Prepend special initialization sequence for Internet Explorer windows|
+|Prepend special initialization sequence for Internet Explorer windows|
 |Here you can configure auto-type.|
 |Ovde se podešava auto-unos.|
-|Identify source entry by|
-|Identifikuj izvor po|
-|In Notes Field|
-|U polje beleške|
-|In Password Field|
-|U polje lozinke|
-|In Title Field|
-|U polje naziva|
-|In URL Field|
-|U polje URL|
-|In User Name Field|
-|U polje korisnika|
-|Insert Field Reference|
-|Ubaci odnos polja|
-|Multiple entries match the specified identifying field.|
-|Više unosa odgovaraju specifiranom polju identifikacije.|
-|Prepend special initialization sequence for Internet Explorer windows|
-|Prepend special initialization sequence for Internet Explorer windows|
-|Source field to reference|
-|Izvorno polje za odnos|
-|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).|
-|Odabrano polje, koji identifikuje izvorni ulaz, sadržava nedozvoljena karaktera (kao '{', '}', nova linija, ...).|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
 |Ciljna datoteka je možda pokvarena. Pokušajte da je ponovo sačuvate, ako to ne uspe, sačuvati bazu na drugi smeštaj.|
+|Drop to background when copying data to the clipboard|
+|Postavi u pozadinu na kopiranje podataka u klipbordu|
+|Insert Field Reference|
+|Ubaci odnos polja|
+|In Title Field|
+|U polje naziva|
+|In User Name Field|
+|U polje korisnika|
+|In URL Field|
+|U polje URL|
+|In Password Field|
+|U polje lozinke|
+|In Notes Field|
+|U polje beleške|
+|Field to reference|
+|Polje za odnos|
+|Identify source entry by|
+|Identifikuj izvor po|
+|Source field to reference|
+|Izvorno polje za odnos|
+|Multiple entries match the specified identifying field.|
+|Više unosa odgovaraju specifiranom polju identifikacije.|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
-|Da bi izbegli dvosmislenost, stavke su identifikovane po UUID, koji je unikat.|
+|Da bi izbegli dvosmislenost, stavke su identifikovane po „UUID“, koji je unikat.|
+|&Modify All Selected...|
+|Promeni sve odabrane...|
+|Auto-Type: Customize Sequence|
+|Ljuto6Unos: Prilagodi sekvencu|
+|Clear clipboard when closing/locking the database|
+|Briši klipbord na zatvaranje/blokiranje baze|
+|Exclude &expired entries|
+|Odbaci ostarela ulaza|
+|Include expired entries in quick searches (toolbar)|
+|Ubaci ostarela ulaza u brzu pretragu (alatna traka)|
+|Normal|
+|Normalno|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+|Otvori datoteku kao samo čitljivu. Promene mogu da se sačuvaju u drugoj datoteci.|
+|Read-only|
+|Samo čitljivo|
+|Sort items in the auto-type entry selection dialog|
+|Sortirj stavke u dijalogu auto6unosa|
+|Take ownership of the file and open it in normal writing mode.|
+|Uzeti vlasništvo datoteke i otvoriti je u normalnom modu pisanja.|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
+|Odabrano polje, koji identifikuje izvornu stavku, sadržava nedozvoljene karaktere (kao '{', '}', nova linija karakter, ...).|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+|Možete odabrati drugu prečicu u 'Alatke' - 'Opcije' - 'Napredno' - 'Auto-Unos'.|
