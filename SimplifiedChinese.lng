@@ -1,7 +1,7 @@
-﻿2008-08-11 01:12|~LANGUAGENAME|
+﻿2008-09-09 01:13|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.12|
+|1.13|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
@@ -514,10 +514,8 @@
 |覆盖？|
 |Expires:|
 |失效：|
-|&Delete Selected Entries|
-|删除选择的记录(&D)|
-|&Mass Modify (All Selected)...|
-|批量修改(多选)(&M)...|
+|&Modify All Selected...|
+|修改已选记录(多项)(&M)...|
 |Change group:|
 |改变群组：|
 |Change entry icon:|
@@ -671,11 +669,11 @@
 |You have changed an option that requires restarting KeePass to get active.|
 |您所修改的选项需要重启 KeePass 才能生效。|
 |Expired Entries|
-|失效的记录|
+|失效记录|
 |This is a list of all expired entries|
 |这是所有失效记录的列表。|
 |Show All &Expired Entries|
-|显示所有失效的记录(&E) |
+|显示所有失效记录(&E) |
 |Click on an entry to jump to it.|
 |在其上点击来跳到该记录。|
 |Quality:|
@@ -687,7 +685,7 @@
 |Database Summary|
 |数据库概要|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
-|你的密匙被加密数次来形成最终的数据库密匙，这增加了时间的因素来有效对抗猜解和词典类破解。|
+|你的密匙被加密数次来形成最终的数据库密匙，这增加了时间因素来有效对抗猜解和词典类破解。|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
 |（数字越大，使用字典破解越困难，但也将使打开和保存数据库的时间加长。）|
 |Number of key encryption rounds:|
@@ -824,8 +822,8 @@
 |无法注册全局快捷键。|
 |Most probably another application has reserved this hot key already.|
 |可能其它应用程序已经占用了该快捷键。|
-|You can choose a different hot key combination in 'Tools - Options - Setup'.|
-|你可以在“编辑-选项-设置”中更改快捷键。|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+|你可以在“工具-选项-高级-自动输入”中更改快捷键。|
 |&Use master password and key file|
 |同时使用密码和密匙文件(&U)|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
@@ -857,7 +855,7 @@
 |Immediately after opening a database|
 |在打开数据库后立即显示|
 |Show expired entries (if any)|
-|显示失效的记录（如果有）|
+|显示失效记录（如果有）|
 |Show entries that will expire soon (if any)|
 |显示将要失效的记录（如果有）|
 |Integration|
@@ -920,6 +918,8 @@
 |单击使记录在 %u 天后失效|
 |Exclude entries in the '&Backup' group|
 |不包括在“备份”群组中的记录(&B)|
+|Exclude &expired entries|
+|排除失效记录(&E)|
 |Field has been pasted.|
 |字段已粘贴。|
 |Limit to single instance|
@@ -941,7 +941,9 @@
 |Use alternative auto-type method (minimize window)|
 |使用不同于默认（后台窗口）的自动输入模式（最小化窗口）|
 |Include backup entries in quick searches (toolbar)|
-|快速搜索时包括备份记录（工具栏）|
+|快速搜索时包含备份记录（工具栏）|
+|Include expired entries in quick searches (toolbar)|
+|快速搜索时包含失效记录（工具栏）|
 |Delete all backup entries before saving the database|
 |保存数据前删除所有备份记录|
 |&Repair KeePass Database File...|
@@ -1218,6 +1220,8 @@
 |网址: 插入标志符|
 |Auto-Type: Help|
 |自动输入: 帮助|
+|Auto-Type: Customize Sequence|
+|自动输入: 自定义规则|
 |Auto-Type: Select Target Window...|
 |自动输入: 选择目标窗口...|
 |Select the target window for the current entry.|
@@ -1252,9 +1256,21 @@
 |源记录识别字段|
 |Source field to reference|
 |引用源字段|
-|The selected field, that identifies the source entry, contains disallowed characters (like '{', '}', newline characters, ...).|
-|用于识别源记录的字段包含非法字符（像大括号{}、换行符等...）。|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
+|用于识别源记录的字段包含非法字符（如大括号{}、换行符等...）。|
 |Multiple entries match the specified identifying field.|
 |指定的识别字段匹配到多条记录|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
 |为精确匹配，可以通过唯一标识码来识别|
+|Read-only|
+|只读|
+|Normal|
+|正常|
+|Take ownership of the file and open it in normal writing mode.|
+|取得文件所有权并以正常写入模式打开它。|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+|以只读模式打开文件，对数据库所做的更改可以保存到另外的文件。|
+|Sort items in the auto-type entry selection dialog|
+|在自动输入字段选择对话框中排序|
+|Clear clipboard when closing/locking the database|
+|关闭/锁定数据库时清空剪贴板|
