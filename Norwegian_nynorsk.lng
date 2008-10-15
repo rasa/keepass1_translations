@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Norsk (Nynorsk)|
-|~LANGUAGEVERSION||1.12|
+|~LANGUAGEVERSION||1.14|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||nynorsk@strilen.net|
 |&OK||&OK|
@@ -189,7 +189,6 @@
 |Settings||Innstillingar|
 |Here you can configure KeePass.||Her kan endra innstillingane til KeePass.|
 |Automatically open last used database on startup||Automatisk innlesing av sist brukte database ved oppstart|
-|Automatically save database on exit and workspace locking||Automatisk databaselagring og programlåsing ved avslutning|
 |Display images on buttons||Vis bilete på knappar|
 |Show grid lines in password entry list||Vis rutenett i passordlista|
 |Workspace cannot be unlocked!||Klarer ikkje å opna opp arbeidsflata|
@@ -636,3 +635,4 @@
 |Take ownership of the file and open it in normal writing mode.||Ta eigarskap til fila og opna ho i normal skrivemodus.|
 |The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).||Det valde feltet identifserer kjeldeposten. Det inneheld ulovlege teikn (slike som  '{', '}', nylinje-teikn, …).|
 |You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.||Du kan velja ein annan tastekombinasjon i 'Verktøy' - 'Val' - 'Avansert' - 'Auto-inntasting'.|
+|Automatically save when closing/locking the database||Lagra automatisk når databasen blir låst/lukka|
