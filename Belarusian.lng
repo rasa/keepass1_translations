@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Belarusian|
-|~LANGUAGEVERSION|             |1.13|
+|~LANGUAGEVERSION|             |1.14|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -339,7 +339,7 @@
 |Here you can configure KeePass.|              |Тут можна настроіць KeePass.|
 |Automatically open last used database on startup|
     |Адчыняць апошнюю базу пароляў пасля запуску|
-|Automatically save database on exit and workspace locking|
+|Automatically save when closing/locking the database|
     |Захоўваць базу пароляў пры выхадзе і заблакіраванні|
 |Display images on buttons|
     |Показваць малюнкі на кнопках|
