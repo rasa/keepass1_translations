@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.13|
+|~LANGUAGEVERSION||1.14|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -117,7 +117,7 @@
 |Automatically lock workspace after the following number of seconds:||Bloquear automáticamente el área de trabajo después del siguiente número de segundos:|
 |Automatically open last used database on startup||Al inicio, abrir automáticamente la última base de datos utilizada|
 |Automatically resize table columns when resizing the main window||Modificar el tamaño de las columnas automáticamente al modificar el tamaño de la ventana principal|
-|Automatically save database on exit and workspace locking||Guardar automáticamente la base de datos al salir y al bloquear el área de trabajo|
+|Automatically save when closing/locking the database||Guardar automáticamente al cerrar/bloquear la base de datos|
 |Auto-sorting of the password list is enabled, you cannot move entries manually.||Ordenar automáticamente la lista de contraseñas se encuentra activado, usted no puede mover las entradas manualmente.|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.||Ordenar automáticamente la lista de contraseñas está activado, usted no puede ordenar la lista manualmente.|
 |Auto-Type Entry Selection||Selección de Entradas para la Escritura Automática|
