@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Srpski|
 |~LANGUAGEVERSION|
-|1.13|
+|1.14|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -390,8 +390,6 @@
 |Ovde možete podesiti KeePass.|
 |Automatically open last used database on startup|
 |Otvori zadnju korišćenu bazu prilikom pokretanja|
-|Automatically save database on exit and workspace locking|
-|Sačuvaj bazu na izlaz i na blokiranje površine|
 |Display images on buttons|
 |Pokaži slike na dugmada|
 |Show grid lines in password entry list|
@@ -1276,3 +1274,5 @@
 |Odabrano polje, koji identifikuje izvornu stavku, sadržava nedozvoljene karaktere (kao '{', '}', nova linija karakter, ...).|
 |You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
 |Možete odabrati drugu prečicu u 'Alatke' - 'Opcije' - 'Napredno' - 'Auto-Unos'.|
+|Automatically save when closing/locking the database|
+|Automatsko sačuvaj na zatvaranje/blokiranje baze|
