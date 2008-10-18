@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |پارسی|
-|~LANGUAGEVERSION|             |1.13|
+|~LANGUAGEVERSION|             |1.14|
 |~LANGUAGEAUTHOR|              |TormenT|
 |~LANGUAGEAUTHOREMAIL|         |Sunken.Soul@Yahoo.com|
 
@@ -17,7 +17,7 @@
 |eMail|                        |ايميل|
 |Homebanking|                  |بانکداري خانگي|
 
-|Entry|                        |وارده|
+|Entry|                        |ورودی|
 
 |&Title|                       |عنوان&|
 |User &Name|                   |نام &کاربري|
@@ -97,10 +97,10 @@
 |Notes:|                       |: نکات|
 |***|                          |***|
 
-|Add Entry|                    |افزودن مقدار|
-|Create a new password entry.| |.ساخت وارده پسورد جدید|
-|Edit Entry|                   |ويرايش وارده|
-|Modify existing password entry.| |.اصلاح وارده پسورد موجود|
+|Add Entry|                    |افزودن ورودی|
+|Create a new password entry.| |.ساخت ورودی پسورد جدید|
+|Edit Entry|                   |ويرايش ورودی|
+|Modify existing password entry.| |.اصلاح ورودی پسورد موجود|
 
 |Group name:|                  |: نام گروه|
 
@@ -132,7 +132,7 @@
 
 |Pick an Icon|                 |برگزيدن يک نشانه|
 |Choose an icon from the list of available entry and group icons.|
-    |نشانه اي را از ليست نشانه هاي وارده و گروه موجود انتخاب کنيد|
+    |نشانه اي را از ليست نشانه هاي ورودی و گروه موجود انتخاب کنيد|
 
 |&File|                        |پرونده|
 |&Edit|                        |ويرايش|
@@ -165,14 +165,14 @@
 |Open &URL(s)|                 |باز کردن آدرس(هاي) اينترنتي|
 |&Find in Database...|         |...جستجو در پايگاه داده|
 |Find in t&his Group...|       |...جستجو در اين گروه|
-|&Add Entry...|                |...افزودن وارده|
-|&Edit/View Entry...|          |...ويرايش/نمايش وارده|
-|&Delete Entry|                |حذف وارده|
-|Dupli&cate Entry|             |ايجاد کپي وارده|
-|Move Entry to &Top|           |انتقال وارده به بالاترين|
-|Move Entry &One Up|           |انتقال وارده يکي به بالا|
-|Mo&ve Entry One Down|         |انتقال وارده يکي به پايين|
-|Move Entry to &Bottom|        |انتقال وارده به پاين ترين|
+|&Add Entry...|                |...افزودن ورودی|
+|&Edit/View Entry...|          |...ويرايش/نمايش ورودی|
+|&Delete Entry|                |حذف ورودی|
+|Dupli&cate Entry|             |ايجاد کپي ورودی|
+|Move Entry to &Top|           |انتقال ورودی به بالاترين|
+|Move Entry &One Up|           |انتقال ورودی يکي به بالا|
+|Mo&ve Entry One Down|         |انتقال ورودی يکي به پايين|
+|Move Entry to &Bottom|        |انتقال ورودی به پاين ترين|
 
 |Move Group to &Top|           |انتقال گروه به بالا ترين|
 |Move Group One &Up|           |انتقال گروه يکي به بالا|
@@ -274,12 +274,10 @@
 |Here you can configure KeePass.|              |در اینجا می توانید برنامه را پیکر بندی کنید|
 |Automatically open last used database on startup|
     |.گشایش خودکارآخرین پایگاه داده استفاده شده در زمان راه اندازی برنامه|
-|Automatically save database on exit and workspace locking|
-    |ذخیره خودکارپایگاه داده بهنگام خروج و قفل کردن فضای کاری|
 |Display images on buttons|
     |نمایش تصاویر روی دکمه ها|
 |Show grid lines in password entry list|
-    |نمایش خطوط شبکه ای در لیست وارده پسورد|
+    |نمایش خطوط شبکه ای در لیست ورودی پسورد|
 |Workspace cannot be unlocked!|
     |!فضای کاری قابل بازگشایی نیست|
 |Workspace locked|
@@ -373,12 +371,12 @@
 |Overwrite?|                   |جایگزینی؟|
 |Expires:|                     |:منقضی شدن|
 |Change group:|                |:تغییر گروه|
-|Change entry icon:|           |:تغییر نشانه وارده|
+|Change entry icon:|           |:تغییر نشانه ورودی|
 |Change expiration time:|      |:تغییر زمان انقضا|
 |Mass Modify|                  |اصلاح جمعی|
-|Change fields of all selected entries|        |تغییر فیلدهای وارده های انتخاب شده|
+|Change fields of all selected entries|        |تغییر فیلد ورودی های انتخاب شده|
 |Show &Columns|                |نمایش ستون ها|
-|Show &Entry View|             |نمایش نمای وارده |
+|Show &Entry View|             |نمایش نمای ورودی |
 
 |Automatically resize table columns when resizing the main window|
     |تغیر اندازه خودکار جدول ستون ها بهنگام تغییر اندازه پنجره اصلی|
@@ -393,7 +391,7 @@
 |TAN Wizard|                   |TANجادوگر |
 
 |Using this wizard you can easily add TAN entries.|
-    |.را اضافه کنید TANبا استفاده از این جادوگرمی توانید به آسانی مقادیر|
+    |.را اضافه کنید TAN با استفاده از این جادوگر می توانید به آسانی ورودی های|
 
 |Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
     |.اضافه شده اند TANهستند به عنوان مقادیر  TAN نیستند به عنوان جدا کننده عمل می کنند وتنها زیررشته هایی که شامل حروف TAN های خود را درون جعبه ویرایش زیر درج کنید.تمام حروفی که آشکارا TAN|
@@ -433,10 +431,10 @@
 |Open file and set as attachment...|      |...گشایش پرونده و انتخاب به عنوان ضمیمه|
 |Save attached file to disk...|           |...ذخیره پرونده ضمیمه شده روی دیسک|
 
-|There already is a file attached with this entry.|           |.قبلا" پرونده ای به این وارده ضمیمه شده است|
+|There already is a file attached with this entry.|           |.قبلا" پرونده ای به این ورودی ضمیمه شده است|
 |Do you want to overwrite the current attachment?|            |آیا می خواهید ضمیمه کنونی را جایگزین کنید؟|
 |&Save Attached File To...|    |...ذخیره پرونده ضمیمه شده به|
-|There is no file attached with this entry.|                  |.هیچ پرونده ای به این وارده ضمیمه نشده است|
+|There is no file attached with this entry.|                  |.هیچ پرونده ای به این ورودی ضمیمه نشده است|
 |Remove the currently attached file|      |حذف پرونده ضمیمه شده کنونی|
 
 |Close button [X] minimizes the main window instead of terminating the application|
@@ -471,10 +469,10 @@
     |.برای اجرای این عملیات می بایست عملیات های خطر ناک را از گفتگوی اختیارات فعال کنید|
 |You have changed an option that requires restarting KeePass to get active.|
     |.شما اختیاری را تغییر دادید که برای فعال شدنش راه اندازی مجدد برنامه را می طلبد |
-|Expired Entries|                         |وارده های منسوخ|
-|This is a list of all expired entries|   |این یک لیست همه وارده های منسوخ است|
-|Show All &Expired Entries|               |نمایش تمام وارده های منسوخ|
-|Click on an entry to jump to it.|        |.برای پرش روی یک وارده روی آن کلیک کنید|
+|Expired Entries|                         |ورودی های منسوخ|
+|This is a list of all expired entries|   |این یک لیست همه ورودی های منسوخ است|
+|Show All &Expired Entries|               |نمایش تمام ورودی های منسوخ|
+|Click on an entry to jump to it.|        |.برای پرش روی یک ورودی روی آن کلیک کنید|
 |Quality:|                                |:کیفیت|
 |Database Settings|                       |تنظیمات پایگاه داده|
 |Here you can configure the current database.| |.در اینجا می توانید پایگاه داده فعلی را پیکر بندی کنید|
@@ -488,21 +486,21 @@
 |Personal &Vault TXT File...|             |...طاق شخصی پرونده متنی|
 |Imported from Password Safe|             |Password Safe وارد شده از |
 |Remember last opened file|               |بیاد آوردن آخرین پرونده باز شده|
-|Total number of groups / entries|        | تعداد کامل گروه ها / وارده ها|
-|Total: %u groups / %u entries|           |کامل : %u گروه / %u وارده|
+|Total number of groups / entries|        | تعداد کامل گروه ها / ورودی ها|
+|Total: %u groups / %u entries|           |کامل : %u گروه / %u ورودی|
 |%u of %u selected|                       |%u از %u انتخاب شد|
-|Number of selected entries (number of entries in the list)| |(تعدادمقادیر یا وارده های انتخاب شده (تعداد وارده ها در لیست|
+|Number of selected entries (number of entries in the list)| |(تعداد ورودی های انتخاب شده (تعداد ورودی ها در لیست|
 |Status|                                  |وضعیت|
 |The database file has been modified!|    |!پرونده پایگاه داده اصلاح شد|
 |Most probably someone has changed the file while you were editing it.| |.احتمالا" وقتی داشتید پرونده را ویرایش می کردید کسی آن را تغییرداد|
 |Do you want to overwrite it?|            |آیا می خواهید آن را جایگزین کنید؟|
 |The group you selected cannot store entries. Please select a different group.|
-    |.وارده های گروهی که انتخاب کردید قابل ذخیره شدن نیست.لطفا"گروه دیگری را برگزینید|
+    |.ورودی های گروهی که انتخاب کردید قابل ذخیره شدن نیست.لطفا" گروه دیگری را برگزینید|
 |This will remove all selected entries unrecoverably!|
-    |!این عمل تمام وارده های انتخاب شده را به صورت غیر قابل بازگشت پاک خواهد کرد|
+    |!این عمل تمام ورودی های انتخاب شده را به صورت غیر قابل بازگشت پاک خواهد کرد|
 |Are you sure you want to delete all selected entries?|
-    |آیا مطمئنید می خواهید تمام وارده های انتخاب شده را پاک کنید؟|
-|Delete Entries Confirmation|             |تاییدیه حذف وارده ها|
+    |آیا مطمئنید می خواهید تمام ورودی های انتخاب شده را پاک کنید؟|
+|Delete Entries Confirmation|             |تاییدیه حذف ورودی ها|
 |Use PuTTY for ssh: and telnet: URLs|     |.برای آدرس های اینترنتی استفاده کنید telnetواز ssh برای PuTTYاز |
 |Mark database as modified on last-access time change|
     |علامت گذاری پایگاه داده به عنوان اصلاح شده درهنگام تغییر زمان آخرین دسترسی |
@@ -510,7 +508,7 @@
 |Auto-&Sort Password List|                |مرتب سازی خودکار لیست پسورد|
 |N&o Auto-Sort|                           |عدم مرتب سازی خودکار|
 |Auto-sorting of the password list is enabled, you cannot move entries manually.|
-    |.مرتب سازی خودکارلیست پسورد فعال شد ، نمی توانید وارده ها را دستی انتقال دهید |
+    |.مرتب سازی خودکار لیست پسورد فعال شد ، نمی توانید ورودی ها را دستی انتقال دهید |
 |Perform Auto-&Type|                      |اجرا ی تایپ خودکار|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
     |.مرتب سازی خودکارلیست پسورد فعال شد ،اکنون نمی توانید لیست را دستی مرتب کنید|
@@ -590,9 +588,9 @@
 |Start minimized and locked|              |شروع کوچک و قفل شده|
 |Immediately after opening a database|    |بلافصله بعد از گشایش یک پایگاه داده|
 |Show expired entries (if any)|
-    |(گشایش وارده های منسوخ (در صورت وجود|
+    |(گشایش ورودی های منسوخ (در صورت وجود|
 |Show entries that will expire soon (if any)|
-    |(نمایش وارده هایی که بزودی منسوخ می شوند(در صورت وجود|
+    |(نمایش ورودی هایی که بزودی منسوخ می شوند(در صورت وجود|
 |Integration|                             |پیوست|
 |Start KeePass at Windows startup (for current user)|
     |(شروع برنامه بهنگام شروع ویندوز (برای کاربر کنونی|
@@ -600,8 +598,8 @@
     |ناتوان در ساخت / حذف کلید شروع شونده خودکار برنامه در رجیسترسی ویندوز|
 |Backup|                                  |پشتیبان|
 |Save backups of modified entries into the 'Backup' group|
-    |ذخیره پشتیبان های وارده های اصلاح شده به گروه پشتیبان|
-|Failed to create backup of this entry!|  |!نا موفق در ساخت پشتیبان برای این وارده|
+    |ذخیره پشتیبان های ورودی های اصلاح شده به گروه پشتیبان|
+|Failed to create backup of this entry!|  |! نا موفق در ساخت پشتیبان برای این ورودی|
 |The composite master key has been changed!|
     |!شاه کلید مرکب تویض شد|
 |Save the database now in order to get the new key applied.|
@@ -616,7 +614,7 @@
 |Here you can customize the printed sheet.| |.در اینجا می توانید صفحه پاپ شده را مرتب کنید|
 |Encode/replace newline characters by '\n'| |'\n' کدگذاری / جایگزینی حروف خط جدید با |
 |Export backup entries (entries in the 'Backup' group)|
-    |(صادرکردن پشتیبان های وارده ها (وارده ها در گروه پشتیبان|
+    |(صادرکردن پشتیبان های ورودی ها (ورودی ها در گروه پشتیبان|
 |Print backup entries (entries in the 'Backup' group)|
     |(چاپ پشتیبان های وارده ها (وارده ها در گروه پشتیبان|
 |&Get More Import Plugins...|             |...دستیابی به پلاگین های صدور بیشتر|
@@ -631,8 +629,8 @@
     |تک کلیک چپ به جای دبیل کلیک برای عمل پیشفرض نشانه تری|
 |Exclude entries in the '&Backup' group|  |مستثنی ساختن وارده ها در گروه پشتیبان|
 |By default, new entries expire in the following number of days:|
-    |:به طور پیش فرض ، وارده ها در طول تعداد روز های زیر منسوخ می شوند |
-|Click to expire the entry in %u days|    |روز کلیک کنید %u برای انقضای وارده در|
+    |:به طور پیش فرض ، ورودی ها در طول تعداد روز های زیر منسوخ می شوند |
+|Click to expire the entry in %u days|    |روز کلیک کنید %u برای انقضای ورودی در|
 |Calculate rounds for a 1-second delay on this computer|  |محاسبه دوره ها به مدت1-ثانیه روی این کامپیوتر |
 |The program is distributed under the terms of the GNU General Public License v2 or later.|
     |نسخه 2 به بعد توزیع شده است GNU برنامه تحت شرایط  |
@@ -642,22 +640,22 @@
 |3 Months|                                   |سه ماه|
 |6 Months|                                   |شش ماه|
 |1 Year|                                     |یک سال|
-|Include backup entries in quick searches (toolbar)|  |(قرار دادن وارده پشتیبان در جستجوی سریع (نوارابزار|
+|Include backup entries in quick searches (toolbar)|  |(قرار دادن ورودی پشتیبان در جستجوی سریع (نوارابزار|
 |&Donate...|                                 |...اهدا|
 |Use alternative auto-type method (minimize window)|    |(استفاده از روش تناوبی تایپ خودکار (پنجره کوچک|
-|Delete all backup entries before saving the database|  |حذف همه وارده های پشتیبان قبل از ذخیره پایگاه داده|
+|Delete all backup entries before saving the database|  |حذف همه ورودی های پشتیبان قبل از ذخیره پایگاه داده|
 |&Repair KeePass Database File...|           |...تعمیر پرونده پایگاه داده&|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
-    |قالبی که برای صدور برگزیدید گروه ها و/یا وارده های آیدی را پشتیبانی می کند.لطفا" رفتار صدور را برگزینید|
+    |قالبی که برای صدور برگزیدید گروه ها و/یا ورودی های آیدی را پشتیبانی می کند.لطفا" رفتار صدور را برگزینید|
 |Create new IDs|                             |ساخت آیدی جدید|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
-    |.اگر این اختیار را برگرگزینید برنامه آیدی جدیدی برای گروه ها و وارده ها ایجاد می کند.بنابراین هیچ گروه یا وارده ای از این پایگاه داده جایگزین یا اصلاح نمی شود|
+    |.اگر این اختیار را برگرگزینید برنامه آیدی جدیدی برای گروه ها و ورودی ها ایجاد می کند.بنابراین هیچ گروه یا وارده ای از این پایگاه داده جایگزین یا اصلاح نمی شود|
 |Overwrite|                                  |جایگزینی|
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
-    |.اگرگروه و وارده های موجوددارای یک آیدی باشند ، برنامه همه آن ها را تک تک جایگزین خواهد کرد|
+    |.اگر گروه و ورودی های موجوددارای یک آیدی باشند ، برنامه همه آن ها را تک تک جایگزین خواهد کرد|
 |Overwrite if newer|                         |جایگزینی در صورت تازگی|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
-    |.برنامه زمان آخرین اصلاح گروه ها و وارده ها را مقایسه می کند وآن هایی که جدید ترند را جایگزین می کند|
+    |.برنامه زمان آخرین اصلاح گروه ها و ورودی ها را مقایسه می کند وآن هایی که جدید ترند را جایگزین می کند|
 |&KeePass Database...|                       |...KeePass پایگاه داده |
 |Acknowledgements|                           |تصدیق|
 |Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
@@ -674,10 +672,10 @@
 |Copy &URL to Clipboard|                     |کپی آدرس اینترنتی به حافظه موقت|
 |Exit program instead of locking the workspace after the specified time|
     |خروج از برنامه بجای قفل فضای کاری بعد از زمان معین|
-|Click on an entry to auto-type it.|         |.برای تایپ خودکار وارده روی آن کلیک کنید|
-|Auto-Type Entry Selection|                  |انتخاب تایپ خودکار وارده|
+|Click on an entry to auto-type it.|         |.برای تایپ خودکار ورودی روی آن کلیک کنید|
+|Auto-Type Entry Selection|                  |انتخاب تایپ خودکار ورودی|
 |Multiple entries exist for the current window. Please select the entry to auto-type.|
-    |.وارده های چند گانه برای این پنجره وجود دارد.لطفا" وارده را برای تایپ خودکار انتخاب کنید|
+    |.وارده های چند گانه برای این پنجره وجود دارد.لطفا" ورودی را برای تایپ خودکار انتخاب کنید|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
     |.پرونده ای که تلاش می کنید بگشایید قفل است.ممکن است کسی دیگرپرونده را گشوده و ویرایشش کرده باشد|
 |Open the file in read-only mode?|                    |گشایش پرونده در حالت فقط خواندنی؟|
@@ -687,7 +685,7 @@
 |&Tools| |اب&زار|
 |TAN View &Options|                            |TAN اختیارات نمایش|
 |Use &Simple List View for TAN-Only Groups|    |TAN استفاده از نمایش لیست ساده تنها برای گروه های|
-|Show TAN &Indices in Entry Titles|            |در عناوین وارده TAN نمایش نشان |
+|Show TAN &Indices in Entry Titles|            |در عناوین ورودی TAN نمایش نشان |
 |Disable 'Save' button if the database hasn't been modified|
     |غیرفعال کردن دکمه "ذخیره" اگرپایگاه داده اصلاح نشده است|
 |Check For Update|                             |بررسی برای بروزرسانی|
@@ -715,7 +713,7 @@
 |Value|                                        |ارزش|
 |Select the fields KeePass should remember|    |فیلدهایی را که برنامه باید بیاد آورد را انتخاب کنید|
 |Fields to remember|                           |فیلد ها برای یادآوری|
-|An entry already exists for the current URL.| |.یک وارده هم اکنون برای آدرس اینترنتی فعلی وجود دارد|
+|An entry already exists for the current URL.| |.یک ورودی هم اکنون برای آدرس اینترنتی فعلی وجود دارد|
 |The following application requests access to your currently opened KeePass database:|
     |:برنامه زیر سعی دارد به پایگاه داده باز کنونی دسترسی پیدا کند|
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
@@ -741,7 +739,7 @@
 |Save current settings as a profile.|            |.ذخیره تنظیمات کنونی بعنوان پروفایل|
 |Delete currently selected profile.|             |.حذف پروفایل کنونی انتخاب شده|
 |(Automatically generated passwords for new entries)|
-    |(تولید خودکار پسورد برای وارده های جدید)|
+    |(تولید خودکار پسورد برای ورودی های جدید)|
 |Profile|                                      |پروفایل|
 |Length of generated password:|                |:طول پسورد تولید شده|
 |Generate using character set:|                |:تولید با استفاده از گروهی از حروف|
@@ -763,7 +761,7 @@
 |&Export Group To|                             |صدور گروه  ها به|
 |in "Minimal functionality" mode|              |"درحالت " عاملیت حداقل|
 |Regular expression|                           |مبین منظم|
-|Default user name for new entries:|           |: کاربر پیش فرض برای وارده های جدید|
+|Default user name for new entries:|           |: کاربر پیش فرض برای ورودی های جدید|
 |Advanced Password Generator Options|          |اختیارات مولد پسورد پیشرفته|
 |Exclude the following characters:|            |:بجز حروف زیر|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
@@ -791,9 +789,9 @@
 |Overwrite existing key file?|                 |جایگزینی پرونده کلید موجود؟|
 |Save|                                         |ذخیره|
 |Discard changes|                              |تغییرات دوراندازی|
-|Save database changes before closing the file?| |ذخیره تغییرات پایگاه داده قبل از بستن پرونده؟|
-|Save database changes before exiting KeePass?|  |ذخیره تغییرات پایگاه داده قبل ازخروج از برنامه؟|
-|Save database changes before locking the workspace?| |ذخیره تغییرات پایگاه داده قبل ازقفل فضای کاری؟| 
+|Save database changes before closing the file?| |ذخیره تغییرات پایگاه داده قبل از بستن پرونده ؟|
+|Save database changes before exiting KeePass?|  |ذخیره تغییرات پایگاه داده قبل ازخروج از برنامه ؟|
+|Save database changes before locking the workspace?| |ذخیره تغییرات پایگاه داده قبل ازقفل فضای کاری ؟| 
 |Save all changes made to the database and close the file.|
     |.ذخیره همه تغییرات ایجاد شده در پایگاه داده و بستن پرونده|
 |Save all changes made to the database and exit KeePass.|
@@ -820,7 +818,7 @@
     |!بیت باشد %u برآورد کیفیت پسورد اصلی باید حد اقل |
 |Copy [of an item]|    | [کپی [از یک آیتم|
 |Focus entry list after a successful quick search (toolbar)|
-    |(تمرکز روی لیست وارده  پس از یک جستجوی سریع موفقیت آمیز(نوار ابزار|
+    |(تمرکز روی لیست ورودی پس از یک جستجوی سریع موفقیت آمیز (نوار ابزار|
 |Always grant full access through remote control (not recommended)|
     |(همیشه اجازه دسترسی کامل را به کنترل از راه دور بده (توصیه نمی شود|
 |URL Field: Select Application...|  |URL-Feld: ...انتخاب برنامه|
@@ -829,48 +827,43 @@
 |Auto-Type: Help|                   |Auto-Type: راهنما|
 |Auto-Type: Select Target Window...||Auto-Type: ...انتخاب پنجره مقصد|
 |Select the target window for the current entry.|
-    |.پنجره مقصد را برای وارده کنونی انتخاب کنید|
+    |.پنجره مقصد را برای ورودی کنونی انتخاب کنید|
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
     |:برای بررسی پنجره مقصد ، یا یک پنجره باز موجود از لیست کشویی انتخاب کنید ، یا به صورت دستی عنوان پنجره را وارد کنید |
-
-
-|&Modify All Selected...| |...اصلاح همه انتخابی ها|
-|Auto-Type: Customize Sequence| |تایپ خودکار : ترتیب دلخواه|
-|Clear clipboard when closing/locking the database||بهنگام بستن/قفل پایگاه داده حافظه موقت را پاک کن|
-|Default auto-type sequence for standard entries:| |ترتیب تایپ خودکار پیش فرض برای وارده های استاندارد|
-|Drop to background when copying data to the clipboard| |وقتی داده ای به حافظه موقت کپی شد آن را به زمینه بسپار |
-|Enable auto-type features||فعال کردن خصوصیات تایپ خودکار|
-|Exclude &expired entries||در نظر نگرفتن وارده های منسوخ|
-|Field to reference||فیلد مرجع|
-|Here you can configure auto-type.| |.دراینجا می توانید تایپ خودکار را پیکربندی کنید|
-|Identify source entry by| |تعیین وارده منبع با|
+|&Modify All Selected...|   |... اصلاح همه انتخاب شده ها|
+|Auto-Type: Customize Sequence| |تایپ خودکار: ترتیب دلخواه|
+|Automatically save when closing/locking the database| |ذخیره کردن خودکار بهنگام بستن / قفل کردن پایگاه داده|
+|Clear clipboard when closing/locking the database|  |پاکسازی حافظه کلیپبرد بهنگام بستن / قفل کردن پایگاه داده|
+|Default auto-type sequence for standard entries:|   |ترتیب پیش فرض تایپ خودکار برای ورودی های استاندارد|
+|Drop to background when copying data to the clipboard|  |وقتی اطلاعات به کلیپبرد کپی می شود به زمینه محول کن|
+|Enable auto-type features|  |فعال کردن خصوصیات تایپ خودکار|
+|Exclude &expired entries|   |بجز ورودی های منسوخ|
+|Field to reference| |فیلد برای ارجاع| 
+|Here you can configure auto-type.| |در اینجا می توانید تیپ خودکار را پیکربندی کنید|
+|Identify source entry by| |تشخیص ورودی منبع با |
 |In Notes Field| |در فیلد نکات|
 |In Password Field| |در فیلد پسورد|
-|In Title Field||در فیلد عنوان|
-|In URL Field| |در فیلد آدرس اینترنتی|
-|In User Name Field||در فیلد نام کاربری|
-|Include expired entries in quick searches (toolbar)|
-|در نظر گرفتن وارده های منسوخ در جستجوهای سریع|
-|Insert Field Reference||قراردادن فیلد مرجع|
-|Multiple entries match the specified identifying field.|   |.وارده های چندگانه همسان با فیلد تشخیص دهنده ی تعیین شده|
-|Normal| |معمولی|
+|In Title Field| |در فیلد عنوان|
+|In URL Field|  |در فیلد آدرس اینترنتی|
+|In User Name Field|  |در فیلد نام کاربری|
+|Include expired entries in quick searches (toolbar)| |( شامل ورودی های منسوخ در جستجوهای سریع ( نوار ابزار|
+|Insert Field Reference|  |قرار دادن ارجاع دهنده فیلد|
+|Multiple entries match the specified identifying field.|  |همسان سازی ورودی های چندگانه با فیلد تشخیص دهنده تعیین شده|
+|Normal| |نرمال|
 |Open the file in read-only mode. Changes to the database can be saved to a different file.|
-|.گشایش فایل در حالت فقط خواندی.تغییرات پایگاه داده می تواند در پرونده دیگری ذخیره شود|
-|Prepend special initialization sequence for Internet Explorer windows| 
-|اضافه کردن بخش نصب ویژه برای پنجره مرورگر اینترنت |
-|Read-only||فقط خواندنی|
-|Sort items in the auto-type entry selection dialog||مرتب کردن آیتم ها در دیالوگ انتخابی وارده تایپ خودکار |
-|Source field to reference| |فیلد منبع برای رجوع |
-|Take ownership of the file and open it in normal writing mode.||گرفتن مالکیت پرونده و گشایش آن در حالت نوشتن معمولی |
+|گشایش فایل در حالت فقط خواندنی.تغییرات پایگاه داده می تواند در فایل دیگری ذخیره شود|
+|Prepend special initialization sequence for Internet Explorer windows|
+|اضافه کردن ترتیب ارزش دهی ویژه برای اینترنت اکسپلور ویندوز|
+|Read-only| |فقط خواندنی|
+|Sort items in the auto-type entry selection dialog| |مرتب سازی آیتم ها در پنجره انتخاب ورودی تایپ خودکار|
+|Source field to reference| |فیلد منبع برای ارجاع|
+|Take ownership of the file and open it in normal writing mode.|
+|حق مالکیت پرونده را بگیرید و آن را در حالت نوشتنی معمولی باز کنید|
 |The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
-|.(...فیلد انتخاب شده ، که وارده ی منبع را مشخص می کند ، شامل حروف غیر مجاز است (مثل "{" و "}"و|
+|( ... فیلد انتخاب شده ، که ورودی منبع را تعیین می کند ، شامل کاراکتر های غیر مجاز است (مانند "{،}" وکاراکتر های خط جدید و|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
-|پرونده مقصد صدمه دیده باشد.لطفا"مجددا"دوباره ذخیره کنید و اگر ناموفق بود ، پایگاه داده را در جای دیگری ذخیره کنید |
+|فایل مقصد ممکن استدر وضعیت صدمه دیده ای باشد. لطفا" دوباره تلاش کنید.و اگر ناموفق بود ، پایگاه داده را در مسیر دیگری ذخیره کنید|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
-|هایشان مشخص شوند ، که منحصربفردند UUID برای دوری از ابهام ، وارده ها می توانند با |
+|هایشان که متفاوتند تشخیص داده شوند UUID برای دوری از ابهام ، ورودی ها می توانند با|
 |You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
-|'Tools' - 'Options' - 'Advanced' - 'Auto-Type' می توانید کلید ترکیبی دیگری را برگزینید |
-
-
-
-
+|.برگزینید 'Tools' - 'Options' - 'Advanced' - 'Auto-Type' می توانید کلید ترکیبی دیگری را در |
