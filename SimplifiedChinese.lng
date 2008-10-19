@@ -1,7 +1,7 @@
-﻿2008-09-09 01:13|~LANGUAGENAME|
+﻿2008-10-19 01:14|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.13|
+|1.14|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
@@ -384,8 +384,8 @@
 |你可以在这里设置 KeePass。|
 |Automatically open last used database on startup|
 |启动时自动打开上次使用的数据库|
-|Automatically save database on exit and workspace locking|
-|退出和锁定时自动保存数据库|
+|Automatically save when closing/locking the database|
+|退出和锁定数据库时自动保存|
 |Display images on buttons|
 |显示按钮图标|
 |Show grid lines in password entry list|
