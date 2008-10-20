@@ -1,0 +1,639 @@
+﻿|~LANGUAGENAME||Punjabi, Indian (ਪੰਜਾਬੀ, ਭਾਰਤੀ)|
+|~LANGUAGEVERSION||1.14|
+|~LANGUAGEAUTHOR||Gurmeet Singh Kochar (ਗੁਰਮੀਤ ਸਿੰਘ ਕੋਚਰ)|
+|~LANGUAGEAUTHOREMAIL||gomikochar@yahoo.com|
+|&OK||ਠੀਕ ਹੈ (&O)|
+|&Cancel||ਰੱਦ ਕਰੋ (&C)|
+|&Close||ਬੰਦ ਕਰੋ (&C)|
+|&Generate Random Password||ਰਲਵਾਂ ਪਾਸਵਰਡ ਬਣਾਓ (&G)|
+|Choose an icon.||ਆਈਕਾਨ ਚੁਣੋ।|
+|General||ਸਧਾਰਨ|
+|Windows||ਵਿੰਡੋਜ਼|
+|Network||ਨੈੱਟਵਰਕ|
+|Internet||ਇੰਟਰਨੈੱਟ|
+|eMail||ਈ-ਮੇਲ|
+|Homebanking||ਹੋਮ-ਬੈਂਕਿੰਗ|
+|Entry||ਇੰਦਰਾਜ਼|
+|&Title||ਸ਼ੀਰਸ਼ਕ (&T)|
+|User &Name||ਯੂਜ਼ਰ ਨਾਂ (&N)|
+|&URL||ਲਿੰਕ (&U)|
+|&Password||ਪਾਸਵਰਡ (&P)|
+|N&otes||ਟਿੱਪਣੀਆਂ (&o)|
+|&Case sensitive||ਕੇਸ ਸੈਂਸਟਿਵ (&C)|
+|Search in||ਇਨ੍ਹਾਂ ਵਿੱਚ ਖੋਜ ਕਰੋ|
+|Find what:||ਲੱਭੋ:|
+|Find||ਖੋਜ ਕਰੋ|
+|&Find||ਲੱਭੋ (&F)|
+|Find a string in the password list.||ਪਾਸਵਰਡ ਸੂਚੀ ਵਿੱਚ ਸਤਰ ਦੀ ਖੋਜ ਕਰੋ।|
+|About KeePass...||ਕੀਪਾਸ ਬਾਰੇ...|
+|Password Groups||ਪਾਸਵਰਡ ਸਮੂਹ|
+|Title||ਸ਼ੀਰਸ਼ਕ|
+|User Name||ਯੂਜ਼ਰ ਨਾਂ|
+|User &name||ਯੂਜ਼ਰ ਨਾਂ (&n)|
+|URL||ਲਿੰਕ|
+|Password||ਪਾਸਵਰਡ|
+|Notes||ਟਿੱਪਣੀਆਂ|
+|Ready.||ਤਿਆਰ ਹੈ।|
+|Enter Password:||ਪਾਸਵਰਡ ਭਰੋ:|
+|Master Password:||ਮਾਸਟਰ ਪਾਸਵਰਡ:|
+|Create New Password Database||ਨਵਾਂ ਪਾਸਵਰਡ ਡਾਟਾਬੇਸ ਤਿਆਰ ਕਰੋ|
+|Set Composite Master Key||ਸਾਂਝੀ ਮਾਸਟਰ ਕੂੰਜੀ ਸਥਾਪਨਾ|
+|Specify the composite master key.||ਸਾਂਝੀ ਮਾਸਟਰ ਕੂੰਜੀ ਨਿਰਧਾਰਿਤ ਕਰੋ।|
+|Repeat Master Password||ਮਾਸਟਰ ਪਾਸਵਰਡ ਦੁਬਾਰਾ ਭਰੋ|
+|Repeat the master password for the new database.||ਨਵੇਂ ਡਾਟਾਬੇਸ ਲਈ ਮਾਸਟਰ ਪਾਸਵਰਡ ਦੁਬਾਰਾ ਭਰੋ।|
+|Open Database||ਡਾਟਾਬੇਸ ਖੋਲੋ|
+|Enter Composite Master Key||ਸਾਂਝੀ ਮਾਸਟਰ ਕੂੰਜੀ ਭਰੋ|
+|Enter the composite master key.||ਸਾਂਝੀ ਮਾਸਟਰ ਕੂੰਜੀ ਭਰੋ।|
+|(No key file selected)||(ਕੋਈ ਵੀ ਕੂੰਜੀ-ਫਾਇਲ ਨਹੀਂ ਚੁਣੀ ਹੈ)|
+|Password Generator||ਪਾਸਵਰਡ ਜਨਰੇਟਰ|
+|Here you can generate a random password.||ਇੱਥੇ ਤੁਸੀਂ ਰਲਵਾਂ ਪਾਸਵਰਡ ਬਣਾ ਸੱਕਦੇ ਹੋ।|
+|Options||ਚੋਣਾਂ|
+|Current settings||ਮੌਜੂਦਾ ਸਥਾਪਨ|
+|Generated password||ਬਣਾਇਆ ਗਿਆ ਪਾਸਵਰਡ|
+|&Generate||ਬਣਾਓ (&G)|
+|&Accept||ਮੰਜੂਰ ਕਰੋ (&A)|
+|Upper-case (A, B, C, ...)||ਵੱਡੇ ਅੱਖਰ (A, B, C, ...)|
+|Lower-case (a, b, c, ...)||ਛੋਟੇ ਅੱਖਰ (a, b, c, ...)|
+|Digits (0, 1, 2, ...)||ਅੰਕ (1, 2, 3, ...)|
+|Underline (_)||ਅੰਡਰਸਕੋਰ (_)|
+|Minus (-)||ਮਾਈਨਸ ਚਿੰਨ੍ਹ (-)|
+|Space ( )||ਸਪੇਸ ( )|
+|Special||ਖਾਸ ਅੱਖਰ|
+|High ANSI characters||ਉਚ ANSI-ਅੱਖਰ|
+|Brackets ([, ], {, }, (, ), <, >)||ਬਰੈਕਟਾਂ ([, ], {, }, (, ), <, >)|
+|Group:||ਸਮੂਹ:|
+|Title:||ਸ਼ੀਰਸ਼ਕ:|
+|User name:||ਯੂਜ਼ਰ ਨਾਂ:|
+|URL:||ਲਿੰਕ:|
+|Icon:||ਆਈਕਾਨ:|
+|Password:||ਪਾਸਵਰਡ:|
+|Repeat:||ਮੁੜ ਭਰੋ:|
+|Notes:||ਟਿੱਪਣੀਆਂ:|
+|***||***|
+|Add Entry||ਇੰਦਰਾਜ਼ ਸ਼ਾਮਲ ਕਰੋ|
+|Create a new password entry.||ਨਵਾਂ ਪਾਸਵਰਡ ਇੰਦਰਾਜ਼ ਤਿਆਰ ਕਰੋ।|
+|Edit Entry||ਇੰਦਰਾਜ਼ ਸੋਧ ਕਰੋ|
+|Modify existing password entry.||ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਇੰਦਰਾਜ਼ ਸੋਧ ਕਰੋ।|
+|Group name:||ਸਮੂਹ ਨਾਂ:|
+|Add Group||ਸਮੂਹ ਸ਼ਾਮਲ ਕਰੋ|
+|Create a new password group.||ਨਵਾਂ ਪਾਸਵਰਡ ਸਮੂਹ ਤਿਆਰ ਕਰੋ।|
+|Edit Group||ਸਮੂਹ ਸੋਧ ਕਰੋ|
+|Modify existing password group.||ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਸਮੂਹ ਸੋਧ ਕਰੋ।|
+|Random mouse input||ਰਲਵਾਂ ਮਾਊਸ ਇੰਪੁੱਟ|
+|Click to begin:||ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਦਬਾਓ:|
+|Use &Mouse as Random Source||ਮਾਊਸ ਰਲਵੇਂ ਸਰੋਤ ਦੀ ਤਰ੍ਹਾਂ ਵਰਤੋ (&M)|
+|Move the mouse in the field above until this is full:||ਮਾਊਸ ਨੂੰ ਉੱਤੇ ਦਿੱਤੇ ਖੇਤਰ ਵਿੱਚ ਹਿਲਾਓ ਜਦੋਂ ਤੱਕ ਇਹ ਭਰ ਨਹੀਂ ਜਾਂਦਾ:|
+|Hint: It is best to use both mouse and keyboard random sources.||ਸੰਕੇਤ: ਮਾਊਸ ਅਤੇ ਕੀਬੋਰਡ ਦੋਵਾਂ ਨੂੰ ਰਲਵੇਂ ਸਰੋਤ ਦੀ ਤਰ੍ਹਾਂ ਵਰਤਣਾ ਸਭ ਤੋਂ ਵਧੀਆ ਹੈ।|
+|Random keyboard input||ਰਲਵਾਂ ਕੀਬੋਰਡ ਇੰਪੁੱਟ|
+|Just hack some random keys into the edit box above.||ਉੱਪਰ ਦਿੱਤੇ ਸੋਧ ਬਕਸੇ ਵਿੱਚ ਕੁੱਝ ਰਲਵੇਂ ਅੱਖਰ ਭਰੋ।|
+|You don't have to remember the keys you type in. They are used to generate a random value.||ਭਰੇ ਅੱਖਰਾਂ ਨੂੰ ਤੁਹਾਨੂੰ ਯਾਦ ਰੱਖਣ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ। ਇਹ ਸਿਰਫ਼ ਰਲਵਾਂ ਮੁੱਲ ਤਿਆਰ ਕਰਨ ਲਈ ਵਰਤੇ ਜਾਣਗੇ।|
+|So, the more the better. The different, the better.||ਤਾਂ, ਜਿੱਨੇ ਜ਼ਿਆਦਾ ਉਨ੍ਹਾਂ ਚੰਗਾ। ਜਿੱਨੇ ਵੱਖਰੇ ਉਨ੍ਹਾਂ ਚੰਗਾ।|
+|The random the better.||ਜਿੱਨੇ ਰੱਲਵੇਂ ਉਨ੍ਹਾਂ ਚੰਗਾ।|
+|Get Random||ਰਲਵਾਂ ਇੰਪੁੱਟ|
+|Get Random Data for Key Generation||ਕੂੰਜੀ ਬਨਾਉਣ ਲਈ ਰਲਵਾਂ ਡਾਟਾ ਇਕੱਠਾ ਕਰੋ|
+|Move the mouse and type some random text to generate random values.||ਕੂੰਜੀ ਤਿਆਰ ਕਰਨ ਲਈ ਮਾਊਸ ਨੂੰ ਹਿਲਾਓ ਅਤੇ ਕੀਬੋਰਡ ਨਾਲ ਰਲਵੇਂ ਸ਼ਬਦ ਲਿੱਖੋ।|
+|Pick an Icon||ਆਈਕਾਨ ਚੁਣੋ|
+|Choose an icon from the list of available entry and group icons.||ਉਪਲੱਬਧ ਇੰਦਰਾਜ਼ ਅਤੇ ਸਮੂਹ ਆਈਕਾਨਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਇੱਕ ਆਇਕਾਨ ਦਾ ਚੁਣਾਓ ਕਰੋ।|
+|&File||ਫਾਇਲ (&F)|
+|&Edit||ਸੋਧ (&E)|
+|&View||ਦ੍ਰਿਸ਼(&V)|
+|E&xtras||ਹੋਰ (&x)|
+|&?||&?|
+|&New...||ਨਵੀਂ (&N)...|
+|&Open...||ਖੋਲੋ (&O)...|
+|&Close||ਬੰਦ ਕਰੋ (&C)|
+|&Save||ਸੰਭਾਲੋ (&S)|
+|Save &As...||ਇਸਤਰ੍ਹਾਂ ਸੰਭਾਲੋ (&A)...|
+|Change &Master Key...||ਮਾਸਟਰ-ਕੂੰਜੀ ਬਦਲੋ(&M)...|
+|&Print...||ਪ੍ਰਿੰਟ ਕਰੋ (&P)...|
+|&Export To||ਨਿਰਯਾਤ ਕਰੋ (&E)|
+|&Lock Workspace||ਵਰਕਸਪੇਸ ਨੂੰ ਤਾਲਾ ਲਗਾਓ (&)|
+|&Unlock Workspace||ਵਰਕਸਪੇਸ ਦਾ ਤਾਲਾ ਖੋਲੋ (&U)|
+|E&xit||ਬਾਹਰ ਨਿਕਲੋ (&x)|
+|&Lock/Unlock Workspace||ਵਰਕਸਪੇਸ ਨੂੰ ਤਾਲਾ ਲਗਾਓ/ਖੋਲੋ (&L)|
+|&Options...||ਚੋਣਾਂ (&O)...|
+|Add Password &Group...||ਪਾਸਵਰਡ ਸਮੂਹ ਸ਼ਾਮਲ ਕਰੋ (&G)...|
+|Add Password Su&bgroup...||ਪਾਸਵਰਡ ਉਪ-ਸਮੂਹ ਸ਼ਾਮਲ ਕਰੋ (&b)...|
+|Modif&y Password Group...||ਪਾਸਵਰਡ ਸਮੂਹ ਸੋਧ ਕਰੋ (&y)...|
+|&Delete Password Group...||ਪਾਸਵਰਡ ਸਮੂਹ ਹਟਾਓ (&D)...|
+|Pr&int Group...||ਸਮੂਹ ਛਾਪੋ (&i)...|
+|Copy User &Name to Clipboard||ਯੂਜ਼ਰ ਨਾਂ ਦੀ ਕਲਿੱਪਬੋਰਡ ਤੇ ਨਕਲ ਕਰੋ (&N)|
+|Copy &Password to Clipboard||ਪਾਸਵਰਡ ਦੀ ਕਲਿੱਪਬੋਰਡ ਤੇ ਨਕਲ ਕਰੋ (&P)|
+|Open &URL(s)||ਲਿੰਕ ਖੋਲੋ (&U)|
+|&Find in Database...||ਡਾਟਾਬੇਸ ਵਿੱਚ ਖੋਜ ਕਰੋ (&F)...|
+|Find in t&his Group...||ਇਸ ਸਮੂਹ ਵਿੱਚ ਖੋਜ ਕਰੋ (&h)...|
+|&Add Entry...||ਇੰਦਰਾਜ਼ ਸ਼ਾਮਲ ਕਰੋ (&A)...|
+|&Edit/View Entry...||ਇੰਦਰਾਜ਼ ਵੇਖੋ/ਸੋਧ ਕਰੋ (&E)...|
+|&Delete Entry||ਇੰਦਰਾਜ਼ ਹਟਾਓ (&D)|
+|Dupli&cate Entry||ਇੰਦਰਾਜ਼ ੳਤਾਰਾ ਕਰੋ (&c)|
+|Move Entry to &Top||ਇੰਦਰਾਜ਼ ਸਿਖਰ ਤੇ ਲਿਆਓ (&T)|
+|Move Entry &One Up||ਇੰਦਰਾਜ਼ ਇੱਕ ਉੱਪਰ ਲਿਆਓ(&O)|
+|Mo&ve Entry One Down||ਇੰਦਰਾਜ਼ ਇੱਕ ਹੇਠਾਂ ਲਿਆਓ (&v)|
+|Move Entry to &Bottom||ਇੰਦਰਾਜ਼ ਸਭ ਤੋਂ ਹੇਠਾਂ ਲਿਆਓ (&B)|
+|Move Group to &Top||ਸਮੂਹ ਸਿਖਰ ਤੇ ਲਿਆਓ(&T)|
+|Move Group One &Up||ਸਮੂਹ ਇੱਕ ਉੱਪਰ ਲਿਆਓ (&U)|
+|Move Group &One Down||ਸਮੂਹ ਇੱਕ ਹੇਠਾਂ ਲਿਆਓ (&O)|
+|Move Group to &Bottom||ਸਮੂਹ ਸਭ ਤੋਂ ਹੇਠਾਂ ਲਿਆਓ(&B)|
+|Change &Language...||ਭਾਸ਼ਾ ਬਦਲੋ (&L)...|
+|&Always on Top||ਹਮੇਸ਼ਾ ਸਿਖਰ ਤੇ(&A)|
+|Hide &Passwords Behind Asterisks (***)||ਪਾਸਵਰਡ ਐਸਟ੍ਰਿਸਕ(***) ਚਿੰਨ੍ਹ ਪਿੱਛੇ ਛੁਪਾਓ (&P)|
+|Hide passwords behind asterisks (***).||ਪਾਸਵਰਡ ਐਸਟ੍ਰਿਸਕ (***) ਚਿੰਨ੍ਹ ਪਿੱਛੇ ਛੁਪਾਓ।|
+|Password &Generator...||ਪਾਸਵਰਡ ਜਨਰੇਟਰ (&G)...|
+|Visit &KeePass Homepage||ਕੀਪਾਸ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ (&K)|
+|&About KeePass...||ਕੀਪਾਸ ਬਾਰੇ (&A)...|
+|&Database Settings...||ਡਾਟਾਬੇਸ ਸੈਟਿੰਗ (&D)...|
+|&Tray/Untray||ਟਰੇ/ਅੱਨਟਰੇ (&T)|
+|Version ||ਵਰਜਨ |
+|Password and repeated password aren't identical!||ਪਾਸਵਰਡ ਅਤੇ ਮੁੜ ਭਰਿਆ ਪਾਸਵਰਡ ਮੇਲ ਨਹੀਂ ਖਾਂਦੇ!|
+|Stop||ਰੁਕੋ|
+|Enter a group name!||ਸਮੂਹ ਦਾ ਨਾਂ ਭਰੋ!|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.||ਇਸ ਡਾਇਲਾਗ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਰਲਵੇਂ ਮਾਊਸ ਇੰਪੁੱਟ ਜਾਂ ਸੋਧ ਖੇਤਰ ਦੀ ਵਰਤੋਂ ਕਰਦਿਆਂ ਕੁੱਝ ਰਲਵੇਂ ਮੁੱਲ ਬਨਾਉਣੇ ਜਰੂਰੀ ਹਨ।|
+|No random input||ਕੋਈ ਰਲਵੀਂ ਇੰਪੁੱਟ ਨਹੀਂ|
+|EITHER enter a master password OR select a key file.||ਜਾਂ ਪਾਸਵਰਡ ਭਰੋ ਜਾਂ ਕੂੰਜੀ ਫਾਇਲ ਦਾ ਚੁਣਾਓ ਕਰੋ।|
+|The password must consist of at least one character!||ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋਂ-ਘੱਟ ਇੱਕ ਅੱਖਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ!|
+|Select at least one of the options in the list above!||ਉੱਪਰ ਦਿੱਤੀ ਸੂਚੀ ਵਿੱਚੋਂ ਘੱਟੋਂ-ਘੱਟ ਇੱਕ ਚੋਣ ਕਰੋ!|
+|The following self-tests failed:||ਹੇਠਾਂ ਦਿੱਤੇ ਗਏ ਜਾਂਚ ਅਸਫਲ ਰਹੇ:|
+|- SHA 32-bit variables||- SHA 32-ਬਿੱਟ ਵੈਰੀਏਬਲ|
+|- SHA 64-bit variables||- SHA 64-ਬਿੱਟ ਵੈਰੀਏਬਲ|
+|- SHA-256 test vector(s)||- SHA-256 ਜਾਂਚ ਵੈਕਟਰ|
+|- SHA-512 test vector(s)||- SHA-512 ਜਾਂਚ ਵੈਕਟਰ|
+|- Rijndael encryption||- ਰਾਈਨਡਾਲ (Rijndael) ਐਨਕ੍ਰਿਪਸ਼ਨ|
+|- Rijndael decryption||- ਰਾਈਨਡਾਲ (Rijndael) ਡੀਕ੍ਰਿਪਸ਼ਨ|
+|- Arcfour crypto routine||- ਆਰਕਫੋਰ ਕ੍ਰਿਪਟੋ ਰੂਟੀਨ|
+|- Twofish algorithm||- ਟੂਫਿਸ਼ ਐਲਗੋਰਿਦਮ|
+|The program will exit now.||ਕਾਰਜ ਹੁਣ ਬੰਦ ਹੋਏਗਾ।|
+|Self-Test(s) Failed||ਜਾਂਚ ਅਸਫਲ|
+|Clipboard cleared.||ਕਲਿੱਪਬੋਰਡ ਸਾਫ਼ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.||ਕਲਿੱਪਬੋਰਡ ਤੇ ਖੇਤਰ ਦੀ ਨਕਲ ਉਤਾਰ ਦਿੱਤੀ ਗਈ ਹੈ। ਕਲਿੱਪਬੋਰਡ %d ਸਕਿੰਟਾ ਵਿੱਚ ਸਾਫ਼ ਕਰ ਦਿੱਤਾ ਜਾਏਗਾ।|
+|Failed to set the master key!||ਮਾਸਟਰ ਕੂੰਜੀ ਸਥਾਪਤ ਨਹੀਂ ਹੋ ਸੱਕੀ!|
+|File cannot be opened!||ਫਾਇਲ ਖੋਲੀ ਨਹੀਂ ਜਾ ਸੱਕਦੀ!|
+|File cannot be saved!||ਫਾਇਲ ਸੰਭਾਲੀ ਨਹੀਂ ਜਾ ਸੱਕਦੀ!|
+|KeePass Password Safe Files||ਕੀਪਾਸ ਪਾਸਵਰਡ ਤੀਜੋਰੀ ਫਾਇਲਾਂ|
+|All Files||ਸਾਰੀਆਂ ਫਾਇਲਾਂ|
+|Do you want to save the changes before closing?||ਕੀ ਤੁਸੀਂ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਕੀਤੀਆਂ ਤਬਦਿੱਲੀਆਂ ਸੰਭਾਲਨਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|KeePass - Save Before Close/Lock?||ਕੀਪਾਸ - ਤਾਲਾ ਲਗਾਉਨ/ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸੰਭਾਲ?|
+|Deleting a group will delete all items and subgroups in that group, too.||ਸਮੂਹ ਹਟਾਉਣ ਨਾਲ ਉਸਦੇ ਵਿੱਚਲੀਆਂ ਸਾਰੀਆਂ ਇਕਾਈਆਂ ਅਤੇ ਸਾਰੇ ਉਪ-ਸਮੂਹ ਵੀ ਹੱਟ ਜਾਉਣਗੇ।|
+|Are you sure you want to delete this group?||ਕੀ ਤੁਸੀਂ ਇਸ ਸਮੂਹ ਨੂੰ ਨਿਸ਼ਚਿਤ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|Delete Group Confirmation||ਸਮੂਹ ਹਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ|
+|Cannot open temporary file for printing!||ਪ੍ਰਿੰਟਿੰਗ ਲਈ ਆਰਜ਼ੀ ਫਾਇਲ ਨਹੀਂ ਖੋਲੀ ਜਾ ਸੱਕਦੀ!|
+|Load Language File||ਭਾਸ਼ਾ ਫਾਇਲ ਲੋਡ ਕਰੋ|
+|Load a Language File||ਭਾਸ਼ਾ ਫਾਇਲ ਲੋਡ ਕਰੋ|
+|Select one of the languages in the list below.||ਹੇਠਾਂ ਦਿੱਤੀ ਗਈ ਸੂਚੀ ਵਿੱਚੋਂ ਕਿਸੇ ਇੱਕ ਭਾਸ਼ਾ ਦਾ ਚੁਣਾਓ ਕਰੋ।|
+|Available Languages||ਉਪਲੱਬਧ ਭਾਸ਼ਾਵਾਂ|
+|&Help||ਮੱਦਦ (&H)|
+|&Help Contents||ਮੱਦਦ ਵਿਸ਼ਾ-ਵਸਤੂ (&H)|
+|Open &Help File||ਮੱਦਦ ਫਾਇਲ ਖੋਲੋ (&H)|
+|Open &License File||ਲਾਈਸੈਂਸ ਫਾਇਲ ਖੋਲੋ (&L)|
+|Newline sequence:||ਨਵੀਂ-ਲਾਈਨ ਦਾ ਕ੍ਰਮ:|
+|Windows newline sequence (\r\n)||ਵਿੰਡੋਜ਼ ਨਵੀਂ-ਲਾਈਨ ਕ੍ਰਮ (\r\n)|
+|Unix newline sequence (\n)||ਯੂਨਿਕਸ ਨਵੀਂ-ਲਾਈਨ ਕ੍ਰਮ (\n)|
+|Clipboard auto-clear time (seconds):||ਕਲਿੱਪਬੋਰਡ ਸਵੈ-ਸਫਾਈ ਦਾ ਸਮਾਂ (ਸਕਿੰਟਾਂ ਵਿੱਚ):|
+|Settings||ਸੈਟਿੰਗ|
+|Here you can configure KeePass.||ਇੱਥੇ ਤੁਸੀਂ ਕੀਪਾਸ ਦੀ ਸਰੰਚਨਾ ਕਰ ਸੱਕਦੇ ਹੋ।|
+|Automatically open last used database on startup||ਕਾਰਜ ਸ਼ੁਰੂ ਹੁੰਦਿਆਂ ਹੀ ਅਖੀਰਲੇ ਖੁੱਲੇ ਡਾਟਾਬੇਸ ਨੂੰ ਆਪ ਖੋਲ ਦਿਓ|
+|Display images on buttons||ਬਟਨਾਂ ਉੱਤੇ ਚਿੱਤਰ ਵਿਖਾਓ|
+|Show grid lines in password entry list||ਪਾਸਵਰਡ ਇੰਦਰਾਜ਼ ਸੂਚੀ ਵਿੱਚ ਗ੍ਰਿਡ-ਲਾਈਨਾਂ ਵਿਖਾਓ|
+|Workspace cannot be unlocked!||ਵਰਕਸਪੇਸ ਦਾ ਤਾਲਾ ਨਹੀਂ ਖੁੱਲ ਸੱਕਦਾ!|
+|Workspace locked||ਵਰਕਸਪੇਸ ਨੂੰ ਤਾਲਾ ਲਗਾ ਦਿੱਤਾ ਗਿਆ ਹੈ|
+|Loading error||ਲੋਡਿੰਗ ਸਮੱਸਿਆ|
+|Language file cannot be opened!||ਭਾਸ਼ਾ ਫਾਇਲ ਖੋਲੀ ਨਹੀਂ ਜਾ ਸੱਕਦੀ!|
+|Language file cannot be registered!||ਭਾਸ਼ਾ ਫਾਇਲ ਰਜਿਸਟਰ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸੱਕਦੀ!|
+|The language file has been installed.||ਭਾਸ਼ਾ ਫਾਇਲ ਇੰਸਟਾਲ ਕਰ ਦਿੱਤੀ ਗਈ ਹੈ।|
+|You must restart KeePass in order to use the new language.||ਨਵੀਂ ਭਾਸ਼ਾ ਫਾਇਲ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਕੀਪਾਸ ਮੁੜ ਚਾਲੂ ਕਰਨਾ ਪਵੇਗਾ।|
+|Do you wish to restart KeePass now?||ਕੀ ਤੁਸੀਂ ਕੀਪਾਸ ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|Restart KeePass?||ਕੀਪਾਸ ਮੁੜ ਚਾਲੂ ਕਰਨਾ ਹੈ?|
+|Application cannot be restarted automatically!||ਕਾਰਜ ਆਪ ਹੀ ਮੁੜ ਚਾਲੂ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸੱਕਦਾ!|
+|Please restart KeePass manually.||ਕਿਰਪਾ ਕਰਕੇ ਤੁਸੀਂ ਆਪ ਕੀਪਾਸ ਨੂੰ ਮੁੜ ਚਾਲੂ ਕਰੋ।|
+|CSV Files||CSV ਫਾਇਲਾਂ|
+|Text Files||Text ਫਾਇਲਾਂ|
+|&CSV File...||&CSV ਫਾਇਲ...|
+|&PwSafe v2 TXT File...||&PwSafe v2 TXT ਫਾਇਲ...|
+|Select &Font||ਫੌਂਟ ਚੁਣੋ (&F)|
+|Select a new font for the list controls:||ਸੂਚੀ ਕੰਟ੍ਰੋਲ ਲਈ ਨਵਾਂ ਫੌਂਟ ਚੁਣੋ:|
+|Code&Wallet TXT File...||Code&Wallet TXT ਫਾਇਲ...|
+|&TXT File...||&TXT ਫਾਇਲ...|
+|&HTML File...||&HTML ਫਾਇਲ...|
+|&XML File...||&XML ਫਾਇਲ...|
+|&CSV File...||&CSV ਫਾਇਲ...|
+|&Import From||ਆਯਾਤ ਕਰੋ (&I)|
+|&Get more languages...||ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਲਓ (&G)...|
+|Start and exit||ਸ਼ੁਰੂ ਕਰੋ ਅਤੇ ਬਾਹਰ ਨਿਕਲੋ|
+|Interface (GUI)||ਇੰਟਰਫੇਸ (GUI)|
+|Files||ਫਾਇਲਾਂ|
+|Memory||ਮੈਮੋਰੀ|
+|Lock workspace when minimizing the main window||ਮੁੱਖ ਵਿੰਡੋ ਨੂੰ ਨਿਊਨਤਮ ਕਰਦਿਆਂ ਵਰਕਸਪੇਸ ਨੂੰ ਤਾਲਾ ਲਗਾ ਦਿਓ|
+|Minimize to tray instead of taskbar||ਟਾਸਕਬਾਰ ਦੀ ਥਾਂ ਟਰੇ ਵਿੱਚ ਨਿਊਨਤਮ ਕਰੋ|
+|Encryption algorithm to use (for this database):||ਐਨਕ੍ਰਿਪਸ਼ਨ ਐਲਗੋਰਿਦਮ ਜੋ ਵਰਤਨਾ ਹੈ (ਇਸ ਡਾਟਾਬੇਸ ਲਈ):|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)||ਐਡਵਾਂਸਡ ਐਨਕ੍ਰਿਪਸ਼ਨ ਸਟੈਂਡੱਰਡ (AES) (128-ਬਿੱਟ ਬਲੋਕ ਗੁਪਤ-ਲੇਖਣ 256-ਬਿੱਟ ਕੂੰਜੀ ਵਰਤਦਿਆਂ)|
+|Twofish (128-bit block cipher using 256-bit key)||ਟੂਫਿਸ਼ (128-ਬਿੱਟ ਬਲੋਕ ਗੁਪਤ-ਲੇਖਣ 256-ਬਿੱਟ ਕੂੰਜੀ ਵਰਤਦਿਆਂ)|
+|Security||ਸੁਰੱਖਿਆ|
+|KeePass is OSI Certified Open Source Software.||ਕੀਪਾਸ ਇੱਕ OSI-ਪ੍ਰਮਾਣਿਤ ਓਪਨ ਸਰੋਤ ਸਾਫ਼ਟਵੇਅਰ ਹੈ।|
+|Automatically lock workspace after the following number of seconds:||ਹੇਠਾਂ ਦਿੱਤੇ ਸਕਿੰਟਾਂ ਤੋਂ ਬਾਅਦ ਵਰਕਸਪੇਸ ਨੂੰ ਆਪ ਹੀ ਤਾਲਾ ਲਗਾ ਦਿਓ:|
+|&Group name||ਸਮੂਹ ਨਾਂ(&G)|
+|Every second row has a different background color. Use this color:||ਹਰ ਦੂਜੀ ਕਤਾਰ ਦਾ ਪਿੱਛਲਾ ਰੰਗ ਵੱਖਰਾ ਹੋਏਗਾ। ਇਹ ਰੰਗ ਵਰਤੋ:|
+|Default||ਮੂਲ ਰੰਗ|
+|More Colors...||ਹੋਰ ਰੰਗ...|
+|Search Results||ਖੋਜ ਨਤੀਜੇ|
+|Creation Time||ਬਣਤਰ ਸਮਾਂ|
+|Last Modification||ਆਖਿਰੀ ਸੋਧ|
+|Last Access||ਆਖਿਰੀ ਪਹੁੰਚ|
+|Expires||ਸਮਾਪਤੀ|
+|UUID||UUID|
+|&Creation Time||ਬਣਤਰ ਸਮਾਂ (&C)|
+|Last &Modification Time||ਆਖਿਰੀ ਸੋਧ ਸਮਾਂ (&M)|
+|&Last Access Time||ਆਖਿਰੀ ਪਹੁੰਚ ਸਮਾਂ (&L)|
+|&Expiration Time||ਮਿਆਦ ਪੁੱਗਣ ਦਾ ਸਮਾਂ (&E)|
+|UU&ID||UU&ID|
+|Show &Toolbar||ਟੂਲਬਾਰ ਵਿਖਾਓ (&T)|
+|Visit KeePass Homepage||ਕੀਪਾਸ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ|
+|Field copied to clipboard.||ਖੇਤਰ ਦੀ ਕਲਿੱਪਬੋਰਡ ਤੇ ਨਕਲ ਉਤਾਰ ਦਿੱਤੀ ਗਈ ਹੈ।|
+|A key file already exists on this drive. Do you want to overwrite or reuse it?||ਇਸ ਡਰਾਇਵ ਤੇ ਇੱਕ ਕੂੰਜੀ ਫਾਇਲ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਸਦੀ ਮੁੜ ਵਰਤੋਂ ਜਾਂ ਉਪਰੀਲੇਖਣ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|Click [Yes] to overwrite the key file.||ਕੂੰਜੀ ਫਾਇਲ ਦਾ ਉਪਰੀਲੇਖਣ ਕਰਨ ਲਈ [ਹਾਂ/Yes] ਦਬਾਓ।|
+|Click [No] to reuse the selected key file for this database.||ਚੁਣੀ ਗਈ ਕੂੰਜੀ ਫਾਇਲ ਦੀ ਇਸ ਡਾਟਾਬੇਸ ਲਈ ਮੁੜ ਵਰਤੋਂ ਕਰਨ ਲਈ [ਨਾ/No] ਦਬਾਓ।|
+|Click [Cancel] to abort changing the key.||ਬਿਨ੍ਹਾਂ ਕੂੰਜੀ ਬਦਲਿਆਂ ਵਾਪਸ ਜਾਉਣ ਲਈ [ਰੱਦ ਕਰੋ/Cancel] ਦਬਾਓ।|
+|Overwrite?||ਉਪਰੀਲੇਖਣ ਕੀਤਾ ਜਾਏ?|
+|Expires:||ਮਿਆਦ:|
+|Change group:||ਸਮੂਹ ਬਦਲੋ:|
+|Change entry icon:||ਇੰਦਰਾਜ਼ ਦਾ ਆਈਕਾਨ ਬਦਲੋ:|
+|Change expiration time:||ਸਮਾਪਤੀ ਸਮਾਂ ਬਦਲੋ:|
+|Mass Modify||Mass Modify|
+|Change fields of all selected entries||ਚੁਣੇ ਗਏ ਸਾਰੇ ਇੰਦਰਾਜ਼ਾਂ ਦੇ ਖੇਤਰ ਬਦਲੋ|
+|Show &Columns||ਕਾਲਮ ਵਿਖਾਓ (&C)|
+|Show &Entry View||ਇੰਦਰਾਜ਼ ਦ੍ਰਿਸ਼ ਵਿਖਾਓ (&E)|
+|Automatically resize table columns when resizing the main window||ਮੁੱਖ ਵਿੰਡੋ ਦਾ ਮੁੜ ਅਕਾਰ ਕਰਦਿਆਂ ਟੇਬਲ ਕਾਲਮਾਂ ਦਾ ਆਪ ਹੀ ਮੁੜ ਅਕਾਰ ਕਰੋ|
+|&Copy||ਨਕਲ ਉਤਾਰੋ(&C)|
+|Copy &All||ਸਾਰਿਆਂ ਦੀ ਨਕਲ ਉਤਾਰੋ(&A)|
+|&Undo||ਮੁੜ ਕਰੋ (&U)|
+|&Paste||ਚੇਪੋ (&P)|
+|Cu&t||ਕੱਟੋ (&t)|
+|&Select All||ਸਭ ਚੁਣੋ (&S)|
+|&Delete||ਹਟਾਓ (&D)|
+|&TAN Wizard...||ਟੈਨ ਵਿਜ਼ਾਰਡ (&T)...|
+|TAN Wizard||ਟੈਨ ਵਿਜ਼ਾਰਡ|
+|Using this wizard you can easily add TAN entries.||ਇਹ ਵਿਜ਼ਾਰਡ ਵਰਤ ਕੇ ਤੁਸੀਂ ਬਹੁੱਤ ਆਸਾਨੀ ਨਾਲ ਟੈਨ ਇੰਦਰਾਜ਼ ਸ਼ਾਮਲ ਕਰ ਸੱਕਦੇ ਹੋ।|
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.||ਆਪਣੇ ਟੈਨ ਹੇਠਾਂ ਦਿੱਤੇ ਸੋਧ ਬਕਸੇ ਵਿੱਚ ਚੇਪੋ। ਟੈਨ ਅੱਖਰਾਂ ਤੋਂ ਇਲਾਵਾ ਬਾਕੀ ਦੇ ਸਭ ਵਖਰੇਵੇਂ ਅੱਖਰਾਂ ਦੀ ਤਰ੍ਹਾਂ ਮੰਨੇ ਜਾਣਗੇ ਅਤੇ ਸਿਰਫ਼ ਉਹ ਉਪ-ਸਤਰਾਂ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਟੈਨ ਅੱਖਰ ਆਉਂਦੇ ਹਨ ਟੈਨ ਇੰਦਰਾਜ਼ਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾਉਣਗੇ।|
+|TANs consist of the following characters:||ਟੈਨ ਵਿੱਚ ਹੇਠਾਂ ਦਿੱਤੇ ਅੱਖਰ ਸ਼ਾਮਲ ਹਨ:|
+|<TAN>||<ਟੈਨ>|
+|Print Pre&view...||ਪ੍ਰਿੰਟ ਝਲਕ (&v)...|
+|About &Translation...||ਅਨੁਵਾਦ ਬਾਰੇ (&T)...|
+|Translation information||ਅਨੁਵਾਦ ਜਾਣਕਾਰੀ|
+|Currently Used Language||ਇਸ ਵੇਲੇ ਵਰਤੀ ਜਾ ਰਹੀ ਭਾਸ਼ਾ|
+|Language File Version||ਭਾਸ਼ਾ ਫਾਇਲ ਵਰਜਨ|
+|Author||ਅਨੁਵਾਦਕ|
+|Translation Author Contact||ਅਨੁਵਾਦਕ ਦਾ ਸੰਪਰਕ|
+|&Rearrange||ਮੁੜ ਵਿਵੱਸਥਾ (&R)|
+|&Sort Group List||ਸਮੂਹ ਸੂਚੀ ਕ੍ਰਮਬੱਧ (&S)|
+|Sort List By &Title||ਸੂਚੀ ਸ਼ੀਰਸ਼ਕ ਨਾਲ ਕ੍ਰਮਬੱਧ (&T)|
+|Sort List By User &Name||ਸੂਚੀ ਯੂਜ਼ਰ ਨਾਂ ਨਾਲ ਕ੍ਰਮਬੱਧ (&N)|
+|Sort List By &URL||ਸੂਚੀ ਲਿੰਕ ਨਾਲ ਕ੍ਰਮਬੱਧ (&U)|
+|Sort List By &Password||ਸੂਚੀ ਪਾਸਵਰਡ ਨਾਲ ਕ੍ਰਮਬੱਧ (&P)|
+|Sort List By Note&s||ਸੂਚੀ ਟਿੱਪਣੀਆਂ ਨਾਲ ਕ੍ਰਮਬੱਧ (&s)|
+|Sort List By &Creation Time||ਸੂਚੀ ਬਣਤਰ ਸਮੇਂ ਨਾਲ ਕ੍ਰਮਬੱਧ (&C)|
+|Sort List By Last &Modify Time||ਸੂਚੀ ਆਖਿਰੀ ਸੋਧ ਸਮੇਂ ਨਾਲ ਕ੍ਰਮਬੱਧ (&M)|
+|Sort List By Last &Access Time||ਸੂਚੀ ਆਖਿਰੀ ਪਹੁੰਚ ਸਮੇਂ ਨਾਲ ਕ੍ਰਮਬੱਧ (&A)|
+|Sort List By &Expiration Time||ਸੂਚੀ ਮਿਆਦ ਖਾਤਮੇ ਦੇ ਸਮੇਂ ਨਾਲ ਕ੍ਰਮਬੱਧ (&E)|
+|Move Group One &Left||ਸਮੂਹ ਇੱਕ ਖੱਬੇ ਲਿਆਓ (&L)|
+|Move Group One &Right||ਸਮੂਹ ਇੱਕ ਸੱਜੇ ਲਿਆਓ (&R)|
+|Hide &User Names Behind Asterisks (***)||ਯੂਜ਼ਰ ਨਾਂ (***) ਚਿੰਨ੍ਹ ਪਿੱਛੇ ਛੁਪਾਓ (&U)|
+|Attachment:||ਨੱਥੀ:|
+|Attachment||ਨੱਥੀ|
+|Attachment Description||ਨੱਥੀ ਵੇਰਵਾ|
+|&Attachment||ਨੱਥੀ (&A)|
+|Generate a random password...||ਰਲਵਾਂ ਪਾਸਵਰਡ ਬਣਾਓ...|
+|Open file and set as attachment...||ਫਾਇਲ ਖੋਲੋ ਅਤੇ ਨੱਥੀ ਵਾਂਗੂ ਸੈਟ ਕਰੋ...|
+|Save attached file to disk...||ਨੱਥੀ ਕੀਤੀ ਫਾਇਲ ਡਿਸਕ ਤੇ ਸੰਭਾਲੋ...|
+|There already is a file attached with this entry.||ਇਸ ਇੰਦਰਾਜ਼ ਨਾਲ ਪਹਿਲਾਂ ਹੀ ਇੱਕ ਫਾਇਲ ਨੱਥੀ ਹੈ।|
+|Do you want to overwrite the current attachment?||ਕੀ ਤੁਸੀਂ ਮੌਜੂਦਾ ਨੱਥੀ ਦਾ ਉਪਰੀਲੇਖਣ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|&Save Attached File To...||ਨੱਥੀ ਕੀਤੀ ਫਾਇਲ ਨੂੰ ਸੰਭਾਲੋ (&S)...|
+|There is no file attached with this entry.||ਇਸ ਇੰਦਰਾਜ਼ ਨਾਲ ਕੋਈ ਵੀ ਫਾਇਲ ਨੱਥੀ ਨਹੀਂ ਹੈ।|
+|Remove the currently attached file||ਮੌਜੂਦਾ ਨੱਥੀ ਕੀਤੀ ਫਾਇਲ ਨੂੰ ਹਟਾਓ|
+|Close button [X] minimizes the main window instead of terminating the application||ਬੰਦ ਕਰਨ ਦਾ ਬਟਨ [X] ਕਾਰਜ ਨੂੰ ਬੰਦ ਕਰਨ ਦੀ ਥਾਂ ਵਿੰਡੋ ਨੂੰ ਨਿਊਨਤਮ ਕਰੇਗਾ|
+|KeePass Password Database||ਕੀਪਾਸ ਪਾਸਵਰਡ ਡਾਟਾਬੇਸ|
+|&Open with KeePass||ਕੀਪਾਸ ਨਾਲ ਖੋਲੋ (&O)|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):||ਇੱਥੇ ਤੁਸੀਂ .kdb ਫਾਇਲਾਂ ਕੀਪਾਸ ਨਾਲ ਸੰਬੰਧਿਤ ਕਰ ਸੱਕਦੇ ਹੋ (ਤਾਂ ਜੋ ਦੋ-ਵਰਾਂ ਦਬਾਉਣ ਤੇ ਕੀਪਾਸ ਫਾਇਲ ਨੂੰ ਖੋਲ ਦੇਵੇ):|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!||.kdb ਫਾਇਲਾਂ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਕੀਪਾਸ ਨਾਲ ਸੰਬੰਧਿਤ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ! ਹੁਣ ਕਿਸੇ ਵੀ .kdb ਫਾਇਲ ਨੂੰ ਦੋ-ਵਰਾਂ ਦਬਾਉਣ ਤੇ ਕੀਪਾਸ ਆਪ ਹੀ ਚਲ ਜਾਏਗਾ!|
+|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!||ਸੰਬੰਧ ਸਫਲਤਾਪੂਰਵਕ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ! ਹੁਣ ਤੋਂ ਕਿਸੇ .kdb ਫਾਇਲ ਨੂੰ ਦੋ-ਵਰਾਂ ਦਬਾਉਣ ਤੇ ਕੀਪਾਸ ਆਪ ਨਹੀਂ ਚੱਲੇਗਾ!|
+|Create &Association||ਸੰਬੰਧ ਬਣਾਓ (&A)|
+|&Remove Association||ਸੰਬੰਧ ਹਟਾਓ (&R)|
+|Setup||ਨਿਰਧਾਰਿਤ ਕਰੋ|
+|Password List||ਪਾਸਵਰਡ ਸੂਚੀ|
+|Exit?||ਬੰਦ ਕੀਤਾ ਜਾਏ?|
+|The file couldn't be saved.||ਫਾਇਲ ਸੰਭਾਲੀ ਨਹੀਂ ਜਾ ਸੱਕੀ।|
+|Maybe it's read-only or the storage media has been removed.||ਸ਼ਾਇਦ ਇਹ ਕੇਵਲ ਪੜ੍ਹਨ ਲਈ ਹੈ ਜਾਂ ਸਟੋਰੇਜ ਮੀਡੀਆ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ।|
+|If you exit now, all changes to the current database will be lost.||ਜੇ ਤੁਸੀਂ ਇਸ ਵੇਲੇ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਮੌਜੂਦਾ ਡਾਟਾਬੇਸ ਵਿੱਚ ਕੀਤੀਆਂ ਤਬਦਿੱਲੀਆਂ ਸੰਭਾਲੀਆਂ ਨਹੀਂ ਜਾਉਣਗੀਆਂ।|
+|Would you like to exit anyway?||ਕੀ ਤੁਸੀਂ ਫੇਰ ਵੀ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|Cannot access the selected drive.||ਚੁਣੀ ਡਰਾਇਵ ਤੱਕ ਪਹੁੰਚਿਆ ਨਹੀਂ ਜਾ ਸੱਕਦਾ।|
+|Make sure a writable medium is inserted.||ਧਿਆਨ ਦਿਓ ਕਿ ਲਿਖਣ-ਯੋਗ ਮੀਡੀਅਮ ਹੀ ਪਾਇਆ ਜਾਵੇ।|
+|Not enough free disk space!||ਡਿਸਕ ਤੇ ਲੋੜੀਂਦੀ ਖਾਲੀ ਥਾਂ ਨਹੀਂ ਹੈ!|
+|Disable unsafe (security-critical) operations like exports, etc.||ਨਾ-ਸੁਰੱਖਿਅਤ ਓਪਰੇਸ਼ਨ ਜਿਵੇਂ ਕਿ ਨਿਰਯਾਤ, ਆਦਿ ਨੂੰ ਆਯੋਗ ਕਰ ਦਿਓ|
+|Unsafe operations are disabled.||ਨਾ-ਸੁਰੱਖਿਅਤ ਓਪਰੇਸ਼ਨ ਆਯੋਗ ਕਰ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ।|
+|To execute this operation you must enable unsafe operations in the options dialog.||ਇਹ ਓਪਰੇਸ਼ਨ ਚਲਾਉਣ ਲਈ ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਚੋਣਾਂ ਵਾਲੀ ਡਾਈਲਾਗ ਵਿੰਡੋ ਵਿੱਚ ਨਾ-ਸੁਰੱਖਿਅਤ ਓਪਰੇਸ਼ਨਾਂ ਨੂੰ ਯੋਗ ਕਰਨਾ ਪਵੇਗਾ।|
+|You have changed an option that requires restarting KeePass to get active.||ਤੁਸੀਂ ਕੋਈ ਅਜੇਹੀ ਚੋਣ ਬਦਲੀ ਹੈ ਜਿਸਨੂੰ ਸਰਗਰਮ ਕਰਨ ਲਈ ਕੀਪਾਸ ਮੁੜ ਚਾਲੂ ਕਰਨਾ ਪਵੇਗਾ।|
+|Expired Entries||ਮਿਆਦ ਪੁੱਗੇ ਇੰਦਰਾਜ਼|
+|This is a list of all expired entries||ਇਹ ਮਿਆਦ ਪੁੱਗੇ ਇੰਦਰਾਜ਼ਾਂ ਦੀ ਸੂਚੀ ਹੈ|
+|Show All &Expired Entries||ਸਭ ਮਿਆਦ ਪੁੱਗੇ ਇੰਦਰਾਜ਼ ਵਿਖਾਓ (&E)|
+|Click on an entry to jump to it.||ਇੰਦਰਾਜ਼ ਦੇ ਉੱਤੇ ਜਾਉਣ ਲਈ ਉਸਨੂੰ ਦਬਾਓ।|
+|Quality:||ਕੁਆਲਟੀ:|
+|Database Settings||ਡਾਟਾਬੇਸ ਸੈਟਿੰਗ|
+|Here you can configure the current database.||ਇੱਥੇ ਤੁਸੀਂ ਇਸ ਸਮੇਂ ਖੁੱਲੇ ਡਾਟਾਬੇਸ ਦੀ ਸਰੰਚਨਾ ਕਰ ਸੱਕਦੇ ਹੋ।|
+|Database Summary||ਡਾਟਾਬੇਸ ਸੰਖੇਪ|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||ਤੁਹਾਡੀ ਕੂੰਜੀ ਨੂੰ ਕਈ ਵਾਰ ਐਨਕ੍ਰਿਪਟ ਕਰਕੇ ਇੱਕ ਅੰਤਮ ਡਾਟਾਬੇਸ ਐਨਕ੍ਰਿਪਸ਼ਨ ਕੂੰਜੀ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ। ਇਸਦੇ ਨਾਲ ਇੱਕ ਸਥਿਰ ਸਮੇਂ ਦਾ ਗੁਣਾਂਕ ਸ਼ਾਮਲ ਹੋ ਜਾਂਦਾ ਹੈ ਜੋ ਕਿ ਬੁੱਜਣ ਅਤੇ ਡਿਕਸ਼ਨਰੀ ਹਮਲਿਆਂ ਨੂੰ ਹੋਰ ਵੀ ਮੁਸ਼ਕਿਲ ਕਰ ਦਿੰਦਾ ਹੈ।|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||ਤਾਂ ਜਿੰਨ੍ਹਾਂ ਵੱਡਾ ਇਹ ਅੰਕ, ਉਨ੍ਹਾਂ ਹੀ ਔਖਾ ਡਿਕਸ਼ਨਰੀ ਹਮਲਾ। ਪਰ ਨਾਲ ਹੀ ਜਿੰਨ੍ਹਾਂ ਵੱਡਾ ਇਹ ਅੰਕ, ਉਂਨ੍ਹੀ ਹੀ ਹੌਲੀ ਡਾਟਾਬੇਸ ਦੀ ਲੋਡਿੰਗ ਅਤੇ ਸੰਭਾਲ।|
+|Number of key encryption rounds:||ਕੂੰਜੀ ਐਨਕ੍ਰਿਪਸ਼ਨ ਰਾਊਂਡਾਂ ਦੀ ਗਿਣਤੀ:|
+|bits||ਬਿੱਟ|
+|Personal &Vault TXT File...||Personal &Vault TXT ਫਾਇਲ...|
+|Imported from Password Safe||ਪਾਸਵਰਡ ਤੀਜੋਰੀ ਤੋਂ ਆਯਾਤ|
+|Remember last opened file||ਅਖੀਰਲੀ ਖੋਲੀ ਫਾਇਲ ਯਾਦ ਰੱਖੋ|
+|Total number of groups / entries||ਕੁੱਲ ਸਮੂਹ / ਇੰਦਰਾਜ਼|
+|Total: %u groups / %u entries||ਕੁੱਲ: %u ਸਮੂਹ, %u ਇੰਦਰਾਜ਼|
+|%u of %u selected||%u ਚੁਣੇ ਗਏ (%u ਵਿੱਚੋਂ)|
+|Number of selected entries (number of entries in the list)||ਚੁਣੇ ਇੰਦਰਾਜ਼ਾਂ ਦੀ ਗਿਣਤੀ (ਸੂਚੀ ਵਿਚਲੇ ਇੰਦਰਾਜ਼ਾਂ ਦੀ ਗਿਣਤੀ)|
+|Status||ਹਾਲਤ|
+|The database file has been modified!||ਡਾਟਾਬੇਸ ਫਾਇਲ ਸੋਧ ਦਿੱਤੀ ਗਈ ਹੈ!|
+|Most probably someone has changed the file while you were editing it.||ਮੁਮਕਿਨ ਹੈ ਕਿ ਜਦੋਂ ਤੁਸੀਂ ਫਾਇਲ ਸੋਧ ਕਰ ਰਹੇ ਸੀ ਤਾਂ ਕਿਸੇ ਹੋਰ ਨੇ ਫਾਇਲ ਬਦਲ ਦਿੱਤੀ।|
+|Do you want to overwrite it?||ਕੀ ਤੁਸੀਂ ਉਪਰੀਲੇਖਣ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|The group you selected cannot store entries. Please select a different group.||ਚੁਣੇ ਗਏ ਸਮੂਹ ਵਿੱਚ ਇੰਦਰਾਜ਼ ਨਹੀਂ ਰੱਖੇ ਜਾ ਸੱਕਦੇ। ਕਿਰਪਾ ਕਰਕੇ ਕੋਈ ਹੋਰ ਸਮੂਹ ਚੁਣੋ।|
+|This will remove all selected entries unrecoverably!||ਇਸ ਨਾਲ ਸਾਰੇ ਚੁਣੇ ਇੰਦਰਾਜ਼ ਇਸਤਰ੍ਹਾਂ ਹਟਾਏ ਜਾਣਗੇ ਕਿ ਮੁੜ ਕੇ ਵਾਪਸ ਨਹੀਂ ਲਿਆਂਦੇ ਜਾ ਸੱਕਦੇ!|
+|Are you sure you want to delete all selected entries?||ਕੀ ਤੁਸੀਂ ਚੁਣੇ ਗਏ ਇੰਦਰਾਜ਼ ਨਿਸ਼ਚਿਤ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|Delete Entries Confirmation||ਇੰਦਰਾਜ਼ ਹਟਾਉਣ ਲਈ ਪੁਸ਼ਟੀ|
+|Use PuTTY for ssh: and telnet: URLs||ssh: ਅਤੇ telnet: ਲਿੰਕਾਂ ਲਈ PuTTY ਦੀ ਵਰਤੋਂ ਕਰੋ|
+|Mark database as modified on last-access time change||ਆਖਿਰੀ ਪਹੁੰਚ ਸਮਾਂ ਬਦਲਣ ਤੇ ਡਾਟਾਬੇਸ ਨੂੰ ਸੋਧਿਆ ਮੰਨਿਆ ਜਾਵੇ|
+|Se&lect All||ਸਭ ਚੁਣੋ (&l)|
+|Auto-&Sort Password List||ਪਾਸਵਰਡ ਸੂਚੀ ਸਵੈ-ਕ੍ਰਮਬੱਧ (&S)|
+|N&o Auto-Sort||ਕੋਈ ਸਵੈ-ਕ੍ਰਮਬੱਧ ਨਹੀਂ (&o)|
+|Auto-sorting of the password list is enabled, you cannot move entries manually.||ਪਾਸਵਰਡ ਸੂਚੀ ਦਾ ਸਵੈ-ਕ੍ਰਮਬੱਧ ਯੋਗ ਹੈ, ਤੁਸੀਂ ਦਸਤੀ ਇੰਦਰਾਜ਼ ਨਹੀਂ ਹਿਲਾ ਸੱਕਦੇ।|
+|Perform Auto-&Type||Perform Auto-&Type|
+|Auto-sorting of the password list is enabled, you cannot sort the list manually now.||ਪਾਸਵਰਡ ਸੂਚੀ ਦਾ ਆਪ-ਕ੍ਰਮਬੱਧ ਯੋਗ ਹੈ, ਦਸਤੀ ਤੁਸੀਂ ਸੂਚੀ ਨੂੰ ਹੁਣ ਕ੍ਰਮਬੱਧ ਨਹੀਂ ਕਰ ਸੱਕਦੇ।|
+|Select key file manually...||ਕੂੰਜੀ ਫਾਇਲ ਆਪ ਚੁਣੋ...|
+|Save key file manually to...||ਦਸਤੀ ਕੂੰਜੀ ਫਾਇਲ ਨੂੰ ਸੰਭਾਲੋ...|
+|Enter the new composite master key.||ਨਵੀਂ ਸਾਂਝੀ ਮਾਸਟਰ ਕੂੰਜੀ ਭਰੋ।|
+|Repeat the new master password for this database.||ਇਸ ਡਾਟਾਬੇਸ ਲਈ ਨਵਾਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਮੁੜ ਭਰੋ।|
+|Change Composite Master Key||ਸਾਂਝੀ ਮਾਸਟਰ ਕੂੰਜੀ ਬਦਲੋ|
+|Plugin||ਪਲੱਗ-ਇੰਨ|
+|cannot be loaded!||ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸੱਕਦਾ!|
+|Plugins||ਪਲੱਗ-ਇੰਨ|
+|&Plugins...||ਪਲੱਗ-ਇੰਨ (&P)...|
+|Here you can configure all installed KeePass plugins.||ਇੱਥੇ ਸਾਰੇ ਇੰਸਟਾਲ ਕੀਤੇ ਕੀਪਾਸ ਪਲੱਗ-ਇੰਨਾਂ ਦੀ ਸਰੰਚਨਾ ਕੀਤੀ ਜਾ ਸੱਕਦੀ ਹੈ।|
+|This plugin has been designed for a different application version and may be incompatible with this one.||ਇਹ ਪਲੱਗ-ਇੰਨ ਕਾਰਜ ਦੇ ਕਿਸੇ ਹੋਰ ਵਰਜਨ ਲਈ ਬਣਾਇਆ ਗਿਆ ਹੈ ਅਤੇ ਮੁਮਕਿਨ ਹੈ ਕਿ ਇਸ ਵਰਜਨ ਨਾਲ ਨਾ ਕੰਮ ਕਰੇ।|
+|Application version:||ਕਾਰਜ ਵਰਜਨ:|
+|Plugin has been designed for:||ਪਲੱਗ-ਇੰਨ ਜਿਸ ਵਰਜਨ ਲਈ ਬਣਾਇਆ ਗਿਆ ਹੈ:|
+|It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.||ਮੁਮਕਿਨ ਹੈ ਕਿ ਪਲੱਗ-ਇੰਨ ਚਲ ਵੀ ਜਾਏ, ਪਰ ਇਹ ਵੀ ਮੁਮਕਿਨ ਹੈ ਕਿ ਪਲੱਗ-ਇੰਨ ਕੋਈ ਸਮੱਸਿਆ ਕਰਕੇ ਕੀਪਾਸ ਨੂੰ ਹੀ ਬੰਦ ਕਰ ਦੇਵੇ।|
+|Therefore save all data before you continue.||ਇਸ ਲਈ ਅੱਗੇ ਵੱਧਣ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੇ ਡਾਟਾ ਦੀ ਸੰਭਾਲ ਕਰ ਲਓ।|
+|Do you want to load the plugin?||ਕੀ ਤੁਸੀਂ ਪਲੱਗ-ਇੰਨ ਲੋਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|This plugin will be disabled after you restart KeePass.||ਕੀਪਾਸ ਨੂੰ ਮੁੜ ਚਾਲੂ ਕਰਨ ਤੋਂ ਬਾਅਦ ਇਸ ਪਲੱਗ-ਇੰਨ ਨੂੰ ਆਯੋਗ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ।|
+|Enabled, loaded||ਯੋਗ, ਲੋਡਿਡ|
+|Disabled, not loaded||ਆਯੋਗ, ਨਾ-ਲੋਡਿਡ|
+|This plugin will be enabled after you restart KeePass.||ਕੀਪਾਸ ਨੂੰ ਮੁੜ ਚਾਲੂ ਕਰਨ ਤੋਂ ਬਾਅਦ ਇਸ ਪਲੱਗ-ਇੰਨ ਨੂੰ ਯੋਗ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ।|
+|&Enable||ਯੋਗ (&E)|
+|&Disable||ਆਯੋਗ (&D)|
+|About &Plugin...||ਪਲੱਗ-ਇੰਨ ਬਾਰੇ (&P)...|
+|Error code||ਸਮੱਸਿਆ ਨੰਬਰ:|
+|Unknown error||ਅਨਜਾਣ ਸਮੱਸਿਆ|
+|Success||ਸਫਲਤਾ|
+|Invalid parameter||ਗਲਤ ਮੁੱਲ|
+|Too few memory (RAM) available||ਬਹੁੱਤ ਘੱਟ ਮੈਮੋਰੀ (RAM) ਉਪਲੱਬਧ ਹੈ|
+|Invalid/wrong key||ਖਰਾਬ/ਗ਼ਲਤ ਕੂੰਜੀ|
+|File access error: failed to open file in read mode||ਫਾਇਲ ਪਹੁੰਚ ਸਮੱਸਿਆ: ਫਾਇਲ ਨੂੰ ਪੜ੍ਹਨ ਲਈ ਨਹੀਂ ਖੋਲਿਆ ਜਾ ਸੱਕਿਆ|
+|File access error: failed to open file in write mode||ਫਾਇਲ ਪਹੁੰਚ ਸਮੱਸਿਆ: ਫਾਇਲ ਨੂੰ ਲਿਖਨ ਲਈ ਨਹੀਂ ਖੋਲਿਆ ਜਾ ਸੱਕਿਆ|
+|File error: error while reading from the file||ਫਾਇਲ ਸਮੱਸਿਆ: ਫਾਇਲ ਪੜਦਿਆਂ ਸਮੱਸਿਆ ਆ ਗਈ ਹੈ|
+|File error: error while writing to the file||ਫਾਇਲ ਸਮੱਸਿਆ: ਫਾਇਲ ਲਿੱਖਦਿਆਂ ਸਮੱਸਿਆ ਆ ਗਈ ਹੈ|
+|Internal error||ਅੰਦਰੂਨੀ ਸਮੱਸਿਆ|
+|Invalid random source||ਗ਼ਲਤ ਰਲਵਾਂ ਸਰੋਤ|
+|Invalid/corrupted file structure||ਗ਼ਲਤ/ਖ਼ਰਾਬ ਫਾਇਲ ਢਾਂਚਾ|
+|Encryption/decryption error||ਐਨਕ੍ਰਿਪਸ਼ਨ/ਡੀਕ੍ਰਿਪਸ਼ਨ ਸਮੱਸਿਆ|
+|Get More Plugins...||ਹੋਰ ਪਲੱਗ-ਇੰਨ ਉਤਾਰੋ...|
+|Global auto-type hot key combination:||ਗਲੋਬਲ ਆਟੋ-ਟਾਈਪ ਹਾਟ ਕੂੰਜੀ ਮਿਸ਼ਰਨ:|
+|Cannot register the global hot key.||ਗਲੋਬਲ ਹਾਟ ਕੂੰਜੀ ਰਜਿਸਟਰ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸੱਕਦੀ।|
+|Most probably another application has reserved this hot key already.||ਮੁਮਕਿਨ ਹੈ ਕਿ ਕਿਸੇ ਹੋਰ ਕਾਰਜ ਨੇ ਇਹ ਹਾਟ ਕੂੰਜੀ ਪਹਿਲਾਂ ਹੀ ਰੀਜ਼ਰਵ ਕੀਤੀ ਹੋਈ ਹੈ।|
+|&Use master password and key file||ਮਾਸਟਰ ਪਾਸਵਰਡ ਅਤੇ ਕੂੰਜੀ ਫਾਇਲ ਦੀ ਵਰਤੋਂ ਕਰੋ (&U)|
+|You've selected the AND key mode, so you must enter a password AND select a key file.||ਤੁਸੀਂ AND ਕੂੰਜੀ ਢੰਗ ਚੁਣਿਆ ਹੈ, ਤਾਂ ਤੁਹਾਨੂੰ ਪਾਸਵਰਡ ਭਰਨ ਦੇ ਨਾਲ-ਨਾਲ ਕੂੰਜੀ ਫਾਇਲ ਦਾ ਚੁਣਾਓ ਵੀ ਕਰਨਾ ਪਵੇਗਾ।|
+|Timed: copy data to the clipboard and clear it automatically after some seconds||ਸਮਾਂ-ਬੱਧ: ਡਾਟਾ ਕਲਿੱਪਬੋਰਡ ਤੇ ਚੇਪੋ ਅਤੇ ਕੁਝ ਸਕਿੰਟਾਂ ਉਪਰੰਤ ਆਟੋਮੈਟਿਕਲੀ ਸਾਫ਼ ਕਰ ਦਿਓ|
+|Enhanced: allow pasting only once and protect against clipboard spies||ਐਨਹੈਂਸਡ: ਸਿਰਫ਼ ਇੱਕ ਵਰਾਂ ਚੇਪਣ ਦਿਓ ਅਤੇ ਕਲਿੱਪਬੋਰਡ ਜਾਸੂਸਾਂ ਤੋਂ ਬਚਾਓ|
+|Clipboard behavior:||ਕਲਿੱਪਬੋਰਡ ਰਵੱਈਆ:|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.||ਚੇਤਾਵਨੀ: ਹੋ ਸੱਕਦਾ ਹੈ ਕਿ ਇਹ ਚੋਣ ਤੁਹਾਡੇ ਸਿਸਟਮ ਤੇ ਸਹੀ ਤਰ੍ਹਾਂ ਨਾ ਚੱਲੇ, ਖਾਸ ਕਰਕੇ ਜੇਕਰ ਤੁਸੀਂ ਕਿਸੇ ਕਲਿੱਪਬੋਰਡ ਐਨਹੈਂਸਿੰਗ ਜਾਂ ਕਲਿੱਪਬੋਰਡ ਬੈਕੱਪ ਟੂਲ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੋ।|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.||ਜੇਕਰ ਐਨਹੈਂਸਡ ਢੰਗ ਵਰਤਦਿਆਂ ਤੁਹਾਨੂੰ ਕੋਈ ਸਮੱਸਿਆ ਨਜ਼ਰ ਆਉਂਦੀ ਹੈ ਤਾਂ "ਸਮਾਂ-ਬੱਧ ਕਲਿੱਪਬੋਰਡ ਸਾਫ਼" ਢੰਗ ਦਾ ਚੁਣਾਓ ਕਰ ਲੈਣਾ।|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.||.kdb ਫਾਇਲ ਸੰਬੰਧ ਬਦਲਿਆ ਨਹੀਂ ਜਾ ਸੱਕਿਆ। ਧਿਆਨ ਦਿਓ ਕਿ ਤੁਹਾਡੇ ਕੋਲ ਰਜਿਸਟ੍ਰੀ ਵਿੱਚ ਲਿਖਨ ਅਤੇ ਫਾਇਲ ਸੰਬੰਦ ਬਦਲਣ ਦੀ ਇਜਾਜ਼ਤ ਹੋਣੀ ਜ਼ਰੂਰੀ ਹੈ।|
+|Number the TANs consecutively, starting from this value||Number the TANs consecutively, starting from this value|
+|Never expires||ਕਦੀ ਮਿਆਦ ਨਹੀਂ ਪੁੱਗੇਗੀ|
+|Auto-Type||ਆਟੋ-ਟਾਈਪ|
+|Help:||ਮੱਦਦ:|
+|Advanced||ਐਡਵਾਂਸਡ|
+|Start minimized and locked||ਨਿਊਨਤਮ ਅਤੇ ਤਾਲਾ ਲੱਗਿਆ ਚਾਲੂ ਕਰੋ|
+|Immediately after opening a database||ਡਾਟਾਬੇਸ ਖੋਲਦਿਆਂ ਸਾਰ|
+|Show expired entries (if any)||ਮਿਆਦ-ਪੁੱਗੇ ਇੰਦਰਾਜ਼ ਵਿਖਾਓ (ਜੇਕਰ ਕੋਈ ਹੋਣ)|
+|Show entries that will expire soon (if any)||ਜਲਦੀ ਹੀ ਮਿਆਦ ਪੁੱਗੇ ਜਾ ਰਹੇ ਇੰਦਰਾਜ਼ ਵਿਖਾਓ (ਜੇਕਰ ਕੋਈ ਹੋਣ)|
+|Integration||ਇੰਟੇਗ੍ਰੇਸ਼ਨ|
+|Start KeePass at Windows startup (for current user)||ਕੀਪਾਸ ਵਿੰਡੋਜ਼ ਨਾਲ ਹੀ ਚਾਲੂ ਕਰੋ|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!||ਕੀਪਾਸ ਦੀ ਆਟੋ-ਸਟਾਰਟ ਕੂੰਜੀ ਨੂੰ ਵਿੰਡੋਜ਼ ਰਜਿਸਟ੍ਰੀ ਵਿੱਚ ਬਣਾਇਆ/ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸੱਕਿਆ!|
+|Backup||ਬੈਕੱਪ|
+|Save backups of modified entries into the 'Backup' group||'ਬੈਕੱਪ' ਸਮੂਹ ਵਿੱਚ ਸੋਧੇ ਇੰਦਰਾਜ਼ਾਂ ਦਾ ਬੈਕੱਪ ਸੰਭਾਲੋ|
+|Failed to create backup of this entry!||ਇਸ ਇੰਦਰਾਜ਼ ਦਾ ਬੈਕੱਪ ਨਹੀਂ ਲਿਆ ਜਾ ਸੱਕਿਆ!|
+|The composite master key has been changed!||ਸਾਂਝੀ ਮਾਸਟਰ ਕੂੰਜੀ ਬਦਲ ਦਿੱਤੀ ਗਈ ਹੈ!|
+|Save the database now in order to get the new key applied.||ਨਵੀਂ ਕੂੰਜੀ ਲਾਗੂ ਕਰਨ ਲਈ ਡਾਟਾਬੇਸ ਦੀ ਹੁਣੇ ਸੰਭਾਲ ਕਰੋ।|
+|Fields to export||ਨਿਰਯਾਤ ਕਰਨ ਲਈ ਖੇਤਰ|
+|Icon||ਆਈਕਾਨ|
+|Group Tree||ਸਮੂਹ ਟਰੀ|
+|Export Options||ਨਿਰਯਾਤ ਚੋਣਾਂ|
+|Here you can customize the exported files.||ਇੱਥੇ ਤੁਸੀਂ ਨਿਰਯਾਤ ਫਾਇਲਾਂ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰ ਸੱਕਦੇ ਹੋ।|
+|Encode/replace newline characters by '\n'||ਨਵੀਂ ਲਾਈਨ ਅੱਖਰਾਂ ਨੂੰ '\n' ਨਾਲ ਇੰਕੋਡ/ਬਦਲੀ ਕਰੋ|
+|Export backup entries (entries in the 'Backup' group)||ਬੈਕੱਪ ਇੰਦਰਾਜ਼ ਨਿਰਯਾਤ ਕਰੋ (ਇੰਦਰਾਜ਼ ਜੋ ਕਿ 'ਬੈਕੱਪ' ਸਮੂਹ ਹੇਠਾਂ ਆਉਂਦੇ ਹਨ)|
+|&Get More Import Plugins...||ਹੋਰ ਆਯਾਤ ਪਲੱਗ-ਇੰਨ ਉਤਾਰੋ (&G)...|
+|Field has been pasted.||ਖੇਤਰ ਚੇਪ ਦਿੱਤੇ ਗਏ ਹਨ।|
+|Waiting for paste command.||ਚੇਪਨ ਵਾਲੀ ਕਮਾਂਡ ਦੀ ਉਡੀਕ।|
+|Paste operation completed.||ਚੇਪਨ ਦੀ ਕਾਰਵਾਈ ਪੂਰੀ ਹੋ ਗਈ ਹੈ।|
+|Limit to single instance||ਇੱਕੋ ਮੌਜੂਦਗੀ ਤੱਕ ਸੀਮਤ ਕਰੋ|
+|Use more secure password edit controls||ਹੋਰ ਵੀ ਸੁਰੱਖਿਅਤ ਪਾਸਵਰਡ ਸੋਧ ਬਕਸਿਆਂ ਦੀ ਵਰਤੋਂ ਕਰੋ|
+|Press Shift-Home or Shift-End to clear this edit control||ਸੋਧ ਬਕਸੇ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਲਈ Shift-Home ਜਾਂ Shift-End ਦਬਾਓ|
+|Single left click instead of double-click for default tray icon action||ਡੀਫਾਲਟ ਟਰੇ ਆਈਕਾਨ ਕਾਰਵਾਈ ਲਈ ਦੋ ਵਾਰ ਦੀ ਥਾਂ ਇੱਕ ਵਾਰ ਦਬਾਉਣ ਦੀ ਵਰਤੋਂ|
+|Exclude entries in the '&Backup' group||'ਬੈਕੱਪ' ਸਮੂਹ ਵਿਚਲੇ ਇੰਦਰਾਜ਼ਾਂ ਨੂੰ ਛੱਡ ਦਿਓ (&B)|
+|By default, new entries expire in the following number of days:||ਮੂਲ ਰੂਪ ਵਿੱਚ, ਨਵੇਂ ਇੰਦਰਾਜ਼ ਹੇਠਾਂ ਦਿੱਤੇ ਦਿਨ੍ਹਾਂ ਬਾਅਦ ਮਿਆਦ ਪੁੱਗ ਜਾਣਗੇ:|
+|Click to expire the entry in %u days||%u ਦਿਨ੍ਹਾਂ ਵਿੱਚ ਇੰਦਰਾਜ਼ ਦੀ ਮਿਆਦ ਪੁੱਗਾਉਣ ਲਈ ਦਬਾਓ|
+|Calculate rounds for a 1-second delay on this computer||ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ 1-ਸਕਿੰਟ ਦੇਰੀ ਲਈ ਦੌਰਿਆਂ ਦਾ ਹਿਸਾਬ ਲਗਾਓ|
+|The program is distributed under the terms of the GNU General Public License v2 or later.||ਇਹ ਕਾਰਜ GNU ਜਨਰਮ ਪੱਬਲਿਕ ਲਾਈਸੈਂਸ v2 ਜਾਂ ਉਸਦੇ ਮਗਰਲੇ ਵਰਜਨ ਦੀ ਸ਼ਰਤਾਂ ਅਧੀਨ ਵੰਡਿਆ ਗਿਆ ਹੈ।|
+|1 Week||1 ਹਫ਼ਤਾ|
+|2 Weeks||2 ਹਫ਼ਤੇ|
+|1 Month||1 ਮਹੀਨਾ|
+|3 Months||3 ਮਹੀਨੇ|
+|6 Months||6 ਮਹੀਨੇ|
+|1 Year||1 ਸਾਲ|
+|Include backup entries in quick searches (toolbar)||ਤੇਜ਼ ਖੋਜਾਂ (ਟੂਲਬਾਰ) ਵਿੱਚ ਬੈਕੱਪ ਇੰਦਰਾਜ਼ ਵੀ ਸ਼ਾਮਿਲ ਕਰੋ|
+|&Donate...||ਦਾਨ ਕਰੋ (&D)...|
+|Use alternative auto-type method (minimize window)||ਦੂਸਰਾ ਆਟੋ-ਟਾਈਪ ਢੰਗ ਵਰਤੋ (minimize window)|
+|Delete all backup entries before saving the database||ਡਾਟਾਬੇਸ ਸੰਭਾਲਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਰੇ ਬੈਕੱਪ ਇੰਦਰਾਜ਼ ਹਟਾ ਦਿਓ|
+|&Repair KeePass Database File...||ਕੀਪਾਸ ਡਾਟਾਬੇਸ ਫਾਇਲ ਮੁਰੱਮਤ (&R)...|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.||ਆਯਾਤ ਕਰਨ ਲਈ ਚੁਣਿਆ ਗਿਆ ਫਾਇਲ ਫਾਰਮੈਟ ਸਮੂਹ ਅਤੇ/ਜਾਂ ਇੰਦਰਾਜ਼ IDs ਲਈ ਸਹਿਯੋਗੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਆਯਾਤ ਰਵੱਈਏ ਦਾ ਚੁਣਾਓ ਕਰੋ।|
+|Create new IDs||ਨਵੀਆਂ IDs ਬਣਾਓ|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.||ਜੇਕਰ ਤੁਸੀਂ ਇਹ ਚੁਣਾਓ ਕਰਦੇ ਹੋ ਤਾਂ ਕੀਪਾਸ ਸਾਰੇ ਸਮੂਹਾਂ ਅਤੇ ਇੰਦਰਾਜ਼ਾ ਲਈ ਨਵੀਆਂ IDs ਤਿਆਰ ਕਰੇਗਾ। ਨਤੀਜੇ ਦੇ ਤੌਰ ਤੇ, ਖੋਲੇ ਹੋਏ ਡਾਟਾਬੇਸ ਵਿਚਲੇ ਕਿਸੇ ਵੀ ਮੌਜੂਦਾ ਸਮੂਹ ਅਤੇ ਇੰਦਰਾਜ਼ ਦਾ ਸੋਧ ਜਾਂ ਉਪਰੀਲੇਖਨ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ।|
+|Overwrite||ਉਪਰੀਲੇਖਨ|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.||ਕੀਪਾਸ ਸਾਰੇ ਮੌਜੂਦਾ ਸਮੂਹਾਂ ਅਤੇ ਇੰਦਰਾਜ਼ਾਂ ਨੂੰ ਆਯਾਤ ਕੀਤੀ ਜਾ ਰਹੀ ਫਾਇਲ ਵਿਚਲੇ ਸਮੂਹਾਂ ਅਤੇ ਇੰਦਰਾਜ਼ਾਂ ਨਾਲ ਤਬਦੀਲ ਕਰ ਦੇਵੇਗਾ, ਜੇ ਦੋਹਾਂ ਦੀ ID ਇੱਕੋ ਹੋਈ ਤਾਂ।|
+|Overwrite if newer||ਨਵਾਂ ਹੋਣ ਤੇ ਉਪਰੀਲੇਖਨ ਕਰੋ|
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.||ਕੀਪਾਸ ਸਿਰਫ਼ ਉਨ੍ਹਾਂ ਮੌਜੂਦਾ ਸਮੂਹਾਂ/ਇੰਦਰਾਜ਼ਾਂ ਨੂੰ ਤਬਦੀਲ ਕਰੇਗਾ ਜਿਨ੍ਹਾਂ ਦਾ ਆਖਿਰੀ ਸੋਧ ਸਮਾਂ ਆਯਾਤ ਕੀਤੇ ਜਾਉਣ ਵਾਲਿਆਂ ਦੀ ਤੁਲਨਾ ਵਿੱਚ ਪੁਰਾਣਾ ਹੈ।|
+|&KeePass Database...||ਕੀਪਾਸ ਡਾਟਾਬੇਸ (&K)...|
+|Acknowledgements||ਐਕਨੋਲਿਜਮੈਂਟਸ|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.||ਚੁਣਾਓ ਕਰੋ ਕਿ ਕੀਪਾਸ ਇਸ ਸਮੇਂ ਖੁੱਲੇ ਡਾਟਾਬੇਸ ਵਾਲੀ ਕੂੰਜੀ ਵਰਤੇਗਾ ਜਾਂ ਨਿਰਯਾਤ ਕੀਤੀ ਜਾ ਰਹੀ ਫਾਇਲ ਨੂੰ ਐਨਕ੍ਰਿਪਟ ਕਰਨ ਲਈ ਤੁਸੀਂ ਨਵੀਂ ਕੂੰਜੀ ਸਥਾਪਤ ਕਰੋਗੇ।|
+|Click [Yes] to use the same key as the currently opened database.||ਇਸ ਸਮੇਂ ਖੁੱਲੇ ਡਾਟਾਬੇਸ ਵਾਲੀ ਕੂੰਜੀ ਵਰਤਣ ਲਈ [ਹਾਂ/Yes] ਦਬਾਓ।|
+|Click [No] to set a new key for the exported file.||ਨਿਰਯਾਤ ਕੀਤੀ ਫਾਇਲ ਨੂੰ ਨਵੀਂ ਕੂੰਜੀ ਲਗਾਉਣ ਲਈ [ਨਾਂ/No] ਦਬਾਓ।|
+|Reuse the current key/password?||ਇਸ ਸਮੇਂ ਦੀ ਕੂੰਜੀ/ਪਾਸਵਰਡ ਦੀ ਮੁੜ ਵਰਤੋਂ ਕਰਨੀ ਹੈ?|
+|Show full path in the title bar (instead of file name only)||ਸ਼ੀਰਸ਼ਕ ਡੰਡੀ ਵਿੱਚ ਪੂਰਾ ਮਾਰਗ ਵਿਖਾਓ (ਕੱਲੇ ਫਾਇਲ ਦੇ ਨਾਂ ਦੀ ਥਾਂ)|
+|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)||URLs ਨੂੰ ਚਲਾਉਣ ਦੀ ਥਾਂ ਕਲਿੱਪਬੋਰਡ ਤੇ ਨਕਲ ਉਤਾਰੋ (cmd:// URLs ਨੂੰ ਛੱਡ ਕੇ)|
+|Copy &URL to Clipboard||ਲਿੰਕ ਦੀ ਕਲਿੱਪਬੋਰਡ ਤੇ ਨਕਲ ਉਤਾਰੋ (&U)|
+|Exit program instead of locking the workspace after the specified time||ਨਿਰਧਾਰਿਤ ਸਮੇਂ ਬਾਅਦ ਵਰਕਸਪੇਸ ਨੂੰ ਤਾਲਾ ਲਗਾਉਣ ਦੀ ਥਾਂ ਕਾਰਜ ਹੀ ਬੰਦ ਕਰ ਦਿਓ|
+|Click on an entry to auto-type it.||ਕਿਸੇ ਇੰਦਰਾਜ਼ ਨੂੰ ਆਟੋ-ਟਾਈਪ ਕਰਨ ਲਈ ਉਸਨੂੰ ਦਬਾਓ।|
+|Auto-Type Entry Selection||ਆਟੋ-ਟਾਈਪ ਇੰਦਰਾਜ਼ ਚੁਣਾਓ|
+|Multiple entries exist for the current window. Please select the entry to auto-type.||ਇਸ ਸਮੇਂ ਦੀ ਵਿੰਡੋ ਲਈ ਬਹੁ-ਇੰਦਰਾਜ਼ ਮੌਜੂਦ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਆਟੋ-ਟਾਈਪ ਲਈ ਇੰਦਰਾਜ਼ ਦਾ ਚੁਣਾਓ ਕਰੋ।|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.||ਜਿਹੜੀ ਫਾਇਲ ਤੁਸੀਂ ਖੋਲਨਾ ਚਾਹੁੰਦੇ ਹੋ ਉਹ ਪਹਿਲਾਂ ਹੀ ਕਿਸੇ ਹੋਰ ਨੇ ਸੋਧ ਕਰਨ ਲਈ ਖੋਲੀ ਹੋਈ ਹੈ।|
+|Open the file in read-only mode?||ਫਾਇਲ ਸਿਰਫ਼ ਪੜ੍ਹਨ ਲਈ ਖੋਲਨਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|Click [Yes] to open the file in read-only mode.||ਫਾਇਲ ਨੂੰ ਸਿਰਫ਼ ਪੜ੍ਹਨ ਲਈ ਖੋਲਨ ਵਾਸਤੇ [ਹਾਂ/Yes] ਦਬਾਓ।|
+|Click [No] to open the file in normal writing mode.||ਫਾਇਲ ਨੂੰ ਆਮ ਤਰ੍ਹਾਂ ਨਾਲ ਲਿਖਨ ਲਈ ਖੋਲਨ ਵਾਸਤੇ [ਨਾਂ/No] ਦਬਾਓ।|
+|Now||ਹੁਣੇ|
+|&Tools||ਸੰਧ (&T)|
+|TAN View &Options||ਟੈਨ ਦ੍ਰਿਸ਼ ਚੋਣਾਂ (&O)|
+|Use &Simple List View for TAN-Only Groups||ਸਿਰਫ਼ ਟੈਨ-ਮੌਜੂਦ ਸਮੂਹਾਂ ਲਈ ਸਧਾਰਨ ਸੂਚੀ ਦ੍ਰਿਸ਼ ਦੀ ਵਰਤੋਂ ਕਰੋ (&S)|
+|Show TAN &Indices in Entry Titles||ਇੰਦਰਾਜ਼ ਸ਼ੀਰਸ਼ਕਾਂ ਵਿੱਚ ਟੈਨ ਇੰਡੀਸੀਸ ਵਿਖਾਓ (&I)|
+|Disable 'Save' button if the database hasn't been modified||ਜੇਕਰ ਡਾਟਾਬੇਸ ਵਿੱਚ ਕੋਈ ਸੋਧ ਨਾਂ ਹੋਏ ਤਾਂ 'ਸੰਭਾਲੋ' ਬਟਨ ਨੂੰ ਆਯੋਗ ਰੱਖੋ|
+|Check For Update||ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ|
+|Check for Update||ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ|
+|New KeePass version available!||ਨਵਾਂ ਕੀਪਾਸ ਵਰਜਨ ਉਪਲੱਬਧ ਹੈ!|
+|You have the latest version.||ਤੁਹਾਡੇ ਕੋਲ ਸਭ ਤੋਂ ਨਵਾਂ ਵਰਜਨ ਹੈ।|
+|Do you want to visit the KeePass homepage now?||ਕੀ ਤੁਸੀਂ ਇਸੇ ਵੇਲੇ ਕੀਪਾਸ ਦੇ ਮੁੱਖ ਸਫ਼ੇ ਤੇ ਜਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|Connect failed, cannot check for update.||ਕੁਨੈੱਕਟ ਸਮੱਸਿਆ, ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਨਹੀਂ ਹੋ ਸੱਕਦੀ।|
+|Cache error (cannot open cached file).||ਕੈਸ਼ ਸਮੱਸਿਆ (ਕੈਸ਼ ਫਾਇਲ ਨਹੀਂ ਖੋਲੀ ਜਾ ਸੱਕਦੀ)।|
+|Check for update at KeePass startup||ਕੀਪਾਸ ਚਾਲੂ ਹੁੰਦਿਆਂ ਹੀ ਨਵੀਂ ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ|
+|'Keyfile' or 'preselect' option is already specified||'Keyfile' ਜਾਂ 'preselect' ਚੋਣ ਪਹਿਲਾਂ ਹੀ ਦਿੱਤੀ ਹੋਈ ਹੈ|
+|Path is invalid||ਮਾਰਗ ਠੀਕ ਨਹੀਂ ਹੈ|
+|Filename not found||ਫਾਇਲ ਨਾਂ ਨਹੀਂ ਲੱਭਿਆ|
+|'Pw' option is already specified||'Pw'-ਵਿਕਲਪ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ|
+|Password is empty||ਪਾਸਵਰਡ ਖਾਲੀ ਹੈ|
+|Option not recognized||ਚੋਣ ਪਛਾਣਯੋਗ ਨਹੀਂ ਹੈ|
+|Database is already specified||ਡਾਟਾਬੇਸ ਪਹਿਲਾਂ ਹੀ ਦੱਸਿਆ ਹੋਇਆ ਹੈ|
+|It contains an unmatched quote||ਇਸਦੇ ਵਿੱਚ ਇੱਕ ਨਾ-ਮੇਲ ਖਾਂਦਾ ਕੁਔਟ ਮੌਜੂਦ ਹੈ|
+|Command line argument||ਕਮਾਂਡ ਲਾਈਨ ਆਰਗੂਮੈਂਟ|
+|ignored||ਰੱਦ ਕੀਤਾ|
+|Reason||ਕਾਰਣ|
+|KeePass Initialization||ਕੀਪਾਸ ਸ਼ੁਰੂਆਤ|
+|Value||ਮੁੱਲ|
+|Select the fields KeePass should remember||ਖੇਤਰ ਚੁਣੋ ਜੋ ਕੀਪਾਸ ਯਾਦ ਰੱਖੇਗਾ|
+|Fields to remember||ਯਾਦ ਰੱਖਣ-ਯੋਗ ਖੇਤਰ|
+|An entry already exists for the current URL.||ਮੌਜੂਦਾ ਲਿੰਕ ਲਈ ਇੱਕ ਇੰਦਰਾਜ਼ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।|
+|The following application requests access to your currently opened KeePass database:||ਹੇਠਾਂ ਦਿੱਤਾ ਗਿਆ ਕਾਰਜ ਤੁਹਾਡੇ ਇਸ ਸਮੇਂ ਖੁੱਲੇ ਡਾਟਾਬੇਸ ਤੱਕ ਪਹੁੰਚ ਦੀ ਮੰਗ ਕਰ ਰਿਹਾ ਹੈ:|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).||ਨੋਟ ਕਰੋ ਕਿ ਕਾਰਜ ਦਾ ਸ਼ੀਰਸ਼ਕ ਮੰਗ ਕਰਨ ਵਾਲੇ ਕਾਰਜ ਵੱਲੋਂ ਦਿੱਤਾ ਗਿਆ ਹੈ ਅਤੇ ਗ਼ਲਤ ਵੀ ਹੋ ਸੱਕਦਾ ਹੈ (ਇੱਕ ਗ਼ਲਤ ਕਾਰਜ ਤੁਹਾਡੇ ਡਾਟਾਬੇਸ ਤੱਕ ਪਹੁੰਚਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੋ ਸੱਕਦਾ ਹੈ)।|
+|Do you grant the application access to your KeePass database?||ਕੀ ਤੁਸੀਂ ਕਾਰਜ ਨੂੰ ਆਪਣੇ ਕੀਪਾਸ ਡਾਟਾਬੇਸ ਤੱਕ ਪਹੁੰਚ ਦਾ ਅਧੀਕਾਰ ਦਿੰਦੇ ਹੋ?|
+|&Read-Only||ਕੇਵਲ ਪੜ੍ਹਨ ਲਈ (&R)|
+|&Full||ਪੂਰਾ (&F)|
+|&Deny||ਠੁਕਰਾਓ (&D)|
+|Incoming IPC Request||ਆਉਂਦੀ IPC ਦਰਖ਼ਾਸਤ|
+|An application requests access through inter-process communication||ਇੱਕ ਕਾਰਜ ਇੰਟਰ-ਪ੍ਰੋਸੈਸ ਕੰਮੂਨੀਕੇਸ਼ਨ (IPC) ਰਾਂਹੀ ਪਹੁੰਚ ਦੀ ਦਰਖ਼ਾਸਤ ਕਰ ਰਿਹਾ ਹੈ|
+|Application||ਕਾਰਜ|
+|Unknown||ਅਨਜਾਣ|
+|Enable remote control (allow applications to communicate with KeePass)||ਰੀਮੋਟ ਕੰਟ੍ਰੋਲ ਯੋਗ ਕਰੋ (ਕਾਰਜਾਂ ਨੂੰ ਕੀਪਾਸ ਨਾਲ ਸੰਚਾਰ ਬਨਾਉਣ ਲਈ ਸਹਾਈ ਕਰੋ)|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).||ਧਿਆਨ ਦਿਓ ਕਿ ਉਹ ਮੀਡੀਆ, ਜਿਸ ਵਿੱਚ ਕੂੰਜੀ ਫਾਇਲ ਮੌਜੂਦ ਹੈ, ਪਾਇਆ ਗਿਆ ਹੋਵੇ ਅਤੇ ਕੀਪਾਸ ਕੋਲ ਉਸ ਮੀਡੀਆ ਤੱਕ ਪਹੁੰਚਣ ਦਾ ਅਧੀਕਾਰ ਹੋਵੇ (ਫਾਇਲ ਤੱਕ ਪਹੁੰਚਣ ਦੇ ਅਧੀਕਾਰਾਂ ਦੀ ਜਾਂਚ ਕਰੋ, ਇਹ ਵੀ ਵੇਖੋ ਕਿ ਕੋਈ ਹੋਰ ਕਾਰਜ ਉਸ ਫਾਇਲ ਨੂੰ ਰੋਕ ਨਾ ਰਿਹਾ ਹੋਵੇ, ...)।|
+|There are too few characters in the character set to build up a password matching the specified rules||ਦਿੱਤੇ ਗਏ ਨਿਯਮਾਂ ਦੇ ਅਨੁਸਾਰ ਪਾਸਵਰਡ ਬਨਾਉਣ ਲਈ ਕਰੈਕਟਰ ਸੈਟ ਵਿੱਚ ਬਹੁੱਤ ਘੱਟ ਅੱਖਰ ਹਨ|
+|(Custom)||(ਕਸਟਮ)|
+|Save current settings as a profile.||ਇਸ ਸਮੇਂ ਦੀਆਂ ਸੈਟਿੰਗ ਇੱਕ ਪ੍ਰੋਫਾਇਲ ਦੀ ਤਰ੍ਹਾਂ ਸੰਭਾਲੋ।|
+|Delete currently selected profile.||ਇਸ ਸਮੇਂ ਚੁਣੀ ਗਈ ਪ੍ਰੋਫਾਇਲ ਨੂੰ ਹਟਾਓ।|
+|(Automatically generated passwords for new entries)||(ਨਵੇਂ ਇੰਦਰਾਜ਼ਾਂ ਲਈ ਆਪ ਹੀ ਪਾਸਵਰਡ ਬਣਾ ਦਿਓ)|
+|Profile||ਪ੍ਰੋਫਾਇਲ|
+|Length of generated password:||ਜਨਰੇਟ ਕੀਤੇ ਜਾਉਣ ਵਾਲੇ ਪਾਸਵਰਡ ਦੀ ਲੰਬਾਈ:|
+|Generate using character set:||ਕਰੈਕਟਰ ਸੈਟ ਵਰਤ ਕੇ ਬਣਾਓ:|
+|Generate using pattern:||ਪੈਟਰਨ ਵਰਤ ਕੇ ਬਣਾਓ:|
+|Also include the following characters:||ਹੇਠਾਂ ਦਿੱਤੇ ਅੱਖਰਾਂ ਦੀ ਵੀ ਵਿੱਚ ਵਰਤੋ ਕਰੋ:|
+|Exclude look-alike characters||ਮਿਲਦੇ-ਜੁਲਦੇ ਅੱਖਰਾਂ ਦੀ ਵਰਤੋਂ ਨਾ ਕਰੋ|
+|Use local date/time format instead of ISO notation||ISO ਨੋਟੇਸ਼ਨ ਦੀ ਥਾਂ ਸਥਾਨਕ ਮਿਤੀ/ਸਮਾਂ ਫਾਰਮੈਟ ਦੀ ਵਰਤੋਂ ਕਰੋ|
+|Save as Profile||ਪ੍ਰੋਫਾਇਲ ਦੀ ਤਰ੍ਹਾਂ ਸੰਭਾਲੋ|
+|Save current settings as password generator profile.||ਇਸ ਸਮੇਂ ਦੀਆਂ ਸੈਟਿੰਗ ਪਾਸਵਰਡ ਜਨਰੇਟਰ ਪ੍ਰੋਫਾਇਲ ਦੀ ਤਰ੍ਹਾਂ ਸੰਭਾਲੋ।|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:||ਕਿਰਪਾ ਕਰਕੇ ਨਵੀਂ ਪਾਸਵਰਡ ਜਨਰੇਟਰ ਪ੍ਰੋਫਾਇਲ ਦਾ ਨਾਂ ਭਰੋ, ਜਾਂ ਕਿਸੇ ਮੌਜੂਦਾ ਪ੍ਰੋਫਾਇਲ ਦਾ ਉਪਰੀਲੇਖਣ ਕਰਨ ਲਈ ਉਸਦਾ ਚੁਣਾਓ ਕਰੋ:|
+|Randomly permute characters of password||ਪਾਸਵਰਡ ਦੇ ਅੱਖਰ ਰਲਵੇਂ ਤੌਰ ਤੇ ਪਰਮੂਟ ਕਰੋ|
+|Locked||ਤਾਲਾ-ਬੰਦ|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?||ਮੱਦਦ ਫਾਇਲ ਵਿੱਚ ਲੋੜੀਂਦੇ ਇੰਪੁੱਟ ਫੌਰਮੈਟ ਦੀ ਵੇਰਵੇ ਸਹਿਤ ਜਾਣਕਾਰੀ ਹੈ। ਕੀ ਤੁਸੀਂ ਮੱਦਦ ਫਾਇਲ ਖੋਲਨਾ ਚਾਹੁੰਦੇ ਹੋ?|
+|Failed to save the configuration.||ਸਰੰਚਨਾ ਸੰਭਾਲਦਿਆਂ ਸਮੱਸਿਆ ਆ ਗਈ ਹੈ।|
+|Arguments||ਆਰਗੂਮੈਂਟ|
+|&Export Group To||ਸਮੂਹ ਨਿਰਯਾਤ ਕਰੋ|
+|&Modify All Selected...||ਚੁਣੇ ਗਏ ਸਾਰੇ ਸੋਧ ਕਰੋ... (&M)|
+|Abort specifying a new key for the current database.||ਮੌਜੂਦਾ ਡਾਟਾਬੇਸ ਲਈ ਨਵੀਂ ਕੂੰਜੀ ਦੱਸਣ ਦਾ ਕਾਰਜ ਅਧੂਰਾ ਛੱਡੋ।|
+|Abort the current operation.||ਮੌਜੂਦਾ ਓਪਰੇਸ਼ਨ ਨੂੰ ਅਧੂਰਾ ਛੱਡੋ|
+|Advanced Password Generator Options||ਐਡਵਾਂਸਡ ਪਾਸਵਰਡ ਜਨਰੇਟਰ ਚੌਣਾਂ|
+|Always grant full access through remote control (not recommended)||ਰੀਮੋਟ ਕੰਟ੍ਰੋਲ ਰਾਂਹੀ ਹਮੇਸ਼ਾ ਪੂਰਾ ਪਹੁੰਚ ਅਧੀਕਾਰ ਦਿਓ (ਇਸਦਾ ਸੁਝਾਓ ਨਹੀਂ ਦਿੱਤਾ ਜਾਂਦਾ)|
+|An error occurred||ਇੱਕ ਸਮੱਸਿਆ ਆ ਗਈ ਹੈ|
+|An error occurred while importing the file. File cannot be imported.||ਫਾਇਲ ਆਯਾਤ ਕਰਦਿਆਂ ਸਮੱਸਿਆ ਆ ਗਈ ਹੈ। ਫਾਇਲ ਆਯਾਤ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸੱਕਦੀ ਹੈ।|
+|Auto-Type: Customize Sequence||Auto-Type: Customize Sequence|
+|Auto-Type: Help||ਆਟੋ-ਟਾਈਪ ਮਦੱਦ|
+|Auto-Type: Select Target Window...||ਆਟੋ-ਟਾਈਪ: ਟਾਰਗੈਟ ਵਿੰਡੋ ਚੁਣੋ|
+|Automatically save when closing/locking the database||ਬੰਦ ਕਰਨ/ਤਾਲਾ ਲਗਾਉਣ ਤੇ ਆਪੇ ਹੀ ਡਾਟਾਬੇਸ ਦੀ ਸੰਭਾਲ ਕਰੋ|
+|Cancel||ਰੱਦ ਕਰੋ|
+|Clear Search History||Clear Search History|
+|Clear clipboard when closing/locking the database||ਡਾਟਾਬੇਸ ਨੂੰ ਬੰਦ ਕਰਨ/ਤਾਲਾ ਲਗਾਉਣ ਤੇ ਕਲਿੱਪਬੋਰਡ ਸਾਫ਼ ਕਰ ਦਿਓ|
+|Collect additional &entropy||ਵਧੇਰੇ ਐਨਟ੍ਰੋਪੀ ਇਕੱਠੀ ਕਰੋ|
+|Copy [of an item]||ਨਕਲ [ਕਿਸੇ ਇਕਾਈ ਦੀ]|
+|Default auto-type sequence for standard entries:||Default auto-type sequence for standard entries:|
+|Default user name for new entries:||ਨਵੇਂ ਇੰਦਰਾਜ਼ਾਂ ਲਈ ਮੂਲ ਯੂਜ਼ਰ ਨਾਂ:|
+|Discard all changes made to the database and close the file.||ਕੀਤੀਆਂ ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰਕੇ ਡਾਟਾਬੇਸ ਫਾਇਲ ਬੰਦ ਕਰੋ।|
+|Discard all changes made to the database and exit KeePass.||ਡਾਟਾਬੇਸ ਵਿੱਚ ਕੀਤੀਆਂ ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰਕੇ ਕੀਪਾਸ ਬੰਦ ਕਰੋ।|
+|Discard all changes made to the database and lock the KeePass workspace.||ਡਾਟਾਬੇਸ  ਵਿੱਚ ਕੀਤੀਆਂ ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰਕੇ ਕੀਪਾਸ ਵਰਕਸਪੇਸ ਨੂੰ ਤਾਲਾ ਲਗਾ ਦਿਓ।|
+|Discard changes||ਬਦਲਾਵ ਰੱਦ ਕਰੋ|
+|Drop to background when copying data to the clipboard||Drop to background when copying data to the clipboard|
+|Enable auto-type features||ਆਟੋ-ਟਾਈਪ ਫੀਚਰ ਯੋਗ ਕਰੋ|
+|Exclude &expired entries||ਮਿਆਦ-ਪੁੱਗੇ ਇੰਦਰਾਜ਼ਾਂ ਨੂੰ ਛੱਡ ਦਿਓ (&e)|
+|Exclude the following characters:||ਹੇਠਾਂ ਦਿੱਤੇ ਅੱਖਰਾਂ ਨੂੰ ਛੱਡ ਦਿਓ:|
+|Field to reference||ਹਵਾਲੇ ਲਈ ਖੇਤਰ|
+|Fields to print||ਪ੍ਰਿੰਟ ਕਰਨ ਲਈ ਖੇਤਰ|
+|Focus entry list after a successful quick search (toolbar)||ਸਫਲਤਾਪੂਰਵਕ ਤੇਜ਼ ਖੋਜ (ਟੂਲਬਾਰ) ਤੋਂ ਬਾਅਦ ਇੰਦਰਾਜ਼ ਸੂਚੀ ਉੱਤੇ ਫੌਕੱਸ ਕਰੋ|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.||ਨਵੀਂ ਕੂੰਜੀ ਜਨਰੇਤ ਕਰੋ ਅਤੇ ਮੌਜੂਦਾ ਕੂੰਜੀ ਫਾਇਲ ਦਾ ਉਪਰੀਲੇਖਣ ਕਰੋ। ਮੌਜੂਦਾ ਕੂੰਜੀ ਫਾਇਲ ਵਿੱਚ ਸੰਭਾਲੀ ਕੂੰਜੀ ਫੇਰ ਨਹੀਂ ਲੱਭੀ ਜਾ ਸੱਕੇਗੀ।|
+|Here you can configure auto-type.||ਇੱਥੇ ਤੁਸੀਂ ਆਟੋ-ਟਾਈਪ ਦੀ ਸਰੰਚਨਾ ਕਰ ਸੱਕਦੇ ਹੋ।|
+|Here you can customize the printed sheet.||ਇੱਥੇ ਤੁਸੀਂ ਪ੍ਰਿੰਟਡ ਸ਼ੀਟ ਦੀ ਸਰੰਚਨਾ ਕਰ ਸੱਕਦੇ ਹੋ।|
+|Identify source entry by||ਸਰੋਤ ਇੰਦਰਾਜ਼ ਦੀ ਪਛਾਣ|
+|In Notes Field||ਨੋਟ ਖੇਤਰ ਵਿੱਚ|
+|In Password Field||ਪਾਸਵਰਡ ਖੇਤਰ ਵਿੱਚ|
+|In Title Field||ਸ਼ੀਰਸ਼ਕ ਖੇਤਰ ਵਿੱਚ|
+|In URL Field||URL ਖੇਤਰ ਵਿੱਚ|
+|In User Name Field||ਯੂਜ਼ਰ ਨਾਂ ਖੇਤਰ ਵਿੱਚ|
+|Include expired entries in quick searches (toolbar)||ਤੇਜ਼ ਖੋਜਾਂ (ਟੂਲਬਾਰ) ਵਿੱਚ ਮਿਆਦ-ਪੁੱਗੇ ਇੰਦਰਾਜ਼ ਵੀ ਸ਼ਾਮਲ ਕਰੋ|
+|Insert Field Reference||ਖੇਤਰ ਹਵਾਲਾ ਭਰਤੀ ਕਰੋ|
+|KeePass will not be closed.||ਕੀਪਾਸ ਬੰਦ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ।|
+|Key File||ਕੂੰਜੀ ਫਾਇਲ|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.||ਕੋਈ ਕੂੰਜੀ ਫਾਇਲ ਲੋਡ ਕਰਕੇ ਅਤੇ ਉਸਨੂੰ ਖੁੱਲੇ ਡਾਟਾਬੇਸ ਦੀ ਕੂੰਜੀ ਦੀ ਤਰ੍ਹਾਂ ਵਰਤੋ। ਕੂੰਜੀ ਫਾਇਲ ਸੋਧੀ ਨਹੀਂ ਜਾਵੇਗੀ।|
+|Lock workspace when locking Windows, switching user or sleeping||Lock workspace when locking Windows, switching user or sleeping|
+|Multiple entries match the specified identifying field.||ਦਿੱਤੇ ਪਛਾਣ ਖੇਤਰ ਨਾਲ ਇੱਕ ਤੋਂ ਵੱਧ ਇੰਦਰਾਜ਼ ਮੇਲ ਖਾਂਦੇ ਹਨ।|
+|No repeating characters||No repeating characters|
+|Normal||ਆਮ|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.||ਫਾਇਲ ਸਿਰਫ ਪੜਨ ਲਈ ਖੋਲੋ। ਡਾਟਾਬੇਸ ਵਿੱਚ ਜੋ ਬਦਲਾਵ ਹੋਣਗੇ, ਉਹ ਕਿਸੇ ਵੱਖਰੀ ਫਾਇਲ ਵਿੱਚ ਸੰਭਾਲੇ ਜਾ ਸੱਕਦੇ ਹਨ।|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.||ਐਸਟ੍ਰਿਸਕ ਨਾਲ ਮਾਰਕ ਕੀਤੇ ਚੌਣ/ਰੂਲ ਜਨਰੇਟ ਕੀਤੇ ਪਾਸਵਰਡ ਦੀ ਸੁਰੱਖਿਅਤਾ ਨੂੰ ਘਟਾਉਂਦੇ ਹਨ। ਇਨ੍ਹਾਂ ਨੂੰ ਤਾਂ ਹੀ ਯੋਗ ਕਰੋ ਜੇ ਕਿਸੇ ਵੈਬਸਾਈਟ, ਸਾਫਟਵੇਅਰ ਜਾਂ ਪਾਸਵਰਡ ਪੋਲਸੀ ਵੱਲੋਂ ਇਸਤਰ੍ਹਾਂ ਕਰਨਾ ਲਾਜਮੀ ਹੋਵੇ।|
+|Overwrite existing key file?||ਮੌਜੂਦਾ ਕੂੰਜੀ ਫਾਇਲ ਉਪਰੀਲੇਖਨ ਦੀ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹੋ?|
+|Prepend special initialization sequence for Internet Explorer windows||Prepend special initialization sequence for Internet Explorer windows|
+|Print Options||ਪ੍ਰਿੰਟ ਚੌਣਾਂ|
+|Print backup entries (entries in the 'Backup' group)||ਬੈਕੱਪ ਇੰਦਰਾਜ਼ ਪ੍ਰਿੰਟ ਕਰੋ|
+|Provider||ਪ੍ਰੋਵਾਈਡਰ|
+|Read-only||ਕੇਵਲ ਪੜਨ-ਯੋਗ|
+|Register Ctrl-Alt-K hot key (brings the KeePass window to front)||Ctrl-Alt-K ਹਾਟ ਕੀ ਰਜਿਸਟਰ ਕਰੋ (ਕੀਪਾਸ ਵਿੰਡੋ ਨੂੰ ਮੁਹਰੇ ਲਿਆਉਣ ਲਈ)|
+|Regular expression||ਰੈਗੂਲਰ ਐਕਸਪ੍ਰੈਸ਼ਨ|
+|Reuse||ਮੁੜ-ਵਰਤੋਂ|
+|Save||ਸੰਭਾਲ|
+|Save all changes made to the database and close the file.||ਕੀਤੀਆਂ ਤਬਦੀਲੀਆਂ ਦੀ ਸੰਭਾਲ ਕਰਕੇ ਡਾਟਾਬੇਸ ਫਾਇਲ ਨੂੰ ਬੰਦ ਕਰੋ।|
+|Save all changes made to the database and exit KeePass.||ਕੀਤੀਆਂ ਤਬਦੀਲੀਆਂ ਦੀ ਸੰਭਾਲ ਕਰਕੇ ਕੀਪਾਸ ਨੂੰ ਬੰਦ ਕਰੋ।|
+|Save all changes made to the database and lock the KeePass workspace.||ਕੀਤੀਆਂ ਤਬਦੀਲੀਆਂ ਦੀ ਸੰਭਾਲ ਕਰਕੇ ਕੀਪਾਸ ਵਰਕਸਪੇਸ ਨੂੰ ਤਾਲਾ ਲਗਾਓ।|
+|Save database changes before closing the file?||ਕੀ ਫਾਇਲ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਡਾਟਾਬੇਸ ਵਿੱਚਲੀਆਂ ਤਬਦੀਲੀਆਂ ਦੀ ਸੰਭਾਲ ਕਰਨੀ ਹੈ?|
+|Save database changes before exiting KeePass?||ਕੀ ਕੀਪਾਸ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਡਾਟਾਬੇਸ ਵਿੱਚਲੀਆਂ ਤਬਦੀਲੀਆਂ ਦੀ ਸੰਭਾਲ ਕਰਨੀ ਹੈ?|
+|Save database changes before locking the workspace?||ਕੀ ਤਾਲਾ ਲਗਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਡਾਟਾਬੇਸ ਵਿੱਚਲੀਆਂ ਤਬਦੀਲੀਆਂ ਦੀ ਸੰਭਾਲ ਕਰਨੀ ਹੈ?|
+|Search...||ਖੋਜ|
+|Select the target window for the current entry.||ਇੰਦਰਾਜ਼ ਲਈ ਟਾਰਗੈਟ ਵਿੰਡੋ ਦਾ ਚੁਣਾਓ ਕਰੋ।|
+|Sort items in the auto-type entry selection dialog||Sort items in the auto-type entry selection dialog|
+|Source field to reference||ਹਵਾਲੇ ਲਈ ਸਰੋਤ ਖੇਤਰ|
+|TANs are imported into the currently selected group||ਟੈਨ ਚੁਣੇ ਸਮੂਹ ਵਿੱਚ ਆਯਾਤ ਕੀਤੇ ਜਾਣਗੇ|
+|Take ownership of the file and open it in normal writing mode.||Take ownership of the file and open it in normal writing mode.|
+|The KeePass workspace will not be locked.||ਕੀਪਾਸ ਵਰਕਸਪੇਸ ਨੂੰ ਤਾਲਾ ਨਹੀਂ ਲਗਾਇਆ ਜਾਵੇਗਾ।|
+|The current database file has been modified||ਮੌਜੂਦਾ ਡਾਟਾਬੇਸ ਫਾਈਲ ਸੋਧੀ ਗਈ ਹੈ|
+|The estimated quality of the master password must be at least %u bits!||ਮਾਸਟਰ ਪਾਸਵਰਡ ਦੀ ਅੰਦਾਜਨ ਕੁਆਲਟੀ ਘੱਟੋਂ-ਘੱਟ %u ਬਿੱਟ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ!|
+|The file will not be closed.||ਫਾਇਲ ਬੰਦ ਨਹੀਂ ਕੀਤੀ ਜਾਵੇਗੀ।|
+|The key provider plugin did not supply a valid key||ਕੂੰਜੀ ਪ੍ਰੋਵਾਈਡਰ ਪਲੱਗ-ਇਨ ਨੇ ਸਹੀ ਕੂੰਜੀ ਨਹੀਂ ਦਿੱਤੀ।|
+|The master password must be at least %u characters long!||ਮਾਸਟਰ ਪਾਸਵਰਡ ਘੱਟੋਂ-ਘੱਟ %u ਅੱਖਰਾਂ ਦਾ ਹੋਣਾਂ ਚਾਹੀਦਾ ਹੈ!|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).||ਚੁਣੇ ਗਏ ਖੇਤਰ, ਜੋ ਕਿ ਸਰੋਤ ਇੰਦਰਾਜ਼ ਦੀ ਪਛਾਣ ਦੱਸਦਾ ਹੈ, ਵਿੱਚ ਨਾ-ਮੰਜੂਰਸ਼ੁਦਾ ਅੱਖਰ ਹਨ (ਜਿਵੇਂ ਕਿ '{', '}', ਨਵੀਂਲਾਈਨ ਅੱਖਰ, ...)।|
+|The selected key file already exists||ਚੁਣੀ ਕੂੰਜੀ ਫਾਇਲ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.||ਟਾਰਗੈਟ ਫਾਇਲ ਸ਼ਾਇਦ ਖ਼ਰਾਬ ਦਸ਼ਾ ਵਿੱਚ ਹੈ। ਮੁੜ-ਸੰਭਾਲਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ, ਜੇ ਫੇਰ ਵੀ ਨਾ ਹੋਵੇ, ਤਾਂ ਡਾਟਾਬੇਸ ਦੀ ਕਿਸੇ ਨਵੀਂ ਥਾਂ ਤੇ ਸੰਭਾਲ ਕਰੋ।|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.||ਅਨਿਸ਼ਚਿਤਤਾ ਨਾ ਹੋਵੇ, ਇਸ ਲਈ ਇੰਦਰਾਜ਼ਾਂ ਦੀ ਪਛਾਣ UUID ਨਾਲ ਹੋ ਸੱਕਦੀ ਹੈ, ਜੋ ਕਿ ਵਿਲੱਖਣ ਹੁੰਦੇ ਹਨ।|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:||ਟਾਰਗੈਟ ਵਿੰਡੋ ਦਾ ਚੁਣਾਓ ਕਰਨ ਲਈ, ਜਾਂ ਤਾਂ ਮੌਜੂਦਾ ਕਿਸੇ ਖੁੱਲੀ ਵਿੰਡੋ ਦਾ ਸ਼ੀਰਸ਼ਕ ਲਿਸਟ ਵਿੱਚੋਂ ਚੁਣੋ, ਜਾਂ ਆਪ ਹੀ ਸ਼ੀਰਸ਼ਕ ਲਿੱਖ ਦਿਓ:|
+|Type to search the database||ਡਾਟਾਬੇਸ ਵਿੱਚ ਖੋਜ ਕਰਨ ਲਈ ਟਾਈਪ ਕਰੋ|
+|URL Field: Help||URL ਖੇਤਰ: ਮਦੱਦ|
+|URL Field: Insert Placeholder||URL ਖੇਤਰ: ਪਲੇਸਹੋਲਡਰ ਭਰਤੀ ਕਰੋ|
+|URL Field: Select Application...||URL ਖੇਤਰ: ਐਪਲੀਕੇਸ਼ਨ ਚੁਣੋ|
+|URL Field: Select Document...||URL ਖੇਤਰ: ਦਸਤਾਵੇਜ਼ ਚੁਣੋ|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.||ਤੁਸੀਂ 'ਸੰਧ' - 'ਚੋਣਾਂ' - 'ਐਡਵਾਂਸਡ' - 'ਆਟੋ-ਟਾਈਪ' ਵਿੱਚ ਕਿਸੇ ਵੱਖਰੇ ਹਾਟ-ਕੀ ਮਿਸ਼ਰਨ ਦਾ ਚੁਣਾਓ ਕਰ ਸੱਕਦੇ ਹੋ।|
+|in "Minimal functionality" mode||"ਘੱਟੋਂ-ਘੱਟ ਫਨਕਸ਼ਨੈਲਟੀ" ਮੋਡ ਵਿੱਚ|
