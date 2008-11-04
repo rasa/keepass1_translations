@@ -49,7 +49,7 @@
 |&Lock Workspace||&Bloquear área de trabajo|
 |&Lock/Unlock Workspace||&Bloquear/Desbloquear área de trabajo|
 |&New...||&Nuevo...|
-|&OK||&OK|
+|&OK||&Aceptar|
 |&Open with KeePass||&Abrir con KeePass|
 |&Open...||&Abrir...|
 |&Options...||&Opciones...|
@@ -200,8 +200,8 @@
 |Enable remote control (allow applications to communicate with KeePass)||Activar control remoto (permitir a otras aplicaciones comunicarse con KeePass)|
 |Enabled, loaded||Activado, cargado|
 |Encode/replace newline characters by '\n'||Codificar/reemplazar caracteres de nueva línea con '/n'|
-|Encryption algorithm to use (for this database):||Algoritmo de encriptación a utilizar (para esta base de datos):|
-|Encryption/decryption error||Error al encriptar/decriptar|
+|Encryption algorithm to use (for this database):||Algoritmo de cifrado a utilizar (para esta base de datos):|
+|Encryption/decryption error||Error al cifrar/descifrar|
 |Enhanced: allow pasting only once and protect against clipboard spies||Avanzado: permitir el pegado una única vez y proteger contra espías del portapapeles|
 |Enter a group name!||¡Introduzca un nombre de grupo!|
 |Enter Composite Master Key||Ingrese Clave Maestra Compuesta|
@@ -278,7 +278,7 @@
 |Invalid/wrong key||Clave inválida/incorrecta|
 |It contains an unmatched quote||Contiene una comilla no cerrada|
 |It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.||Es probable que el plugin sea compatible, pero también es posible que haga fallar al KeePass.|
-|Just hack some random keys into the edit box above.||Escribas algunas claves aleatorias dentro del cuadro de arriba.|
+|Just hack some random keys into the edit box above.||Escribas algunas claves aleatorias dentro del cuadro superior.|
 |Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.||Pegue sus TANs en la ventana de edición siguiente. Todos los caracteres que no sean explícitamente especificados como caracteres TAN son considerados separadores, y sólo subsecuencias compuestas por caracteres TAN son agregadas como entradas TAN.|
 |KeePass - Save Before Close/Lock?||KeePass - ¿Guardar antes de Cerrar/Bloquear?|
 |KeePass Initialization||Inicio de KeePass|
@@ -340,7 +340,7 @@
 |Notes:||Comentarios:|
 |Notes||Comentarios|
 |Now||Ahora|
-|Number of key encryption rounds:||Número de veces que será encriptada la clave:|
+|Number of key encryption rounds:||Número de veces que será cifrada la clave:|
 |Number of selected entries (number of entries in the list)||Número de entradas seleccionadas (número de entradas en la lista)|
 |Number the TANs consecutively, starting from this value||Número de TANs consecutivas, empezando desde este valor|
 |Open &Help File||Abrir Arc&hivo de Ayuda|
@@ -377,8 +377,8 @@
 |Print Pre&view...||&Pre&visualizar Impresión...|
 |'Pw' option is already specified||La opción 'Pw' se encuentra ya especificada|
 |Quality:||Calidad:|
-|Random keyboard input||Entrada aleatoria por el teclado|
-|Random mouse input||Entrada aleatoria por el mouse|
+|Random keyboard input||Generación aleatoria por teclado|
+|Random mouse input||Generación aleatoria por mouse|
 |Ready.||Listo.|
 |Reason||Razón|
 |Remember last opened file||Recordar el último archivo abierto|
@@ -417,7 +417,7 @@
 |Show full path in the title bar (instead of file name only)||Mostrar la ruta completa en la barra del título (en lugar de solamente el nombre del archivo)|
 |Show grid lines in password entry list||Mostrar líneas cuadriculadas en la lista de contraseñas|
 |Single left click instead of double-click for default tray icon action||Click único en vez de doble-click para ejecutar desde el icono en la bandeja de sistema|
-|So, the more the better. The different, the better.||Por ende, mientras mayor sea la cantidad y la variedad de estas claves, mejor.|
+|So, the more the better. The different, the better.||Por ende, a mayor cantidad mejor resultado. Más variedad, mayor calidad.|
 |Sort List By &Creation Time||Ordenar lista por Fecha de &Creación|
 |Sort List By &Expiration Time||Ordenar lista por Fecha de &Expiración|
 |Sort List By &Password||Ordenar lista por &Contraseña|
@@ -503,12 +503,12 @@
 |Workspace cannot be unlocked!||¡Área de trabajo no puede ser desbloqueada!|
 |Workspace locked||Área de trabajo bloqueada|
 |Would you like to exit anyway?||¿Desea salir de todos modos?|
-|You don't have to remember the keys you type in. They are used to generate a random value.||Usted no tiene que recordar las claves que ha escrito. Ella son usadas únicamente para generar un valor aleatorio.|
+|You don't have to remember the keys you type in. They are used to generate a random value.||Usted no tiene que memorizarlas, son usadas únicamente para generar un valor aleatorio.|
 |You have changed an option that requires restarting KeePass to get active.||Usted a cambiado una opción que requiere reiniciar KeePass para que tenga efecto.|
 |You have the latest version.||Usted cuenta con la versión más reciente.|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.||Usted debe generar valores aleatorios utilizando la entrada aleatoria del mouse o el cuadro de edición antes de poder cerrar este diálogo.|
 |You must restart KeePass in order to use the new language.||Usted debe reiniciar Keepass para poder usar el nuevo idioma.|
-|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||Su clave es encriptada varias veces con la finalidad de aumentar su seguridad, haciéndola más resistente a ataques de diccionario.|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||Su clave es cifrada varias veces con la finalidad de aumentar su seguridad, haciéndola más resistente a ataques de diccionario.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.||Usted ha escogido el método de clave 'AND', debe introducir una contraseña y (AND) además seleccionar un archivo de clave.|
 |Also include the following characters:||Incluir además los siguientes caracteres:|
 |Brackets ([, ], {, }, (, ), <, >)||Paréntesis ([, ], {, }, (, ), <, >)|
@@ -570,7 +570,7 @@
 |Regular expression||Expresión regular|
 |Search...||Buscar...|
 |TANs are imported into the currently selected group||TANs son importados en el grupo seleccionado actualmente|
-|The key provider plugin did not supply a valid key|||
+|The key provider plugin did not supply a valid key||El plugin proveedor de claves no proporcionó una clave válida|
 |Type to search the database||Escriba para buscar en la base de datos|
 |in "Minimal functionality" mode||en modo de "Funcionalidad mínima"|
 |Abort specifying a new key for the current database.||Suspender especificando una nueva clave para la base de datos actual.|
@@ -605,7 +605,7 @@
 |The selected key file already exists||El archivo de clave seleccionado ya existe|
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:||Para especificar la ventana destino, seleccione una ventana existente menú desplegable o introduzca manualmente el título de la ventana:|
 |URL Field: Help||Campo URL: Ayuda|
-|URL Field: Insert Placeholder||Campo URL: Insertar Marcador de Posición|
+|URL Field: Insert Placeholder||Campo URL: Insertar Posicionador|
 |URL Field: Select Application...||Campo URL: Seleccionar Aplicación...|
 |URL Field: Select Document...||Campo URL: Seleccionar Documento...|
 |Default auto-type sequence for standard entries:||Secuencia por defecto de escritura automática para entradas estándar:|
