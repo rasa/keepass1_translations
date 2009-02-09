@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.13|
+|1.15|
 |~LANGUAGEAUTHOR|
 |Marc Tissot|
 |~LANGUAGEAUTHOREMAIL|
@@ -136,8 +136,6 @@
 |&Édition|
 |&View|
 |&Affichage|
-|E&xtras|
-|&Outils|
 |&?|
 |&?|
 |&New...|
@@ -162,24 +160,24 @@
 |&Verrouiller/Déverrouiller l'espace de travail|
 |&Options...|
 |&Options...|
-|Add Password &Group...|
-|Ajouter un &groupe de mots de passe...|
+|Add &Group...|
+|Ajouter un &groupe...|
 |Find what:|
 |Que rechercher:|
-|Add Password Su&bgroup...|
-|Ajouter un sous-g&roupe de mots de passe...|
-|Modif&y Password Group...|
-|Modif&ier le groupe de mots de passe...|
-|&Delete Password Group...|
-|&Effacer le groupe de mots de passe...|
+|Add Su&bgroup...|
+|Ajouter un sous-g&roupe...|
+|Ed&it Group...|
+|Ed&iter& le groupe...|
+|&Delete Group...|
+|&Effacer le groupe...|
 |Failed to save the configuration.|
 |Impossible d'enregistrer la configuration.|
 |Find a string in the password list.|
 |Rechercher une chaîne dans la liste de mots de passe.|
-|Copy User &Name to Clipboard|
-|Copier le &Nom d'Utilisateur dans le Presse-Papiers|
-|Copy &Password to Clipboard|
-|Copier le Mot de &Passe dans le Presse-Papiers|
+|Copy User &Name|
+|Copier le &Nom d'Utilisateur|
+|Copy &Password|
+|Copier le Mot de &Passe|
 |Open &URL(s)|
 |Ouvrir l'(es) &URL(s)|
 |&Find in Database...|
@@ -590,8 +588,8 @@
 |Entrées expirées|
 |This is a list of all expired entries|
 |Ceci est une liste de toutes les entrées expirées|
-|Show All &Expired Entries|
-|Afficher toutes les entrées &expirées|
+|Show &Expired Entries|
+|Afficher les entrées &expirées|
 |Click on an entry to jump to it.|
 |Cliquez sur une entrée pour y accéder.|
 |Quality:|
@@ -658,16 +656,10 @@
 |&Plugins...|
 |About &Plugin...|
 |A propos du &plugin|
-|Application version:|
-|Version de l'application:|
 |Auto-Type|
 |Saisie automatique|
 |Clipboard behavior:|
 |Comportement du presse-papiers|
-|Disabled, not loaded|
-|Désactivé, non chargé|
-|Do you want to load the plugin?|
-|Voulez-vous charger le plugin ?|
 |Enabled, loaded|
 |Activé, chargé|
 |Encryption/decryption error|
@@ -686,8 +678,6 @@
 |Erreur de fichier: erreur lors de la lecture du fichier|
 |File error: error while writing to the file|
 |Erreur de fichier: erreur lors de l'écriture du fichier|
-|Get More Plugins...|
-|Obtenir plus de Plugins...|
 |Global auto-type hot key combination:|
 |Touches de raccourci pour la saisie automatique:|
 |Help:|
@@ -704,8 +694,6 @@
 |Structure de fichier invalide/corrompue|
 |Invalid/wrong key|
 |Clé invalide/incorrecte|
-|It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
-|Il est possible que ce plugin soit compatible, mais il est aussi possible qu'il provoque l'arrêt brutal de KeePass.|
 |Never expires|
 |N'expire jamais|
 |Number the TANs consecutively, starting from this value|
@@ -714,26 +702,12 @@
 |Plugins|
 |Plugin|
 |Plugin|
-|Plugin has been designed for:|
-|Ce plugin est conçu pour:|
 |Success|
 |Succès|
-|Therefore save all data before you continue.|
-|Par conséquent, enregistrez toutes les données avant de continuer.|
-|This plugin has been designed for a different application version and may be incompatible with this one.|
-|Ce plugin est destiné à une autre version de cette application et peut être incompatible avec celle utilisée.|
-|This plugin will be disabled after you restart KeePass.|
-|Ce plugin sera désactivé au prochain démarrage de KeePass.|
-|This plugin will be enabled after you restart KeePass.|
-|Ce plugin sera activé au prochain démarrage de KeePass.|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
 |Temps limite: copie les données dans le presse-papiers et les efface automatiquement après quelques secondes.|
-|Too few memory (RAM) available|
-|Trop peu de mémoire (RAM) disponible|
 |Unknown error|
 |Erreur inconnue|
-|cannot be loaded!|
-|ne peut être chargé.|
 |Exit?|
 |Quitter ?|
 |Advanced|
@@ -824,8 +798,8 @@
 |Inclure les entrées sauvegardées dans la recherche rapide (barre d'outils)|
 |&Repair KeePass Database File...|
 |&Réparer un fichier de base de mots de passe KeePass...|
-|Automatically save database on exit and workspace locking|
-|Sauvegarder automatiquement la base de mots de passe avant de quitter et de verrouiller l'espace de travail|
+|Automatically save when closing/locking the database|
+|Sauvegarder automatiquement avant de fermer/verrouiller la base de données|
 |Delete all backup entries before saving the database|
 |Effacer toutes les entrées sauvegardées avant d'enregistrer la base de mots de passe|
 |Press Shift-Home or Shift-End to clear this edit control|
@@ -1274,3 +1248,27 @@
 |Trier les éléments dans le dialogue de sélection des entrées de saisie automatique|
 |Take ownership of the file and open it in normal writing mode.|
 |Récupérer la propriété du fichier et l'ouvrir en mode écriture normale.|
+|Choose between local help and online help center.|
+|Choisir entre aide locale et centre d'aide en ligne.|
+|Get more plugins...|
+|Obtenir plus de plugins...|
+|Help &Source...|
+|&Origine de l'Aide...|
+|Help Source|
+|Origine de l'aide|
+|Local help file|
+|Fichier local d'aide|
+|Online help center|
+|Centre d'aide en ligne|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+|Le fichier local d'aide est un aperçu de la documentation du produit lorsque la version de ce produit a été publiée. Elle n'est pas actualisée automatiquement.|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+|Le centre d'aide en ligne contient toujours la dernière version de la documentation du produit. Une connection Internet est pour cela requise.|
+|This option is disabled, because local help is not installed.|
+|L'option est désactivée, parce que l'aide locale n'est pas disponible.|
+|Too little memory (RAM) available|
+|Trop peu de mémoire (RAM) disponible|
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)|
+|Utiliser la protection de mémoire avancée (DPAPI, seulement avec Windows Vista et supérieur)|
+|Use the following help source when a "Help" button within KeePass is clicked:|
+|Utiliser la source suivante pour l'aide lorsque un bouton "Aide" est cliqué dans KeePass:|
