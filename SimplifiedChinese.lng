@@ -1,7 +1,7 @@
-﻿2008-10-19 01:14|~LANGUAGENAME|
+﻿2009-2-11 01:15|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.14|
+|1.15|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
@@ -173,7 +173,7 @@
 |Random keyboard input|
 |随机键盘输入|
 |Just hack some random keys into the edit box above.|
-|随便在上面的编辑框中打些字。|
+|随意在上面的编辑框中击键。|
 |You don't have to remember the keys you type in. They are used to generate a random value.|
 |你无须记住你打的字，它们只是用来生成随机数据的。|
 |So, the more the better. The different, the better.|
@@ -198,8 +198,6 @@
 |编辑(&E)|
 |&View|
 |显示(&V)|
-|E&xtras|
-|工具(&T)|
 |&?|
 |帮助(&H)|
 |&New...|
@@ -226,19 +224,19 @@
 |锁定/解除锁定(&L)|
 |&Options...|
 |选项(&O)...|
-|Add Password &Group...|
+|Add &Group...|
 |添加群组(&G)...|
-|Add Password Su&bgroup...|
+|Add Su&bgroup...|
 |添加子群组(&B)...|
-|Modif&y Password Group...|
-|修改群组(&Y)...|
-|&Delete Password Group...|
+|Ed&it Group...|
+|编辑群组(&I)...|
+|&Delete Group...|
 |删除群组(&D)...|
 |Pr&int Group...|
 |打印群组(&I)...|
-|Copy User &Name to Clipboard|
+|Copy User &Name|
 |复制用户名(&N)|
-|Copy &Password to Clipboard|
+|Copy &Password|
 |复制密码(&P)|
 |Open &URL(s)|
 |打开网址(&U)|
@@ -597,7 +595,7 @@
 |Move Group One &Left|
 |向左移动(&L)|
 |Move Group One &Right|
-|向左移动(&R)|
+|向右移动(&R)|
 |Hide &User Names Behind Asterisks (***)|
 |隐藏用户名为***(&U)|
 |Attachment:|
@@ -672,8 +670,8 @@
 |失效记录|
 |This is a list of all expired entries|
 |这是所有失效记录的列表。|
-|Show All &Expired Entries|
-|显示所有失效记录(&E) |
+|Show &Expired Entries|
+|显示失效记录(&E) |
 |Click on an entry to jump to it.|
 |在其上点击来跳到该记录。|
 |Quality:|
@@ -750,34 +748,14 @@
 |更改管理密码|
 |Plugin|
 |插件|
-|cannot be loaded!|
-|无法加载！|
 |Plugins|
 |插件管理器|
 |&Plugins...|
 |插件管理器(&P)...|
 |Here you can configure all installed KeePass plugins.|
 |在此设置所有已安装的 KeePass 插件。|
-|This plugin has been designed for a different application version and may be incompatible with this one.|
-|该插件是为另一版本的程序设计的，可能与当前程序不兼容。|
-|Application version:|
-|程序版本：|
-|Plugin has been designed for:|
-|该插件对应主程序版本：|
-|It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
-|插件可能是稳定的，也可能使 KeePass 崩溃。|
-|Therefore save all data before you continue.|
-|因此在继续前，请保存所有资料。|
-|Do you want to load the plugin?|
-|要载入此插件吗？|
-|This plugin will be disabled after you restart KeePass.|
-|此插件将在 KeePass 重启后停用。|
 |Enabled, loaded|
 |已启用，已载入|
-|Disabled, not loaded|
-|已停用，未载入|
-|This plugin will be enabled after you restart KeePass.|
-|此插件将在 KeePass 重启后启用。|
 |&Enable|
 |启用(&E)|
 |&Disable|
@@ -794,7 +772,7 @@
 |成功|
 |Invalid parameter|
 |无效的参数|
-|Too few memory (RAM) available|
+|Too little memory (RAM) available|
 |内存不足|
 |Invalid/wrong key|
 |无效/错误的密匙|
@@ -814,8 +792,8 @@
 |无效/损坏的文件结构|
 |Encryption/decryption error|
 |加密/解密错误|
-|Get More Plugins...|
-|获取更多的插件...|
+|Get more plugins...|
+|获取更多插件...|
 |Global auto-type hot key combination:|
 |全局自动输入快捷键：|
 |Cannot register the global hot key.|
@@ -1131,7 +1109,7 @@
 |&Export Group To|
 |输出群组到(&E)|
 |in "Minimal functionality" mode|
-|in "最小化功能"模式|
+|处于"最小化功能"模式|
 |Regular expression|
 |正则表达式|
 |Default user name for new entries:|
@@ -1274,3 +1252,23 @@
 |在自动输入字段选择对话框中排序|
 |Clear clipboard when closing/locking the database|
 |关闭/锁定数据库时清空剪贴板|
+|Help Source|
+|帮助源|
+|Use the following help source when a "Help" button within KeePass is clicked:|
+|在 KeePass 中点击帮助按钮时，使用如下的帮助源:|
+|Local help file|
+|本地帮助文件|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+|本地帮助文件是当前版本发布时帮助文档的拷贝，它不能自动升级。|
+|Online help center|
+|在线帮助中心|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+|在线帮助中心总是保持最新的帮助文档，它需要连接到网络。|
+|This option is disabled, because local help is not installed.|
+|由于没有安装本地帮助文件，该选项无法生效。|
+|Choose between local help and online help center.|
+|选择本地帮助或在线帮助|
+|Help &Source...|
+|帮助源(&S)...|
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)|
+|启用高级内存保护（DPAPI，仅支持 Vista 及以上系统）|
