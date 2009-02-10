@@ -1,7 +1,7 @@
-|~LANGUAGENAME|
+﻿|~LANGUAGENAME|
 |Српски|
 |~LANGUAGEVERSION|
-|1.14|
+|1.15|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -200,8 +200,6 @@
 |&Уреди|
 |&View|
 |&Приказ|
-|E&xtras|
-|&Алатке|
 |&?|
 |&?|
 |&New...|
@@ -230,20 +228,8 @@
 |Блокирај/Деблокирај радни простор|
 |&Options...|
 |Опције...|
-|Add Password &Group...|
-|Додај групу лозинка...|
-|Add Password Su&bgroup...|
-|Додај под-групу лозинка...|
-|Modif&y Password Group...|
-|Промени групу лозинка...|
-|&Delete Password Group...|
-|Избриши групу лозинка...|
 |Pr&int Group...|
 |Ш&тампај групу...|
-|Copy User &Name to Clipboard|
-|Копирај корисник у клипборд|
-|Copy &Password to Clipboard|
-|Копирај лозинку у клипборд|
 |Open &URL(s)|
 |Отвори УРЛ|
 |&Find in Database...|
@@ -672,8 +658,6 @@
 |Завршене ставке|
 |This is a list of all expired entries|
 |Ово је листа све завршене ставке|
-|Show All &Expired Entries|
-|Покажи све завршене ставке|
 |Click on an entry to jump to it.|
 |Кликнути на ставку да се оде до ње.|
 |Quality:|
@@ -750,34 +734,14 @@
 |Промени композитни главни кључ|
 |Plugin|
 |Додатак|
-|cannot be loaded!|
-|Не може да се учита.|
 |Plugins|
 |Додатци|
 |&Plugins...|
 |Додатци...|
 |Here you can configure all installed KeePass plugins.|
 |Овде можете да подесите додатци инсталирани у KeePass.|
-|This plugin has been designed for a different application version and may be incompatible with this one.|
-|Додатак је урађен за другу верзију програма и можда није компатибилан са овом.|
-|Application version:|
-|Верзија апликације:|
-|Plugin has been designed for:|
-|Додатак урађен за:|
-|It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
-|Могуће је да је додатак компатибилан, али може исто да доведе до пада KeePass-а.|
-|Therefore save all data before you continue.|
-|Зато сачувајте све податке пре наставка.|
-|Do you want to load the plugin?|
-|Учитати додатак?|
-|This plugin will be disabled after you restart KeePass.|
-|Додатак ће бити угашен на следеће покретање KeePass-а.|
 |Enabled, loaded|
 |Активно, учитано|
-|Disabled, not loaded|
-|Онеспособљено, не учитано|
-|This plugin will be enabled after you restart KeePass.|
-|Додатак ће бити активиран на следеће покретање KeePass-а.|
 |&Enable|
 |Упали|
 |&Disable|
@@ -794,8 +758,6 @@
 |Успешно|
 |Invalid parameter|
 |Погрешан параметар|
-|Too few memory (RAM) available|
-|Премало меморије (RAM)|
 |Invalid/wrong key|
 |Неважан/погрешан кључ|
 |File access error: failed to open file in read mode|
@@ -814,8 +776,6 @@
 |Структура датотеке погрешна/покварена|
 |Encryption/decryption error|
 |Грешка шифровања/дешифровања|
-|Get More Plugins...|
-|Још додатка...|
 |Global auto-type hot key combination:|
 |Пречица за ауто-пуњење:|
 |Cannot register the global hot key.|
@@ -1276,3 +1236,43 @@
 |Можете одабрати другу пречицу у 'Алатке' - 'Опције' - 'Напредно' - 'Ауто-Унос'.|
 |Automatically save when closing/locking the database|
 |Аутоматско сачувај на затварање/блокирање базе|
+
+
+|&Delete Group...|
+|Избриши групу...|
+|Add &Group...|
+|Додај групу...|
+|Add Su&bgroup...|
+|Додај подгрупу...|
+|Choose between local help and online help center.|
+|Изабрати између локалне и онлајн помоћи|
+|Copy &Password|
+|Копирај лозинку|
+|Copy User &Name|
+|Копирај корисник|
+|Ed&it Group...|
+|Уреди групу...|
+|Get more plugins...|
+|Јш додатка...|
+|Help &Source...|
+|Извор помоћа...|
+|Help Source|
+|Извор помоћа|
+|Local help file|
+|Локална помоћ|
+|Online help center|
+|Онлајн помоћ|
+|Show &Expired Entries|
+|Покажи завршене ставке|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+|Локална помоћ је слика документације када је програм поставлјен. Није аутоматско ажурирана.|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+|Онлајн помоћ садржава задњу верзију документације. Интернет веза је потребна.|
+|This option is disabled, because local help is not installed.|
+|Опција је угашена пошто локална помоћ није инсталирана.|
+|Too little memory (RAM) available|
+|Недовољно доступне меморије|
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)|
+|Користи напредну засштиту меморије (DPAPI, само Windows Vista или више)|
+|Use the following help source when a "Help" button within KeePass is clicked:|
+|Користи овај извор помоћи када дугме „Помоћ“ је кликнути унутар KeePass:|
