@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.14|
+|1.15|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -14,10 +14,10 @@
 |&Gerai|
 
 |&Cancel|
-|&Atšaukti|
+|&Atsisakyti|
 
 |&Close|
-|&Uždaryti|
+|&Užverti|
 
 |&Generate Random Password|
 |&Generuoti atsitiktinį slaptažodį|
@@ -41,13 +41,13 @@
 |El. paštas|
 
 |Homebanking|
-|eBankininkystė|
+|El. bankininkystė|
 
 |Entry|
 |Įrašas|
 
 |&Title|
-|&Pavadinimas|
+|An&traštė|
 
 |User &Name|
 |&Vartotojo vardas|
@@ -86,7 +86,7 @@
 |Slaptažodžių grupės|
 
 |Title|
-|Pavadinimas|
+|Antraštė|
 
 |User Name|
 |Vartotojo vardas|
@@ -128,7 +128,7 @@
 |Pakartokite pagrindinį slaptažodį naujai duomenų bazei.|
 
 |Open Database|
-|Atidaryti duomenų bazę|
+|Atverti duomenų bazę|
 
 |Enter Composite Master Key|
 |Įveskite sudėtinį pagrindinį raktą|
@@ -155,7 +155,7 @@
 |Dabartiniai parametrai|
 
 |Collect additional &entropy|
-|Pririnkti papildomą &entropiją|
+|Surinkti papildomą &entropiją|
 
 |Generated password|
 |Sugeneruotas slaptažodis|
@@ -176,7 +176,7 @@
 |Skaitmenys (0, 1, 2, ...)|
 
 |Underline (_)|
-|Pabraukimo brūkšnys (_)|
+|Pabraukimas (_)|
 
 |Minus (-)|
 |Minusas (-)|
@@ -185,7 +185,7 @@
 |Tarpas ( )|
 
 |Special|
-|Specialūs ženklai|
+|Specialieji ženklai|
 
 |High ANSI characters|
 |ANSI ženklai didesniu kodu|
@@ -197,7 +197,7 @@
 |Grupė:|
 
 |Title:|
-|Pavadinimas:|
+|Antraštė:|
 
 |URL:|
 |URL:|
@@ -263,7 +263,7 @@
 |Atsitiktinė klaviatūros įvestis|
 
 |Just hack some random keys into the edit box above.|
-|Įveskite kelis atsitiktinius raktus į aukščiau esantį redagavimo laukelį.|
+|Įveskite kelis atsitiktinius ženklus į aukščiau esantį redagavimo laukelį.|
 
 |You don't have to remember the keys you type in. They are used to generate a random value.|
 |Jums nereikia prisiminti įvedamų ženklų. Jie skirti atsitiktinio rakto generavimui.|
@@ -293,13 +293,10 @@
 |&Failas|
 
 |&Edit|
-|&Redaguoti|
+|&Taisa|
 
 |&View|
-|&Rodyti|
-
-|E&xtras|
-|&Papildymai|
+|&Rodymas|
 
 |&?|
 |&?|
@@ -308,16 +305,16 @@
 |&Naujas...|
 
 |&Open...|
-|At&idaryti...|
+|&Atverti...|
 
 |&Close|
-|&Uždaryti|
+|&Užverti|
 
 |&Save|
 |&Įrašyti|
 
 |Save &As...|
-|Įr&ašyti kaip...|
+|Į&rašyti kaip...|
 
 |Change &Master Key...|
 |&Pakeisti pagrindinį raktą...|
@@ -329,58 +326,58 @@
 |&Eksportuoti į|
 
 |&Lock Workspace|
-|Už&rakinti darbalaukį|
+|B&lokuoti darbalaukį|
 
 |&Unlock Workspace|
-|Atrakinti darbalaukį|
+|&Atblokuoti darbalaukį|
 
 |E&xit|
-|Už&baigti|
+|&Baigti darbą|
 
 |&Lock/Unlock Workspace|
-|Užrakinti/atrakinti darbalaukį|
+|&Blokuoti/atblokuoti darbalaukį|
 
 |&Options...|
-|&Parinktys...|
+|Pari&nktys...|
 
-|Add Password &Group...|
-|Pridėti slaptažodžių &grupę...|
+|Add &Group...|
+|Pridėti &grupę...|
 
-|Add Password Su&bgroup...|
-|&Pridėti slaptažodžių pog&rupį...|
+|Add Su&bgroup...|
+|Pridėti pog&rupį...|
 
-|Modif&y Password Group...|
-|Pa&keisti slaptažodžių grupę...|
-
-|&Delete Password Group...|
-|Naikinti slaptažo&džių grupę...|
+|&Delete Group...|
+|&Šalinti grupę...|
 
 |Pr&int Group...|
 |&Spausdinti grupę...|
 
-|Copy User &Name to Clipboard|
-|Kopijuoti &vartotojo vardą į iškarpinę|
+|Ed&it Group...|
+|Re&daguoti grupę...|
 
-|Copy &Password to Clipboard|
-|Kopijuoti slap&tažodį į iškarpinę|
+|Copy User &Name|
+|&Kopijuoti vartotojo vardą|
+
+|Copy &Password|
+|Kopijuoti slap&tažodį|
 
 |Open &URL(s)|
-|Atidaryti &URL|
+|Atverti &URL|
 
 |&Find in Database...|
 |Rasti duomenų &bazėje...|
 
 |Find in t&his Group...|
-|Rasti &šioje grupėje...|
+|Rasti šio&je grupėje...|
 
 |&Add Entry...|
-|Pridėti &įrašą...|
+|&Pridėti įrašą...|
 
 |&Edit/View Entry...|
-|&Redaguoti/rodyti įrašą...|
+|R&edaguoti/peržiūrėti įrašą...|
 
 |&Delete Entry|
-|Naikinti įraš&ą|
+|Ša&linti įrašą|
 
 |Dupli&cate Entry|
 |Dubliu&oti įrašą|
@@ -416,13 +413,13 @@
 |&Visuomet viršuje|
 
 |Hide &Passwords Behind Asterisks (***)|
-|Maskuoti slaptažodžius (***)|
+|Maskuoti sla&ptažodžius (***)|
 
 |Hide passwords behind asterisks (***).|
 |Maskuoti slaptažodžius (***).|
 
 |Password &Generator...|
-|Slaptažodžių generatorius...|
+|Slaptažodžių &generatorius...|
 
 |Visit &KeePass Homepage|
 |Aplankyti &KeePass svetainę|
@@ -434,7 +431,7 @@
 |&Duomenų bazės parametrai...|
 
 |&Tray/Untray|
-|Į/iš padėklą(o)|
+|Į/iš dėklą(o)|
 
 |Version |
 |Versija |
@@ -449,7 +446,7 @@
 |Įveskite grupės pavadinimą!|
 
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
-|Prieš uždarydami šį dialogą, turite sugeneruoti atsitiktines reikšmes naudodami pelę ar redagavimo laukelius.|
+|Prieš užverdami šį dialogą, turite sugeneruoti atsitiktines reikšmes naudodami pelę ar redagavimo laukelius.|
 
 |No random input|
 |Nėra atsitiktinės įvesties|
@@ -506,7 +503,7 @@
 |Nepavyko nustatyti pagrindinio rakto!|
 
 |File cannot be opened!|
-|Failas neatsidaro!|
+|Failas neatsiveria!|
 
 |File cannot be saved!|
 |Failas neįsirašo!|
@@ -521,22 +518,22 @@
 |Duomenų bazės failas pakeistas|
 
 |Do you want to save the changes before closing?|
-|Ar norite įrašyti pakeitimus prieš uždarydami?|
+|Ar norite įrašyti pokyčius prieš uždarydami?|
 
 |KeePass - Save Before Close/Lock?|
-|KeePass - Įrašyti prieš uždarymą/užrakinimą?|
+|KeePass - Įrašyti prieš užveriant/blokuojant?|
 
 |Deleting a group will delete all items and subgroups in that group, too.|
-|Naikinant grupę bus sunaikinti visi grupės įrašai ir pogrupiai.|
+|Šalinant grupę bus pašalinti visi grupės įrašai ir pogrupiai.|
 
 |Are you sure you want to delete this group?|
-|Ar tikrai norinte naikinti šią grupę?|
+|Ar tikrai norinte pašalinti šią grupę?|
 
 |Delete Group Confirmation|
-|Grupės naikinimo patvirtinimas|
+|Grupės šalinimo patvirtinimas|
 
 |Cannot open temporary file for printing!|
-|Neatsidaro laikinas spausdinimo failas!|
+|Neatsiveria laikinas spausdinimo failas!|
 
 |Load Language File|
 |Įkelti kalbos failą|
@@ -551,16 +548,16 @@
 |Esančios kalbos|
 
 |&Help|
-|Žinynas|
+|&Žinynas|
 
 |&Help Contents|
-|Žinyno turinys|
+|Žinyno &turinys|
 
 |Open &Help File|
-|Atidaryti &žinyną|
+|Atverti &žinyną|
 
 |Open &License File|
-|Atidaryti &licencijos failą|
+|Atverti &licencijos failą|
 
 |Newline sequence:|
 |Naujos eilutės seka:|
@@ -578,31 +575,31 @@
 |Parametrai|
 
 |Here you can configure KeePass.|
-|Čia galima tinkinti KeePass.|
+|Čia galima konfigūruoti KeePass.|
 
 |Automatically open last used database on startup|
-|Pradedant automatiškai atidaryti vėliausiai naudotą duomenų bazę|
+|Pradedant automatiškai atverti paskutinę naudotą duomenų bazę|
 
 |Automatically save when closing/locking the database|
-|Automatiškai įrašyti duomenų bazę uždarymą/užrakinimą|
+|Automatiškai įrašyti duomenų bazę prieš uždarant/blokuojant|
 
 |Display images on buttons|
 |Mygtukai su paveikslėliais|
 
 |Show grid lines in password entry list|
-|Slaptažodžio įvestyje rodyti tinklelį|
+|Slaptažodžio įvesties sąraše rodyti tinklelį|
 
 |Workspace cannot be unlocked!|
-|Darbalaukis neatsirakina!|
+|Darbalaukis neatsiblokuoja!|
 
 |Workspace locked|
-|Darbalaukis užrakintas|
+|Darbalaukis blokuotas|
 
 |Loading error|
 |Klaida įkeliant|
 
 |Language file cannot be opened!|
-|Kalbos failas neatsidaro!|
+|Kalbos failas neatsiveria!|
 
 |Language file cannot be registered!|
 |Kalbos failas nesiregistruoja!|
@@ -662,7 +659,7 @@
 |&CSV failas...|
 
 |&Import From|
-|&Importuoti iš|
+|I&mportuoti iš|
 
 |&Get more languages...|
 |&Kitos kalbos...|
@@ -680,10 +677,10 @@
 |Atmintis|
 
 |Lock workspace when minimizing the main window|
-|Užrakinti darbalaukį pagrindinio lango mažinimo metu|
+|Blokuoti darbalaukį pagrindinio lango suskleidimo metu|
 
 |Minimize to tray instead of taskbar|
-|Mažinti į padėklą, o ne užduočių juostą|
+|Mažinti į dėklą, o ne užduočių juostą|
 
 |Encryption algorithm to use (for this database):|
 |Naudoti kodavimo algoritmą (šiai duomenų bazei):|
@@ -698,10 +695,10 @@
 |Apsauga|
 
 |KeePass is OSI Certified Open Source Software.|
-|KeePass - OSI sertifikuota atvirojo kodo programa.|
+|KeePass - OSI sertifikuota atviroji programa.|
 
 |Automatically lock workspace after the following number of seconds:|
-|Po nurodyto sekundžių skaičiaus automatiškai rakinti darbalaukį:|
+|Po nurodyto sekundžių skaičiaus automatiškai blokuoti darbalaukį:|
 
 |&Group name|
 |&Grupės pavadinimas|
@@ -722,10 +719,10 @@
 |Sukurtas|
 
 |Last Modification|
-|Vėliausias keitimas|
+|Paskutinis keitimas|
 
 |Last Access|
-|Vėliausia prieiga|
+|Paskutinė prieiga|
 
 |Expires|
 |Galioja iki|
@@ -737,10 +734,10 @@
 |Sukūrimo laikas|
 
 |Last &Modification Time|
-|Vėliausio keitimo laikas|
+|Paskutinio keitimo laikas|
 
 |&Last Access Time|
-|Vėliausios prieigos laikas|
+|Paskutinės prieigos laikas|
 
 |&Expiration Time|
 |Galiojimo laikas|
@@ -749,7 +746,7 @@
 |UU&ID|
 
 |Show &Toolbar|
-|Rodyti įrankių juostą|
+|Rodyti įrankių &juostą|
 
 |Visit KeePass Homepage|
 |Aplankyti KeePass svetainę|
@@ -767,7 +764,7 @@
 |Norėdami panaudoti pasirinktą rakto failą spustelėkite [Ne].|
 
 |Click [Cancel] to abort changing the key.|
-|Norėdami sustabdyti rakto keitimą spustelėkite [Atmesti].|
+|Norėdami nutraukti rakto keitimą spustelėkite [Atsisakyti].|
 
 |Overwrite?|
 |Perrašyti?|
@@ -776,7 +773,7 @@
 |Galioja iki:|
 
 |&Modify All Selected...|
-|&Keisti visus pažymėtus...|
+|Keisti visus pa&žymėtus...|
 
 |Change group:|
 |Keisti grupę:|
@@ -809,31 +806,31 @@
 |Nukopijuoti &visus|
 
 |&Undo|
-|&Anuliuoti|
+|&Atšaukti|
 
 |&Paste|
-|&Įklijuoti|
+|&Įdėti|
 
 |Cu&t|
 |I&škirpti|
 
 |&Select All|
-|&Žymėti viską|
+|&Pažymėti viską|
 
 |&Delete|
-|Naikin&ti|
+|Šalin&ti|
 
 |&TAN Wizard...|
-|TAN vedlys...|
+|&TAN vediklis...|
 
 |TAN Wizard|
-|TAN vedlys|
+|TAN vediklis|
 
 |Using this wizard you can easily add TAN entries.|
-|Šis vedlys padės lengvai pridėti TAN įrašus.|
+|Šis vediklis padės lengvai pridėti TAN įrašus.|
 
 |Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
-|Įklijuokite TAN į redagavimo laukelį. Visi ženklai, nesantys TAN ženklais, bus laikomi skyrikliais ir tik eilutės dalys iš TAN ženklų bus pridėtos kaip TAN įrašai.|
+|Įdėkite TAN į redagavimo laukelį. Visi ženklai, nesantys TAN ženklais, bus laikomi skyrikliais ir tik eilutės dalys iš TAN ženklų bus pridėtos kaip TAN įrašai.|
 
 |TANs consist of the following characters:|
 |TAN susideda iš šių ženklų:|
@@ -842,7 +839,7 @@
 |<TAN>|
 
 |Print Pre&view...|
-|Spaudinio pe&ržiūra...|
+|Spaudinio per&žiūra...|
 
 |About &Translation...|
 |Apie &vertimą...|
@@ -866,34 +863,34 @@
 |Per&tvarkyti|
 
 |&Sort Group List|
-|&Rūšiuoti grupių sąrašą|
+|&Rikiuoti grupių sąrašą|
 
 |Sort List By &Title|
-|Rūšiuoti pagal &pavadinimą|
+|Rikiuoti pagal an&traštę|
 
 |Sort List By User &Name|
-|Rūšiuoti pagal vartotojo &vardą|
+|Rikiuoti pagal vartotojo &vardą|
 
 |Sort List By &URL|
-|Rūšiuoti pagal &URL|
+|Rikiuoti pagal &URL|
 
 |Sort List By &Password|
-|Rūšiuoti pagal s&laptažodį|
+|Rikiuoti pagal s&laptažodį|
 
 |Sort List By Note&s|
-|Rūšiuoti pagal pastaba&s|
+|Rikiuoti pagal pastaba&s|
 
 |Sort List By &Creation Time|
-|Rūšiuoti pagal su&kūrimo laiką|
+|Rikiuoti pagal su&kūrimo laiką|
 
 |Sort List By Last &Modify Time|
-|Rūšiuoti pagal vėliausio keitimo &laiką|
+|Rikiuoti pagal paskutinio keitimo &laiką|
 
 |Sort List By Last &Access Time|
-|Rūšiuoti pagal vėliausios p&rieigos laiką|
+|Rikiuoti pagal paskutinės p&rieigos laiką|
 
 |Sort List By &Expiration Time|
-|Rūšiuoti pagal &galiojimo laiką|
+|Rikiuoti pagal &galiojimo laiką|
 
 |Move Group One &Left|
 |Perkelti grupę viena pozicija &kairiau|
@@ -902,7 +899,7 @@
 |Perkelti grupę viena pozicija &dešiniau|
 
 |Hide &User Names Behind Asterisks (***)|
-|Maskuoti vartotojų vardus (***)|
+|&Maskuoti vartotojų vardus (***)|
 
 |Attachment:|
 |Priedas:|
@@ -920,7 +917,7 @@
 |Generuoti atsitiktinį slaptažodį...|
 
 |Open file and set as attachment...|
-|Atidaryti failą ir prisegti kaip priedą...|
+|Atverti failą ir pridėti kaip priedą...|
 
 |Save attached file to disk...|
 |Įrašyti priedą laikmenoje...|
@@ -941,16 +938,16 @@
 |Pašalinti priedą|
 
 |Close button [X] minimizes the main window instead of terminating the application|
-|Uždarymo [X] mygtukas sumažina langą, bet nesustabdo programos|
+|Užvėrimo [X] mygtukas sumažina langą, bet nesustabdo programos|
 
 |KeePass Password Database|
 |KeePass slaptažodžių duomenų bazė|
 
 |&Open with KeePass|
-|&Atidaryti su KeePass|
+|&Atverti su KeePass|
 
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
-|Čia galima susieti .kdb failus su KeePass (Po dvigubo spustelėjimo KeePass automatiškai atidarys tokį failą):|
+|Čia galima susieti .kdb failus su KeePass (Po dvigubo spustelėjimo KeePass automatiškai atvers tokį failą):|
 
 |Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
 |KeePass sėkmingai susieta su .kdb failais! Po dvigubo .kdb failo spustelėjimo KeePass pasileis automatiškai!|
@@ -980,7 +977,7 @@
 |Gali būti, kad tai failas tik skaitymui arba nepasiekiama išsaugojimo laikmena.|
 
 |If you exit now, all changes to the current database will be lost.|
-|Jei dabar užbaigsite programą, visi duomenų bazės pakeitimai bus prarasti.|
+|Jei dabar užbaigsite programą, visi duomenų bazės pokyčiai bus prarasti.|
 
 |Would you like to exit anyway?|
 |Ar tikrai norite baigti?|
@@ -995,7 +992,7 @@
 |Nepakanka laisvos vietos diske!|
 
 |Disable unsafe (security-critical) operations like exports, etc.|
-|Deaktyvuoti nesaugias operacijas, tokias kaip eksportavimas etc.|
+|Išjungti nesaugias operacijas, tokias kaip eksportavimas ir pan.|
 
 |Unsafe operations are disabled.|
 |Nesaugios operacijos neaktyvios.|
@@ -1004,7 +1001,7 @@
 |Ši operacija bus vykdoma, aktyvavus nesaugias operacijas parinkčių dialoge.|
 
 |You have changed an option that requires restarting KeePass to get active.|
-|Jūs pakeitėte parinktį, kuri įsijungs tik perkrovus KeePass.|
+|Jūs pakeitėte parinktį, kuri įsijungs tik paleidus KeePass iš naujo.|
 
 |Expired Entries|
 |Nebegaliojantys įrašai|
@@ -1012,8 +1009,8 @@
 |This is a list of all expired entries|
 |Visų pasibaigusio galiojimo įrašų sąrašas|
 
-|Show All &Expired Entries|
-|Rodyti visus &pasibaigusio galiojimo įrašus...|
+|Show &Expired Entries|
+|&Rodyti pasibaigusio galiojimo įrašus|
 
 |Click on an entry to jump to it.|
 |Spustelėkite įrašą ir persijungsite į jį.|
@@ -1025,7 +1022,7 @@
 |Duomenų bazės parametrai|
 
 |Here you can configure the current database.|
-|Čia galima pakeisti darbinę duomenų bazę.|
+|Čia galima konfigūruoti darbinę duomenų bazę.|
 
 |Database Summary|
 |Duomenų bazės santrauka|
@@ -1049,7 +1046,7 @@
 |Importuota iš slaptadžių seifo|
 
 |Remember last opened file|
-|Prisiminti vėliausiai atidarytą failą|
+|Prisiminti paskutinį atvertą failą|
 
 |Total number of groups / entries|
 |Grupių / įrašų skaičius|
@@ -1070,7 +1067,7 @@
 |Duomenų bazė pakeista!|
 
 |Most probably someone has changed the file while you were editing it.|
-|Veikiausiai kažkas pakeitė failą kol jis buvo redaguojamas.|
+|Veikiausiai kažkas pakeitė failą, kol jis buvo redaguojamas.|
 
 |Do you want to overwrite it?|
 |Ar norite perrašyti ją?|
@@ -1082,34 +1079,34 @@
 |Pažymėtieji įrašai bus sunaikinti visam laikui!|
 
 |Are you sure you want to delete all selected entries?|
-|Ar tikrai norite naikinti pažymėtuosius įrašus?|
+|Ar tikrai norite pašalinti pažymėtuosius įrašus?|
 
 |Delete Entries Confirmation|
-|Įrašų naikinimo patvirtinimas|
+|Įrašų šalinimo patvirtinimas|
 
 |Use PuTTY for ssh: and telnet: URLs|
 |Naudoti PuTTY ssh: ir telnet: nuorodoms|
 
 |Mark database as modified on last-access time change|
-|Pažymėti duomenų bazę kaip pakeistą, pakeičiant vėliausios prieigos laiką|
+|Pažymėti duomenų bazę kaip pakeistą, pakeičiant paskutinės prieigos laiką|
 
 |Se&lect All|
-|Pasirinkti &visus|
+|Pažymėti &viską|
 
 |Auto-&Sort Password List|
-|&Automatiškai rūšiuoti sąrašus|
+|&Automatiškai rikiuoti sąrašą|
 
 |N&o Auto-Sort|
-|Aut&omatiškai nerūšiuoti|
+|Aut&omatiškai nerikiuoti|
 
 |Auto-sorting of the password list is enabled, you cannot move entries manually.|
-|Slaptažodžiai rūšiuojami automatiškai, todėl rankiniu būdu įrašai neperkeliami.|
+|Slaptažodžiai rikiuojami automatiškai, todėl rankiniu būdu įrašai neperkeliami.|
 
 |Perform Auto-&Type|
-|Vykdyti automatinį rašymą|
+|Vykdyti &automatinį įvedimą|
 
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
-|Slaptažodžiai rūšiuojami automatiškai, todėl sąrašo rūšiuoti rankiniu būdu negalima.|
+|Slaptažodžiai rikiuojami automatiškai, todėl sąrašo rikiuoti rankiniu būdu negalima.|
 
 |Select key file manually...|
 |Pasirinkite rakto failą...|
@@ -1129,9 +1126,6 @@
 |Plugin|
 |Papildinys|
 
-|cannot be loaded!|
-|negali būti įkeltas!|
-
 |Plugins|
 |Papildiniai|
 
@@ -1141,35 +1135,8 @@
 |Here you can configure all installed KeePass plugins.|
 |Čia galima konfigūruoti visus KeePass papildinius.|
 
-|This plugin has been designed for a different application version and may be incompatible with this one.|
-|Papildinys skirtas kitai programos versijai ir gali būti netinkamas šiai.|
-
-|Application version:|
-|Programos versija:|
-
-|Plugin has been designed for:|
-|Papildinys skirtas:|
-
-|It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
-|Gali būti, kad papildinys suderinamas, bet taip pat gali būti, kad jis sustabdys KeePass.|
-
-|Therefore save all data before you continue.|
-|Todėl prieš tęsdami įrašykite duomenis.|
-
-|Do you want to load the plugin?|
-|Ar norite įkelti papildinį?|
-
-|This plugin will be disabled after you restart KeePass.|
-|Papidinys bus deaktyvuotas iš naujo paleidus KeePass.|
-
 |Enabled, loaded|
 |Aktyvuota, įkelta.|
-
-|Disabled, not loaded|
-|Neaktyvuota, neįkelta.|
-
-|This plugin will be enabled after you restart KeePass.|
-|Papildinys bus aktyvuotas iš naujo paleidus KeePass.|
 
 |&Enable|
 |&Aktyvuoti|
@@ -1195,17 +1162,17 @@
 |Invalid parameter|
 |Netinkamas parametras|
 
-|Too few memory (RAM) available|
+|Too little memory (RAM) available|
 |Trūksta operacinės atminties (RAM)|
 
 |Invalid/wrong key|
 |Neteisingas raktas|
 
 |File access error: failed to open file in read mode|
-|Failo prieigos klaida: failas neatsidaro skaitymui.|
+|Failo prieigos klaida: failas neatsiveria skaitymui.|
 
 |File access error: failed to open file in write mode|
-|Failo prieigos klaida: failas neatsidaro rašymui.|
+|Failo prieigos klaida: failas neatsiveria rašymui.|
 
 |File error: error while reading from the file|
 |Failo klaida: įvyko klaida skaitant failą|
@@ -1225,11 +1192,11 @@
 |Encryption/decryption error|
 |Kodavimo/iškodavimo klaida|
 
-|Get More Plugins...|
+|Get more plugins...|
 |Kiti papildiniai...|
 
 |Global auto-type hot key combination:|
-|Automatinio rašymo „sparčiųjų klavišų“ kombinacija:|
+|Automatinio įvedimo „sparčiųjų klavišų“ kombinacija:|
 
 |Cannot register the global hot key.|
 |Nepavyksta įregistruoti globalaus „sparčiojo klavišo“.|
@@ -1238,7 +1205,7 @@
 |Veikiausiai kita programa rezervavo šį „spartųjį klavišą“.|
 
 |You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
-|Kitą „sparčiųjų klavišų“ kombinaciją galima pasirinkti „Įrankiai - Nuostatos - Išplėstinės - Automatinis įvedimas“.|
+|Kitą „sparčiųjų klavišų“ kombinaciją galima pasirinkti „Priemonės - Nuostatos - Išplėstinės - Automatinis įvedimas“.|
 
 |&Use master password and key file|
 |Naudoti pagrindinį slaptažodį ir rakto failą|
@@ -1265,7 +1232,7 @@
 |Nepavyko pakeisti susiejimo su .kdb failais. Įsitikinkite, kad turite teises keisti registrą ir failų susiejimą.|
 
 |Number the TANs consecutively, starting from this value|
-|Numeruoti TAN iš eilės pradedant šia reikšme|
+|Numeruoti TAN iš eilės, pradedant šia reikšme|
 
 |Never expires|
 |Galioja neribotai|
@@ -1280,13 +1247,12 @@
 |Išplėstinės|
 
 |Start minimized and locked|
-|Paleisti sumažintą ir užrakintą|
+|Paleisti suskleistą ir blokuotą|
 
 |Immediately after opening a database|
-|Iškart atidarius duomenų bazę|
+|Iškart atvėrus duomenų bazę|
 
 |Show expired entries (if any)|
-
 |Rodyti nebegaliojančius įrašus (jei tokių yra)|
 
 |Show entries that will expire soon (if any)|
@@ -1314,7 +1280,7 @@
 |Sudėtinis pagrindinis raktas pakeistas!|
 
 |Save the database now in order to get the new key applied.|
-|Norėdami pritaikyti naująjį raktą įrašykite duomenų bazę|
+|Norėdami pritaikyti naująjį raktą, dabar įrašykite duomenų bazę|
 
 |Fields to export|
 |Laukeliai eksportavimui|
@@ -1353,13 +1319,13 @@
 |&Kiti importavimo papildiniai...|
 
 |Field has been pasted.|
-|Laukelis įklijuotas.|
+|Laukelis įdėtas.|
 
 |Waiting for paste command.|
-|Laukiama įklijavimo komandos.|
+|Laukiama įdėjimo komandos.|
 
 |Paste operation completed.|
-|Įklijavimas baigtas.|
+|Įdėjimas baigtas.|
 
 |Limit to single instance|
 |Tik viena programos kopija vienu metu|
@@ -1371,13 +1337,13 @@
 |Norėdami panaikinti šį redagavimo valdiklį paspauskite Shift-Home ar Shift-End|
 
 |Single left click instead of double-click for default tray icon action|
-|Standartinis užduočių juostos piktogramos veiksmas atliekamas spustelėjus kairįjį klavišą|
+|Standartinis dėklo piktogramos veiksmas atliekamas spustelėjus kairįjį klavišą, o ne dukart spustelėjus|
 
 |Exclude entries in the '&Backup' group|
 |Ignoruoti įrašus grupėje „&Atsarginė kopija“|
 
 |Exclude &expired entries|
-|Ignoruoti pasibaigusio galiojimo įrašus|
+|Ignoruoti &pasibaigusio galiojimo įrašus|
 
 |By default, new entries expire in the following number of days:|
 |Numatoma, kad nauji įrašai nebegalios po tiek dienų:|
@@ -1416,13 +1382,13 @@
 |Į greitas paieškas (įrankių juostoje) įtraukti pasibaigusio galiojimo įrašus|
 
 |&Donate...|
-|&Paremti...|
+|Pa&remti...|
 
 |Delete all backup entries before saving the database|
-|Prieš išsaugant duomenų bazę sunaikinti visus atsarginius įrašus|
+|Prieš išsaugant duomenų bazę pašalinti visus atsarginius įrašus|
 
 |&Repair KeePass Database File...|
-|&Pataisyti KeePass duomenų bazės failą...|
+|Pataisyti KeePass &duomenų bazės failą...|
 
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
 |Failo formatas, kuri pasirinkote importui, palaiko grupių ir/ar įrašų ID. Pasirinkite importo elgseną.|
@@ -1431,7 +1397,7 @@
 |Sukurti naujus ID|
 
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
-|Jei pažymėsite šią parinktį, visoms grupėms ir įrašams KeePass sukurs naujus ID, be to, jokios atidarytos duomenų bazės grupės ir įrašai nebus pakeisti ar perrašyti.|
+|Jei pažymėsite šią parinktį, visoms grupėms ir įrašams KeePass sukurs naujus ID, be to, jokios atvertos duomenų bazės grupės ir įrašai nebus pakeisti ar perrašyti.|
 
 |Overwrite|
 |Perrašyti|
@@ -1452,7 +1418,7 @@
 |Padėka|
 
 |Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
-|Pasirinkite ar KeePass turėtų naudoti atidarytos duomenų bazės raktą, ar prašytų sukurti naują raktą eksportuojamam failui užkoduoti.|
+|Pasirinkite ar KeePass turėtų naudoti atvertos duomenų bazės raktą, ar prašytų sukurti naują raktą eksportuojamam failui užkoduoti.|
 
 |Click [Yes] to use the same key as the currently opened database.|
 |Norėdami palikti dabartinės duomenų bazės raktą spustelėkite [Taip]|
@@ -1464,19 +1430,19 @@
 |Naudoti dabartinį raktą/slaptažodį?|
 
 |Show full path in the title bar (instead of file name only)|
-|Pavadinimo juostoje rodyti pilną adresą (ne vien tik failo vardą)|
+|Pavadinimo juostoje rodyti pilną kelią (ne vien tik failo vardą)|
 
 |Enable auto-type features|
 |Aktyvuoti automatinį įvedimą|
 
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
-|Kopijuoti URL į iškarpinę, o ne atidaryti (išskyrus: cmd:// URL)|
+|Kopijuoti URL į iškarpinę, o ne atverti (išskyrus: cmd:// URL)|
 
 |Copy &URL to Clipboard|
 |Kopijuoti &URL į iškarpinę|
 
 |Exit program instead of locking the workspace after the specified time|
-|Užbaigti programą, o ne užrakinti darbalaukį po nustatyto laiko|
+|Užbaigti programą, o ne blokuoti darbalaukį po nustatyto laiko|
 
 |Click on an entry to auto-type it.|
 |Spustelėkite įrašą automatiniam įvedimui.|
@@ -1488,37 +1454,37 @@
 |Šiame lange yra keli įrašai. Prašom pažymėti įrašą automatiniam įvedimui.|
 
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
-|Atidaromas failas užrakintas, t.y., kažkas kitas yra atvėręs failą redagavimui.|
+|Atveriamas failas blokuotas, t.y., kažkas kitas yra atvėręs failą redagavimui.|
 
 |Open the file in read-only mode?|
-|Ar atidaryti failą tik skaitymui?|
+|Ar atverti failą tik skaitymui?|
 
 |Click [Yes] to open the file in read-only mode.|
-|Spustelėkite [Taip], kad atidarytume failą tik skaitymui.|
+|Spustelėkite [Taip], kad atvertume failą tik skaitymui.|
 
 |Click [No] to open the file in normal writing mode.|
-|Spustelėkite [Ne], kad atidarytume failą normaliam rašymui.|
+|Spustelėkite [Ne], kad atvertume failą normaliam rašymui.|
 
 |Now|
 |Dabar|
 
 |&Tools|
-|&Įrankiai|
+|&Priemonės|
 
 |TAN View &Options|
-|TAN rodymo parinktys|
+|&TAN rodymo parinktys|
 
 |Use &Simple List View for TAN-Only Groups|
-|Naudoti „&Rodyti paprastą sąrašą" grupėms tik iš TAN|
+|Naudoti paprastą sąrašo rodinį grupėms tik iš TAN|
 
 |Show TAN &Indices in Entry Titles|
-|Rodyti TAN &indeksus įrašų pavadinimuose|
+|Rodyti TAN &indeksus įrašų antraštėse|
 
 |Disable 'Save' button if the database hasn't been modified|
 |Deaktyvuoti mygtuką „Įrašyti“, jei duomenų bazė nepakeista|
 
 |Check For Update|
-|Patikrinti naujinimus|
+|Patikrinti naujinius|
 
 |Check for Update|
 |Patikrinti naujinimus|
@@ -1536,7 +1502,7 @@
 |Ryšys nutrūko, nepavyksta patikrinti naujinimų.|
 
 |Cache error (cannot open cached file).|
-|Cache-Fehler (kann gecachte Datei nicht öffnen).|
+|Podėlio klaida (neatsiveria į podėlį padėtas failas).|
 
 |Check for update at KeePass startup|
 |Tikrinti naujinimus KeePass pradedant darbą|
@@ -1578,7 +1544,7 @@
 |KeePass inicijavimas|
 
 |Lock workspace when locking Windows, switching user or sleeping|
-|Užrakinti darbalaukį, užrakinant Windows, perjungiant vartotoją arba pereinant į budėjimo režimą|
+|Blokuoti darbalaukį, blokuojant Windows, perjungiant vartotoją arba pereinant į budėjimo režimą|
 
 |Value|
 |Reikšmė|
@@ -1593,7 +1559,7 @@
 |Įrašas su šiuo URL jau yra.|
 
 |The following application requests access to your currently opened KeePass database:|
-|Ši programa prašo prieigos prie atviros KeePass duomenų bazės:|
+|Ši programa prašo prieigos prie atvertos KeePass duomenų bazės:|
 
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
 |Atminkite, kad programos pavadinimą pateikia pati prašanti programa, todėl jis gali būti neteisingas (pvz., žalinga programa gali prašyti prieigos prie duomenų bazės).|
@@ -1629,19 +1595,19 @@
 |Įsitikinkite, kad laikmena su rakto failų prijungta ir KeePass turi prieigos teisę (patikrinkite failo prieigos teises, užtikrinkite, kad kitos programos neblokuoja failo, ...).|
 
 |URL Field: Help|
-|URL laukas: Žinynas|
+|URL laukelis: Žinynas|
 
 |There are too few characters in the character set to build up a password matching the specified rules|
 |Rinkinyje per mažai ženklų slaptažodžio sudarymui pagal nustatytas taisykles|
 
 |(Custom)|
-|(Vartotojo nurodyti)|
+|(Savieji)|
 
 |Save current settings as a profile.|
 |Įrašyti dabartinius parametrus kaip metmenis.|
 
 |Delete currently selected profile.|
-|Naikinti dabartinius metmenis.|
+|Šalinti dabartinius metmenis.|
 
 |(Automatically generated passwords for new entries)|
 |(Automatiškai sugeneruoti slaptažodžiai naujam įrašui)|
@@ -1680,10 +1646,10 @@
 |Atsitiktinai išmaišyti slaptažodžio ženklus|
 
 |Locked|
-|Užrakinta|
+|Blokuota|
 
 |The help file contains detailed information about the expected input format. Do you want to open the help file?|
-|Žinyne yra detali informaciją apie įvesties formatą. Ar atidaryti žinyną?|
+|Žinyne yra detali informaciją apie įvesties formatą. Ar atverti žinyną?|
 
 |Failed to save the configuration.|
 |Konfigūracija neišsisaugo.|
@@ -1710,7 +1676,7 @@
 |Pašalinti šiuos ženklus:|
 
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
-|Pažymėtosios žvaigždute parinktys / taisyklės mažina sugeneruotųjų slaptažodžių stiprumą. Aktyvuokite jas, jei reikia laikytis svetainės, programos ar slaptažodžių politikos.|
+|Pažymėtosios žvaigždute parinktys/taisyklės mažina sugeneruotųjų slaptažodžių stiprumą. Aktyvuokite jas, jei reikia laikytis svetainės, programos ar slaptažodžių politikos.|
 
 |No repeating characters|
 |Ženklai neturi kartotis|
@@ -1749,7 +1715,7 @@
 |Įkelti esantį rakto failą ir naudoti jį dabartinei duomenį bazei. Rakto failas keičiamas nebus.|
 
 |Cancel|
-|Atšaukti|
+|Atsisakyti|
 
 |Abort specifying a new key for the current database.|
 |Nenurodyti naujo rakto dabartinei duomenų bazei.|
@@ -1767,43 +1733,43 @@
 |Ar įrašyti duomenų bazę prieš failo uždarymą?|
 
 |Save database changes before exiting KeePass?|
-|Ar įrašyti duomenų bazės pakeitimus prieš užbaigiant KeePass?|
+|Ar įrašyti duomenų bazės pokyčius prieš užbaigiant KeePass?|
 
 |Save database changes before locking the workspace?|
-|Ar įrašyti duomenų bazės pakeitimus prieš užrakinant darbalaukį?|
+|Ar įrašyti duomenų bazės pokyčius prieš blokuojant darbalaukį?|
 
 |Save all changes made to the database and close the file.|
-|Įrašyti visus duomenų bazės pakeitimus ir uždaryti failą.|
+|Įrašyti visus duomenų bazės pokyčius ir užverti failą.|
 
 |Save all changes made to the database and exit KeePass.|
-|Įrašyti visus duomenų bazės pakeitimus ir užbaigti KeePass.|
+|Įrašyti visus duomenų bazės pokyčius ir užbaigti KeePass.|
 
 |Save all changes made to the database and lock the KeePass workspace.|
-|Įrašyti visus duomenų bazės pakeitimus ir užrakinti KeePass darbalaukį.|
+|Įrašyti visus duomenų bazės pokyčius ir blokuoti KeePass darbalaukį.|
 
 |Discard all changes made to the database and close the file.|
-|Atmesti visus duomenų bazės pakeitimus ir uždaryti failą.|
+|Atmesti visus duomenų bazės pokyčius ir užverti failą.|
 
 |Discard all changes made to the database and exit KeePass.|
-|Atmesti visus duomenų bazės pakeitimus ir užbaigti KeePass.|
+|Atmesti visus duomenų bazės pokyčius ir užbaigti KeePass.|
 
 |Discard all changes made to the database and lock the KeePass workspace.|
-|Atmesti visus duomenų bazės pakeitimus ir užrakinti KeePass darbalaukį.|
+|Atmesti visus duomenų bazės pokyčius ir blokuoti KeePass darbalaukį.|
 
 |Abort the current operation.|
 |Nutraukti dabar atliekamą veiksmą.|
 
 |The KeePass workspace will not be locked.|
-|KeePass darbalaukis nebus užrakintas.|
+|KeePass darbalaukis nebus blokuotas.|
 
 |KeePass will not be closed.|
 |KeePass darbo nebaigs.|
 
 |The file will not be closed.|
-|Failas nebus uždarytas.|
+|Failas nebus užvertas.|
 
 |The master password must be at least %u characters long!|
-|Pagrindinis slaptažodis turi būti iš bent %d ženklų!|
+|Pagrindinis slaptažodis turi būti bent iš %d ženklų!|
 
 |The estimated quality of the master password must be at least %u bits!|
 |Įvertinta pagrindinio slaptažodžio kokybė turėtų viršyti %u bitų!|
@@ -1818,13 +1784,13 @@
 |Visuomet suteikti pilnas teises nuotoliniam valdymui (nerekomenduotina)|
 
 |URL Field: Select Application...|
-|URL laukas: pasirinkti programą...|
+|URL laukelis: Pasirinkti programą...|
 
 |URL Field: Select Document...|
-|URL laukas: pasirinkti dokumentą...|
+|URL laukelis: Pasirinkti dokumentą...|
 
 |URL Field: Insert Placeholder|
-|URL laukas: įterpti vietaženklį|
+|URL laukelis: Įterpti vietaženklį|
 
 |Auto-Type: Help|
 |Automatinis įvedimas: žinynas|
@@ -1839,7 +1805,7 @@
 |Pasirinkti paskirties langą dabartiniam įrašui.|
 
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
-|Norėdami nurodyti paskirties langą, pažymėkite esantį atvirą langą iš iškrentančio sąrašo arba įveskite lango pavadinimą:|
+|Norėdami nurodyti paskirties langą, pažymėkite esantį atvertą langą iš iškrentančio sąrašo arba įveskite lango antraštę:|
 
 |Default auto-type sequence for standard entries:|
 |Numatytoji automatinio įvedimo seka standartiniams įrašams:|
@@ -1848,7 +1814,7 @@
 |Speciali inicijavimo seka Internet Explorer langams|
 
 |Here you can configure auto-type.|
-|Čia gali tinkinti automatinį įvedimą.|
+|Čia gali konfigūruoti automatinį įvedimą.|
 
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
 |Paskirties failas gali būti sugadintas. Pabandykite įrašyti dar kartą, jei nepavyks - įrašykite duomenų bazę į kitą vietą.|
@@ -1857,7 +1823,7 @@
 |Perkelti į foną, kopijuojant duomenis į iškarpinę|
 
 |Insert Field Reference|
-|Įterpti laukelio nuorodą|
+|Įterpti laukelio rodyklę|
 
 |In Title Field|
 |Antraštės laukelyje|
@@ -1875,13 +1841,13 @@
 |Pastabų laukelyje|
 
 |Field to reference|
-|Laukelis nuorodai|
+|Laukelis rodyklei|
 
 |Identify source entry by|
 |Identifikuoti pradinį įrašą pagal|
 
 |Source field to reference|
-|Pradinis įrašas nuorodai|
+|Pradinis įrašas rodyklei|
 
 |The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
 |Pažymėtajame laukelyje, nurodančiame pradinį įrašą, yra neleistinų ženklų (kaip „{“, „}“, naujos eilutės ženklas ir pan.).|
@@ -1899,19 +1865,49 @@
 |Normalus|
 
 |Take ownership of the file and open it in normal writing mode.|
-|Perimkite failo teises ir atidarykite jį normaliu rašymo režimu.|
+|Perimkite failo teises ir atverkite jį normaliam rašymui.|
 
 |Open the file in read-only mode. Changes to the database can be saved to a different file.|
-|Atidaryti failą tik skaitymui. Duomenų bazės pakeitimai gali būti įrašyti į kitą failą.|
+|Atverti failą tik skaitymui. Duomenų bazės pokyčiai gali būti įrašyti į kitą failą.|
 
 |Sort items in the auto-type entry selection dialog|
-|Rūšiuoti elementus automatinio įvedimo įrašo pasirinkimo dialoge|
+|Rikiuoti elementus automatinio įvedimo įrašo pasirinkimo dialoge|
 
 |Clear clipboard when closing/locking the database|
-|Išvalyti iškarpinę prieš duomenų bazės uždarymą/užrakinimą|
+|Išvalyti iškarpinę prieš duomenų bazės užvėrimą/blokavimą|
 
 |Use alternative auto-type method (minimize window)|
 |Naudokite kitą automatinio įvedimo būdą (sumažinti langą)|
 
 |User name:|
 |Vartotojo vardas:|
+
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)|
+|Naudoti išplėstinę atminties apsaugą (DPAPI, tik Windows Vista ar vėlesnė)|
+
+|This option is disabled, because local help is not installed.|
+|Ši galimybė išjungta, kadangi lokalusis žinynas neįdiegtas.|
+
+|Choose between local help and online help center.|
+|Pasirinkite lokalųjį žinyną arba internetinį pagalbos centrą.|
+
+|Help &Source...|
+|&Pagalbos šaltinis...|
+
+|Help Source|
+|Pagalbos šaltinis...|
+
+|Local help file|
+|Lokalusis žinynas|
+
+|Online help center|
+|Internetinis pagalbos centras|
+
+|Use the following help source when a "Help" button within KeePass is clicked:|
+|Naudoti nurodytą pagalbos šaltinį, kuomet paspaudžiamas mygtukas „Žinynas“:|
+
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+|Vietinis žinyno failas yra dalis dokumentacijos, sukurtos išleidžiant šią produkto versiją. Failas automatiškai neatnaujinamas.|
+
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+|Internetiniame žinyne visuomet yra naujausia produkto dokumentacija, bet jam reikia prieigos prie Interneto.|
