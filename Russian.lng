@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.14|
+|~LANGUAGEVERSION|             |1.15|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -142,7 +142,6 @@
 |&File|                  |&Файл|
 |&Edit|                  |&Изменить|
 |&View|                  |&Вид|
-|E&xtras|                |&Дополнительно|
 |&?|                     |&?|
 
 |&New...|                |&Новый...|
@@ -156,18 +155,18 @@
 |&Unlock Workspace|      |Сн&ять блокировку|
 |E&xit|                  |&Выход|
 
-|&Lock/Unlock Workspace|       |За&блокировать/Снять блокировку|
+|&Lock/Unlock Workspace| |За&блокировать/Снять блокировку|
 
-|&Options...|                  |&Настройки...|
-|Add Password &Group...|       |Добавить &группу...|
-|Add Password Su&bgroup...|    |&Добавить подгруппу...|
-|Modif&y Password Group...|    |Изм&енить группу...|
-|&Delete Password Group...|    |&Удалить группу...|
-|Pr&int Group...|              |&Распечатать группу...|
-|&Export Group To|             |&Экспортировать группу в|
-|Copy User &Name to Clipboard| |Скопировать &имя пользователя в буфер обмена|
-|Copy &Password to Clipboard|  |Скопировать &пароль в буфер обмена|
-|Open &URL(s)|                 |Открыть &ссылку(и)|
+|&Options...|      |&Настройки...|
+|Add &Group...|    |Добавить &группу...|
+|Add Su&bgroup...| |&Добавить подгруппу...|
+|Ed&it Group...|   |Изм&енить группу...|
+|&Delete Group...| |&Удалить группу...|
+|Pr&int Group...|  |&Распечатать группу...|
+|&Export Group To| |&Экспортировать группу в|
+|Copy User &Name|  |Скопировать &имя пользователя|
+|Copy &Password|   |Скопировать &пароль|
+|Open &URL(s)|     |Открыть &ссылку(и)|
 |&Find in Database...|         |П&оиск по базе паролей...|
 |Find in t&his Group...|       |Поис&к по группе...|
 |&Add Entry...|                |Добавить &запись...|
@@ -468,7 +467,7 @@
     |Вы изменили настройку, которая требует перезагрузки KeePass для ее активации.|
 |Expired Entries|                         |Просроченные записи|
 |This is a list of all expired entries|   |Список всех просроченных записей|
-|Show All &Expired Entries|               |Показывать все &просроченные записи|
+|Show &Expired Entries|                   |Показывать &просроченные записи|
 |Click on an entry to jump to it.|        |Щелкните по записи для перехода на нее.|
 |Quality:|                                |Качество:|
 |Database Settings|                       |Настройки базы паролей|
@@ -521,11 +520,8 @@
 |&Plugins...|          |&Модули...|
 |About &Plugin...|     |О &модуле...|
 |An error occurred|    |Произошла ошибка|
-|Application version:| |Версия приложения:|
 |Auto-Type|            |Автонабор|
 |Clipboard behavior:|  |Режим буфера обмена:|
-|Disabled, not loaded| |Заблокирован, не загружен.|
-|Do you want to load the plugin?| |Вы хотите загрузить модуль?|
 |Enabled, loaded|      |Разблокирован, загружен.|
 |Encryption/decryption error|     |Ошибка шифрования/дешифрования|
 |Enhanced: allow pasting only once and protect against clipboard spies|
@@ -537,7 +533,7 @@
 |File access error: failed to open file in write mode|  |Ошибка доступа к файлу: невозможно открыть файл в режиме записи|
 |File error: error while reading from the file|         |Файловая ошибка: ошибка во время чтения из файла|
 |File error: error while writing to the file|           |Файловая ошибка: ошибка во время записи в файл|
-|Get More Plugins...|  |Получить больше модулей...|
+|Get more plugins...|  |Получить больше модулей...|
 |Global auto-type hot key combination:|                 |Глобальная "горячая" клавиша для автонабора:|
 |Help:|                |Справка:|
 |Here you can configure all installed KeePass plugins.| |Здесь вы можете настроить все установленные подключаемые модули для KeePass.|
@@ -548,8 +544,6 @@
 |Invalid random source||Неверный источник случайностей|
 |Invalid/corrupted file structure| |Неверная/испорченная структура файла|
 |Invalid/wrong key|    |Неверный пароль|
-|It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
-    |Возможно модуль совместим, но также возможно, что он приведет к аварийному завершению KeePass.|
 |KeePass - Save Before Close/Lock?| |KeePass - сохранить перед закрытием/блокировкой?|
 |Most probably another application has reserved this hot key already.|
     |Вероятнее всего другое приложение уже зарезервировало эту "горячую" клавишу.|
@@ -557,16 +551,10 @@
 |Number the TANs consecutively, starting from this value| |Нумеровать TANы последовательно, начиная с указанного значения|
 |Plugin|               |Модуль|
 |Plugins|              |Модули|
-|Plugin has been designed for:|     |Модуль был сделан для:|
 |Success|              |Успешно|
-|Therefore save all data before you continue.|            |Поэтому сохраните все данные перед продолжением.|
-|This plugin has been designed for a different application version and may be incompatible with this one.|
-    |Этот модуль был сделан для другой версии приложения и может быть несовместим с этой версией.|
-|This plugin will be disabled after you restart KeePass.| |Этот модуль будет заблокирован после перезагрузки KeePass.|
-|This plugin will be enabled after you restart KeePass.|  |Этот модуль будет разблокирован после перезагрузки KeePass.|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
     |Временной: автоматически очищает буфер обмена через несколько секунд после вставки|
-|Too few memory (RAM) available|    |Очень мало памяти (ОЗУ)|
+|Too little memory (RAM) available|    |Недостаточно памяти (ОЗУ)|
 |Cannot register the global hot key.| |Невозможно зарегистрировать глобальную "горячую" клавишу.|
 |Unknown error|        |Неизвестная ошибка|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
@@ -576,7 +564,6 @@
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
     |Вы выбрали режим "и" для ввода пароля, поэтому вы должны ввести пароль И выбрать файл с паролем.|
 |&Use master password and key file| |&Использовать пароль + файл с паролем|
-|cannot be loaded!|         |не может быть загружен!|
 
 |Advanced| |Расширенные|
 |Backup|   |Резервирование|
@@ -843,3 +830,17 @@
 |Read-only| |Только для чтения|
 |Sort items in the auto-type entry selection dialog| |Сортировать записи в окне выбора записей для автонабора|
 |Take ownership of the file and open it in normal writing mode.| |Взять файл в монопольное использование и открыть в обычном режиме для записи.|
+
+|Choose between local help and online help center.| |Выбор между локальным файлом и центром справки.|
+|Help &Source...| |&Источник справки...|
+|Help Source| |Источник справки|
+|Local help file| |Локальный файл помощи|
+|Online help center| |Справочный центр с сайта программы|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+    |Локальный файл помощи - это состояние документации на момент выхода версии программы. Он не обновляется автоматически.|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+    |Справочный центр всегда содержит последнюю версию документации. В этом случае обязательно требуется подключение к интернету.|
+|This option is disabled, because local help is not installed.| |Опция заблокированна, т.к. справка не установленна локально.|
+|Use the following help source when a "Help" button within KeePass is clicked:| |При нажатиии на кнопку "Помощь", использовать следующий источник:|
+
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)| |Использовать расширенную защиту памяти (DPAPI, только Vista и выше)|
