@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Belarusian|
-|~LANGUAGEVERSION|             |1.14|
+|~LANGUAGEVERSION|             |1.15|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -145,20 +145,20 @@
 |&Tools|  |&Інструменты|
 |&Help|   |&Даведка|
 
-|&New...|                |Зрабіць &новы...|
-|&Open...|               |&Адчыніць...|
-|&Close|                 |&Зачыніць|
-|&Save|                  |За&хаваць|
-|Save &As...|            |Захаваць &як...|
-|&Database Settings...|  |На&стройкі базы пароляў...|
-|Change &Master Key...|  |Змяніць асноўны &пароль...|
-|Print Pre&view...|      |Папярэдні п&рагляд...|
-|&Print...|              |На&друкаваць...|
-|&Export To|             |&Экспартаваць у|
-|&Import From|           |&Імпартаваць ужывая|
-|&Lock Workspace|        |За&блакіраваць|
-|&Unlock Workspace|      |Зняць &блакіроўку|
-|E&xit|                  |&Выйсці|
+|&New...|               |Зрабіць &новы...|
+|&Open...|              |&Адчыніць...|
+|&Close|                |&Зачыніць|
+|&Save|                 |За&хаваць|
+|Save &As...|           |Захаваць &як...|
+|&Database Settings...| |На&стройкі базы пароляў...|
+|Change &Master Key...| |Змяніць асноўны &пароль...|
+|Print Pre&view...|     |Папярэдні п&рагляд...|
+|&Print...|             |На&друкаваць...|
+|&Export To|            |&Экспартаваць у|
+|&Import From|          |&Імпартаваць ужывая|
+|&Lock Workspace|       |За&блакіраваць|
+|&Unlock Workspace|     |Зняць &блакіроўку|
+|E&xit|                 |&Выйсці|
 
 |&TXT File...|                |&TXT файл...|
 |&HTML File...|               |&HTML файл...|
@@ -170,35 +170,35 @@
 |Personal &Vault TXT File...| |Personal &Vault TXT файл...|
 |&Get More Import Plugins...| |&Больш модуляў імпарту...|
 
-|Add Password &Group...|         |Дадаць &групу...|
-|Add Password Su&bgroup...|      |Дадаць падгр&упу...|
-|Modif&y Password Group...|      |Зм&яніць групу...|
-|&Delete Password Group...|      |&Выдаліть групу...|
-|Copy User &Name to Clipboard|   |Скапіраваць &імя ў буфер абмену|
-|Copy &Password to Clipboard|    |Скапіраваць &пароль у буфер абмену|
-|Open &URL(s)|                   |Адчыніць &спасылку(і)|
-|&Save Attached File To...|      |Захаваць далучаны &файл...|
-|Perform Auto-&Type|             |Здзейсніць аўта&набор|
-|&Add Entry...|                  |Дадаць &запіс...|
-|&Edit/View Entry...|            |Змяніць/&Агляздець запіс...|
-|Dupli&cate Entry|               |Пра&дубліраваць запіс|
-|&Delete Entry|                  |Выда&ліць запіс|
-|&Modify All Selected...|        |З&мяніць ўсе вылучаныя...|
-|Se&lect All|                    |В&ылучыць усе|
-|&Find in Database...|           |&Шукаць па базе пароляў...|
-|Find in t&his Group...|         |Шу&каць у групе...|
+|Add &Group...|    |Дадаць &групу...|
+|Add Su&bgroup...| |Дадаць падгр&упу...|
+|Ed&it Group...|   |Зм&яніць групу...|
+|&Delete Group...| |&Выдаліть групу...|
+|Copy User &Name|  |Скапіраваць &імя|
+|Copy &Password|   |Скапіраваць &пароль|
+|Open &URL(s)|     |Адчыніць &спасылку(і)|
+|&Save Attached File To...| |Захаваць далучаны &файл...|
+|Perform Auto-&Type|        |Здзейсніць аўта&набор|
+|&Add Entry...|             |Дадаць &запіс...|
+|&Edit/View Entry...|       |Змяніць/&Агляздець запіс...|
+|Dupli&cate Entry|          |Пра&дубліраваць запіс|
+|&Delete Entry|             |Выда&ліць запіс|
+|&Modify All Selected...|   |З&мяніць ўсе вылучаныя...|
+|Se&lect All|               |В&ылучыць усе|
+|&Find in Database...|      |&Шукаць па базе пароляў...|
+|Find in t&his Group...|    |Шу&каць у групе...|
 
-|&Rearrange|                   |Упа&радкаваць|
-|Pr&int Group...|              |На&друкаваць групу...|
-|&Export Group To|             |&Экспартаваць групу ў|
+|&Rearrange|       |Упа&радкаваць|
+|Pr&int Group...|  |На&друкаваць групу...|
+|&Export Group To| |&Экспартаваць групу ў|
 
-|Move Group to &Top|           |Перанесці групу ў пача&так|
-|Move Group One &Up|           |Ссунуць групу ў&гору|
-|Move Group &One Down|         |Ссунуць групу ўні&з|
-|Move Group to &Bottom|        |Перанесці групу ў кане&ц|
-|Move Group One &Left|         |Перанесці групу на ўзровень &вышэй|
-|Move Group One &Right|        |Перанесці групу на ўзровень &ніжэй|
-|&Sort Group List|             |&Сартаваць спіс груп|
+|Move Group to &Top|    |Перанесці групу ў пача&так|
+|Move Group One &Up|    |Ссунуць групу ў&гору|
+|Move Group &One Down|  |Ссунуць групу ўні&з|
+|Move Group to &Bottom| |Перанесці групу ў кане&ц|
+|Move Group One &Left|  |Перанесці групу на ўзровень &вышэй|
+|Move Group One &Right| |Перанесці групу на ўзровень &ніжэй|
+|&Sort Group List|      |&Сартаваць спіс груп|
 
 |Move Entry to &Top|             |Перанесці запіс у пача&так|
 |Move Entry &One Up|             |Ссунуць запіс у&гору|
@@ -239,7 +239,7 @@
 |Password &Generator...|           |Г&енератар пароляў...|
 |&TAN Wizard...|                   |&TAN майстар...|
 |&Repair KeePass Database File...| |Адрамантаваць &файл базы пароляў...|
-|Show All &Expired Entries|        |Паказаць усе сп&ыненыя запісы...|
+|Show &Expired Entries|            |Паказаць сп&ыненыя запісы...|
 |&Options...|                      |&Настройкі...|
 |&Plugins...|                      |&Модулі...|
 
@@ -253,8 +253,7 @@
 |&Tray/Untray|           |Паказаць/Схаваць у &сістэмную панэль|
 |&Lock/Unlock Workspace| |За&блакіраваць/Зняць блакіроўку|
 
-|E&xtras| |&Дадаткова 1111111111|
-|&?| |&? 111111111|
+|&?| |&?|
 
 |User &name| |&Імя|
 
@@ -540,11 +539,8 @@
 |&Enable|              |&Падключыць|
 |About &Plugin...|     |Аб &модуле...|
 |An error occurred|    |Атрымалася памылка|
-|Application version:| |Версія праграмы:|
 |Auto-Type|            |Аўтанабор|
 |Clipboard behavior:|  |Паводзіны буфера абмену:|
-|Disabled, not loaded| |Адключаны, не загружаны.|
-|Do you want to load the plugin?| |Вы жадаеце загрузіць модуль?|
 |Enabled, loaded|      |Падключаны, загружаны.|
 |Encryption/decryption error|     |Памылка шыфравання/дэшыфравання|
 |Enhanced: allow pasting only once and protect against clipboard spies|
@@ -556,7 +552,7 @@
 |File access error: failed to open file in write mode|  |Памылка доступа да файла: немагчыма адчыніць файл у рэжыме запісу|
 |File error: error while reading from the file|         |Файлавая памылка: памылка ў час чытання з файла|
 |File error: error while writing to the file|           |Файлавая памылка: памылка ў час запісу ў файл|
-|Get More Plugins...|  |Больш мадулёў...|
+|Get more plugins...|  |Больш мадулёў...|
 |Global auto-type hot key combination:|                 |Глабальная "гарачая" камбінацыя клавіш для аўтанабора:|
 |Help:|                |Даведка:|
 |Here you can configure all installed KeePass plugins.| |Тут можна наладзіць усе ўсталяваныя модулі для KeePass.|
@@ -567,8 +563,6 @@
 |Invalid random source| |Недакладная крыніца выпадковасцей|
 |Invalid/corrupted file structure| |Недакладная/сапсаваная структура файла|
 |Invalid/wrong key|    |Недакладны пароль|
-|It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
-    |Магчыма модуль сумяшчальны, але таксама магчыма, што ён абурыць KeePass.|
 |KeePass - Save Before Close/Lock?| |KeePass - захаваць перад зачыненнем/блакіроўкай?|
 |Most probably another application has reserved this hot key already.|
     |Больш магчыма што іншая праграма ўжо зарэзервіравала гэтую "гарачую" клавішу.|
@@ -576,16 +570,10 @@
 |Number the TANs consecutively, starting from this value| |Нумараваць TANы паслядоўна, пачыная з гэтага значэння|
 |Plugin|               |Модуль|
 |Plugins|              |Модулі|
-|Plugin has been designed for:|     |Модуль быў зроблен для:|
 |Success|              |Паспяхова|
-|Therefore save all data before you continue.|            |Таму захавайце ўсе даныя перад працягванням.|
-|This plugin has been designed for a different application version and may be incompatible with this one.|
-    |Гэты модуль быў зроблен для іншай версіі праграмы і можа быць несумяшчальным з гэтай.|
-|This plugin will be disabled after you restart KeePass.| |Гэты модуль будзе адключаны пасля перазапуску KeePass.|
-|This plugin will be enabled after you restart KeePass.|  |Гэты модуль будзе падключаны пасля перазапуску KeePass.|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
     |Часовы: аўтаматычна ачышчаць буфер абмену праз некалькі секунд пасля капіравання|
-|Too few memory (RAM) available|    |Вельмі мала памяці (АЗУ)|
+|Too little memory (RAM) available|    |Нехапае памяці (АЗУ)|
 |Cannot register the global hot key.| |Немагчыма зарэгістраваць глабальную "гарачую" клавішу.|
 |Unknown error|        |Невядомая памылка|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
@@ -594,7 +582,6 @@
     |Вы можыце ўсталяваць іншую "гарачую" камбінацыю клавіш у 'Інструменты' - 'Настройкі' - 'Пашыраныя' - 'Аўтанабор'.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
     |Вы выбралі рэжым "і" для ўвода паролю, таму вам трэба ўвесці пароль і выбраць ключавы файл.|
-|cannot be loaded!|         |немагчыма загрузіць!|
 
 |Advanced| |Пашыраныя|
 |Backup|   |Рэзерваванне|
@@ -850,3 +837,17 @@
 |Read-only| |Толькі для чытання|
 |Sort items in the auto-type entry selection dialog| |Сартаваць запісы ў акне выбара запісаў для аўтанабора|
 |Take ownership of the file and open it in normal writing mode.| |Узяць файл у манапольнае карыстанне і адчыніць яго ў звычайным рэжыме запісу.|
+
+|Choose between local help and online help center.| |Выбар паміж лакальным файлам і цэнтрам даведкі.|
+|Help &Source...| |&Крыніца даведкі...|
+|Help Source| |Крыніца даведкі|
+|Local help file| |Лакальны файл дапамогі|
+|Online help center| |Даведачны цэнтр з сайта праграмы|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+    |Лакальны файл дапамогі - гэта стан дакументацыі на момант выхада версіі праграмы. Ён не абнаўляецца аўтаматычна.|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+    |Даведачны цэнтр заўсёды змяшчае апошнюю версію дакументацыі. У гэтым выпадку абавязкова патрэбна падключэнне к інтэрнэту.|
+|This option is disabled, because local help is not installed.| |Опцыя заблакіравана, т.ш. даведка не ўсталявана лакальна.|
+|Use the following help source when a "Help" button within KeePass is clicked:| |Пры націсканні на кнопку "Дапамога", ўжываць наступную крыніцу:|
+
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)| |Ужываць пашыраную абарону памяці (DPAPI, толькі Vista і вышэй)|
