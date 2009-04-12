@@ -1,7 +1,7 @@
-﻿|~LANGUAGENAME|                |پارسی|
-|~LANGUAGEVERSION|             |1.14|
+﻿|~LANGUAGENAME|                |فارسی|
+|~LANGUAGEVERSION|             |1.15|
 |~LANGUAGEAUTHOR|              |TormenT|
-|~LANGUAGEAUTHOREMAIL|         |Sunken.Soul@Yahoo.com|
+|~LANGUAGEAUTHOREMAIL|         |torment.fall@GMail.com|
 
 |&OK|                          |تاييد&|
 |&Cancel|                      |لغو&|
@@ -137,7 +137,6 @@
 |&File|                        |پرونده|
 |&Edit|                        |ويرايش|
 |&View|                        |نمايش|
-|E&xtras|                      |اضافات|
 |&?|                           |؟|
 
 |&New...|                      |...جديد|
@@ -155,13 +154,7 @@
 |&Lock/Unlock Workspace|       |باز/قفل کردن فضاي کاري|
 
 |&Options...|                  |...ا&ختيارات|
-|Add Password &Group...|       |...افزودن گروه پسورد|
-|Add Password Su&bgroup...|    |...افزودن زيرگروه پسورد|
-|Modif&y Password Group...|    |...اصلاح گروه پسورد|
-|&Delete Password Group...|    |...حذف گروه پسورد|
 |Pr&int Group...|              |...چاپ گروه|
-|Copy User &Name to Clipboard| |کپي نام کاربري به حافظه موقت|
-|Copy &Password to Clipboard|  |کپي پسورد به حافظه موقت|
 |Open &URL(s)|                 |باز کردن آدرس(هاي) اينترنتي|
 |&Find in Database...|         |...جستجو در پايگاه داده|
 |Find in t&his Group...|       |...جستجو در اين گروه|
@@ -198,7 +191,7 @@
 |Password and repeated password aren't identical!|
     |!پسورد و تکرار آن با هم يکسان نيستند|
 
-|Stop|                         |توفق|
+|Stop|                         |ایست|
 
 |Enter a group name!|          |!وارد کردن نام يک گروه|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
@@ -269,7 +262,7 @@
 |Newline sequence:|            |: ترتيب خط جديد|
 |Windows newline sequence (\r\n)|              |(\r\n)ترتیب خط جدید ویندوز|
 |Unix newline sequence (\n)|   |(\n)ترتیب خط جدید یونیکس|
-|Clipboard auto-clear time (seconds):|   |:(زمان پاکسارزی خودکار حافظه موقت (ثانیه|
+|Clipboard auto-clear time (seconds):|   |:(زمان پاک سازی خودکار حافظه موقت (ثانیه|
 |Settings|                     |تنظیمات|
 |Here you can configure KeePass.|              |در اینجا می توانید برنامه را پیکر بندی کنید|
 |Automatically open last used database on startup|
@@ -332,7 +325,7 @@
     |کدگذاری بلوکی 128 بیتی بااستفاده ازکلید 256 بیتی - (AES) کدگزاری|
 |Twofish (128-bit block cipher using 256-bit key)|
     |کدگذاری بلوکی 128 بیتی بااستفاده ازکلید 256 بیتی - Twofish کدگذاری|
-|Security|                     |امنیتی|
+|Security|                     |امنیت|
 |KeePass is OSI Certified Open Source Software.|
     |.برنامه ای مجاز و متن باز است KeePass|
 |Automatically lock workspace after the following number of seconds:|
@@ -347,13 +340,13 @@
 |Creation Time|                |زمان ایجاد|
 |Last Modification|            |آخرین اصلاح|
 |Last Access|                  |آخرین دسترسی|
-|Expires|                      |منسوخ شدن|
+|Expires|                      |منقضي‌ شدن|
 |UUID|                         |UUID|
 
 |&Creation Time|               |زمان ایجاد|
 |Last &Modification Time|      |زمان آخرین اصلاح|
 |&Last Access Time|            |زمان آخرین دسترسی|
-|&Expiration Time|             |زمان فسخ|
+|&Expiration Time|             |زمان انقضا|
 |UU&ID|                        |UU&ID|
 
 |Show &Toolbar|                |نمایش نوار ابزار|
@@ -368,7 +361,7 @@
 |Click [Cancel] to abort changing the key.|
     |.برای لغو تغییر کلید روی [لغو] کلیک کنید|
 
-|Overwrite?|                   |جایگزینی؟|
+|Overwrite?|                   |جایگزین کردن؟|
 |Expires:|                     |:منقضی شدن|
 |Change group:|                |:تغییر گروه|
 |Change entry icon:|           |:تغییر نشانه ورودی|
@@ -469,9 +462,8 @@
     |.برای اجرای این عملیات می بایست عملیات های خطر ناک را از گفتگوی اختیارات فعال کنید|
 |You have changed an option that requires restarting KeePass to get active.|
     |.شما اختیاری را تغییر دادید که برای فعال شدنش راه اندازی مجدد برنامه را می طلبد |
-|Expired Entries|                         |ورودی های منسوخ|
-|This is a list of all expired entries|   |این یک لیست همه ورودی های منسوخ است|
-|Show All &Expired Entries|               |نمایش تمام ورودی های منسوخ|
+|Expired Entries|                         |ورودی های منقضي‌|
+|This is a list of all expired entries|   |این یک لیست از همه ورودی های منقضي‌ است|
 |Click on an entry to jump to it.|        |.برای پرش روی یک ورودی روی آن کلیک کنید|
 |Quality:|                                |:کیفیت|
 |Database Settings|                       |تنظیمات پایگاه داده|
@@ -519,25 +511,11 @@
 |Repeat the new master password for this database.| |.پسورد اصلی برای این پایگاه داده را تکرار کنید|
 |Change Composite Master Key|             |تغییر شاه کلید مرکب|
 |Plugin|                                  |پلاگین|
-|cannot be loaded!|                       |!عدم امکان بارگذاری |
 |Plugins|                                 |برنامه های جانبی|
 |&Plugins...|                             |...برنامه های جانبی|
 |Here you can configure all installed KeePass plugins.|
     |.در اینجا می توانید تمام پلاگین های نصب شده برنامه را پیکربندی کنید|
-|This plugin has been designed for a different application version and may be incompatible with this one.|
-    |.این پلاگین برای نسخه دیگری از برنامه طراحی شده ویا با این یکی ناسازگار است|
-|Application version:|                    |:نسخه برنامه|
-|Plugin has been designed for:|           |:پلاگین طراحی شده است برای|
-|It is possible that the plugin is compatible, but it's also possible that it will crash KeePass.|
-    |.شاید پلاگین سازگار باشد اما امکان هنگ کردن برنامه نیز هست|
-|Therefore save all data before you continue.|    |.بنابراین قبل از ادامه داده ها را ذخیره کنید|
-|Do you want to load the plugin?|         |آیا می خواهید پلاگین را بارگذاری کنید؟|
-|This plugin will be disabled after you restart KeePass.|
-    |.این پلاگین بعداز راه اندازی مجدد برنامه غیرفعال خواهد شد|
 |Enabled, loaded|                         |فعال و بارگذاری شد|
-|Disabled, not loaded|                    |غیر فعال و بارگذاری نشد|
-|This plugin will be enabled after you restart KeePass.|
-    |.این پلاگین بعداز راه اندازی مجدد برنامه فعال خواهد شد|
 |&Enable|                                 |فعال|
 |&Disable|                                |غیر فعال|
 |About &Plugin...|                        |...درباره پلاگین|
@@ -546,7 +524,6 @@
 |Unknown error|                           |خطای ناشناخته|
 |Success|                                 |موفق|
 |Invalid parameter|                       |پارامتر نادرست|
-|Too few memory (RAM) available|          |حافظه زیادی در دسترس است|
 |Invalid/wrong key|                       |کلید نادرست|
 |File access error: failed to open file in read mode|
     |خطای دسترسی به پرونده : گشایش پرونده در حالت خواندن ناموفق بود|
@@ -560,7 +537,6 @@
 |Invalid random source|                   |منبع تصادفی نادرست|
 |Invalid/corrupted file structure|        |ساختار پرونده نادرست یا صدمه دیده|
 |Encryption/decryption error|             |خطای رمز گذاری / رمز گشایی|
-|Get More Plugins...|                     |...دستیابی به پلاگین های بیشتر|
 |Global auto-type hot key combination:|   |: کلید مرکب اصلی تایپ خوکار|
 |Cannot register the global hot key.|     |.عدم توانایی در ثبت کلید اصلی|
 |Most probably another application has reserved this hot key already.|
@@ -581,16 +557,16 @@
     |.مطمئن شوید آیا می توانید در رجیستری چیزی بنویسید و مرتبط کننده پرونده را تغییر دهید .kdb ناموفق در مرتبط سازی پرونده|
 |Number the TANs consecutively, starting from this value|
     |.های متوالی از این ارزش شروع می شود TAN تعداد |
-|Never expires|                           |عدم فسخ|
+|Never expires|                           |عدم منقضي‌ شدن|
 |Auto-Type|                               |تایپ خودکار|
 |Help:|                                   |:راهنما|
 |Advanced|                                |پیش رفته|
 |Start minimized and locked|              |شروع کوچک و قفل شده|
 |Immediately after opening a database|    |بلافصله بعد از گشایش یک پایگاه داده|
 |Show expired entries (if any)|
-    |(گشایش ورودی های منسوخ (در صورت وجود|
+    |(گشایش ورودی های منقضي‌ (در صورت وجود|
 |Show entries that will expire soon (if any)|
-    |(نمایش ورودی هایی که بزودی منسوخ می شوند(در صورت وجود|
+    |(نمایش ورودی هایی که بزودی منقضي‌ می شوند(در صورت وجود|
 |Integration|                             |پیوست|
 |Start KeePass at Windows startup (for current user)|
     |(شروع برنامه بهنگام شروع ویندوز (برای کاربر کنونی|
@@ -629,7 +605,7 @@
     |تک کلیک چپ به جای دبیل کلیک برای عمل پیشفرض نشانه تری|
 |Exclude entries in the '&Backup' group|  |مستثنی ساختن وارده ها در گروه پشتیبان|
 |By default, new entries expire in the following number of days:|
-    |:به طور پیش فرض ، ورودی ها در طول تعداد روز های زیر منسوخ می شوند |
+    |:به طور پیش فرض ، ورودی ها در طول تعداد روز های زیر منقضي می شوند |
 |Click to expire the entry in %u days|    |روز کلیک کنید %u برای انقضای ورودی در|
 |Calculate rounds for a 1-second delay on this computer|  |محاسبه دوره ها به مدت1-ثانیه روی این کامپیوتر |
 |The program is distributed under the terms of the GNU General Public License v2 or later.|
@@ -720,7 +696,7 @@
     |.(دقت کنید که عنوان برنامه از برنامه درخواست کننده تغذیه می شود و ممکن است نادرست باشد (یک برنامه مخرب میتواند سعی در دستیابی به پایگاه داده داشته باشد |
 |Do you grant the application access to your KeePass database?|
     |آیا می پذیرید برنامه به پایگاه داده تان دسترسی پیدا کند؟|
-|&Read-Only|                                   |فقط خواندن|
+|&Read-Only|                                   |فقط خواندنی|
 |&Full|                                        |کامل|
 |&Deny|                                        |انکار|
 |Incoming IPC Request|                         |IPC درخواست ورود|
@@ -771,7 +747,7 @@
 |The key provider plugin did not supply a valid key|
     |پلاگین تهیه کننده کلید ، کلید درستی را تامین نکرد|
 |Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
-    |(نمایش پنجره برنامه در جلو) Ctrl-Alt-Kثبت کلید|
+    |(نمایش پنجره برنامه در جلو) Ctrl-Alt-K ثبت کلید|
 |Type to search the database|                  |نوع جستجوی پایگاه داده|
 |Search...|                                    |...جست و جو|
 |Clear Search History|                         |پاک کردن تاریخچه جستجو|
@@ -837,7 +813,7 @@
 |Default auto-type sequence for standard entries:|   |ترتیب پیش فرض تایپ خودکار برای ورودی های استاندارد|
 |Drop to background when copying data to the clipboard|  |وقتی اطلاعات به کلیپبرد کپی می شود به زمینه محول کن|
 |Enable auto-type features|  |فعال کردن خصوصیات تایپ خودکار|
-|Exclude &expired entries|   |بجز ورودی های منسوخ|
+|Exclude &expired entries|   |بجز ورودی های منقضي‌|
 |Field to reference| |فیلد برای ارجاع| 
 |Here you can configure auto-type.| |در اینجا می توانید تیپ خودکار را پیکربندی کنید|
 |Identify source entry by| |تشخیص ورودی منبع با |
@@ -846,7 +822,7 @@
 |In Title Field| |در فیلد عنوان|
 |In URL Field|  |در فیلد آدرس اینترنتی|
 |In User Name Field|  |در فیلد نام کاربری|
-|Include expired entries in quick searches (toolbar)| |( شامل ورودی های منسوخ در جستجوهای سریع ( نوار ابزار|
+|Include expired entries in quick searches (toolbar)| |( شامل ورودی های منقضي‌ در جستجوهای سریع ( نوار ابزار|
 |Insert Field Reference|  |قرار دادن ارجاع دهنده فیلد|
 |Multiple entries match the specified identifying field.|  |همسان سازی ورودی های چندگانه با فیلد تشخیص دهنده تعیین شده|
 |Normal| |نرمال|
@@ -867,3 +843,44 @@
 |هایشان که متفاوتند تشخیص داده شوند UUID برای دوری از ابهام ، ورودی ها می توانند با|
 |You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
 |.برگزینید 'Tools' - 'Options' - 'Advanced' - 'Auto-Type' می توانید کلید ترکیبی دیگری را در |
+|&Delete Group...|                       |...حذف گروه|
+|Add &Group...|                           |...افزودن گروه|
+|Add Su&bgroup...|                     |...افزودن زیرگروه|
+|Choose between local help and online help center.|
+|.از بین راهنمای داخلی و آنلاین یکی را برگزینید|
+|Copy &Password|                 |کپی پسورد|
+|Copy User &Name|               |کپی نام کاربری|
+|Ed&it Group...|                     |...ویرایش گروه|
+|Get more plugins...|              |...دسترسی به پلاگین ها بیشتر|
+|Help &Source...| |Help Source...|
+|Help Source| |Help Source|
+|Local help file| |پرونده ی راهنمای داخلی|
+|Online help center|  |مرکز راهنمای آنلاین|
+|Show &Expired Entries| |نمایش ورودی های منقضي‌|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+|.پرونده راهنمای داخلی نسخه ای از مستندات برنامه است که وقتی برنامه منتشر شده است ایجاد شده و به صورت خودکار بروز نمی شود|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+|.مرکز راهنمای آنلاین همواره شمامل آخرین مستندات برنامه است.ارتباط اینترنتی لازم است|
+|This option is disabled, because local help is not installed.|
+|.این ویژگی غیرفعال است چونکه راهنمای داخلی نصب نشده است|
+|Too little memory (RAM) available|
+| کمی در دسترس است RAM حافظه یا |
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)|
+|( بکارگیری حفاظت حافظه پیشرفته ( ویندوز ویستا|
+|Use the following help source when a "Help" button within KeePass is clicked:|
+|: "Help"استفاده از منبع راهنمای زیر بهنگام کلیک بر روی دکمه ی |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
