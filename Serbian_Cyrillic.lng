@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Српски|
 |~LANGUAGEVERSION|
-|1.15|
+|1.16|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -278,8 +278,6 @@
 |Подешавање базе...|
 |&Tray/Untray|
 |Смањи/Покажи|
-|Version |
-|Верзија |
 |Password and repeated password aren't identical!|
 |Лозинка и провера нису исте.|
 |Stop|
@@ -380,8 +378,6 @@
 |Покажи слике на дугмада|
 |Show grid lines in password entry list|
 |Покажи линије у листи лозинка|
-|Workspace cannot be unlocked!|
-|Радни простор не може да се деблокира!|
 |Workspace locked|
 |Радни просто блокиран|
 |Loading error|
@@ -618,10 +614,6 @@
 |Отвори са KeePass|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
 |Можете асоцирати ектензију .kdb са KeePass-ом (да би KeePass отворио те датотеке на дупли-клик):|
-|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
-|Датотеке .kdb су успешно асоциране са KeePass. Дупли-клик на .kdb датотеку ће аутоматски покренути KeePass!|
-|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
-|Асоцијација скинута. KeePass неће се покренути на дупли-клик на .kdb датотеку.|
 |Create &Association|
 |Асоцирај|
 |&Remove Association|
@@ -964,22 +956,10 @@
 |Покажи TAN индикаторе у називе ставке|
 |Disable 'Save' button if the database hasn't been modified|
 |Онемогући дигме 'Сачувај' ако база није била промењена|
-|Check For Update|
-|Проверити ажурирање|
-|Check for Update|
-|Проверити ажурирање|
-|New KeePass version available!|
-|Нова верзија KeePass-а је доступна!|
 |You have the latest version.|
 |Имате задњу верзију.|
-|Do you want to visit the KeePass homepage now?|
-|Да ли сада да се оде до сајта KeePass-а?|
-|Connect failed, cannot check for update.|
-|Грешка прикључка, не може да се провери ажурирање.|
 |Cache error (cannot open cached file).|
 |Грешка кеша (не може да се отвори кеш датотека).|
-|Check for update at KeePass startup|
-|Провери ажурирање на покретање KeePass-а|
 |'Keyfile' or 'preselect' option is already specified|
 |Опција 'Кључна датотека' или 'преселекција' је веч наведена|
 |Path is invalid|
@@ -1276,3 +1256,53 @@
 |Користи напредну засштиту меморије (DPAPI, само Windows Vista или више)|
 |Use the following help source when a "Help" button within KeePass is clicked:|
 |Користи овај извор помоћи када дугме „Помоћ“ је кликнути унутар KeePass:|
+|%u updates are available!|
+|%u ажурирања су доступна!|
+|1 update is available!|
+|1 ажурирање је доступно!|
+|Available|
+|Доступно|
+|Check For Updates|
+|Провери ажурирања|
+|Check for Updates|
+|Провери ажурирања|
+|Check for updates at KeePass startup|
+|Провери ажурирања на покретање KeePass-а|
+|Component|
+|Компонент|
+|Connect failed, cannot check for updates.|
+|Веза погрешна, ажурирање неуспешно.|
+|Delete TAN entries immediately after using them|
+|Избриши TAN елементе после коришћења|
+|Installed|
+|Инсталирано|
+|KeePass 1.x cannot open KDBX files.|
+|KeePass 1.x не може да отвори KDBX датотеке.|
+|New version available.|
+|Доступна нова верзија.|
+|No updates available.|
+|Нема ажурирања.|
+|Please choose a different name.|
+|Одабрати друго име.|
+|Plugin unknown.|
+|Непознат додатак.|
+|Pre-release version.|
+|Pre-release верзија.|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+|Успешно асоцирање KeePass-а са .kdb датотекама! Дупли-клик на .kdb ће сада аутоматско покренути KeePass.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+|Успешан уклон асоцирање! KeePass неће више бити покренут када дупло-кликнете на .kdb датотеку.|
+|The specified name is reserved.|
+|Име је резервисано.|
+|Up to date.|
+|Ажурирано.|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
+|Користи CNG/BCrypt па трансформације кључа (само Windows Vista и више)|
+|Use the KeePass 2.x 'Export' feature to migrate this file|
+|Користити KeePass 2.x 'Извоз' за миграцију ове датотеке|
+|Version|
+|Верзија|
+|Workspace is locked.|
+|Радни простор је блокирана.|
+|see the <A HREF="h">help manual</A> for details.|
+|видети <A HREF="h">help manual</A> за детаље.|
