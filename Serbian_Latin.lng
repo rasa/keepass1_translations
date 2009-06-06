@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Srpski|
 |~LANGUAGEVERSION|
-|1.15|
+|1.16|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -278,8 +278,6 @@
 |Podešavanje baze...|
 |&Tray/Untray|
 |Smanji/Pokaži|
-|Version |
-|Verzija |
 |Password and repeated password aren't identical!|
 |Lozinka i provera nisu iste.|
 |Stop|
@@ -380,8 +378,6 @@
 |Pokaži slike na dugmada|
 |Show grid lines in password entry list|
 |Pokaži linije u listi lozinka|
-|Workspace cannot be unlocked!|
-|Radni prostor ne može da se deblokira!|
 |Workspace locked|
 |Radni prosto blokiran|
 |Loading error|
@@ -618,10 +614,6 @@
 |Otvori sa KeePass|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
 |Možete asocirati ektenziju .kdb sa KeePass-om (da bi KeePass otvorio te datoteke na dupli-klik):|
-|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
-|Datoteke .kdb su uspešno asocirane sa KeePass. Dupli-klik na .kdb datoteku će automatski pokrenuti KeePass!|
-|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
-|Asocijacija skinuta. KeePass neće se pokrenuti na dupli-klik na .kdb datoteku.|
 |Create &Association|
 |Asociraj|
 |&Remove Association|
@@ -964,22 +956,10 @@
 |Pokaži TAN indikatore u nazive stavke|
 |Disable 'Save' button if the database hasn't been modified|
 |Onemogući digme 'Sačuvaj' ako baza nije bila promenjena|
-|Check For Update|
-|Proveriti ažuriranje|
-|Check for Update|
-|Proveriti ažuriranje|
-|New KeePass version available!|
-|Nova verzija KeePass-a je dostupna!|
 |You have the latest version.|
 |Imate zadnju verziju.|
-|Do you want to visit the KeePass homepage now?|
-|Da li sada da se ode do sajta KeePass-a?|
-|Connect failed, cannot check for update.|
-|Greška priključka, ne može da se proveri ažuriranje.|
 |Cache error (cannot open cached file).|
 |Greška keša (ne može da se otvori keš datoteka).|
-|Check for update at KeePass startup|
-|Proveri ažuriranje na pokretanje KeePass-a|
 |'Keyfile' or 'preselect' option is already specified|
 |Opcija 'Ključna datoteka' ili 'preselekcija' je več navedena|
 |Path is invalid|
@@ -1276,3 +1256,53 @@
 |Koristi naprednu zasštitu memorije (DPAPI, samo Windows Vista ili više)|
 |Use the following help source when a "Help" button within KeePass is clicked:|
 |Koristi ovaj izvor pomoći kada dugme „Pomoć“ je kliknuti unutar KeePass:|
+|%u updates are available!|
+|%u ažuriranja su dostupna!|
+|1 update is available!|
+|1 ažuriranje je dostupno!|
+|Available|
+|Dostupno|
+|Check For Updates|
+|Proveri ažuriranja|
+|Check for Updates|
+|Proveri ažuriranja|
+|Check for updates at KeePass startup|
+|Proveri ažuriranja na pokretanje KeePass-a|
+|Component|
+|Komponent|
+|Connect failed, cannot check for updates.|
+|Veza pogrešna, ažuriranje neuspešno.|
+|Delete TAN entries immediately after using them|
+|Izbriši TAN elemente posle korišćenja|
+|Installed|
+|Instalirano|
+|KeePass 1.x cannot open KDBX files.|
+|KeePass 1.x ne može da otvori KDBX datoteke.|
+|New version available.|
+|Dostupna nova verzija.|
+|No updates available.|
+|Nema ažuriranja.|
+|Please choose a different name.|
+|Odabrati drugo ime.|
+|Plugin unknown.|
+|Nepoznat dodatak.|
+|Pre-release version.|
+|Pre-release verzija.|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+|Uspešno asociranje KeePass-a sa .kdb datotekama! Dupli-klik na .kdb će sada automatsko pokrenuti KeePass.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+|Uspešan uklon asociranje! KeePass neće više biti pokrenut kada duplo-kliknete na .kdb datoteku.|
+|The specified name is reserved.|
+|Ime je rezervisano.|
+|Up to date.|
+|Ažurirano.|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
+|Koristi CNG/BCrypt pa transformacije ključa (samo Windows Vista i više)|
+|Use the KeePass 2.x 'Export' feature to migrate this file|
+|Koristiti KeePass 2.x 'Izvoz' za migraciju ove datoteke|
+|Version|
+|Verzija|
+|Workspace is locked.|
+|Radni prostor je blokirana.|
+|see the <A HREF="h">help manual</A> for details.|
+|videti <A HREF="h">help manual</A> za detalje.|
