@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Norsk (Nynorsk)|
-|~LANGUAGEVERSION||1.15|
+|~LANGUAGEVERSION||1.16|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||nynorsk@strilen.net|
 |&OK||&OK|
@@ -130,11 +130,10 @@
 |Hide &Passwords Behind Asterisks (***)||Skjul &passorda bak asteriskteikn (***)|
 |Hide passwords behind asterisks (***).||Skjul passorda bak asteriskteikn (***).|
 |Password &Generator...||Passord&lagar…|
-|Visit &KeePass Homepage||&KeePass si heimeside|
+|Visit &KeePass Homepage||KeePass si heime&side|
 |&About KeePass...||&Om KeePass…|
 |&Database Settings...||&Databaseinnstillingar…|
 |&Tray/Untray||&Systemfelt/arbeidsflate|
-|Version ||Utgåve |
 |Password and repeated password aren't identical!||Passorda er ikkje identiske|
 |Stop||Stopp|
 |Enter a group name!||Legg inn eit gruppenamn|
@@ -184,7 +183,6 @@
 |Automatically open last used database on startup||Opna automatisk den sist brukte databasen ved oppstart|
 |Display images on buttons||Vis bilete på knappar|
 |Show grid lines in password entry list||Vis rutenett i passordlista|
-|Workspace cannot be unlocked!||Klarer ikkje å opna opp arbeidsflata|
 |Workspace locked||Arbeidsflata er låst|
 |Loading error||Innlastingsfeil|
 |Language file cannot be opened!||Klarer ikkje å opna språkfila|
@@ -267,7 +265,7 @@
 |<TAN>||<TAN>|
 |Print Pre&view...||F&ørehandsvising…|
 |About &Translation...||Om o&msetjinga…|
-|Translation information||Omsetjingsinformasjon|
+|Translation information||Omsetjingsopplysningar|
 |Currently Used Language||Noverande språk|
 |Language File Version||Språkfilutgåve|
 |Author||Forfattar|
@@ -302,8 +300,6 @@
 |KeePass Password Database||KeePass passorddatabase|
 |&Open with KeePass||&Opna med KeePass|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):||Her kan du knyta .kdb-filer til KeePass. Då vil Keepass opna fila når du dobbeltklikkar på henne:|
-|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!||.kbd-filer er no knytt til KeePass. Keepass vil no automatisk starta opp når du dobbeltklikkar ei slik fil|
-|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!||Tilknytinga er fjerna. KeePass vil ikkje lenger starta automatisk ved dobbelklikk på .kbd-filer.|
 |Create &Association||Lag &knyting|
 |&Remove Association||&Fjern knyting|
 |Setup||Innstillingar|
@@ -470,14 +466,8 @@
 |Use &Simple List View for TAN-Only Groups||Bruk &enkel listevising for berre-TAN-grupper|
 |Show TAN &Indices in Entry Titles||Vis TAN-&indeksar i tittelfeltet til posten|
 |Disable 'Save' button if the database hasn't been modified||Slå av lagre-knappen om databasen ikkje er blitt endra|
-|Check For Update||Sjå etter oppdateringar|
-|Check for Update||Sjå etter oppdateringar|
-|New KeePass version available!||Ny utgåve av KeePass er tilgjengeleg|
 |You have the latest version.||Du har siste utgåve av KeePass.|
-|Do you want to visit the KeePass homepage now?||Vil du besøkja KeePass si heimeside no?|
-|Connect failed, cannot check for update.||Mislykka tilkopling - klarer ikkje å sjå etter nye oppdateringar no.|
 |Cache error (cannot open cached file).||Mellomlagerfeil - klarer ikkje å opna mellomagerfila.|
-|Check for update at KeePass startup||Sjå etter oppdateringar når KeePass startar|
 |'Keyfile' or 'preselect' option is already specified||'Keyfile'- eller 'Preselect'-valet er allereie slått på|
 |Path is invalid||Filbana er ugyldig|
 |Filename not found||Fann ikkje filnamnet|
@@ -630,8 +620,33 @@
 |Online help center||Hjelp på nettet|
 |Show &Expired Entries||Vis &utgåtte postar|
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||Den lokale hjelpfila blei sist oppdatert då denne produktutgåva blei publisert. Ho blir ikkje automatisk oppdatert.|
-|The online help center always contains the latest version of the product documentation. Internet connection is required.||Hjelpsenteret på nettetvil alltid innehalda den siste utgåva av produktdokumentasjonen. Internettilgang er påkravd.|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.||Hjelpsenteret på nettet vil alltid innehalda den siste utgåva av produktdokumentasjonen. Internettilgang er påkravd.|
 |This option is disabled, because local help is not installed.||Dette valet er slått av sidan lokal hjelp ikkje er installert.|
 |Too little memory (RAM) available||For lite tilgjengeleg minne (RAM)|
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)||Bruk avansert minnevern (DPAPI - berre for Windows Vista og seinare utgåver)|
-|Use the following help source when a "Help" button within KeePass is clicked:||Bruk denne hjelpkjelda når ein klikkar ein hjelp-knapp i KeePass:|
+|Use the following help source when a "Help" button within KeePass is clicked:||Bruk denne hjelpekjelda når ein klikkar ein hjelp-knapp i KeePass:|
+|%u updates are available!||%u oppdateringar er tilgjengelege|
+|1 update is available!||1 oppdatering er tilgjengeleg|
+|Available||Tilgjengeg|
+|Check For Updates||Oppdateringssjekk|
+|Check for Updates||Sj&å etter oppdateringar|
+|Check for updates at KeePass startup||Sjå etter oppdateringar når KeePass startar|
+|Component||Komponent|
+|Connect failed, cannot check for updates.||Klarte ikkje å kopla til - får ikkje sjå etter oppdateringar.|
+|Delete TAN entries immediately after using them||Slett TAN-postar med ein gong dei er brukte|
+|Installed| |Installert|
+|KeePass 1.x cannot open KDBX files.||KeePass 1.1 kan ikkje opna KDBX-filer.|
+|New version available.||Ny utgåve er tilgjengeleg.|
+|No updates available.||Ingen oppdateringar er tilgjengelege.|
+|Please choose a different name.||Vel eit anna namn.|
+|Plugin unknown.||Ukjend programtillegg.|
+|Pre-release version.||Testutgåve|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.||KeePass blei knytt til .kdb-filer. Når du dobbeltklikkar ei .kdb-fil vil KeePass starta automatisk.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.||Filtilknytinga er fjerna. KeePass vil ikkje lenger opna .kdb-filer når du dobbeltklikkar dei.|
+|The specified name is reserved.||Namnet er reservert.|
+|Up to date.||Nyaste.|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)||Bruk CNG/BCrypt for nøkkelendringar (gjeld berre Windows Vista og seinare utgåver)|
+|Use the KeePass 2.x 'Export' feature to migrate this file||Bruk eksportfunksjonen til KeePass 2.x for å migrera denne fila.|
+|Version||Utgåve|
+|Workspace is locked.||Arbeidsføata er låst.|
+|see the <A HREF="h">help manual</A> for details.||sjå etter fleire opplysningar i <a href="h">rettleiinga</a>.|
