@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.15|
+|1.16|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -433,8 +433,8 @@
 |&Tray/Untray|
 |Į/iš dėklą(o)|
 
-|Version |
-|Versija |
+|Version|
+|Versija|
 
 |Password and repeated password aren't identical!|
 |Įvestas ir pakartotas slaptažodžiai nesutampa!|
@@ -589,8 +589,8 @@
 |Show grid lines in password entry list|
 |Slaptažodžio įvesties sąraše rodyti tinklelį|
 
-|Workspace cannot be unlocked!|
-|Darbalaukis neatsiblokuoja!|
+|Workspace is locked.|
+|Darbalaukis blokuotas.|
 
 |Workspace locked|
 |Darbalaukis blokuotas|
@@ -949,11 +949,11 @@
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
 |Čia galima susieti .kdb failus su KeePass (Po dvigubo spustelėjimo KeePass automatiškai atvers tokį failą):|
 
-|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
-|KeePass sėkmingai susieta su .kdb failais! Po dvigubo .kdb failo spustelėjimo KeePass pasileis automatiškai!|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+|KeePass sėkmingai susieta su .kdb failais! Po dvigubo .kdb failo spustelėjimo KeePass pasileis automatiškai.|
 
-|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
-|KeePass susiejimas su .kdb failais panaikintas! Po dvigubo .kdb failo spustelėjimo KeePass automatiškai nepasileis!|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+|KeePass susiejimas su .kdb failais panaikintas! Po dvigubo .kdb failo spustelėjimo KeePass automatiškai nepasileis.|
 
 |Create &Association|
 |Sus&ieti|
@@ -1483,28 +1483,25 @@
 |Disable 'Save' button if the database hasn't been modified|
 |Deaktyvuoti mygtuką „Įrašyti“, jei duomenų bazė nepakeista|
 
-|Check For Update|
-|Patikrinti naujinius|
-
-|Check for Update|
+|Check For Updates|
 |Patikrinti naujinimus|
 
-|New KeePass version available!|
-|Yra naujesnė KeePass versija!|
+|Check for Updates|
+|Patikrinti naujinimus|
+
+|New version available.|
+|Yra naujesnė versija!|
 
 |You have the latest version.|
 |Jūs naudojate naujausiąją versiją.|
 
-|Do you want to visit the KeePass homepage now?|
-|Ar norite apsilankyti KeePass svetainėje?|
-
-|Connect failed, cannot check for update.|
+|Connect failed, cannot check for updates.|
 |Ryšys nutrūko, nepavyksta patikrinti naujinimų.|
 
 |Cache error (cannot open cached file).|
 |Podėlio klaida (neatsiveria į podėlį padėtas failas).|
 
-|Check for update at KeePass startup|
+|Check for updates at KeePass startup|
 |Tikrinti naujinimus KeePass pradedant darbą|
 
 |'Keyfile' or 'preselect' option is already specified|
@@ -1911,3 +1908,51 @@
 
 |The online help center always contains the latest version of the product documentation. Internet connection is required.|
 |Internetiniame žinyne visuomet yra naujausia produkto dokumentacija, bet jam reikia prieigos prie Interneto.|
+
+|%u updates are available!|
+|Yra %u naujinimai(-ų)!|
+
+|1 update is available!|
+|Yra 1 naujinimas!|
+
+|Available|
+|Yra|
+
+|Component|
+|Komponentė|
+
+|Delete TAN entries immediately after using them|
+|Pašalinti TAN įrašus iškart po panaudojimo|
+
+|Installed|
+|Įdiegta|
+
+|KeePass 1.x cannot open KDBX files.|
+|KeePass 1.x negali atverti KDBX failų.|
+
+|No updates available.|
+|Naujinimų nėra.|
+
+|Please choose a different name.|
+|Pasirinkite kitokį pavadinimą.|
+
+|Plugin unknown.|
+|Nežinomas papildinys.|
+
+|Pre-release version.|
+|Preliminari versija.|
+
+|The specified name is reserved.|
+|Nurodytas pavadinimas - rezervuotas.|
+
+|Up to date.|
+|Naujausia.|
+
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
+|Naudoti CNG/BCrypt rakto transformacijai (tik Windows Vista ar naujesnei versijai)|
+
+|Use the KeePass 2.x 'Export' feature to migrate this file|
+|Naudoti KeePass 2.x 'Export' funkciją šio failo migravimui|
+
+|see the <A HREF="h">help manual</A> for details.|
+|žr. <A HREF="h">žinyno vadovėlį</A> išsamesnei informacijai.|
