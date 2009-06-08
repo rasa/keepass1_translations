@@ -1,7 +1,7 @@
-﻿2009-2-11 01:15|~LANGUAGENAME|
+﻿2009-6-8 01:16|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.15|
+|1.16|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
@@ -215,13 +215,13 @@
 |&Export To|
 |导出(&E)|
 |&Lock Workspace|
-|锁定(&L)|
+|锁定工作区(&L)|
 |&Unlock Workspace|
-|解除锁定(&U)|
+|解锁工作区(&U)|
 |E&xit|
 |退出(&X)|
 |&Lock/Unlock Workspace|
-|锁定/解除锁定(&L)|
+|锁定/解锁工作区(&L)|
 |&Options...|
 |选项(&O)...|
 |Add &Group...|
@@ -288,7 +288,7 @@
 |数据库设置(&D)...|
 |&Tray/Untray|
 |收缩至托盘/显示窗口(&T)|
-|Version |
+|Version|
 |版本 |
 |Password and repeated password aren't identical!|
 |两次输入密码不一致!|
@@ -388,10 +388,10 @@
 |显示按钮图标|
 |Show grid lines in password entry list|
 |在密码记录列表上显示格线|
-|Workspace cannot be unlocked!|
-|无法解除锁定！|
+|Workspace is locked.|
+|工作区已被锁定。|
 |Workspace locked|
-|已锁定|
+|工作区已锁定|
 |Loading error|
 |加载错误|
 |Language file cannot be opened!|
@@ -447,7 +447,7 @@
 |Memory|
 |剪贴板|
 |Lock workspace when minimizing the main window|
-|最小化主窗口时锁定|
+|最小化主窗口时锁定工作区|
 |Minimize to tray instead of taskbar|
 |最小化到系统托盘（而不是任务栏）|
 |Encryption algorithm to use (for this database):|
@@ -461,7 +461,7 @@
 |KeePass is OSI Certified Open Source Software.|
 |KeePass 是 OSI 认证的开放源码软件。|
 |Automatically lock workspace after the following number of seconds:|
-|不使用时，在下列秒数后自动锁定：|
+|不使用时，在下列秒数后自动锁定工作区：|
 |&Group name|
 |群组名(&G)|
 |Every second row has a different background color. Use this color:|
@@ -623,17 +623,17 @@
 |Remove the currently attached file|
 |移除当前附件|
 |Close button [X] minimizes the main window instead of terminating the application|
-|按【关闭】按钮 [X] 时，最小化程序|
+|按 关闭 按钮 [X] 时，最小化程序|
 |KeePass Password Database|
 |KeePass 密码数据库|
 |&Open with KeePass|
 |用 KeePass 打开(&O)|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
 |设定 KeePass 与 .kdb 文件关联：|
-|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
-|KeePass 与 .kdb 文件关联成功！双击 .kdb 文件时将自动用 KeePass 打开！|
-|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
-|成功解除 KeePass 与 .kdb 文件的关联！双击 .kdb 文件不会再启动 KeePass ！|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+|KeePass 与 .kdb 文件关联成功！双击 .kdb 文件时将自动用 KeePass 打开。|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+|成功解除 KeePass 与 .kdb 文件的关联！双击 .kdb 文件不会再启动 KeePass。|
 |Create &Association|
 |建立关联(&A)|
 |&Remove Association|
@@ -973,7 +973,7 @@
 |Click on an entry to auto-type it.|
 |点击一条记录进行自动输入。|
 |Exit program instead of locking the workspace after the specified time|
-|在指定时间后退出程序，而不是自动锁定|
+|在指定时间后退出程序，而不是自动锁定工作区|
 |Multiple entries exist for the current window. Please select the entry to auto-type.|
 |存在多条记录匹配当前窗口，请选择一条需自动输入的记录。|
 |Now|
@@ -990,21 +990,37 @@
 |对只包含 TAN 的群组使用简单列表(&S)|
 |Disable 'Save' button if the database hasn't been modified|
 |若数据库未被修改，禁用“保存”功能|
-|Check For Update|
+|Check For Updates|
 |检查更新|
-|Check for Update|
+|Check for Updates|
 |检查更新|
-|New KeePass version available!|
-|发现新版本!|
+|New version available.|
+|发现新版本！|
 |You have the latest version.|
 |目前已是最新版。|
-|Do you want to visit the KeePass homepage now?|
-|你想现在访问 KeePass 主页吗？|
-|Connect failed, cannot check for update.|
+|Connect failed, cannot check for updates.|
 |连接失败，无法检查升级。|
 |Cache error (cannot open cached file).|
 |缓存错误（无法打开缓存文件）。|
-|Check for update at KeePass startup|
+|1 update is available!|
+|已有1个可用更新！|
+|%u updates are available!|
+|%u 更新可用！|
+|No updates available.|
+|无可用更新。|
+|Component|
+|组件|
+|Installed|
+|已安装|
+|Available|
+|可用的|
+|Plugin unknown.|
+|未知插件|
+|Up to date.|
+|更新|
+|Pre-release version.|
+|预发布版本。|
+|Check for updates at KeePass startup|
 |启动时检查升级|
 |'Keyfile' or 'preselect' option is already specified|
 |已指定 'Keyfile' 或 'preselect' 参数|
@@ -1031,7 +1047,7 @@
 |KeePass Initialization|
 |初始化 KeePass|
 |Lock workspace when locking Windows, switching user or sleeping|
-|锁定 Windows、切换用户或休眠时锁定 KeePass|
+|锁定 Windows、切换用户或休眠时锁定 工作区|
 |&Deny|
 |拒绝(&D)|
 |&Full|
@@ -1159,23 +1175,23 @@
 |Save database changes before exiting KeePass?|
 |退出 KeePass 前保存数据库更改？|
 |Save database changes before locking the workspace?|
-|锁定 KeePass 前保存数据库更改？|
+|锁定 工作区 前保存数据库更改？|
 |Save all changes made to the database and close the file.|
 |保存所有数据库更改并关闭文件。|
 |Save all changes made to the database and exit KeePass.|
 |保存所有数据库更改并退出 KeePass。|
 |Save all changes made to the database and lock the KeePass workspace.|
-|保存所有数据库更改并并锁定 KeePass。|
+|保存所有数据库更改并锁定 KeePass 工作区。|
 |Discard all changes made to the database and close the file.|
 |放弃所有数据库更改并关闭文件。|
 |Discard all changes made to the database and exit KeePass.|
 |放弃所有数据库更改并退出 KeePass。|
 |Discard all changes made to the database and lock the KeePass workspace.|
-|放弃所有数据库更改并并锁定 KeePass。|
+|放弃所有数据库更改并锁定 KeePass 工作区。|
 |Abort the current operation.|
 |终止当前操作。|
 |The KeePass workspace will not be locked.|
-|KeePass 将不会被锁定。|
+|KeePass 工作区将不会被锁定。|
 |KeePass will not be closed.|
 |KeePass 将不会退出。|
 |The file will not be closed.|
@@ -1272,3 +1288,17 @@
 |帮助源(&S)...|
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)|
 |启用高级内存保护（DPAPI，仅支持 Vista 及以上系统）|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
+|密匙转换时使用 CNG/BCrypt（仅支持 Vista 或更高系统）|
+|Delete TAN entries immediately after using them|
+|使用 TAN 记录之后立即将之删除|
+|KeePass 1.x cannot open KDBX files.|
+|KeePass 1.x 无法打开 KDBX 文件。|
+|Use the KeePass 2.x 'Export' feature to migrate this file|
+|使用 KeePass 2.x '导出'功能转换此文件|
+|The specified name is reserved.|
+|指定名称已存在。|
+|Please choose a different name.|
+|请选择其它名称。|
+|see the <A HREF="h">help manual</A> for details.|
+|查看 <A HREF="h">帮助手册</A> 获取详细信息。|
