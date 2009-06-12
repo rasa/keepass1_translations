@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Belarusian|
-|~LANGUAGEVERSION|             |1.15|
+|~LANGUAGEVERSION|             |1.16|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -64,14 +64,14 @@
     |(Аўта-створаныя паролі для новых запісаў)|
 |(Custom)|                        |(Карыстальніцкі)|
 |Save current settings as a profile.|
-    |Захаваць бягучыя настройкі як новы профіль.|
+    |Захаваць бягучую настройку як новы профіль.|
 |Delete currently selected profile.| |Пазбавіцца ад выбранага профілю.|
-|Current settings|                |Бягучыя настройкі|
+|Current settings|                |Бягучая настройка|
 |Generate using character set:|   |Ужываць наступныя сімвалы:|
 |Length of generated password:|   |Даўжыня створанага паролю:|
 |Generate using pattern:|         |Выкарыстоўваць шаблон:|
 |Exclude look-alike characters|   |Выключаць падобныя сімвалы|
-|Options|                         |Настройкі|
+|Options|                         |Настройка|
 |Also include the following characters:|
     |Таксама ўжываць наступныя сімвалы:|
 |Collect additional &entropy|     |Збор дадатковай &энтрапіі|
@@ -220,7 +220,7 @@
 |&Always on Top|                          |&Заўседы ўгары|
 |Hide &Passwords Behind Asterisks (***)|  |Паказваць (***) замест &паролю|
 |Hide &User Names Behind Asterisks (***)| |Паказваць (***) замест &імя|
-|TAN View &Options|                       |&Настройкі агляду TAN|
+|TAN View &Options|                       |&Настройка агляду TAN|
 |Auto-&Sort Password List|                |&Аўтасартыроўка спиісу пароляў|
 |Show &Columns|                           |П&аказваць сслупкі|
 
@@ -240,13 +240,13 @@
 |&TAN Wizard...|                   |&TAN майстар...|
 |&Repair KeePass Database File...| |Адрамантаваць &файл базы пароляў...|
 |Show &Expired Entries|            |Паказаць сп&ыненыя запісы...|
-|&Options...|                      |&Настройкі...|
+|&Options...|                      |&Настройка...|
 |&Plugins...|                      |&Модулі...|
 
 |&Help Contents|          |Адчыніць &даведку|
 |Visit &KeePass Homepage| |Наведаць &хатнюю страронку|
 |&Donate...|              |Зрабіць &узнос|
-|Check for Update|        |Праверыць а&бнаўленне|
+|Check for Updates|       |Праверыць а&бнаўлення|
 |About &Translation...|   |Аб &перакладзе...|
 |&About KeePass...|       |&Аб праграме...|
 
@@ -257,9 +257,9 @@
 
 |User &name| |&Імя|
 
-|Check For Update| |Праверка абнаўлення|
+|Check For Updates| |Праверка абнаўлення|
 
-|Version | |Версія |
+|Version| |Версія|
 
 |Password and repeated password aren't identical!|
     |Пароль і паўтор пароля адрозніваюцца!|
@@ -276,7 +276,7 @@
 |The password must consist of at least one character!|
     |Пароль павінен утрымліваць не меньш аднаго сімвалу!|
 |Select at least one of the options in the list above!|
-    |Выбярыце не меньш адной настройкі ў спісе зверху!|
+    |Выбярыце не меньш адной опцыі ў спісе зверху!|
 
 |The following self-tests failed:|
     |Наступныя тэсты спыніліся з памылкай:|
@@ -334,7 +334,7 @@
 |Windows newline sequence (\r\n)|              |Як у Windows (\r\n)|
 |Unix newline sequence (\n)|   |Як у Unix (\n)|
 |Clipboard auto-clear time (seconds):|   |Затрымка перад аўтаачысткай буфера абмену (секунд):|
-|Settings|                     |Настройкі|
+|Settings|                     |Настройка|
 |Here you can configure KeePass.|              |Тут можна настроіць KeePass.|
 |Automatically open last used database on startup|
     |Адчыняць апошнюю базу пароляў пасля запуску|
@@ -344,8 +344,8 @@
     |Показваць малюнкі на кнопках|
 |Show grid lines in password entry list|
     |Показваць лініі ў спісе запісаў|
-|Workspace cannot be unlocked!|
-    |Немагчыма знять блакіроўку!|
+|Workspace is locked.|
+    |База пароляў заблакіравана.|
 |Workspace locked|
     |База пароляў заблакіравана|
 
@@ -466,13 +466,13 @@
 |&Open with KeePass|                      |&Адчыніць ужывая KeePass|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
     |Тут можна прычапіць .kdb файлы да KeePass (KeePass адчыне файл пасля двайной пстрычкі па ём):|
-|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
-    |KeePass прычэплены да .kdb файлам! Двайная пстрычка па .kdb файлу адчыне KeePass аўтаматычна!|
-|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
-    |Прычэпка .kdb файлаў да KeePass была выдалена! Зараз KeePass не адчыніца пасля двайной пстрычке па .kdb файлу!|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+    |KeePass прычэплены да .kdb файлам! Двайная пстрычка па .kdb файлу адчыне KeePass аўтаматычна.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+    |Прычэпка .kdb файлаў да KeePass была выдалена! Зараз KeePass не адчыніца пасля двайной пстрычке па .kdb файлу.|
 |Create &Association|                     |Пры&чапіць|
 |&Remove Association|                     |&Выдаліць прычэпку|
-|Setup|                                   |Настройкі|
+|Setup|                                   |Настройка|
 |Password List|                           |Спіс пароляў|
 |Exit?|                                   |Выйсці?|
 |The file couldn't be saved.|             |Немагчыма захаваць файл.|
@@ -488,15 +488,15 @@
     |Забараняць небяспечныя аперацыі накшталк экспарта і іншых|
 |Unsafe operations are disabled.|         |Небяспечныя аперацыі забаронены.|
 |To execute this operation you must enable unsafe operations in the options dialog.|
-    |Для выконвання гэтай аперацыі вам трэба дазволіць небяспечныя аперацыі ў дыялогу настроек.|
+    |Для выконвання гэтай аперацыі вам трэба дазволіць небяспечныя аперацыі ў дыялогу настройкі.|
 |You have changed an option that requires restarting KeePass to get active.|
-    |Вы змянілі настройку, якая патрабуе перазапуск KeePass для яе актывацыі.|
+    |Вы змянілі опцыю, якая патрабуе перазапуск KeePass для яе актывацыі.|
 |Expired Entries|                         |Спыненыя запісы|
 |This is a list of all expired entries|   |Гэта спіс усіх спыненых запісаў|
 |Click on an entry to jump to it.|        |Націскніце па запісу каб перайсці да яго.|
 |Quality:|                                |Якасць:|
-|Database Settings|                       |Настройкі базы пароляў|
-|Here you can configure the current database.| |Тут можна змяніць настройкі бягучай базы пароляў.|
+|Database Settings|                       |Настройка базы пароляў|
+|Here you can configure the current database.| |Тут можна змяніць настройку бягучай базы пароляў.|
 |Database Summary|                        |Зводка па базе пароляў|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
     |Ваш асноўны пароль шыфруеца некалькі разоў да атрымання канчатковага ключа шыфравання базы пароляў. Гэта дадаст няшмат часу але значна ўскладніт ужыванне ацэначных атак і атак па слоўніку.|
@@ -579,7 +579,7 @@
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
     |Увага! Гэты рэжым можа рабіць няправільна ў вашай сістэме, асабліва калі вы ўжываеце праграмы для пашырэння нагчымасцей буфера абмену.|
 |You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
-    |Вы можыце ўсталяваць іншую "гарачую" камбінацыю клавіш у 'Інструменты' - 'Настройкі' - 'Пашыраныя' - 'Аўтанабор'.|
+    |Вы можыце ўсталяваць іншую "гарачую" камбінацыю клавіш у 'Інструменты' - 'Настройка' - 'Пашыраныя' - 'Аўтанабор'.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
     |Вы выбралі рэжым "і" для ўвода паролю, таму вам трэба ўвесці пароль і выбраць ключавы файл.|
 
@@ -601,7 +601,7 @@
     |Немагчыма стварыць/выдаліць запіс у рэестры каб аўтаматычна запускаць KeePass!|
 
 |Encode/replace newline characters by '\n'|  |Змяняць сімвал новага радка на '\n'|
-|Export Options|   |Настройкі экспарту|
+|Export Options|   |Настройка экспарту|
 |Export backup entries (entries in the 'Backup' group)| |Экспартаваць рэзервныя запісы (з групы "Рэзерваванне")|
 |Fields to export| |Паля для экспарту|
 |Group Tree|       |Дрэва груп|
@@ -683,17 +683,16 @@
 |'Keyfile' or 'preselect' option is already specified| |'Keyfile' або 'preselect' опцыя ўжо зазначана|
 |'Pw' option is already specified| |'Pw' опцыя ўжо зазначана|
 |Cache error (cannot open cached file).| |Памылка кэшу (немагчыма адчыніць файл кэшу).|
-|Check for update at KeePass startup| |Правяраць абнаўленне адразу пасля запуску KeePass|
+|Check for updates at KeePass startup| |Правяраць абнаўлення адразу пасля запуску KeePass|
 |Command line argument| |Аргумент каманднага радка|
-|Connect failed, cannot check for update.| |Няма злучэння - немагчыма праверыць абнаўленне.|
+|Connect failed, cannot check for updates.| |Няма злучэння - немагчыма праверыць абнаўлення.|
 |Database is already specified| |База пароляў ужо выбрана|
 |Disable 'Save' button if the database hasn't been modified| |Блакіраваць кнопку 'Захаваць' калі база пароляў не мянялась|
 |Use local date/time format instead of ISO notation| |Ужываць лакальны фармат даты/часу замест ISO|
-|Do you want to visit the KeePass homepage now?| |Вы жадаеце наведаць хатнюю старонку KeePass зараз?|
 |Filename not found| |Файл не знайдзен|
 |It contains an unmatched quote| |Ёсць няпарнае двукоссе|
 |KeePass Initialization| |Устаноўка KeePass у зыходнае становішча|
-|New KeePass version available!| |З'явілася новая версія KeePass!|
+|New version available.| |З'явілася новая версія.|
 |Option not recognized| |Опцыя не распознана|
 |Password is empty| |Пусты пароль|
 |Path is invalid| |Недакладны шлях|
@@ -738,7 +737,7 @@
 |Profile| |Профіль|
 |Randomly permute characters of password| |Выпакова пераблытаць сімвалы паролю|
 |Save as Profile| |Захаваць як профіль|
-|Save current settings as password generator profile.| |Захаваць багучыя настройкі як профіль генератара пароляў.|
+|Save current settings as password generator profile.| |Захаваць багучую настройку як профіль генератара пароляў.|
 |TANs consist of the following characters:| |TANы складаюцца з наступных сімвалаў:|
 |The help file contains detailed information about the expected input format. Do you want to open the help file?|
     |Файл даведкі ўтрымлівае падрабязную інфармацыю аб чаканам уваходнам фармаце. Вы жадаеце адчыніць даведку?|
@@ -751,8 +750,8 @@
 |Here you can customize the printed sheet.| |Тут можна настроіць старонку для друкавання.|
 |No repeating characters| |Без паўторных сімвалаў|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
-    |Настройкі/правілы, памечаныя зорачкай, памяншаюць ахаванасть ствараемых пароляў. Уключайце іх толькі калі гэта патрабуецца.|
-|Print Options| |Настройкі друку|
+    |Опцыі/правілы, памечаныя зорачкай, памяншаюць ахаванасть ствараемых пароляў. Уключайце іх толькі калі гэта патрабуецца.|
+|Print Options| |Настройка друку|
 |Print backup entries (entries in the 'Backup' group)| |Друкаваць рэзервныя запісы (запісы з групы 'Рэзерваванне')|
 |Provider| |Пастаўшчык|
 |Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
@@ -851,3 +850,20 @@
 |Use the following help source when a "Help" button within KeePass is clicked:| |Пры націсканні на кнопку "Дапамога", ўжываць наступную крыніцу:|
 
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)| |Ужываць пашыраную абарону памяці (DPAPI, толькі Vista і вышэй)|
+
+|%u updates are available!| |Даступна %u абнаўленняў!|
+|1 update is available!| |Даступна 1 абнаўленне!|
+|Available| |Даступна|
+|Component| |Кампанент|
+|Delete TAN entries immediately after using them| |Выдаліць TAN запіс адразу пасля яго выкарыстовывання|
+|Installed| |Устаноўлена|
+|KeePass 1.x cannot open KDBX files.| |Немагчыма адчыніць KBDX файл з KeePass 1.x.|
+|No updates available.| |Абнаўленняў нямя.|
+|Please choose a different name.| |Калі ласка, выбярыце іншую назву.|
+|Plugin unknown.| |Невядомы модуль.|
+|Pre-release version.| |Перадвыпускная версія.|
+|The specified name is reserved.| |Выбраная назва зарэзервавана.|
+|Up to date.| |Актуальны.|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)| |Выкарыстоўваць CNG/BCrypt для трансфармацыі пароля (толькі Windows Vista і вышей)|
+|Use the KeePass 2.x 'Export' feature to migrate this file| |Паспрабуйце экспартаваць гэты файл з KeePass 2.x|
+|see the <A HREF="h">help manual</A> for details.| |больш падрабязна ў <A HREF="h">даведке</A>.|
