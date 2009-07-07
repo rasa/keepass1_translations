@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |فارسی|
-|~LANGUAGEVERSION|             |1.15|
+|~LANGUAGEVERSION|             |1.16|
 |~LANGUAGEAUTHOR|              |TormenT|
 |~LANGUAGEAUTHOREMAIL|         |torment.fall@GMail.com|
 
@@ -186,7 +186,6 @@
 
 |&Tray/Untray|                 |تري/آنتري|
 
-|Version |                     | نسخه|
 
 |Password and repeated password aren't identical!|
     |!پسورد و تکرار آن با هم يکسان نيستند|
@@ -194,13 +193,18 @@
 |Stop|                         |ایست|
 
 |Enter a group name!|          |!وارد کردن نام يک گروه|
+
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
     |قبل از اينکه بتوانيد اين گفتگو را ببنديد بايد چند ارزش تصادفي با استفاده از جعبه ورودي ماوس يا فيلد ويرايش توليد کنيد.|
+
 |No random input|              |عدم ورودي تصادفي|
+
 |EITHER enter a master password OR select a key file.|
     |.يا يک پسورد اصلي وارد کنيد يا يک پرونده کليد را انتخاب کنيد|
+
 |The password must consist of at least one character!|
     |!پسورد بايد شامل حداقل يک حرف باشد|
+
 |Select at least one of the options in the list above!|
     |!حداقل يک از اختيارات ليست زير را انتخاب کنيد|
 
@@ -271,8 +275,6 @@
     |نمایش تصاویر روی دکمه ها|
 |Show grid lines in password entry list|
     |نمایش خطوط شبکه ای در لیست ورودی پسورد|
-|Workspace cannot be unlocked!|
-    |!فضای کاری قابل بازگشایی نیست|
 |Workspace locked|
     |فضای کاری قفل شد|
 
@@ -437,12 +439,8 @@
 |&Open with KeePass|                      |KeePass گشایش توسط|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
     |:(را با برنامه مرتبط کنید (آنگاه وقتی روی پرونده دبل کلیک کنید برنامه آن را می گشاید .kdb دراینجا می توانید پرونده|
-|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
-    |!مرتبط کردن موفقیت آمیز بود! با دبل کلیک روی پرونده مورد نظر برنامه به صورت خودکار اجرا می شود|
-|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
-    |!ارتباط با موفقیت از بین رفت! وقتی رو پرونده مورد نظر دبل کلیک کنید برنامه خود کار اجرا نخواهد شد|
-|Create &Association|                     |ایجاد ارتباط|
-|&Remove Association|                     |ازبین بردن ارتباط|
+|Create &Association|                     |ایجاد پیوند|
+|&Remove Association|                     |ازبین بردن پیوند|
 |Setup|                                   |نصب|
 |Password List|                           |لیست پسورد|
 |Exit?|                                   |خروج؟|
@@ -664,14 +662,8 @@
 |Show TAN &Indices in Entry Titles|            |در عناوین ورودی TAN نمایش نشان |
 |Disable 'Save' button if the database hasn't been modified|
     |غیرفعال کردن دکمه "ذخیره" اگرپایگاه داده اصلاح نشده است|
-|Check For Update|                             |بررسی برای بروزرسانی|
-|Check for Update|                             |بررسی برای بروزرسانی|
-|New KeePass version available!|               |!نسخه جدیدی از این برنامه موجود است|
 |You have the latest version.|                 |.شما آخرین نسخه را دارید|
-|Do you want to visit the KeePass homepage now?| |آیا می خواهید هم اکنون از صفحه خانگی برنامه دیدن کنید؟|
-|Connect failed, cannot check for update.|     |.اتصال ناموفق بود ، عدم توانایی برای بررسی بروزرسانی|
 |Cache error (cannot open cached file).|       |.(خطای حافظه (نمی توان پرونده ذخیره شده را گشود|
-|Check for update at KeePass startup|          |بررسی برای بروزرسانی بهنگام شروع برنامه|
 |'Keyfile' or 'preselect' option is already specified| |پیش ازاین مشخص شده است 'preselect' یا 'Keyfile'اختیار |
 |Path is invalid|                              |آدرس نا درست است|
 |Filename not found|                           |نام پرونده یافت نشد|
@@ -870,7 +862,60 @@
 |Use the following help source when a "Help" button within KeePass is clicked:|
 |: "Help"استفاده از منبع راهنمای زیر بهنگام کلیک بر روی دکمه ی |
 
+|%u updates are available!|  | !.به روز رسانی موجود است %u|
 
+|1 update is available!|  | ! یک به روز رسانی موجود است |
+
+|Available|  |موجود است |
+
+|Check For Updates| |بررسی برای بروز رسانی ها |
+
+|Check for Updates|  |بررسی برای بروز رسانی ها|
+
+|Check for updates at KeePass startup| |بررسی برای به روز رسانی ها بهنگان آغاز برنامه|
+
+|Component| |اجزا|
+
+|Connect failed, cannot check for updates.|  |.ارتباط ناموفق ، بررسی برای به روز رسانی ها امکان پذیر نیست|
+
+|Delete TAN entries immediately after using them|  |  فورا" پس از استفاده  TAN پاک کردن ورودی های|
+
+|Installed|  |نصب شد|
+
+|KeePass 1.x cannot open KDBX files.|  |.را باز کند  KDBX نسخه های 1  ، نمی تواند فایل های  KeePass|
+
+|New version available.|  |.نسخه ی جدید موجود است| 
+
+|No updates available.|  | .به روز رسانی موجود نیست |
+
+|Please choose a different name.|  |لطفا" نامی متفاوت انتخاب کنید|
+
+|Plugin unknown.| |.پلاگین ناشناخته| 
+
+|Pre-release version.|  |.نسخه ی پیش از عرضه|
+
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+|موفقیت آمیز بود. اکنون با جفت کلیک روی این فایل ها برنامه بطور خودکار شروع می شود .kdb وابسته کردن برنامه به فایل های |
+
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+|شروع نمی شود .kdb وابستگی با موفقیت از بین رفت. برنامه دیگر با جفت کلیک بر روی فایل های |
+
+|The specified name is reserved.|
+|نام مشخص شده ذخیره شد|
+
+|Up to date.| |.به روز شد|
+
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
+| ( برای تبدیل کلید ( ویژه ویندوز ویستا و بالاتر CNG/BCrypt استفاده از |
+
+|Use the KeePass 2.x 'Export' feature to migrate this file| | نسخه های 2 برای انتقال فایل  KeePass " استفاده از ویژگی " استخراج|
+
+|Version| |نسخه|
+
+|Workspace is locked.||.فضای کاری قفل شد|
+
+|see the <A HREF="h">help manual</A> for details.|
+|.را برای دیدن جزئیات ببدنید <A HREF="h">help manual</A> |
 
 
 
