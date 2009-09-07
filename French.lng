@@ -1,11 +1,11 @@
-|~LANGUAGENAME|
+﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.15|
+|1.16|
 |~LANGUAGEAUTHOR|
-|Marc Tissot|
+|Marc Tissot, Audran Moulard|
 |~LANGUAGEAUTHOREMAIL|
-|mtissot@iota.ch, http://www.iota.ch/|
+|mtissot@iota.ch, gthf@users.sourceforge.net|
 |&OK|
 |&OK|
 |&Cancel|
@@ -226,22 +226,20 @@
 |Paramètres de la base de &données...|
 |&Tray/Untray|
 |Minia&turiser/Afficher|
-|Version |
-|Version |
 |Password and repeated password aren't identical!|
-|Le mot de passe et sa confirmation ne sont pas identiques.|
+|Le mot de passe et sa confirmation ne sont pas identiques!|
 |Stop|
 |Arrêter|
 |Enter a group name!|
-|Saisissez le nom de groupe.|
+|Saisissez le nom de groupe!|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
 |Vous devez générer des valeurs aléatoires en utilisant un déplacement de souris ou la zone de saisie au clavier avant de fermer cette fenêtre.|
 |No random input|
 |Aucune entrée aléatoire|
 |The password must consist of at least one character!|
-|Le mot de passe doit contenir au minimum 1 caractère.|
+|Le mot de passe doit contenir au minimum 1 caractère!|
 |Select at least one of the options in the list above!|
-|Sélectionnez au minimum une option dans la liste ci-dessus.|
+|Sélectionnez au minimum une option dans la liste ci-dessus!|
 |The following self-tests failed:|
 |Les auto-tests suivants ont échoué:|
 |- SHA 32-bit variables|
@@ -273,11 +271,11 @@
 |Repeat:|
 |Confirmer:|
 |Failed to set the master key!|
-|La clé maître ne peut être définie.|
+|La clé maître ne peut être définie!|
 |File cannot be opened!|
-|Le fichier ne peut être ouvert.|
+|Le fichier ne peut être ouvert!|
 |File cannot be saved!|
-|Le fichier ne peut être enregistré.|
+|Le fichier ne peut être enregistré!|
 |Save as Profile|
 |Enregistrer comme Profil|
 |Do you want to save the changes before closing?|
@@ -291,7 +289,7 @@
 |Delete Group Confirmation|
 |Confirmation de l'effacement du groupe|
 |Cannot open temporary file for printing!|
-|Impossible d'ouvrir le fichier temporaire pour l'impression.|
+|Impossible d'ouvrir le fichier temporaire pour l'impression!|
 |Load Language File|
 |Ouvrir un Fichier Language|
 |Load a Language File|
@@ -322,16 +320,14 @@
 |Afficher les images sur les boutons|
 |Show grid lines in password entry list|
 |Afficher la grille dans la liste des entrées de mots de passe|
-|Workspace cannot be unlocked!|
-|L'espace de travail ne peut être déverrouillé.|
 |Workspace locked|
 |L'espace de travail est verrouillé|
 |Loading error|
 |Erreur de chargement|
 |Language file cannot be opened!|
-|Le fichier de langue ne peut être ouvert.|
+|Le fichier de langue ne peut être ouvert!|
 |Language file cannot be registered!|
-|Le fichier de langue ne peut être enregistré.|
+|Le fichier de langue ne peut être enregistré!|
 |The language file has been installed.|
 |Le fichier de langue a été installé.|
 |You must restart KeePass in order to use the new language.|
@@ -341,7 +337,7 @@
 |Restart KeePass?|
 |Redémarrer KeePass ?|
 |Application cannot be restarted automatically!|
-|L'application ne peut redémarrer automatiquement.|
+|L'application ne peut redémarrer automatiquement!|
 |Please restart KeePass manually.|
 |Veuillez redémarrer KeePass manuellement.|
 |&CSV File...|
@@ -367,7 +363,7 @@
 |CSV Files|
 |Fichiers &CSV|
 |&Import From|
-|&Importer de|
+|&Importer|
 |&Get more languages...|
 |&Obtenir d'autres langues...|
 |Start and exit|
@@ -550,10 +546,6 @@
 |&Ouvrir avec KeePass|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
 |Vous pouvez associer ici l'extension .kdb avec KeePass (pour que KeePass ouvre ces fichiers lors d'un double-clic):|
-|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically!|
-|Les fichiers .kdb ont été associés avec succès avec KeePass. Un double-clic sur un fichier .kdb démarrera KeePass automatiquement.|
-|Successfully removed association! KeePass won't be started any more when double-clicking on a .kdb file!|
-|Association supprimée. KeePass ne démarrera plus lors d'un double-clic sur un fichier .kdb.|
 |Create &Association|
 |Créer l'&association|
 |&Remove Association|
@@ -575,7 +567,7 @@
 |Make sure a writable medium is inserted.|
 |Assurez-vous d'avoir inséré un support non-protégé en écriture.|
 |Not enough free disk space!|
-|Espace libre insuffisant sur le disque.|
+|Espace libre insuffisant sur le disque!|
 |Disable unsafe (security-critical) operations like exports, etc.|
 |Désactiver les opérations non-sûres (critiques pour la sécurité) telles que l'export, etc.|
 |Unsafe operations are disabled.|
@@ -621,7 +613,7 @@
 |Status|
 |Statut|
 |The database file has been modified!|
-|Le fichier de base de mots de passe a été modifié.|
+|Le fichier de base de mots de passe a été modifié!|
 |Most probably someone has changed the file while you were editing it.|
 |Le plus probable est que quelqu'un a changé le fichier pendant que vous le modifiez.|
 |Do you want to overwrite it?|
@@ -635,7 +627,7 @@
 |Se&lect All|
 |Sé&lectionner tout|
 |This will remove all selected entries unrecoverably!|
-|Ceci détruira de manière définitive toutes les entrées sélectionnées.|
+|Ceci détruira de manière définitive toutes les entrées sélectionnées!|
 |Use PuTTY for ssh: and telnet: URLs|
 |Utilisez PuTTY pour les URLs ssh: et telnet:|
 |N&o Auto-Sort|
@@ -657,7 +649,7 @@
 |About &Plugin...|
 |A propos du &plugin|
 |Auto-Type|
-|Saisie automatique|
+|Saisie auto|
 |Clipboard behavior:|
 |Comportement du presse-papiers|
 |Enabled, loaded|
@@ -717,7 +709,7 @@
 |Click [Cancel] to abort changing the key.|
 |Cliquez sur [Annuler] pour annuler le changement de clé.|
 |Failed to create backup of this entry!|
-|Impossible de créer une sauvegarde de cette entrée.|
+|Impossible de créer une sauvegarde de cette entrée!|
 |Immediately after opening a database|
 |Immédiatement après l'ouverture d'une base de mots de passe|
 |Integration|
@@ -731,13 +723,13 @@
 |Show expired entries (if any)|
 |Montrer les entrées expirées (s'il y en a)|
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!|
-|Impossible de créer/supprimer la clé de démarrage automatique de KeePass dans le registre de Windows.|
+|Impossible de créer/supprimer la clé de démarrage automatique de KeePass dans le registre de Windows!|
 |&Get More Import Plugins...|
 |&Obtenir plus de Plugins d'Import...|
 |Encode/replace newline characters by '\n'|
 |Encoder/remplacer les caractères nouvelle ligne par '\n'|
 |Export Options|
-|Options d'export|
+|Options d'exportation|
 |Export backup entries (entries in the 'Backup' group)|
 |Exporter les entrées sauvegardées (entrées dans le groupe 'Sauvegarde')|
 |Fields to export|
@@ -837,7 +829,7 @@
 |Overwrite if newer|
 |Écraser si plus récent|
 |Choose an icon from the list of available entry and group icons.|
-|Choisir une icône dans la liste des entrées disponible et icônes de groupe.|
+|Choisir une icône dans la liste des entrées disponibles et des icônes de groupe.|
 |Choose an icon.|
 |Choisir une icône.|
 |Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
@@ -890,32 +882,20 @@
 |L'option 'Pw' est déja spécifiée|
 |Cache error (cannot open cached file).|
 |Erreur de cache (impossible d'ouvrir le fichier de cache).|
-|Check For Update|
-|Vérifier les Mises à Jour|
-|Check for Update|
-|Vérifier les Mises à jour|
-|Check for update at KeePass startup|
-|Vérifier les mises à jour au démarrage de KeePass|
 |Command line argument|
 |Arguments de la ligne de commande|
 |Arguments|
 |Arguments|
-|Connect failed, cannot check for update.|
-|Erreur de connexion, impossible de vérifier les mises à jour.|
 |Database is already specified|
 |La base de données est déja spécifiée|
 |Disable 'Save' button if the database hasn't been modified|
 |Désactiver le bouton 'Enregsitrer' si la base de données n'a pas été modifiée|
-|Do you want to visit the KeePass homepage now?|
-|Voulez vous visiter le site web de KeePass maintenant?|
 |Filename not found|
 |Aucun fichier portant ce nom n'a été trouvé|
 |It contains an unmatched quote|
 |Il contient un nombre impair de guillemet|
 |KeePass Initialization|
 |Initialisation de KeePass|
-|New KeePass version available!|
-|Une nouvelle version de KeePass est disponible!|
 |Option not recognized|
 |Cette option n'est pas reconnue|
 |Password is empty|
@@ -1272,3 +1252,53 @@
 |Utiliser la protection de mémoire avancée (DPAPI, seulement avec Windows Vista et supérieur)|
 |Use the following help source when a "Help" button within KeePass is clicked:|
 |Utiliser la source suivante pour l'aide lorsque un bouton "Aide" est cliqué dans KeePass:|
+|%u updates are available!|
+|%u mises à jour sont disponibles!|
+|1 update is available!|
+|1 mise à jour est disponible|
+|Available|
+|Disponible|
+|Check For Updates|
+|Vérifier les mises à jour|
+|Check for Updates|
+|Vérifier les mises à jour|
+|Check for updates at KeePass startup|
+|Vérifier les mises à jour au démarrage de KeePass|
+|Component|
+|Composant|
+|Connect failed, cannot check for updates.|
+|Echec de la connexion, impossible de  vérifier les mises à jour.|
+|Delete TAN entries immediately after using them|
+|Supprimer les entrées TAN immédiatement après les avoir utilisé|
+|Installed|
+|Installé|
+|KeePass 1.x cannot open KDBX files.|
+|KeePass 1.x ne peut pas ouvrir les fichiers KDBX.|
+|New version available.|
+|Nouvelle version disponible.|
+|No updates available.|
+|Pas de mises à jour disponibles.|
+|Please choose a different name.|
+|Veuillez choisir un nom différent.|
+|Plugin unknown.|
+|Plugin inconnu.|
+|Pre-release version.|
+|Version en pre-release|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+|KeePass associée avec succès avec les fichiers. kdb! Un double-clic sur un fichier. kdb va maintenant démarrer KeePass automatiquement.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+|Association supprimée avec succès! KeePass ne sera plus démarré lorsque vous double-cliquerez sur un fichier .kdb.|
+|The specified name is reserved.|
+|Le nom spécifié est reservé.|
+|Up to date.|
+|À jour.|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
+|Utiliser CNG/BCrypt pour les transformations de clé (uniquement sur Windows Vista et supérieur)|
+|Use the KeePass 2.x 'Export' feature to migrate this file|
+|Utiliser la fonction 'Exportation' de KeePass 2.x pour migrer ce fichier|
+|Version|
+|Version|
+|Workspace is locked.|
+|L'espace de travail est verrouillé.|
+|see the <A HREF="h">help manual</A> for details.|
+|voir le <A HREF="h">manuel d'aide</A> pour les détails.|
