@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Belarusian|
-|~LANGUAGEVERSION|             |1.16|
+|~LANGUAGEVERSION|             |1.17|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -168,7 +168,7 @@
 |Code&Wallet TXT File...|     |Code&Wallet TXT файл...|
 |&PwSafe v2 TXT File...|      |&PwSafe v2 TXT файл...|
 |Personal &Vault TXT File...| |Personal &Vault TXT файл...|
-|&Get More Import Plugins...| |&Больш модуляў імпарту...|
+|&Get More Import Plugins...| |&Больш мадулей імпарту...|
 
 |Add &Group...|    |Дадаць &групу...|
 |Add Su&bgroup...| |Дадаць падгр&упу...|
@@ -204,15 +204,15 @@
 |Move Entry &One Up|             |Ссунуць запіс у&гору|
 |Mo&ve Entry One Down|           |Ссунуць запіс уні&з|
 |Move Entry to &Bottom|          |Перанесці запіс у кане&ц|
-|Sort List By &Title|            |Сартаваць па &назве|
-|Sort List By User &Name|        |Сартаваць па &імені|
-|Sort List By &URL|              |Сартаваць па &спасылке|
-|Sort List By &Password|         |Сартаваць па &паролю|
-|Sort List By Note&s|            |Сартаваць па &каментарыю|
-|Sort List By &Creation Time|    |Сартаваць па &часу стварэння|
-|Sort List By Last &Modify Time| |Сартаваць па часу зм&ены|
-|Sort List By Last &Access Time| |Сартаваць па часу &агляду|
-|Sort List By &Expiration Time|  |Сартаваць па часу сп&ынення|
+|Sort List by &Title|            |Сартаваць па &назве|
+|Sort List by User &Name|        |Сартаваць па &імені|
+|Sort List by &URL|              |Сартаваць па &спасылке|
+|Sort List by &Password|         |Сартаваць па &паролю|
+|Sort List by Note&s|            |Сартаваць па &каментарыю|
+|Sort List by &Creation Time|    |Сартаваць па &часу стварэння|
+|Sort List by Last &Modify Time| |Сартаваць па часу зм&ены|
+|Sort List by Last &Access Time| |Сартаваць па часу &агляду|
+|Sort List by &Expiration Time|  |Сартаваць па часу сп&ынення|
 
 |Change &Language...|                     |Змяніць &мову...|
 |Show &Toolbar|                           |Паказваць панэль &кіравання|
@@ -241,7 +241,7 @@
 |&Repair KeePass Database File...| |Адрамантаваць &файл базы пароляў...|
 |Show &Expired Entries|            |Паказаць сп&ыненыя запісы...|
 |&Options...|                      |&Настройка...|
-|&Plugins...|                      |&Модулі...|
+|&Plugins...|                      |&Мадулі...|
 
 |&Help Contents|          |Адчыніць &даведку|
 |Visit &KeePass Homepage| |Наведаць &хатнюю страронку|
@@ -392,7 +392,7 @@
 |Security|                     |Бяспека|
 |KeePass is OSI Certified Open Source Software.|
     |KeePass - OSI сертыфіцыраванае праграма з адкрытым кодам.|
-|Automatically lock workspace after the following number of seconds:|
+|Lock workspace after the following idle time (seconds):|
     |Аўтаматычна блакіраваць базу праз (секунд):|
 |&Group name|                  |Назва &групы|
 |Every second row has a different background color. Use this color:|
@@ -552,10 +552,10 @@
 |File access error: failed to open file in write mode|  |Памылка доступа да файла: немагчыма адчыніць файл у рэжыме запісу|
 |File error: error while reading from the file|         |Файлавая памылка: памылка ў час чытання з файла|
 |File error: error while writing to the file|           |Файлавая памылка: памылка ў час запісу ў файл|
-|Get more plugins...|  |Больш мадулёў...|
+|Get more plugins...|  |Больш мадулей...|
 |Global auto-type hot key combination:|                 |Глабальная "гарачая" камбінацыя клавіш для аўтанабора:|
 |Help:|                |Даведка:|
-|Here you can configure all installed KeePass plugins.| |Тут можна наладзіць усе ўсталяваныя модулі для KeePass.|
+|Here you can configure all installed KeePass plugins.| |Тут можна наладзіць усе ўсталяваныя мадулі для KeePass.|
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
     |Калі ў вас з'явяцца праблемы пры ўжыванні пашыранага рэжыма, пераключыцеся назад у часовы рэжым ачысткі буферу.|
 |Internal error|       |Унутраная памылка|
@@ -569,7 +569,7 @@
 |Never expires|        |Ніколі не спыняецца|
 |Number the TANs consecutively, starting from this value| |Нумараваць TANы паслядоўна, пачыная з гэтага значэння|
 |Plugin|               |Модуль|
-|Plugins|              |Модулі|
+|Plugins|              |Мадулі|
 |Success|              |Паспяхова|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
     |Часовы: аўтаматычна ачышчаць буфер абмену праз некалькі секунд пасля капіравання|
@@ -867,3 +867,6 @@
 |Use CNG/BCrypt for key transformations (only Windows Vista and higher)| |Выкарыстоўваць CNG/BCrypt для трансфармацыі пароля (толькі Windows Vista і вышей)|
 |Use the KeePass 2.x 'Export' feature to migrate this file| |Паспрабуйце экспартаваць гэты файл з KeePass 2.x|
 |see the <A HREF="h">help manual</A> for details.| |больш падрабязна ў <A HREF="h">даведке</A>.|
+
+|Ctrl| |Ctrl|
+|Use file transactions for writing databases| |Выкарыстовываць файлавыя транзацыі пры захаванні базы пароляў|
