@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                                      |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                   |1.16|
+|~LANGUAGEVERSION|                                   |1.17|
 |~LANGUAGEAUTHOR|                                    |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                               |<kaya.zeren@zeron.net>|
 |&OK|                                                |&Tamam|
@@ -237,8 +237,6 @@
 |Twofish (128-bit block cipher using 256-bit key)|   |Twofish (256 bit anahtar kullanarak 128 bitlik blok şifreleme)|
 |Security|                                           |Güvenlik|
 |KeePass is OSI Certified Open Source Software.|     |KeePass, OSI sertifikalı bir açık kaynak kodlu yazılımdır.|
-|Automatically lock workspace after the following number of seconds:|
-    |Şu kadar süre sonra çalışma alanını kilitle (saniye):|
 |&Group name|                                        |&Grup adı|
 |Every second row has a different background color. Use this color:|
     |Her iki satırı farklı bir arkaplan rengiyle göster. Bu rengi kullan :|
@@ -298,15 +296,6 @@
 |Translation Author Contact|                         |İletişim|
 |&Rearrange|                                         |Yeniden &Düzenle|
 |&Sort Group List|                                   |Grup Listesini &Sırala|
-|Sort List By &Title|                                |&Başlığa Göre Sırala|
-|Sort List By User &Name|                            |&Kullanıcı Adına Göre Sırala|
-|Sort List By &URL|                                  |&URL'ye Göre Sırala|
-|Sort List By &Password|                             |&Parolaya Göre Sırala|
-|Sort List By Note&s|                                |&Notlara Göre Sırala|
-|Sort List By &Creation Time|                        |&Oluşturulma Zamanına Göre Sırala|
-|Sort List By Last &Modify Time|                     |&Değiştirilme Zamanına Göre Sırala|
-|Sort List By Last &Access Time|                     |Son &Erişim Zamanına Göre Sırala|
-|Sort List By &Expiration Time|                      |&Sonlanma Zamanına Göre Sırala|
 |Move Group One &Left|                               |Grubu Bir S&ola Taşı|
 |Move Group One &Right|                              |Grubu Bir S&ağa Taşı|
 |Hide &User Names Behind Asterisks (***)|            |&Kullanıcı adlarını yıldız işaretiyle sakla|
@@ -768,3 +757,17 @@
 |Version|                                             |Sürüm|
 |Workspace is locked.|                                |Çalışma alanı kilitlendi.|
 |see the <A HREF="h">help manual</A> for details.|    |Detaylı bilgi için <A HREF="h">Yardım kitabına (İngilizce)</A> bakın.|
+
+|Ctrl|                                                 |Ctrl|
+|Lock workspace after the following idle time (seconds):|
+	|Çalışma alanını şu kadar saniye sonra kilitle|
+|Sort List by &Creation Time|                          |&Oluşturulma zamanına göre sırala|
+|Sort List by &Expiration Time|                        |&Sonlanma zamanına göre sırala|
+|Sort List by &Password|                               |&Parolalara göre sırala|
+|Sort List by &Title|                                  |&Başlıklara göre sırala|
+|Sort List by &URL|                                    |&Web adresine göre sırala|
+|Sort List by Last &Access Time|                       |&Erişim zamanına göre sırala|
+|Sort List by Last &Modify Time|                       |Son &değişiklik zamanına göre sırala|
+|Sort List by Note&s|                                  |&Notlara göre sırala|
+|Sort List by User &Name|                              |&Kullanıcı adına göre sırala|
+|Use file transactions for writing databases|          |Veritabanlarını yazmak için dosya hareketlerini kullan|
