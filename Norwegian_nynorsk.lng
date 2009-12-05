@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Norsk (Nynorsk)|
-|~LANGUAGEVERSION||1.16|
+|~LANGUAGEVERSION||1.17|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||nynorsk@strilen.net|
 |&OK||&OK|
@@ -217,7 +217,6 @@
 |Twofish (128-bit block cipher using 256-bit key)||Twofish (128-bit blokkrypteringsmetode med 256bit nøkkel)|
 |Security||Tryggleik|
 |KeePass is OSI Certified Open Source Software.||KeePass er eit OSI-sertifisert openkjeldeprogram.|
-|Automatically lock workspace after the following number of seconds:||Tal sekund før automatisk låsing av arbeidsflata:|
 |&Group name||&Gruppenamn|
 |Every second row has a different background color. Use this color:||Annakvar rad har ulik farge. Bruk denne fargen:|
 |Default||Standard|
@@ -272,15 +271,15 @@
 |Translation Author Contact||Omsetjingskontakt|
 |&Rearrange||&Ordna på nytt|
 |&Sort Group List||&Sorter gruppelista|
-|Sort List By &Title||Sorter lista etter &tittel|
-|Sort List By User &Name||Sorter lista etter brukar&namn|
-|Sort List By &URL||Sorter lista etter &adresse|
-|Sort List By &Password||Sorter lista etter &passord|
-|Sort List By Note&s||Sorter lista etter &merknader|
-|Sort List By &Creation Time||Sorter lista etter når &oppretta|
-|Sort List By Last &Modify Time||Sorter lista etter sist &endra|
-|Sort List By Last &Access Time||Sorter lista etter sist &brukt|
-|Sort List By &Expiration Time||Sorter lista etter &gyldig til|
+|Sort List by &Title||Sorter lista etter &tittel|
+|Sort List by User &Name||Sorter lista etter brukar&namn|
+|Sort List by &URL||Sorter lista etter &adresse|
+|Sort List by &Password||Sorter lista etter &passord|
+|Sort List by Note&s||Sorter lista etter &merknader|
+|Sort List by &Creation Time||Sorter lista etter når &oppretta|
+|Sort List by Last &Modify Time||Sorter lista etter sist &endra|
+|Sort List by Last &Access Time||Sorter lista etter sist &brukt|
+|Sort List by &Expiration Time||Sorter lista etter &gyldig til|
 |Move Group One &Left||Flytt gruppa éin til &venstre|
 |Move Group One &Right||Flytt gruppa éin til &høgre|
 |Hide &User Names Behind Asterisks (***)||Skjul &brukarnamn bak asteriskteikn (***)|
@@ -323,7 +322,7 @@
 |Database Settings||Databaseinnstillingar|
 |Here you can configure the current database.||Her kan du endra innstillingane til databasen som er i bruk.|
 |Database Summary||Databasesamandrag|
-|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||Databasekrypteringsnøkkelen er krypyert fleire gongar. Dette legg til ein konstant tidsfaktor og gjer det mykje vanskelegare å gjetta passordet eller bruka ordboksoppslag.|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||Databasekrypteringsnøkkelen er kryptert fleire gongar. Dette legg til ein konstant tidsfaktor og gjer det mykje vanskelegare å gjetta passordet eller bruka ordboksoppslag.|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||Dess høgare dette talet er, dess vanskelegare blir eit ordboksoppslagangrep. Samstundes vil det ta lengre tid å lagra eller henta databasen.|
 |Number of key encryption rounds:||Tal rundar med kryptering:|
 |bits||bitar|
@@ -650,3 +649,6 @@
 |Version||Utgåve|
 |Workspace is locked.||Arbeidsføata er låst.|
 |see the <A HREF="h">help manual</A> for details.||sjå etter fleire opplysningar i <a href="h">rettleiinga</a>.|
+|Ctrl||Ctrl|
+|Lock workspace after the following idle time (seconds):||Lås arbeidsflata etter denne ventetida (sekund):|
+|Use file transactions for writing databases||Bruk filoverføringar til skriving av databasar|
