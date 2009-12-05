@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.16|
+|~LANGUAGEVERSION||1.17|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -127,7 +127,6 @@
 |Attachment||Adjunto|
 |Author||Autor|
 |Auto-&Sort Password List||&Ordenar Automáticamente Lista de Contraseñas|
-|Automatically lock workspace after the following number of seconds:||Bloquear automáticamente el área de trabajo después del siguiente número de segundos:|
 |Automatically open last used database on startup||Al inicio, abrir automáticamente la última base de datos utilizada|
 |Automatically resize table columns when resizing the main window||Modificar el tamaño de las columnas automáticamente al modificar el tamaño de la ventana principal|
 |Automatically save when closing/locking the database||Guardar automáticamente al cerrar/bloquear la base de datos|
@@ -198,6 +197,7 @@
 |Create New Password Database||Crear una nueva contraseña de la base de datos|
 |Creation Time||Fecha de Creación|
 |CSV Files||Archivos CSV|
+|Ctrl||Ctrl|
 |Cu&t||Cor&tar|
 |Current settings||Configuración actual|
 |Currently Used Language||Idioma empleado actualmente|
@@ -368,6 +368,7 @@
 |Load the existing key file and use it as key for the current database. The key file will not be modified.||Cargar el archivo de clave existente y usarlo como clave para la base de datos actual. El archivo de clave no será modificado.|
 |Loading error||Error al cargar|
 |Local help file||Archivo de ayuda local|
+|Lock workspace after the following idle time (seconds):||Bloquear el área de trabajo después del siguiente tiempo de inactividad (segundos):|
 |Lock workspace when locking Windows, switching user or sleeping||Bloquear el área de trabajo al bloquear Windows, cambiar de usuario o hibernar|
 |Lock workspace when minimizing the main window||Bloquear el área de trabajo cuando se minimice la ventana principal|
 |Locked||Bloqueado|
@@ -527,15 +528,15 @@
 |Single left click instead of double-click for default tray icon action||Click único en vez de doble-click para ejecutar desde el icono en la bandeja de sistema|
 |So, the more the better. The different, the better.||Por ende, a mayor cantidad mejor resultado. Más variedad, mayor calidad.|
 |Sort items in the auto-type entry selection dialog||Ordenar los elementos en el cuadro de selección de entradas para la escritura automática|
-|Sort List By &Creation Time||Ordenar lista por Fecha de &Creación|
-|Sort List By &Expiration Time||Ordenar lista por Fecha de &Expiración|
-|Sort List By &Password||Ordenar lista por &Contraseña|
-|Sort List By &Title||Ordenar Lista por &Título|
-|Sort List By &URL||Ordenar lista por &URL|
-|Sort List By Last &Access Time||Ordenar lista por &Último Acceso|
-|Sort List By Last &Modify Time||Ordenar lista por Última &Modificación|
-|Sort List By Note&s||Ordenar lista por Come&ntarios|
-|Sort List By User &Name||Ordenar la lista por &Nombre de Usuario|
+|Sort List by &Creation Time||Ordenar lista por Fecha de &Creación|
+|Sort List by &Expiration Time||Ordenar lista por Fecha de &Expiración|
+|Sort List by &Password||Ordenar lista por &Contraseña|
+|Sort List by &Title||Ordenar Lista por &Título|
+|Sort List by &URL||Ordenar lista por &URL|
+|Sort List by Last &Access Time||Ordenar lista por &Último Acceso|
+|Sort List by Last &Modify Time||Ordenar lista por Última &Modificación|
+|Sort List by Note&s||Ordenar lista por Come&ntarios|
+|Sort List by User &Name||Ordenar la lista por &Nombre de Usuario|
 |Source field to reference||Campo de origen para referencia|
 |Space ( )||Espacio ( )|
 |Special||Especiales|
@@ -619,6 +620,7 @@
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)||Usar protección de memoria avanzada (DPAPI, sólo Windows Vista y superior)|
 |Use alternative auto-type method (minimize window)||Usar método alternativo de escritura automática (minimizar la ventana)|
 |Use CNG/BCrypt for key transformations (only Windows Vista and higher)||Usar CNG/BCrypt para las transformaciones de las claves (sólo Windows Vista y superior)|
+|Use file transactions for writing databases||Usar transacciones de archivos para escribir las bases de datos|
 |Use local date/time format instead of ISO notation||Usar hora y fecha local en lugar de la notación ISO|
 |Use more secure password edit controls||Usar controles de edición de contraseña más seguros|
 |Use PuTTY for ssh: and telnet: URLs||Usar PuTTY para manejar urls ssh: y telnet:|
