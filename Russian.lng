@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.16|
+|~LANGUAGEVERSION|             |1.17|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -339,8 +339,8 @@
 |Security|                     |Безопасность|
 |KeePass is OSI Certified Open Source Software.|
     |KeePass - OSI сертифицированное приложение с открытым кодом.|
-|Automatically lock workspace after the following number of seconds:|
-    |Автоматически блокировать базу через (секунд):|
+|Lock workspace after the following idle time (seconds):|
+    |Автоматически блокировать базу при бездействии через (секунд):|
 |&Group name|                  |Названий &групп|
 |Every second row has a different background color. Use this color:|
     |Каждая вторая строка имеет другой цвет фона. Использовать цвет:|
@@ -406,15 +406,15 @@
 |Translation Author Contact|   |Адрес переводчика|
 |&Rearrange|                   |Пор&ядок|
 |&Sort Group List|             |&Сортировать список групп|
-|Sort List By &Title|          |Сортировать по &названию|
-|Sort List By User &Name|      |Сортировать по &имени пользователя|
-|Sort List By &URL|            |Сортировать по &ссылке|
-|Sort List By &Password|       |Сортировать по &паролю|
-|Sort List By Note&s|          |Сортировать по &комментариям|
-|Sort List By &Creation Time|  |Сортировать по &времени создания|
-|Sort List By Last &Modify Time|               |Сортировать по времени последнего и&зменения|
-|Sort List By Last &Access Time|               |Сортировать по времени последнего п&росмотра|
-|Sort List By &Expiration Time|                |Сортировать по времени &окончания действия|
+|Sort List by &Title|          |Сортировать по &названию|
+|Sort List by User &Name|      |Сортировать по &имени пользователя|
+|Sort List by &URL|            |Сортировать по &ссылке|
+|Sort List by &Password|       |Сортировать по &паролю|
+|Sort List by Note&s|          |Сортировать по &комментариям|
+|Sort List by &Creation Time|  |Сортировать по &времени создания|
+|Sort List by Last &Modify Time|               |Сортировать по времени последнего и&зменения|
+|Sort List by Last &Access Time|               |Сортировать по времени последнего п&росмотра|
+|Sort List by &Expiration Time|                |Сортировать по времени &окончания действия|
 |Move Group One &Left|         |Переместить на уровень в&лево|
 |Move Group One &Right|        |Переместить на уровень в&право|
 
@@ -860,3 +860,6 @@
 |Use CNG/BCrypt for key transformations (only Windows Vista and higher)| |Использовать CNG/BCrypt для трансформации ключа (Windows Vista и выше)|
 |Use the KeePass 2.x 'Export' feature to migrate this file| |Попробуйте экспортировать этот файл из KeePass 2.x|
 |see the <A HREF="h">help manual</A> for details.| |смотрите подробнее в <A HREF="h">справке</A>.|
+
+|Ctrl| |Ctrl|
+|Use file transactions for writing databases| |Использовать файловые транзакции при сохранении базы паролей|
