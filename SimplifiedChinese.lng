@@ -1,4 +1,4 @@
-﻿2009-6-8 01:16|~LANGUAGENAME|
+﻿2009-12-3 01:17|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
 |1.16|
@@ -460,8 +460,8 @@
 |安全|
 |KeePass is OSI Certified Open Source Software.|
 |KeePass 是 OSI 认证的开放源码软件。|
-|Automatically lock workspace after the following number of seconds:|
-|不使用时，在下列秒数后自动锁定工作区：|
+|Lock workspace after the following idle time (seconds):|
+|空闲超过指定时间（秒）后锁定工作区：|
 |&Group name|
 |群组名(&G)|
 |Every second row has a different background color. Use this color:|
@@ -574,23 +574,23 @@
 |排序(&R)|
 |&Sort Group List|
 |排序群组(&S)|
-|Sort List By &Title|
+|Sort List by &Title|
 |按标题(&T)|
-|Sort List By User &Name|
+|Sort List by User &Name|
 |按用户名(&N)|
-|Sort List By &URL|
+|Sort List by &URL|
 |按网址(&U)|
-|Sort List By &Password|
+|Sort List by &Password|
 |按密码(&P)|
-|Sort List By Note&s|
+|Sort List by Note&s|
 |按备注(&S)|
-|Sort List By &Creation Time|
+|Sort List by &Creation Time|
 |按创建时间(&C)|
-|Sort List By Last &Modify Time|
+|Sort List by Last &Modify Time|
 |按修改时间(&M)|
-|Sort List By Last &Access Time|
+|Sort List by Last &Access Time|
 |按访问时间(&A)|
-|Sort List By &Expiration Time|
+|Sort List by &Expiration Time|
 |按有效期(&E)|
 |Move Group One &Left|
 |向左移动(&L)|
@@ -1302,3 +1302,7 @@
 |请选择其它名称。|
 |see the <A HREF="h">help manual</A> for details.|
 |查看 <A HREF="h">帮助手册</A> 获取详细信息。|
+|Use file transactions for writing databases|
+|写入数据库时使用文件置换（成功写入临时文件后再替换原文件）|
+|Ctrl|
+|Ctrl|
