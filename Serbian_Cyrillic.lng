@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Српски|
 |~LANGUAGEVERSION|
-|1.16|
+|1.17|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -448,8 +448,8 @@
 |Сигурност|
 |KeePass is OSI Certified Open Source Software.|
 |KeePass је програм са отвореним извором цертификован OSI.|
-|Automatically lock workspace after the following number of seconds:|
-|Блокирај површину после оволико секунда:|
+|Lock workspace after the following idle time (seconds):|
+|Блокирај површину после оволико секунда чекања:|
 |&Group name|
 |Име групе|
 |Every second row has a different background color. Use this color:|
@@ -558,23 +558,23 @@
 |Организуј|
 |&Sort Group List|
 |Сортирај листу група|
-|Sort List By &Title|
+|Sort List by &Title|
 |Сортирај по називу|
-|Sort List By User &Name|
+|Sort List by User &Name|
 |Сортирај по имену|
-|Sort List By &URL|
+|Sort List by &URL|
 |Сортирај по УРЛ|
-|Sort List By &Password|
+|Sort List by &Password|
 |Сортирај по лозинци|
-|Sort List By Note&s|
+|Sort List by Note&s|
 |Сортирај по белешкама|
-|Sort List By &Creation Time|
+|Sort List by &Creation Time|
 |Сортирај по време креације|
-|Sort List By Last &Modify Time|
+|Sort List by Last &Modify Time|
 |Сортирај по време модификацији|
-|Sort List By Last &Access Time|
+|Sort List by Last &Access Time|
 |Сортирај по време приступу|
-|Sort List By &Expiration Time|
+|Sort List by &Expiration Time|
 |Сортирај по време завршетка|
 |Move Group One &Left|
 |Премести групу на лево|
@@ -1306,3 +1306,7 @@
 |Радни простор је блокирана.|
 |see the <A HREF="h">help manual</A> for details.|
 |видети <A HREF="h">help manual</A> за детаље.|
+|Use file transactions for writing databases|
+|Користи транзакцију датотеке за писање базе|
+|Ctrl|
+|Ctrl|
