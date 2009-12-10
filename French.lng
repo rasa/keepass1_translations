@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.16|
+|1.17|
 |~LANGUAGEAUTHOR|
 |Marc Tissot, Audran Moulard|
 |~LANGUAGEAUTHOREMAIL|
@@ -390,8 +390,6 @@
 |Sécurité|
 |KeePass is OSI Certified Open Source Software.|
 |KeePass est un logiciel Open Source certifié OSI.|
-|Automatically lock workspace after the following number of seconds:|
-|Verrouiller automatiquement l'espace de travail après le nombre de secondes suivant:|
 |&Group name|
 |Nom de &groupe|
 |Every second row has a different background color. Use this color:|
@@ -492,24 +490,6 @@
 |&Réorganiser|
 |&Sort Group List|
 |&Trier la liste des groupes|
-|Sort List By &Title|
-|Trier la liste par &Titre|
-|Sort List By User &Name|
-|Trier la liste par &Nom d'utilisateur|
-|Sort List By &URL|
-|Trier la liste par &URL|
-|Sort List By &Password|
-|Trier la liste par &Mot de passe|
-|Sort List By Note&s|
-|Trier la liste par Note&s|
-|Sort List By &Creation Time|
-|Trier la liste par Date de c&réation|
-|Sort List By Last &Modify Time|
-|Trier la liste par Date de m&odification|
-|Sort List By Last &Access Time|
-|Trier la liste par Date de dernier &accès|
-|Sort List By &Expiration Time|
-|Trier la liste par Date d'&expiration|
 |Move Group One &Left|
 |Déplacer le groupe vers la &gauche|
 |Move Group One &Right|
@@ -1302,3 +1282,27 @@
 |L'espace de travail est verrouillé.|
 |see the <A HREF="h">help manual</A> for details.|
 |voir le <A HREF="h">manuel d'aide</A> pour les détails.|
+|Ctrl|
+|Ctrl|
+|Lock workspace after the following idle time (seconds):|
+|Verrouiller l'epsace de travail après le délai d'inactivité (en secondes) :|
+|Sort List by &Creation Time|
+|Trier la liste par Date de c&réation|
+|Sort List by &Expiration Time|
+|Trier la liste par Date d'&expiration|
+|Sort List by &Password|
+|Trier la liste par &Mot de passe|
+|Sort List by &Title|
+|Trier la liste par &Titre|
+|Sort List by &URL|
+|Trier la liste par &URL|
+|Sort List by Last &Access Time|
+|Trier la liste par Date de dernier &accès|
+|Sort List by Last &Modify Time|
+|Trier la liste par Date de m&odification|
+|Sort List by Note&s|
+|Trier la liste par Note&s|
+|Sort List by User &Name|
+|Trier la liste par &Nom d'utilisateur|
+|Use file transactions for writing databases|
+|Utiliser le fichier des transactions pour l'écriture des bases de données|
