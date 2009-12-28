@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.16|
+|1.17|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -697,8 +697,8 @@
 |KeePass is OSI Certified Open Source Software.|
 |KeePass - OSI sertifikuota atviroji programa.|
 
-|Automatically lock workspace after the following number of seconds:|
-|Po nurodyto sekundžių skaičiaus automatiškai blokuoti darbalaukį:|
+|Lock workspace after the following idle time (seconds):|
+|Po nurodyto neveikos laiko (sekundžių) blokuoti darbalaukį:|
 
 |&Group name|
 |&Grupės pavadinimas|
@@ -865,31 +865,31 @@
 |&Sort Group List|
 |&Rikiuoti grupių sąrašą|
 
-|Sort List By &Title|
+|Sort List by &Title|
 |Rikiuoti pagal an&traštę|
 
-|Sort List By User &Name|
+|Sort List by User &Name|
 |Rikiuoti pagal vartotojo &vardą|
 
-|Sort List By &URL|
+|Sort List by &URL|
 |Rikiuoti pagal &URL|
 
-|Sort List By &Password|
+|Sort List by &Password|
 |Rikiuoti pagal s&laptažodį|
 
-|Sort List By Note&s|
+|Sort List by Note&s|
 |Rikiuoti pagal pastaba&s|
 
-|Sort List By &Creation Time|
+|Sort List by &Creation Time|
 |Rikiuoti pagal su&kūrimo laiką|
 
-|Sort List By Last &Modify Time|
+|Sort List by Last &Modify Time|
 |Rikiuoti pagal paskutinio keitimo &laiką|
 
-|Sort List By Last &Access Time|
+|Sort List by Last &Access Time|
 |Rikiuoti pagal paskutinės p&rieigos laiką|
 
-|Sort List By &Expiration Time|
+|Sort List by &Expiration Time|
 |Rikiuoti pagal &galiojimo laiką|
 
 |Move Group One &Left|
@@ -1956,3 +1956,9 @@
 
 |see the <A HREF="h">help manual</A> for details.|
 |žr. <A HREF="h">žinyno vadovėlį</A> išsamesnei informacijai.|
+
+|Ctrl|
+|Vald|
+
+|Use file transactions for writing databases|
+|Naudoti failų tranzakcijas duomenų bazių įrašymui|
