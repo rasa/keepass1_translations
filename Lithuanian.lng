@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.17|
+|1.18|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -1675,9 +1675,6 @@
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
 |Pažymėtosios žvaigždute parinktys/taisyklės mažina sugeneruotųjų slaptažodžių stiprumą. Aktyvuokite jas, jei reikia laikytis svetainės, programos ar slaptažodžių politikos.|
 
-|No repeating characters|
-|Ženklai neturi kartotis|
-
 |Provider|
 |Teikėjas|
 
@@ -1962,3 +1959,9 @@
 
 |Use file transactions for writing databases|
 |Naudoti failų tranzakcijas duomenų bazių įrašymui|
+
+|Do&n't delete|
+|&Nepašalinkite|
+
+|Each character must occur at most once|
+|Kiekvienas ženklas turi būti bent vieną kartą|
