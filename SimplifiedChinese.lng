@@ -1,4 +1,4 @@
-﻿2009-12-3 01:17|~LANGUAGENAME|
+﻿2010-08-31 01:18|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
 |1.16|
@@ -1136,8 +1136,8 @@
 |排除下列字符:|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
 |带星号的 选项/规则 降低了生成密码的安全性。请仅在 网站/程序/密码规则 强制使用此类规则时启用。|
-|No repeating characters|
-|不包括重复字符|
+|Each character must occur at most once|
+|每个字符仅出现一次|
 |Provider|
 |提供者|
 |The key provider plugin did not supply a valid key|
@@ -1306,3 +1306,5 @@
 |写入数据库时使用文件置换（成功写入临时文件后再替换原文件）|
 |Ctrl|
 |Ctrl|
+|Do&n't delete|
+|请勿删除(&N)|
