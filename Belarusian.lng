@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Belarusian|
-|~LANGUAGEVERSION|             |1.17|
+|~LANGUAGEVERSION|             |1.18|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -660,7 +660,7 @@
     |KeePass зменіць ўсе існуючыя групы і запісы на новыя з імпартуемага файла, калі яны маюць аднолькавыя ідэнтыфікатары.|
 |Overwrite if newer| |Перапісываць новыя|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
-    |KeePass параўнуе час змены груп/запісаў і заменіць існуючыя толькі калі імпартуемыя больш новыя.|
+    |KeePass параўнуе час змены груп/запісаў і заменіць існуючыя толькі, калі імпартуемыя больш новыя.|
 
 |Copy &URL to Clipboard| |Скапіраваць &спасылку ў буфер абмену|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
@@ -748,9 +748,9 @@
 |Exclude the following characters:| |Выключаць наступныя сімвалы:|
 |Fields to print| |Паля для друкавання|
 |Here you can customize the printed sheet.| |Тут можна настроіць старонку для друкавання.|
-|No repeating characters| |Без паўторных сімвалаў|
+|Each character must occur at most once| |Кожны сімвал павінен сустракацца не больш аднаго раза|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
-    |Опцыі/правілы, памечаныя зорачкай, памяншаюць ахаванасть ствараемых пароляў. Уключайце іх толькі калі гэта патрабуецца.|
+    |Опцыі/правілы, памечаныя зорачкай, памяншаюць ахаванасть ствараемых пароляў. Уключайце іх толькі, калі гэта патрабуецца.|
 |Print Options| |Настройка друку|
 |Print backup entries (entries in the 'Backup' group)| |Друкаваць рэзервныя запісы (запісы з групы 'Рэзерваванне')|
 |Provider| |Пастаўшчык|
@@ -870,3 +870,5 @@
 
 |Ctrl| |Ctrl|
 |Use file transactions for writing databases| |Выкарыстовываць файлавыя транзацыі пры захаванні базы пароляў|
+
+|Do&n't delete| |&Не выдаляць|
