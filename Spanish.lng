@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.17|
+|~LANGUAGEVERSION||1.18|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -226,9 +226,11 @@
 |Do you want to overwrite the current attachment?||Usted desea sobreecribir el adjunto?|
 |Do you want to save the changes before closing?||¿Desea guardar los cambios antes de salir?|
 |Do you wish to restart KeePass now?||¿Desea reiniciar KeePass ahora?|
+|Do&n't delete||No elimi&nar|
 |Drop to background when copying data to the clipboard||Mover a segundo plano al copiar información al portapapeles|
 |Dupli&cate Entry||&Duplicar Entrada|
 |E&xit||S&alir|
+|Each character must occur at most once||Cada caracter debe estar presente a lo sumo una vez|
 |Ed&it Group...||Ed&itar grupo...|
 |Edit Entry||Editar gntrada|
 |Edit Group||Editar grupo|
@@ -408,7 +410,6 @@
 |New version available.||Nueva versión disponible.|
 |Newline sequence:||Secuencia de nueva línea:|
 |No random input||Sin entrada aleatoria|
-|No repeating characters||Sin repetir caracteres|
 |No updates available.||No hay actualizaciones disponibles.|
 |Normal||Normal|
 |Not enough free disk space!||No hay suficiente espacio libre en el disco.|
