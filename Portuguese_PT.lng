@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
-|~LANGUAGEVERSION||1.17|
+|~LANGUAGEVERSION||1.18|
 |~LANGUAGEAUTHOR||José Gonçalves|
 |~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
 |&OK||OK|
@@ -94,7 +94,6 @@
 |Fields to print||Campos a imprimir|
 |Here you can customize the printed sheet.||Aqui pode configurar a folha de impressão.|
 |Key File||Ficheiro Chave|
-|No repeating characters||Não repetir caracteres|
 |Print Options||Opções de impressão|
 |Print backup entries (entries in the 'Backup' group)||Imprimir entradas de backup (entradas no grupo 'Backup')|
 |Provider||Provedor|
@@ -231,3 +230,5 @@
 |Sort List by Note&s||Ordenar Listagem pelos Comentá&rios|
 |Sort List by User &Name||Ordenar Listagem por &Nome de Utilizador|
 |Use file transactions for writing databases||Utilizar ficheiro de transacções para escrever as bases de dados|
+|Do&n't delete||&Não apagar|
+|Each character must occur at most once||Cada caracter deve ocorrer no máximo uma vez|
