@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.17 - 1|
+|1.18 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -324,8 +324,6 @@
 |隨機變換字元順序|
 |Advanced Password Generator Options|
 |密碼產生器進階選項|
-|No repeating characters|
-|不允許字元重複|
 |Exclude look-alike characters|
 |排除外觀相似的字元|
 |Exclude the following characters:|
@@ -1290,6 +1288,10 @@
 |Ctrl|
 |Use file transactions for writing databases|
 |使用transaction方式寫入資料庫檔案|
+|Do&n't delete|
+|不要刪除(&N)|
+|Each character must occur at most once|
+|每個字元最多只能出現一次|
 |About KeePass...|
 |關於KeePass...|
 |Version|
