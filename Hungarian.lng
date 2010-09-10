@@ -1,9 +1,9 @@
 ﻿|~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.17|
+|1.18|
 |~LANGUAGEAUTHOR|
-|herka (1.13) • Zotius (1.17-re frissítés)|
+|herka (1.13) • Zotius (1.18-ra frissítés)|
 |~LANGUAGEAUTHOREMAIL|
 |herka0@gmail.com • zotius@t-online.hu|
 |&OK|
@@ -53,7 +53,7 @@
 |Find a string in the password list.|
 |Sztring keresése a jelszólistában.|
 |About KeePass...|
-|A KeePass névjegye...|
+|KeePass névjegye...|
 |Password Groups|
 |Jelszó csoportok|
 |Title|
@@ -83,7 +83,7 @@
 |Repeat Master Password|
 |Ismételd meg a mester jelszót|
 |Repeat the master password for the new database.|
-|Ismételd meg a mester kulcsot az új adatbázishoz.|
+|Ismételd meg a mester jelszót az új adatbázishoz.|
 |Open Database|
 |Adatbázis megnyitása|
 |Enter Composite Master Key|
@@ -95,9 +95,9 @@
 |Key File|
 |Kulcsfájl|
 |Password Generator|
-|Jelszó Generátor|
+|Jelszó generátor|
 |Here you can generate a random password.|
-|Generálhatsz egy véletlen jelszót.|
+|Itt generálhatsz egy véletlen jelszót.|
 |Options|
 |Opciók|
 |Current settings|
@@ -161,7 +161,7 @@
 |Length of generated password:|
 |Generált jelszó hossza:|
 |Create a new password group.|
-|Egy új jelszócsoport létrehozása.|
+|Új jelszócsoport létrehozása.|
 |Edit Group|
 |Csoport szerkesztése|
 |Modify existing password group.|
@@ -427,7 +427,7 @@
 |&Import From|
 |&Importálás...|
 |&Get more languages...|
-|&Újabb nyelvek...|
+|&További nyelvek...|
 |Start and exit|
 |Indítás és Kilépés|
 |Interface (GUI)|
@@ -1263,7 +1263,7 @@
 |No updates available.|
 |Nincs elérhető frissítés.|
 |Online help center|
-|Onlilne súgó központ|
+|Online súgó központ|
 |Please choose a different name.|
 |Kérem, válasszon másik nevet.|
 |Plugin unknown.|
@@ -1281,7 +1281,7 @@
 |Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
 |Hozzárendelés eltávolítva! KeePass ezentúl nem indul automatikusan a .kdb fájlokon való dupla kattintásra.|
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
-|A helyi súgófájl csak részlegesen tatalmazza a termék dokumentációban foglaltakat a megelenés időpontjában érvényes állapotban. Nem frissül automatikusan.|
+|A helyi súgófájl csak részlegesen tartalmazza a termék dokumentációban foglaltakat a megjelenés időpontjában érvényes állapotban. Nem frissül automatikusan.|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.|
 |Az online súgó központ mindig a termék dokumentáció legfrissebb változatát tartalmazza. Eléréséhez internet kapcsolat szükséges.|
 |The specified name is reserved.|
