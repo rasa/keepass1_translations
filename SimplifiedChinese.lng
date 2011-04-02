@@ -1,7 +1,7 @@
-﻿2010-08-31 01:18|~LANGUAGENAME|
+﻿2011-03-30 01:19|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.16|
+|1.19|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
@@ -280,8 +280,8 @@
 |隐藏密码为***(&P)|
 |Password &Generator...|
 |密码生成器(&G)...|
-|Visit &KeePass Homepage|
-|访问 &KeePass 主页|
+|KeePass &Website|
+|&KeePass 网站|
 |&About KeePass...|
 |关于 KeePass(&A)...|
 |&Database Settings...|
@@ -496,8 +496,8 @@
 |工具(&T)|
 |Show &Toolbar|
 |显示工具栏(&T)|
-|Visit KeePass Homepage|
-|访问 KeePass 主页|
+|KeePass Website|
+|KeePass 网站|
 |Field copied to clipboard.|
 |字段已复制到剪贴板。|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
@@ -1308,3 +1308,5 @@
 |Ctrl|
 |Do&n't delete|
 |请勿删除(&N)|
+|Remember key sources (key file paths, provider names, ...)|
+|记住密匙源（文件路径、提供者名称等...）|
