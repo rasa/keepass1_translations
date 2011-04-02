@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.18|
+|~LANGUAGEVERSION|             |1.19|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -190,7 +190,7 @@
 
 |Password &Generator...|       |Г&енератор паролей...|
 
-|Visit &KeePass Homepage|      |Посетить &домашнюю страницу|
+|KeePass &Website|             |С&айт KeePass|
 |&About KeePass...|            |&О программе...|
 
 |&Database Settings...|        |Н&астройки базы паролей...|
@@ -360,9 +360,9 @@
 |&Expiration Time|        |&Окончание действия|
 |UU&ID|                   |Ид&ентификатор|
 
-|Show &Toolbar|                |Показывать панель &управления|
-|Visit KeePass Homepage|       |Перейти на домашнюю страницу KeePass|
-|Field copied to clipboard.|   |Поле скопировано в буфер обмена.|
+|Show &Toolbar|              |Показывать панель &управления|
+|KeePass Website|            |Сайт KeePass|
+|Field copied to clipboard.| |Поле скопировано в буфер обмена.|
 
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
     |Файл с паролем уже сущесвует. Хотите переписать его или использовать повторно?|
@@ -865,3 +865,5 @@
 |Use file transactions for writing databases| |Использовать файловые транзакции при сохранении базы паролей|
 
 |Do&n't delete| |&Не удалять|
+
+|Remember key sources (key file paths, provider names, ...)| |Запоминать источники ключей (пути к файлам с паролем, имена провайдеров, ...)|
