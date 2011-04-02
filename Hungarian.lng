@@ -1,9 +1,9 @@
 ﻿|~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.18|
+|1.19|
 |~LANGUAGEAUTHOR|
-|herka (1.13) • Zotius (1.18-ra frissítés)|
+|herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
 |herka0@gmail.com • zotius@t-online.hu|
 |&OK|
@@ -269,13 +269,15 @@
 |Hide &Passwords Behind Asterisks (***)|
 |Jelszavak rejtése cs&illagok (***) mögé|
 |Hide passwords behind asterisks (***).|
-|A jelszavak elrejtése csillagok (***) mögé.|
+|Jelszavak elrejtése csillagok (***) mögé.|
 |Password &Generator...|
 |Jelszó &Generáló...|
-|Visit &KeePass Homepage|
-|Ugrás a &KeePass honlapjára|
+|KeePass &Website|
+|KeePass &Weblapja|
+|KeePass Website|
+|KeePass Weblapja|
 |&About KeePass...|
-|A KeePass né&vjegye...|
+|KeePass né&vjegye...|
 |&Database Settings...|
 |Adatbá&zis beállítások...|
 |&Tray/Untray|
@@ -283,7 +285,7 @@
 |Password and repeated password aren't identical!|
 |A jelszó és a megismételt jelszó nem azonos!|
 |Stop|
-|Stop|
+|Állj|
 |Enter a group name!|
 |Adj meg egy csoport nevet!|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
@@ -816,8 +818,10 @@
 |A következő karakterek kizárása:|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
 |A csillaggal jelölt opciók/szabályok csökkentik a generált jelszavak biztonságát. Csak abban az esetben kapcsold be őket, ha a weboldalak, alkalmazások vagy a jelszóbiztonsági szabályok ezt kifejezetten igénylik.|
-|No repeating characters|
-|Ne legyenek ismétlődő karakterek|
+|Each character must occur at most once|
+|Karakterek legfeljebb egyszer forduljanak elő|
+|Remember key sources (key file paths, provider names, ...)|
+|Emlékezzen a kulcsforrásra (fájl útvonalak, szolgáltatók, ...)|
 |Provider|
 |Szolgáltató|
 |The key provider plugin did not supply a valid key|
@@ -950,8 +954,6 @@
 |Vágólap törlése ha az adatbázis bezárásra/zárolásra kerül|
 |Show &Toolbar|
 |&Eszköztár mutatása|
-|Visit KeePass Homepage|
-|Ugrás a KeePass honlapjára|
 |Field copied to clipboard.|
 |A mező a vágólapra lett másolva.|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
@@ -1299,7 +1301,7 @@
 |Use file transactions for writing databases|
 |Fájl tranzakciók használata az adatbázis írásához.|
 |Use the KeePass 2.x 'Export' feature to migrate this file|
-|KeePass 2.x 'Export funkció használata e fájl migrálásához|
+|KeePass 2.x Export funkció használata e fájl migrálásához|
 |Use the following help source when a "Help" button within KeePass is clicked:|
 |Ennek a súgófájlnak használata a KeePass alkalmazás Súgó gombjára kattintáskor:|
 |Version|
@@ -1308,3 +1310,5 @@
 |Munkaterület zárolva.|
 |see the <A HREF="h">help manual</A> for details.|
 |Lásd a <A HREF="h">Súgó kézikönyvet</A> a részletekért.|
+|Do&n't delete|
+|Ne törölje|
