@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.18|
+|1.19|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -421,8 +421,8 @@
 |Password &Generator...|
 |Slaptažodžių &generatorius...|
 
-|Visit &KeePass Homepage|
-|Aplankyti &KeePass svetainę|
+|KeePass &Website|
+|KeePass &Web svetainė|
 
 |&About KeePass...|
 |&Apie KeePass...|
@@ -748,8 +748,8 @@
 |Show &Toolbar|
 |Rodyti įrankių &juostą|
 
-|Visit KeePass Homepage|
-|Aplankyti KeePass svetainę|
+|KeePass Website|
+|KeePass Web svetainė|
 
 |Field copied to clipboard.|
 |Laukelis nukopijuotas į iškarpinę.|
@@ -1965,3 +1965,6 @@
 
 |Each character must occur at most once|
 |Kiekvienas ženklas turi būti bent vieną kartą|
+
+|Remember key sources (key file paths, provider names, ...)|
+|Atsiminti raktų šaltinius (raktų failų pavadinimus, teikėjų pavadinimus, ...)|
