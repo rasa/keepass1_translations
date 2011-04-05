@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.18 - 1|
+|1.19 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -156,8 +156,8 @@
 |Plugin(&P)...|
 |&Help Contents|
 |使用說明(&H)|
-|Visit &KeePass Homepage|
-|KeePass首頁(&K)|
+|KeePass &Website|
+|KeePass網站(&W)|
 |&Donate...|
 |捐獻(&D)|
 |Check For Updates|
@@ -1292,6 +1292,8 @@
 |不要刪除(&N)|
 |Each character must occur at most once|
 |每個字元最多只能出現一次|
+|Remember key sources (key file paths, provider names, ...)|
+|記憶金鑰來源(鑰匙檔案、金鑰提供服務名稱等)|
 |About KeePass...|
 |關於KeePass...|
 |Version|
@@ -1300,8 +1302,8 @@
 |KeePass是OSI認證的開放原始碼軟體。|
 |The program is distributed under the terms of the GNU General Public License v2 or later.|
 |這個程式是在GNU General Public License第2版或更新版本的規範下散佈。|
-|Visit KeePass Homepage|
-|KeePass首頁|
+|KeePass Website|
+|KeePass網站|
 |Open &Help File|
 |使用說明(&H)|
 |Open &License File|
