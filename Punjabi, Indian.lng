@@ -1,5 +1,5 @@
 |~LANGUAGENAME||Punjabi, Indian|
-|~LANGUAGEVERSION||1.18|
+|~LANGUAGEVERSION||1.19|
 |~LANGUAGEAUTHOR||Gurmeet Singh Kochar|
 |~LANGUAGEAUTHOREMAIL||gurmeet.kochar@yahoo.com|
 |&OK||ਠੀਕ ਹੈ (&O)|
@@ -140,7 +140,6 @@
 |Hide &Passwords Behind Asterisks (***)||ਪਾਸਵਰਡ ਐਸਟਰਿਸਕਾਂ (***) ਮਗਰ ਛੁਪਾਓ (&P)|
 |Hide passwords behind asterisks (***).||ਪਾਸਵਰਡ ਐਸਟਰਿਸਕਾਂ (***) ਮਗਰ ਛੁਪਾਓ.|
 |Password &Generator...||ਪਾਸਵਰਡ ਜਨਰੇਟਰ (&G)...|
-|Visit &KeePass Homepage||ਕੀਪਾਸ ਹੋਮਪੇਜ ਤੇ ਜਾਓ (&K)|
 |&About KeePass...||ਕੀਪਾਸ ਬਾਰੇ (&A)...|
 |&Database Settings...||ਡਾਟਾਬੇਸ ਸੈਟਿੰਗਾਂ (&D)...|
 |&Tray/Untray||ਟਰੇ/ਅਨ-ਟਰੇ (&T)|
@@ -249,7 +248,6 @@
 |&Expiration Time||ਮਿਆਦ ਸਮਾਪਤੀ ਸਮਾਂ (&E)|
 |UU&ID||UU&ID|
 |Show &Toolbar||ਟੂਲਬਾਰ ਵਿਖਾਓ (&T)|
-|Visit KeePass Homepage||ਕੀਪਾਸ ਹੋਮਪੇਜ ਤੇ ਜਾਓ|
 |Field copied to clipboard.||ਖੇਤਰ ਕਲਿੱਪਬੋਰਡ ਤੇ ਕਾਪੀ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ.|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?||ਇਸ ਡਰਾਈਵ ਤੇ ਇੱਕ ਕੂੰਜੀ ਫਾਇਲ ਪਹਿਲਾਂ ਹੀ ਮੋਜੂਦ ਹੈ. ਕੀ ਤੁਸੀਂ ਉਸਦਾ ਉਪਰੀਲੇਖਨ ਜਾਂ ਮੁੜ-ਵਰਤੋਂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?|
 |Click [Yes] to overwrite the key file.||ਕੂੰਜੀ ਫਾਇਲ ਦਾ ਉਪਰੀਲੇਖਨ ਕਰਨ ਲਈ [ਹਾਂ] ਕਲਿੱਕ ਕਰੋ.|
@@ -653,3 +651,7 @@
 |Use file transactions for writing databases||ਡਾਟਾਬੇਸਾਂ ਵਿੱਚ ਲਿੱਖਣ ਲਈ ਫਾਇਲ ਟਰਾਂਸੈਕਸ਼ਨਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ|
 |Ctrl||Ctrl|
 |Do&n't delete||ਨਾ ਹਟਾਓ (&N)|
+|Database Summary||ਡਾਟਾਬੇਸ ਸੰਖੇਪ|
+|KeePass &Website||ਕੀਪਾਸ ਵੈਬਸਾਇਟ (&W)|
+|KeePass Website||ਕੀਪਾਸ ਵੈਬਸਾਇਟ|
+|Remember key sources (key file paths, provider names, ...)||ਕੂੰਜੀ ਸਰੋਤ ਯਾਦ ਰੱਖੋ (ਕੂੰਜੀ ਫਾਇਲ ਰਾਹ, ਪਰਦਾਨ ਕਰਤਾ ਨਾਮ, ...)|
