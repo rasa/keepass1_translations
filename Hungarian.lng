@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.19|
+|1.20|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -1124,6 +1124,12 @@
 |Minőség:|
 |Database Settings|
 |Adatbázis beállítások|
+|&No|
+|&Nem|
+|&Yes|
+|&Igen|
+|Custom database color:|
+|Egyedi adatbázis szín:|
 |Here you can configure the current database.|
 |Itt tudod konfigurálni az aktuális adatbázist.|
 |Database Summary|
