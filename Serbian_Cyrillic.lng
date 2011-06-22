@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Српски|
 |~LANGUAGEVERSION|
-|1.17|
+|1.20|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -270,8 +270,8 @@
 |Сакри лозинке иза звездице (***).|
 |Password &Generator...|
 |Генератор лозинке...|
-|Visit &KeePass Homepage|
-|Ићи на сајт KeePass-а|
+|KeePass &Website|
+|Сајт KeePass-а|
 |&About KeePass...|
 |О KeePass-у...|
 |&Database Settings...|
@@ -482,8 +482,8 @@
 |UU&ID|
 |Show &Toolbar|
 |Покажи алатну траку|
-|Visit KeePass Homepage|
-|Ићи на сајт KeePass-а|
+|KeePass Website|
+|Сајт KeePass-а|
 |Field copied to clipboard.|
 |Поље копиран у клипборду.|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
@@ -1074,8 +1074,8 @@
 |Избаци ове карактере:|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
 |Опције/правила маркирани са звездицом смањује сигурност генерисаних лозинка. Омогућити их само ако морате да пратите та правила.|
-|No repeating characters|
-|Не поновити карактере|
+|Each character must occur at most once|
+|Свако слово мора да буде највише једном|
 |Provider|
 |Провајдер|
 |The key provider plugin did not supply a valid key|
@@ -1310,3 +1310,13 @@
 |Користи транзакцију датотеке за писање базе|
 |Ctrl|
 |Ctrl|
+|Do&n't delete|
+|Не бриши|
+|Remember key sources (key file paths, provider names, ...)|
+|Запамти извоз кључа (путање датотеке, име провајдера, ...)|
+|Custom database color:|
+|Прилагоди бојубазе:|
+|&Yes|
+|&Даa|
+|&No|
+|&Не|
