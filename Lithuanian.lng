@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.19|
+|1.20|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -1968,3 +1968,12 @@
 
 |Remember key sources (key file paths, provider names, ...)|
 |Atsiminti raktų šaltinius (raktų failų pavadinimus, teikėjų pavadinimus, ...)|
+
+|&No|
+|&Ne|
+
+|&Yes|
+|&Taip|
+
+|Custom database color:|
+|Pasirinktoji duomenų bazės spalva:|
