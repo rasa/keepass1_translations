@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
-|~LANGUAGEVERSION||1.18|
+|~LANGUAGEVERSION||1.20|
 |~LANGUAGEAUTHOR||José Gonçalves|
 |~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
 |&OK||OK|
@@ -235,3 +235,6 @@
 |KeePass &Website||&Página do KeePass|
 |KeePass Website||Página do KeePass|
 |Remember key sources (key file paths, provider names, ...)||Lembrar a origem das chaves (localização dos ficheiros chave, provedor de nomes, ...)|
+|&No||&Não|
+|&Yes||&Sim|
+|Custom database color:||Cor personalizada da Base de dados:|
