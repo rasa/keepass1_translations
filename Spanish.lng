@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.19|
+|~LANGUAGEVERSION||1.20|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -655,3 +655,6 @@
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||Su clave es cifrada varias veces con la finalidad de aumentar su seguridad, haciéndola más resistente a ataques de diccionario.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.||Usted ha escogido el método de clave 'AND', debe introducir una contraseña y (AND) además seleccionar un archivo de clave.|
 |Remember key sources (key file paths, provider names, ...)||Recordar información de los archivos de clave (rutas de los archivos, nombre de proveedores, etc.)|
+|&No||&No|
+|&Yes||&Sí|
+|Custom database color:||Color personalizado para la base de datos:|
