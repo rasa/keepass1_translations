@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                                              |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                           |1.19|
+|~LANGUAGEVERSION|                                           |1.20|
 |~LANGUAGEAUTHOR|                                            |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                       |<kaya.zeren@zeron.net>|
 |&OK|                                                        |&Tamam|
@@ -720,7 +720,6 @@
 |Version|                                                    |Sürüm|
 |Workspace is locked.|                                       |Çalışma alanı kilitlendi.|
 |see the <A HREF="h">help manual</A> for details.|           |Detaylı bilgi için <A HREF="h">Yardım kitabına (İngilizce)</A> bakın.|
-
 |Ctrl|                                                       |Ctrl|
 |Lock workspace after the following idle time (seconds):|    |Çalışma alanını şu kadar saniye sonra kilitle|
 |Sort List by &Creation Time|                                |&Oluşturulma zamanına göre sırala|
@@ -738,3 +737,6 @@
 |KeePass &Website|                                           |KeePass &Web sitesi|
 |KeePass Website|                                            |KeePass Web sitesi|
 |Remember key sources (key file paths, provider names, ...)| |Anahtar kaynaklarını hatırla (anahtar dosya yolu, sağlayıcı adı gibi)|
+|&No|                                                        |&Hayır|
+|&Yes|                                                       |&Evet|
+|Custom database color:|                                     |Özel veritabanı rengi:|
