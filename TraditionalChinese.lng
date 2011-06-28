@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.19 - 1|
+|1.20 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -1294,6 +1294,12 @@
 |每個字元最多只能出現一次|
 |Remember key sources (key file paths, provider names, ...)|
 |記憶金鑰來源(鑰匙檔案、金鑰提供服務名稱等)|
+|&Yes|
+|是(&Y)|
+|&No|
+|否(&N)|
+|Custom database color:|
+|變更資料庫顏色：|
 |About KeePass...|
 |關於KeePass...|
 |Version|
