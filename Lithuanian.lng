@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.20|
+|1.21|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -134,7 +134,7 @@
 |Įveskite sudėtinį pagrindinį raktą|
 
 |Enter the composite master key.|
-|Įveskite sudėtinį pagrindinį raktą|
+|Įveskite sudėtinį pagrindinį raktą.|
 
 |(No key file selected)|
 |(Nepasirinktas rakto failas)|
@@ -242,7 +242,7 @@
 |Redaguoti grupę|
 
 |Modify existing password group.|
-|Pakeisti dabartinę slaptažodžių grupę|
+|Pakeisti dabartinę slaptažodžių grupę.|
 
 |Random mouse input|
 |Atsitiktinė pelės įvestis|
@@ -1720,9 +1720,6 @@
 |Save|
 |Įrašyti|
 
-|Discard changes|
-|Atmesti pakeitimus|
-
 |Save database changes before closing the file?|
 |Ar įrašyti duomenų bazę prieš failo uždarymą?|
 
@@ -1882,6 +1879,7 @@
 |This option is disabled, because local help is not installed.|
 |Ši galimybė išjungta, kadangi lokalusis žinynas neįdiegtas.|
 
+
 |Choose between local help and online help center.|
 |Pasirinkite lokalųjį žinyną arba internetinį pagalbos centrą.|
 
@@ -1960,9 +1958,6 @@
 |Use file transactions for writing databases|
 |Naudoti failų tranzakcijas duomenų bazių įrašymui|
 
-|Do&n't delete|
-|&Nepašalinkite|
-
 |Each character must occur at most once|
 |Kiekvienas ženklas turi būti bent vieną kartą|
 
@@ -1977,3 +1972,9 @@
 
 |Custom database color:|
 |Pasirinktoji duomenų bazės spalva:|
+
+|&Discard changes|
+|&Atmesti pakeitimus|
+
+|Minimize main window after locking the workspace|
+|Suskleisti pagrindinį langą užblokavus darbalaukį|
