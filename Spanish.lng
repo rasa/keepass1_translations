@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.20|
+|~LANGUAGEVERSION||1.21|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -219,14 +219,13 @@
 |Discard all changes made to the database and close the file.||Descartar todas las modificaciones realizadas a la base de datos y cerrar el archivo.|
 |Discard all changes made to the database and exit KeePass.||Descartar todas las modificaciones realizadas a la base de datos y cerrar KeePass.|
 |Discard all changes made to the database and lock the KeePass workspace.||Descartar todas las modificaciones realizadas a la base de datos y bloquear el área de trabajo de KeePass.|
-|Discard changes||Descartar modificaciones|
+|&Discard changes||&Descartar modificaciones|
 |Display images on buttons||Mostrar imágenes en los botones|
 |Do you grant the application access to your KeePass database?||¿Le concede usted a la aplicación acceso a su base de datos de KeePass?|
 |Do you want to overwrite it?||¿Desea sobreescribirlo?|
 |Do you want to overwrite the current attachment?||Usted desea sobreecribir el adjunto?|
 |Do you want to save the changes before closing?||¿Desea guardar los cambios antes de salir?|
 |Do you wish to restart KeePass now?||¿Desea reiniciar KeePass ahora?|
-|Do&n't delete||No elimi&nar|
 |Drop to background when copying data to the clipboard||Mover a segundo plano al copiar información al portapapeles|
 |Dupli&cate Entry||&Duplicar Entrada|
 |E&xit||S&alir|
@@ -658,3 +657,4 @@
 |&No||&No|
 |&Yes||&Sí|
 |Custom database color:||Color personalizado para la base de datos:|
+|Minimize main window after locking the workspace||Minimizar la ventana principal tras bloquear el área de trabajo|
