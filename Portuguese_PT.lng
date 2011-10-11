@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
-|~LANGUAGEVERSION||1.20|
+|~LANGUAGEVERSION||1.21|
 |~LANGUAGEAUTHOR||José Gonçalves|
 |~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
 |&OK||OK|
@@ -116,7 +116,7 @@
 |Discard all changes made to the database and close the file.||Descartar todas as modificações feitas na base de dados e fechar o ficheiro.|
 |Discard all changes made to the database and exit KeePass.||Descartar todas as modificações feitas na base de dados e fechar o KeePass.|
 |Discard all changes made to the database and lock the KeePass workspace.||Descartar todas as modificações feitas na base de dados e bloquear a área de trabalho do KeePass.|
-|Discard changes||Descartar as modificações|
+|&Discard changes||&Descartar as modificações|
 |Focus entry list after a successful quick search (toolbar)||Focar a entrada da lista depois da procura bem sucedida (barra de ferramentas)|
 |Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.||Gerar uma nova chave e sobreescrever o ficheiro com a chave existente. A chave armazenada no ficheiro será perdida.|
 |KeePass will not be closed.||KeePass não será fechado|
@@ -230,7 +230,7 @@
 |Sort List by Note&s||Ordenar Listagem pelos Comentá&rios|
 |Sort List by User &Name||Ordenar Listagem por &Nome de Utilizador|
 |Use file transactions for writing databases||Utilizar ficheiro de transacções para escrever as bases de dados|
-|Do&n't delete||&Não apagar|
+|Minimize main window after locking the workspace||Minimizar a janela principal depois de bloquear a área de trabalho|
 |Each character must occur at most once||Cada caracter deve ocorrer no máximo uma vez|
 |KeePass &Website||&Página do KeePass|
 |KeePass Website||Página do KeePass|
