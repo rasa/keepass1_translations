@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Српски|
 |~LANGUAGEVERSION|
-|1.20|
+|1.21|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -1106,7 +1106,7 @@
 |Преписати кључну датотеку?|
 |Save|
 |Сачувај|
-|Discard changes|
+|&Discard changes|
 |Одбаци промене|
 |Save database changes before closing the file?|
 |Сачувати промене базе пре затварања датотеке?|
@@ -1310,8 +1310,6 @@
 |Користи транзакцију датотеке за писање базе|
 |Ctrl|
 |Ctrl|
-|Do&n't delete|
-|Не бриши|
 |Remember key sources (key file paths, provider names, ...)|
 |Запамти извоз кључа (путање датотеке, име провајдера, ...)|
 |Custom database color:|
@@ -1320,3 +1318,5 @@
 |&Даa|
 |&No|
 |&Не|
+|Minimize main window after locking the workspace|
+|Умањи главни прозор после блокирања радне површине|
