@@ -598,7 +598,7 @@
 |Abort specifying a new key for the current database.|       |Geçerli veritabanı için yeni bir anahtar belirtme işlemini iptal et.|
 |Overwrite existing key file?|                               |Varolan anahtar dosyasının üstüne yazılsın mı?|
 |Save|                                                       |Kaydet|
-|Discard changes|                                            |Değişiklikleri yoksay|
+|&Discard changes|                                            |&Değişiklikleri yoksay|
 |Save database changes before closing the file?|             |Dosya kapanmadan önce veritabanı değişiklikleri kaydedilsin mi?|
 |Save database changes before exiting KeePass?|              |KeePass'tan çıkmadan önce veritabanı değişiklikleri kaydedilsin mi?|
 |Save database changes before locking the workspace?|        |Çalışma alanı kilitlenmeden önce veritabanı değişiklikleri kaydedilsin mi?|
@@ -732,7 +732,6 @@
 |Sort List by Note&s|                                        |&Notlara göre sırala|
 |Sort List by User &Name|                                    |&Kullanıcı adına göre sırala|
 |Use file transactions for writing databases|                |Veritabanlarını yazmak için dosya hareketlerini kullan|
-|Do&n't delete|                                              |Si&lme|
 |Each character must occur at most once|                     |Her karakter yalnızca bir kez kullanılmalıdır|
 |KeePass &Website|                                           |KeePass &Web sitesi|
 |KeePass Website|                                            |KeePass Web sitesi|
@@ -740,3 +739,4 @@
 |&No|                                                        |&Hayır|
 |&Yes|                                                       |&Evet|
 |Custom database color:|                                     |Özel veritabanı rengi:|
+|Minimize main window after locking the workspace|           |Çalışma alanını kilitledikten sonra ana pencereyi küçült|
