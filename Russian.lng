@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.19|
+|~LANGUAGEVERSION|             |1.21|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -766,7 +766,7 @@
 |Discard all changes made to the database and close the file.| |Отменить все изменения в базе паролей и закрыть файл.|
 |Discard all changes made to the database and exit KeePass.| |Отменить все изменения в базе паролей и выйти из KeePass.|
 |Discard all changes made to the database and lock the KeePass workspace.| |Отменить все изменения в базе паролей и заблокировать KeePass.|
-|Discard changes| |Отменить изменения|
+|&Discard changes| |Отменить &изменения|
 |Focus entry list after a successful quick search (toolbar)|
     |Установить фокус на списке записей после успешного быстрого поиска (через панель управления)|
 |Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
@@ -864,6 +864,9 @@
 |Ctrl| |Ctrl|
 |Use file transactions for writing databases| |Использовать файловые транзакции при сохранении базы паролей|
 
-|Do&n't delete| |&Не удалять|
-
 |Remember key sources (key file paths, provider names, ...)| |Запоминать источники ключей (пути к файлам с паролем, имена провайдеров, ...)|
+
+|&No| |&Нет|
+|&Yes| |&Да|
+|Custom database color:| |Пользовательский цвет базы паролей:|
+|Minimize main window after locking the workspace| |Минимизировать главное окно после блокировки программы|
