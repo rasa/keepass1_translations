@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.20|
+|1.19|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -852,8 +852,10 @@
 |Felülírod a jelenlegi kulcsfájlt?|
 |Save|
 |Mentés|
-|Discard changes|
-|Változások eldobása|
+|&Discard changes|
+|Változások el&dobása|
+|&Discard changes|
+|Változások el&dobása|
 |Save database changes before closing the file?|
 |Adatbázis változásainak mentése a fájl bezárása előtt?|
 |Save database changes before exiting KeePass?|
@@ -1124,12 +1126,6 @@
 |Minőség:|
 |Database Settings|
 |Adatbázis beállítások|
-|&No|
-|&Nem|
-|&Yes|
-|&Igen|
-|Custom database color:|
-|Egyedi adatbázis szín:|
 |Here you can configure the current database.|
 |Itt tudod konfigurálni az aktuális adatbázist.|
 |Database Summary|
@@ -1316,5 +1312,11 @@
 |Munkaterület zárolva.|
 |see the <A HREF="h">help manual</A> for details.|
 |Lásd a <A HREF="h">Súgó kézikönyvet</A> a részletekért.|
-|Do&n't delete|
-|Ne törölje|
+|&No|
+|&Nem|
+|&Yes|
+|&Igen|
+|Custom database color:|
+|Egyedi adatbázis szín:|
+|Minimize main window after locking the workspace|
+|Főablak minimalizálása munkaterület zárolás után|
