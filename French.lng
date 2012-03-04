@@ -1,11 +1,11 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.17|
+|1.21|
 |~LANGUAGEAUTHOR|
-|Marc Tissot, Audran Moulard|
+|Ronan PLANTEC|
 |~LANGUAGEAUTHOREMAIL|
-|mtissot@iota.ch, gthf@users.sourceforge.net|
+|ronan2975@users.sourceforge.net|
 |&OK|
 |&OK|
 |&Cancel|
@@ -218,8 +218,6 @@
 |Cacher les mots de &passe avec des astérisques (***)|
 |Password &Generator...|
 |&Générateur de mots de passe...|
-|Visit &KeePass Homepage|
-|Visiter le site Web de &KeePass|
 |&About KeePass...|
 |&A propos de KeePass...|
 |&Database Settings...|
@@ -424,8 +422,6 @@
 |UUID|
 |Show &Toolbar|
 |Afficher la barre d'ou&tils|
-|Visit KeePass Homepage|
-|Visiter le site Web de KeePass|
 |Field copied to clipboard.|
 |Champ copié dans le presse-papiers.|
 |Overwrite?|
@@ -1048,8 +1044,6 @@
 |Ici vous pouvez personnaliser la feuille à imprimer.|
 |Key File|
 |Fichier clé|
-|No repeating characters|
-|Ne pas répéter les caractères|
 |Print Options|
 |Options d'impression|
 |Print backup entries (entries in the 'Backup' group)|
@@ -1094,8 +1088,6 @@
 |Annuler tout les changements apportés à la base de données et fermer KeePass.|
 |Discard all changes made to the database and lock the KeePass workspace.|
 |Annuler tout les changements apportés à la base de données et barrer l'espace de travail KeePass.|
-|Discard changes|
-|Annuler tout les changements|
 |Focus entry list after a successful quick search (toolbar)|
 |Restreindre la liste d'entrées après une recherche rapide concluante (barre d'outils)|
 |Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
@@ -1120,6 +1112,8 @@
 |Enregistrer tout les changements apportés à la base de données et fermer KeePass.|
 |Save all changes made to the database and lock the KeePass workspace.|
 |Enregistrer tout les changements apportés à la base de données et barrer l'espace de travail KeePass.|
+|&Discard changes|
+|&Annuler tous les changements|
 |Save database changes before closing the file?|
 |Enregistrer tout les changements apportés à la base de données avant de fermer le fichier?|
 |Save database changes before exiting KeePass?|
@@ -1306,3 +1300,19 @@
 |Trier la liste par &Nom d'utilisateur|
 |Use file transactions for writing databases|
 |Utiliser le fichier des transactions pour l'écriture des bases de données|
+|&No|
+|&Non|
+|&Yes|
+|&Oui|
+|Custom database color:|
+|Couleur de la base de données personnalisée :|
+|Each character must occur at most once|
+|Chaque caractère doit apparaître au moins une fois|
+|KeePass &Website|
+|&Site Web de KeePass|
+|KeePass Website|
+|Site Web de KeePass|
+|Minimize main window after locking the workspace|
+|Réduire la fenêtre principale après le verrouillage de l'espace de travail|
+|Remember key sources (key file paths, provider names, ...)|
+|Se rappeler des sources de clé (chemins du fichier clé, noms fournis, ...)|
