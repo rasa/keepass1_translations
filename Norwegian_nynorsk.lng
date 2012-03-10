@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME||Norsk (Nynorsk)|
-|~LANGUAGEVERSION||1.17|
+|~LANGUAGEVERSION||1.21|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
-|~LANGUAGEAUTHOREMAIL||nynorsk@strilen.net|
+|~LANGUAGEAUTHOREMAIL||l10n@landro.net|
 |&OK||&OK|
 |&Cancel||&Avbryt|
 |&Close||L&ukk|
@@ -24,7 +24,7 @@
 |&Find||&Søk|
 |Find a string in the password list.||Finn ein tekststreng i passordlista.|
 |Find||Finn|
-|About KeePass...||Om KeePass…|
+|About KeePass...||Om KeePass …|
 |Password Groups||Passordgrupper|
 |Title||Tittel|
 |User Name||Brukarnamn|
@@ -96,24 +96,24 @@
 |&Edit||&Endra|
 |&View||&Vis|
 |&?||&Hjelp|
-|&New...||&Ny…|
-|&Open...||&Opna…|
+|&New...||&Ny …|
+|&Open...||&Opna …|
 |&Save||La&gra|
-|Save &As...||Lagra &som…|
-|Change &Master Key...||Endra &hovudpassord…|
-|&Print...||Skriv &ut…|
+|Save &As...||Lagra &som …|
+|Change &Master Key...||Endra &hovudpassord …|
+|&Print...||Skriv &ut …|
 |&Export To||&Eksporter til|
 |&Lock Workspace||Lås arbeids&flata|
 |&Unlock Workspace||&Opna arbeidsflata|
 |E&xit||Avsl&utt|
 |&Lock/Unlock Workspace||Lås/opna arbeids&flata|
-|&Options...||&Val…|
-|Pr&int Group...||&Skriv ut gruppe…|
+|&Options...||&Val …|
+|Pr&int Group...||&Skriv ut gruppe …|
 |Open &URL(s)||&Opna adresse(-r)|
-|&Find in Database...||S&øk i databasen…|
-|Find in t&his Group...||Søk i &denne gruppa…|
-|&Add Entry...||Legg til &post…|
-|&Edit/View Entry...||&Endra/sjå på post…|
+|&Find in Database...||S&øk i databasen …|
+|Find in t&his Group...||Søk i &denne gruppa …|
+|&Add Entry...||Legg til &post …|
+|&Edit/View Entry...||&Endra/sjå på post …|
 |&Delete Entry||&Slett post|
 |Dupli&cate Entry||&Dupliser post|
 |Move Entry to &Top||Flytt posten til &toppen|
@@ -124,15 +124,14 @@
 |Move Group One &Up||Flytt gruppa éin plass &opp|
 |Move Group &One Down||Flytt gruppa éin plass &ned|
 |Move Group to &Bottom||Flytt gruppa til &botnen|
-|Change &Language...||Endra sp&råk…|
+|Change &Language...||Endra sp&råk …|
 |User &name||Brukar&namn|
 |&Always on Top||&Alltid øvst|
 |Hide &Passwords Behind Asterisks (***)||Skjul &passorda bak asteriskteikn (***)|
 |Hide passwords behind asterisks (***).||Skjul passorda bak asteriskteikn (***).|
-|Password &Generator...||Passord&lagar…|
-|Visit &KeePass Homepage||KeePass si heime&side|
-|&About KeePass...||&Om KeePass…|
-|&Database Settings...||&Databaseinnstillingar…|
+|Password &Generator...||Passord&lagar …|
+|&About KeePass...||&Om KeePass …|
+|&Database Settings...||&Databaseinnstillingar …|
 |&Tray/Untray||&Systemfelt/arbeidsflate|
 |Password and repeated password aren't identical!||Passorda er ikkje identiske|
 |Stop||Stopp|
@@ -195,17 +194,17 @@
 |Please restart KeePass manually.||Start om att KeePass manuelt.|
 |CSV Files||CSV-filer|
 |Text Files||Tekstfiler|
-|&CSV File...||&CSV-fil…|
-|&PwSafe v2 TXT File...||&PwSafe v2 TXT-fil…|
+|&CSV File...||&CSV-fil …|
+|&PwSafe v2 TXT File...||&PwSafe v2 TXT-fil …|
 |Select &Font||Vel skri&fttype|
 |Select a new font for the list controls:||Vel ny skrifttype for listeboksane:|
-|Code&Wallet TXT File...||Code&Wallet TXT-fil…|
-|&TXT File...||&TXT-fil…|
-|&HTML File...||&HTML-fil…|
-|&XML File...||&XML-fil…|
-|&CSV File...||&CSV-fil…|
+|Code&Wallet TXT File...||Code&Wallet TXT-fil …|
+|&TXT File...||&TXT-fil …|
+|&HTML File...||&HTML-fil …|
+|&XML File...||&XML-fil …|
+|&CSV File...||&CSV-fil …|
 |&Import From||&Importer frå|
-|&Get more languages...||&Hent fleire språk…|
+|&Get more languages...||&Hent fleire språk …|
 |Start and exit||Start og avslutning|
 |Interface (GUI)||(Grafisk) grensesnitt|
 |Files||Filer|
@@ -233,7 +232,6 @@
 |&Expiration Time||&Gyldig til|
 |UU&ID||UU&ID|
 |Show &Toolbar||Vis verktøy&linje|
-|Visit KeePass Homepage||Besøk KeePass si heimeside|
 |Field copied to clipboard.||Felt kopiert til utklippstavla.|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?||Ei nøkkelfil finst allereie på denne stasjonen. Vil du skriva over ho eller vil du bruka ho om att?|
 |Click [Yes] to overwrite the key file.||Klikk [Ja] for å skriva over nøkkelfila.|
@@ -256,14 +254,14 @@
 |Cu&t||&Klipp ut|
 |&Select All||Vel &alle|
 |&Delete||&Slett|
-|&TAN Wizard...||&TAN-rettleiar…|
+|&TAN Wizard...||&TAN-rettleiar …|
 |TAN Wizard||TAN-rettleiar|
 |Using this wizard you can easily add TAN entries.||Med denne rettleiaren kan du lett leggja til TAN-postar.|
 |Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.||Lim inn TAN-teikna (Transactional Access Numbers) i vindauget nedanfor. Teikn som ikkje eksplisitt er definerte som TAN-teikn blir rekna som skiljeteikn, og berre delstrengar som inneheld TAN-teikn blir lagde til som TAN-postar.|
 |TANs consist of the following characters:||TAN består av desse teikna:|
 |<TAN>||<TAN>|
-|Print Pre&view...||F&ørehandsvising…|
-|About &Translation...||Om o&msetjinga…|
+|Print Pre&view...||F&ørehandsvising …|
+|About &Translation...||Om o&msetjinga …|
 |Translation information||Omsetjingsopplysningar|
 |Currently Used Language||Noverande språk|
 |Language File Version||Språkfilutgåve|
@@ -287,12 +285,12 @@
 |Attachment||Vedlegg|
 |Attachment Description||Vedleggsskildring|
 |&Attachment||&Vedlegg|
-|Generate a random password...||Lag eit tilfeldig passord…|
-|Open file and set as attachment...||Opna fil og bruk som vedlegg…|
-|Save attached file to disk...||Lagra vedleggsfila til platelager…|
+|Generate a random password...||Lag eit tilfeldig passord …|
+|Open file and set as attachment...||Opna fil og bruk som vedlegg …|
+|Save attached file to disk...||Lagra vedleggsfila til platelager …|
 |There already is a file attached with this entry.||Det finst allereie eit vedlegg til denne posten.|
 |Do you want to overwrite the current attachment?||Vil du skriva over det noverande vedlegget?|
-|&Save Attached File To...||&Lagra vedleggsfila i…|
+|&Save Attached File To...||&Lagra vedleggsfila i …|
 |There is no file attached with this entry.||Inga fil er knytt til denne posten.|
 |Remove the currently attached file||Fjern den tilknytta fila|
 |Close button [X] minimizes the main window instead of terminating the application||Avslutt-knappen [X] minimerer hovudvindauget i staden for å avslutta programmet|
@@ -326,7 +324,7 @@
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||Dess høgare dette talet er, dess vanskelegare blir eit ordboksoppslagangrep. Samstundes vil det ta lengre tid å lagra eller henta databasen.|
 |Number of key encryption rounds:||Tal rundar med kryptering:|
 |bits||bitar|
-|Personal &Vault TXT File...||Personal &Vault TXT-fil…|
+|Personal &Vault TXT File...||Personal &Vault TXT-fil …|
 |Imported from Password Safe||Importert frå Password Safe|
 |Remember last opened file||Hugs siste opna fil|
 |Total number of groups / entries||Totalt tal grupper/postar|
@@ -349,15 +347,15 @@
 |Auto-sorting of the password list is enabled, you cannot move entries manually.||Automatisk sortering av passordlista er slått på. Du kan ikkje flytta postar manuelt.|
 |Perform Auto-&Type||Bruk auto-&inntasting|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.||Automatisk sortering av passordlista er slått på. Du kan ikkje flytta postar manuelt no.|
-|Select key file manually...||Vel nøkkelfil manuelt…|
-|Save key file manually to...||Lagra passordfila manuelt i…|
+|Select key file manually...||Vel nøkkelfil manuelt …|
+|Save key file manually to...||Lagra passordfila manuelt i …|
 |Enter the new composite master key.||Skriv inn den nye samansette hovudnøkkelen.|
 |Repeat Master Password||Skriv inn att hovudpassordet|
 |Repeat the new master password for this database.||Skriv inn att det nye hovedpassordet til denne passorddatasen.|
 |Change Composite Master Key||Endra den samansette hovednøkkelen|
 |Plugin||Programtillegg|
 |Plugins||Programtillegg|
-|&Plugins...||&Programtillegg…|
+|&Plugins...||&Programtillegg …|
 |Here you can configure all installed KeePass plugins.||Her kan du endra innstillingane til alle installerte KeePass-tillegga.|
 |Enabled, loaded||I bruk, lasta|
 |&Enable||&Ta i bruk|
@@ -411,7 +409,7 @@
 |Here you can customize the exported files.||Her kan du tilpassa dei eksporterte filene.|
 |Encode/replace newline characters by '\n'||Slå på / byt ut nylinjeteiknet med '\n'|
 |Export backup entries (entries in the 'Backup' group)||Eksporter kopipostar (postar i 'Tryggleikskopi'-gruppa)|
-|&Get More Import Plugins...||&Hent fleire importtillegg…|
+|&Get More Import Plugins...||&Hent fleire importtillegg …|
 |Field has been pasted.||Feltet er limt inn.|
 |Waiting for paste command.||Ventar på innlimingskommandoen.|
 |Paste operation completed.||Innliminga er ferdig.|
@@ -431,10 +429,10 @@
 |6 Months||6 månader|
 |1 Year||1 år|
 |Include backup entries in quick searches (toolbar)||Ta med kopipostar i hurtigsøk (verktøylinje)|
-|&Donate...||&Doner…|
+|&Donate...||&Doner …|
 |Use alternative auto-type method (minimize window)||Bruk alternativ auto-inntastingsmetode (minimer vindauge)|
 |Delete all backup entries before saving the database||Slett alle kopipostar før databaselagring|
-|&Repair KeePass Database File...||&Reparer KeePass databasefil…|
+|&Repair KeePass Database File...||&Reparer KeePass databasefil …|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.||Filformatet du har vald for import støttar gruppe- og/eller post-ID. Vel kva for eigenskap du vil nytta.|
 |Create new IDs||Lag nye ID-ar|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.||Dette valet gjer at KeePass lagar nye ID-ar for alle grupper og postar. Dermed vil ikkje eksisterande data bli overskrivne.|
@@ -442,7 +440,7 @@
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.||Dersom gruppene eller postane i importfila har lik ID med dei som allereie finst i Keepass, vil dei skriva over eksisterande data.|
 |Overwrite if newer||Skriv over om nyare|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.||KeePass vil berre skriva over eksisterande postar dersom postane i importfila er nyare.|
-|&KeePass Database...||&KeePass-database…|
+|&KeePass Database...||&KeePass-database …|
 |Acknowledgements||Honnør til|
 |Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.||Vel om KeePass skal bruka nøkkelen til den noverande databasen eller om du skal kunna laga ein ny nøkkel for å kryptera den eksporterte fila.|
 |Click [Yes] to use the same key as the currently opened database.||Klikk [Ja] om du vil bruka den same nøkkelen.|
@@ -524,13 +522,12 @@
 |Fields to print||Felt å skriva ut|
 |Here you can customize the printed sheet.||Her kan du tilpassa utskrifta.|
 |Key File||Nøkkelfil|
-|No repeating characters||Ingen gjentakande teikn|
 |Print Options||Utskriftsval|
 |Print backup entries (entries in the 'Backup' group)||Skriv ut kopipostar (postar i tryggleikskopigruppa)|
 |Provider||Tilbydar|
 |Register Ctrl-Alt-K hot key (brings the KeePass window to front)||Registrer snarvegen Ctrl-Alt-K (tek KeePass-vindauget fremst)|
 |Regular expression||Regulære uttrykk|
-|Search...||Søk…|
+|Search...||Søk …|
 |TANs are imported into the currently selected group||TAN vert importerte til den gjeldande gruppa|
 |The key provider plugin did not supply a valid key||Nøkkeltilbydartillegget gav ikkje ein gyldig nøkkel|
 |Type to search the database||Skriv for å søkja i databasen|
@@ -541,13 +538,12 @@
 |An error occurred||Det oppstod ein feil|
 |An error occurred while importing the file. File cannot be imported.||Det oppstod ein feil under filimporten.|
 |Auto-Type: Help||Auto-inntasting: Hjelp|
-|Auto-Type: Select Target Window...||Auto-inntasting: Vel målvindauge…|
+|Auto-Type: Select Target Window...||Auto-inntasting: Vel målvindauge …|
 |Cancel||Avbryt|
 |Copy [of an item]||(Element)kopi|
 |Discard all changes made to the database and close the file.||Forkast databaseendringane og lukk fila.|
 |Discard all changes made to the database and exit KeePass.||Forkast databaseendringane og avslutt KeePass.|
 |Discard all changes made to the database and lock the KeePass workspace.||Forkast databaseendringane og lås KeePass si arbeidsflate.|
-|Discard changes||Forkast endringane|
 |Focus entry list after a successful quick search (toolbar)||Fokuser på postlista etter eit vellykka søk (verktøylinje)|
 |Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.||Lag ein ny nøkkel og skriv over den eksisterande nøkkelfila. Den gamle nøkkelen vil forsvinna.|
 |KeePass will not be closed.||KeePass vil ikkje lukkast.|
@@ -573,8 +569,8 @@
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:||For å føra opp målvindauget må du anten velja eit vindauge frå nedtrekkslista, eller sjølv skriva inn vindaugsnamnet:|
 |URL Field: Help||Adressefelt: Hjelp|
 |URL Field: Insert Placeholder||Adressefelt: Set inn plasshaldar|
-|URL Field: Select Application...||Adressefelt: Vel applikasjon…|
-|URL Field: Select Document...||Adressefelt: Vel dokument…|
+|URL Field: Select Application...||Adressefelt: Vel applikasjon …|
+|URL Field: Select Document...||Adressefelt: Vel dokument …|
 |Default auto-type sequence for standard entries:||Standard auto-inntastingssekvens for standardpostar:|
 |Drop to background when copying data to the clipboard||Gå til bakgrunnen ved datakopiering til utklippstavla|
 |Enable auto-type features||Slå på auto-inntastingseigenskapar|
@@ -652,3 +648,13 @@
 |Ctrl||Ctrl|
 |Lock workspace after the following idle time (seconds):||Lås arbeidsflata etter denne ventetida (sekund):|
 |Use file transactions for writing databases||Bruk filoverføringar til skriving av databasar|
+|&Discard changes||&Forkast endringane|
+|&No||&Nei|
+|&Yes||&Ja|
+|Custom database color:||Tilpassa database&farge:|
+|Each character must occur at most once||Høgst éin førekomst av kvart teikn|  
+|KeePass &Website||KeePass si heime&side|
+|KeePass Website||KeePass si heimeside|
+|Minimize main window after locking the workspace||Minimer hovudvindauget ved arbeidsområdelåsing|
+|Remember key sources (key file paths, provider names, ...)||Hugs nøkkelkjelder (nøkkelfilbaner, tilbydarnamn, …)|
+
