@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.21|
+|1.22|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -1978,3 +1978,9 @@
 
 |Minimize main window after locking the workspace|
 |Suskleisti pagrindinį langą užblokavus darbalaukį|
+
+|Ensure same keyboard layouts during auto-type|
+|Įsitikinkite, kad automatinis įvedimas naudoja tą patį klaviatūros išdėstymą|
+
+|Select &Notes Font|
+|Pari&nkti pastabų šriftą|
