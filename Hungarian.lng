@@ -1320,3 +1320,7 @@
 |Egyedi adatbázis szín:|
 |Minimize main window after locking the workspace|
 |Főablak minimalizálása munkaterület zárolás után|
+|Ensure same keyboard layouts during auto-type|
+|Győződjön meg az azonos billentyűzet-kiosztásról auto-type-hoz|
+|Select &Notes Font|
+|&Betűtípus választás jegyzethez|
