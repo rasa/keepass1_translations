@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Norsk (Nynorsk)|
-|~LANGUAGEVERSION||1.21|
+|~LANGUAGEVERSION||1.22|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||l10n@landro.net|
 |&OK||&OK|
@@ -657,4 +657,5 @@
 |KeePass Website||KeePass si heimeside|
 |Minimize main window after locking the workspace||Minimer hovudvindauget ved arbeidsområdelåsing|
 |Remember key sources (key file paths, provider names, ...)||Hugs nøkkelkjelder (nøkkelfilbaner, tilbydarnamn, …)|
-
+|Ensure same keyboard layouts during auto-type||Sjå til at tastaturutformingane er like ved auto-inntasting|
+|Select &Notes Font||Vel &merknadsskrifttype|
