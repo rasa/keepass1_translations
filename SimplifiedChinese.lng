@@ -1,4 +1,4 @@
-﻿2011-10-8 01:21|~LANGUAGENAME|
+﻿2012-04-13 01:22|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
 |1.21|
@@ -422,6 +422,8 @@
 |&PwSafe v2 TXT文件...|
 |Select &Font|
 |选择字体(&F)|
+|Select &Notes Font|
+|选择备注字体(&N)|
 |Select a new font for the list controls:|
 |为列表记录选择新字体：|
 |Code&Wallet TXT File...|
@@ -1316,3 +1318,5 @@
 |否(&N)|
 |Minimize main window after locking the workspace|
 |锁定工作区后最小化主窗口|
+|Ensure same keyboard layouts during auto-type|
+|确保在自动输入中保持同样的键盘布局|
