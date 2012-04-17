@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
-|~LANGUAGEVERSION||1.21|
+|~LANGUAGEVERSION||1.22|
 |~LANGUAGEAUTHOR||José Gonçalves|
 |~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
 |&OK||OK|
@@ -238,3 +238,5 @@
 |&No||&Não|
 |&Yes||&Sim|
 |Custom database color:||Cor personalizada da Base de dados:|
+|Ensure same keyboard layouts during auto-type||Garantir o mesmo esquema de teclado durante a escrita automática|
+|Select &Notes Font||Seleccionar o tipo de letra das &Notas|
