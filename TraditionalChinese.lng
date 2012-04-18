@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.21 - 1|
+|1.22 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -1300,6 +1300,10 @@
 |否(&N)|
 |Custom database color:|
 |變更資料庫顏色：|
+|Ensure same keyboard layouts during auto-type|
+|確保自動輸入時使用相同的鍵盤配置|
+|Select &Notes Font|
+|選擇備註欄位的字型(&N)|
 |About KeePass...|
 |關於KeePass...|
 |Version|
