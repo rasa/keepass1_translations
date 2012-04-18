@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|                                              |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                           |1.20|
+|~LANGUAGEVERSION|                                           |1.22|
 |~LANGUAGEAUTHOR|                                            |Kaya Zeren|
-|~LANGUAGEAUTHOREMAIL|                                       |<kaya.zeren@zeron.net>|
+|~LANGUAGEAUTHOREMAIL|                                       |<translator@zeron.net>|
 |&OK|                                                        |&Tamam|
 |&Cancel|                                                    |İ&ptal|
 |&Close|                                                     |&Kapat|
@@ -659,8 +659,7 @@
 |Include expired entries in quick searches (toolbar)|        |Araç çubuğundan hızlı aramalara sonlanmış kayıtları da kat|
 |Insert Field Reference|                                     |Alan Referansı Ekle|
 |Local help file|                                            |Yerel Yardım Dosyası|
-|Multiple entries match the specified identifying field.|
-    |Belirtilen kimlik alanına uyan birden fazla kayıt var.|
+|Multiple entries match the specified identifying field.|    |Belirtilen kimlik alanına uyan birden fazla kayıt var.|
 |Normal|                                                     |Normal|
 |Online help center|                                         |Çevrim içi yardım merkezi|
 |Open the file in read-only mode. Changes to the database can be saved to a different file.|
@@ -740,3 +739,5 @@
 |&Yes|                                                       |&Evet|
 |Custom database color:|                                     |Özel veritabanı rengi:|
 |Minimize main window after locking the workspace|           |Çalışma alanını kilitledikten sonra ana pencereyi küçült|
+|Ensure same keyboard layouts during auto-type|              |Kendiliğinden yazarken aynı tuş takımı düzenini koru|
+|Select &Notes Font|                                         |&Not Yazı Tipini Seçin|
