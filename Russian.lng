@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.21|
+|~LANGUAGEVERSION|             |1.22|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -510,7 +510,7 @@
     |Автосортировка списка паролей включена - вы не можете сортировать записи вручную.|
 |Select key file manually...|             |Выберите файл с паролем вручную...|
 |Save key file manually to...|            |Сохранить файл с паролем вручную как...|
-|Enter the new composite master key.|     |Введите новой составной пароль.|
+|Enter the new composite master key.|     |Введите новый составной пароль.|
 |Repeat the new master password for this database.|
     |Повторите ввод нового пароля для текущей базы паролей.|
 |Change Composite Master Key|             |Изменение составного пароля|
@@ -870,3 +870,6 @@
 |&Yes| |&Да|
 |Custom database color:| |Пользовательский цвет базы паролей:|
 |Minimize main window after locking the workspace| |Минимизировать главное окно после блокировки программы|
+
+|Ensure same keyboard layouts during auto-type| |Убедитесь, что раскладка клавиатуры совпадает при автонаборе|
+|Select &Notes Font| |Шрифт &комментариев|
