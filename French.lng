@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.22|
+|1.23|
 |~LANGUAGEAUTHOR|
 |Ronan PLANTEC|
 |~LANGUAGEAUTHOREMAIL|
@@ -1320,3 +1320,5 @@
 |Se rappeler des sources de clé (chemins du fichier clé, noms fournis, ...)|
 |Ensure same keyboard layouts during auto-type|
 |Assurer la même configuration du clavier pendant la saisie automatique|
+|{PARAM} more entries|
+|{PARAM} plus d'entrées|
