@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.22|
+|1.23|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -1984,3 +1984,6 @@
 
 |Select &Notes Font|
 |Pari&nkti pastabų šriftą|
+
+|{PARAM} more entries|
+|{PARAM} įrašų(-ais) daugiau|
