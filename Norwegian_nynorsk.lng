@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Norsk (Nynorsk)|
-|~LANGUAGEVERSION||1.22|
+|~LANGUAGEVERSION||1.23|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||l10n@landro.net|
 |&OK||&OK|
@@ -659,3 +659,4 @@
 |Remember key sources (key file paths, provider names, ...)||Hugs nøkkelkjelder (nøkkelfilbaner, tilbydarnamn, …)|
 |Ensure same keyboard layouts during auto-type||Sjå til at tastaturutformingane er like ved auto-inntasting|
 |Select &Notes Font||Vel &merknadsskrifttype|
+|{PARAM} more entries||{PARAM} fleire postar|
