@@ -1321,6 +1321,8 @@
 |Minimize main window after locking the workspace|
 |Főablak minimalizálása munkaterület zárolás után|
 |Ensure same keyboard layouts during auto-type|
-|Győződjön meg az azonos billentyűzet-kiosztásról auto-type-hoz|
+|Autotype és billentyűzet kiosztás azonos legyen|
 |Select &Notes Font|
-|&Betűtípus választás jegyzethez|
+|&Jegyzet betűtípusa|
+|{PARAM} more entries|
+|{PARAM} további bejegyzés|
