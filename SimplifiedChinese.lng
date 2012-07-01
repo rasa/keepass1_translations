@@ -1,7 +1,7 @@
-﻿2012-04-13 01:22|~LANGUAGENAME|
+﻿2012-04-13 01:23|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.21|
+|1.23|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ C&D|
 |~LANGUAGEAUTHOREMAIL|
@@ -1320,3 +1320,5 @@
 |锁定工作区后最小化主窗口|
 |Ensure same keyboard layouts during auto-type|
 |确保在自动输入中保持同样的键盘布局|
+|{PARAM} more entries|
+|{PARAM} 条未显示记录|
