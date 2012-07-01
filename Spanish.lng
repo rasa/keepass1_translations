@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.22|
+|~LANGUAGEVERSION||1.23|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -660,3 +660,4 @@
 |Minimize main window after locking the workspace||Minimizar la ventana principal tras bloquear el área de trabajo|
 |Ensure same keyboard layouts during auto-type||Durante la escritura automática cerciorarse de que sea la misma distribución de teclado|
 |Select &Notes Font||Seleccionar la fuente para come&ntarios|
+|{PARAM} more entries||{PARAM} más entradas|
