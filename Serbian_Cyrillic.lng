@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Српски|
 |~LANGUAGEVERSION|
-|1.21|
+|1.23|
 |~LANGUAGEAUTHOR|
 |Ozzii|
 |~LANGUAGEAUTHOREMAIL|
@@ -410,6 +410,8 @@
 |'PwSafe v2' текст датотека...|
 |Select &Font|
 |Одабрати фонт|
+|Select &Notes Font|
+|Одабрати фонт белешка|
 |Select a new font for the list controls:|
 |Одабрати фонт за листу контрола:|
 |Code&Wallet TXT File...|
@@ -1320,3 +1322,7 @@
 |&Не|
 |Minimize main window after locking the workspace|
 |Умањи главни прозор после блокирања радне површине|
+|Ensure same keyboard layouts during auto-type|
+|Исти модел тастаруте при ауто-уноса|
+|{PARAM} more entries|
+|{PARAM} још ставка|
