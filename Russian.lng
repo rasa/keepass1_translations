@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.22|
+|~LANGUAGEVERSION|             |1.23|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -61,7 +61,7 @@
 |Here you can generate a random password.|
     |Здесь можно сгенерировать случайный пароль.|
 |(Automatically generated passwords for new entries)|
-    |(Авто-сгенерированные пароли для новых записей)|
+    |(Автосгенерированные пароли для новых записей)|
 |(Custom)|                        |(Пользовательский)|
 |Save current settings as a profile.|
     |Сохранить текущую настройку как профиль.|
@@ -124,7 +124,7 @@
 |Just hack some random keys into the edit box above.|
     |Просто введите несколько случайных символов.|
 |You don't have to remember the keys you type in. They are used to generate a random value.|
-    |Запоминать введеные символы не надо. Они нужны только для генерации случайного числа.|
+    |Запоминать введенные символы не надо. Они нужны только для генерации случайного числа.|
 |So, the more the better. The different, the better.|
     |Так что побольше и поразнообразнее.|
 |The random the better.|
@@ -212,14 +212,14 @@
 |EITHER enter a master password OR select a key file.|
     |Введите пароль или выберите диск с паролем.|
 |The password must consist of at least one character!|
-    |Пароль должет содержать как минимум один символ!|
+    |Пароль должен содержать, как минимум, один символ!|
 |Select at least one of the options in the list above!|
     |Пометьте как минимум одну из опций в списке сверху!|
 
 |The following self-tests failed:|
     |Следующие тесты завершились с ошибкой:|
-|- SHA 32-bit variables|       |- SHA 32-битный|
-|- SHA 64-bit variables|       |- SHA 64-битный|
+|- SHA 32-bit variables|       |- SHA 32-бит|
+|- SHA 64-bit variables|       |- SHA 64-бит|
 |- SHA-256 test vector(s)|     |- SHA-256 test vector(s)|
 |- SHA-512 test vector(s)|     |- SHA-512 test vector(s)|
 |- Rijndael encryption|        |- Шифрование Rijndael|
@@ -232,7 +232,7 @@
 
 |Clipboard cleared.|           |Буфер обмена очищен.|
 |Field copied to clipboard. Clipboard will be cleared in %d seconds.|
-    |Поле было скопировано в буфер обмена. Буфер будет очищен через %d секунд.|
+    |Поле скопировано в буфер обмена. Буфер будет очищен через %d сек.|
 
 |Failed to set the master key!|
     |Ошибка в установке основного пароля!|
@@ -277,7 +277,7 @@
 |Automatically open last used database on startup|
     |Автооткрытие последней используемой базы паролей при запуске|
 |Automatically save when closing/locking the database|
-    |Автосохранение базы паролей при выходе и заблокировании|
+    |Автосохранение базы паролей при выходе и блокировке|
 |Display images on buttons|
     |Показывать картинки на кнопках|
 |Show grid lines in password entry list|
@@ -305,12 +305,12 @@
 |Please restart KeePass manually.|
     |Пожалуйста, перезапустите KeePass вручную.|
 
-|CSV Files|                    |CSV файлы|
-|Text Files|                   |Тесктовые файлы|
+|CSV Files|                    |Файлы CSV|
+|Text Files|                   |Текстовые файлы|
 |An error occurred while importing the file. File cannot be imported.|
-    |Произошла ошибка во время импорта файла. Невозможно проимпортировать файл.|
-|&CSV File...|                 |&CSV файл...|
-|&PwSafe v2 TXT File...|       |&PwSafe v2 TXT файл...|
+    |Ошибка при импорте файла. Файл импортировать невозможно.|
+|&CSV File...|                 |Файл &CSV...|
+|&PwSafe v2 TXT File...|       |TXT-файл &PwSafe v2...|
 |Select &Font|                 |Выбор &шрифта|
 |Select a new font for the list controls:|     |Выберите новый шрифт для списка объектов:|
 
@@ -319,7 +319,7 @@
 |&HTML File...|                |&HTML файл...|
 |&XML File...|                 |&XML файл...|
 |&CSV File...|                 |&CSV файл...|
-|&Import From|                 |И&мпортировать используя|
+|&Import From|                 |И&мпортировать, используя|
 
 |&Get more languages...|       |&Больше языков...|
 |Start and exit|               |Запуск и выход|
@@ -333,9 +333,9 @@
 
 |Encryption algorithm to use (for this database):| |Алгоритм шифрования (для текущей базы паролей):|
 |Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
-    |Advanced Encryption Standard (AES) (128-битный блочный шифр используя 256-битный ключ)|
+    |Advanced Encryption Standard (AES) (128-бит блочный шифр, используя 256-бит ключ)|
 |Twofish (128-bit block cipher using 256-bit key)|
-    |Twofish (128-битный блочный шифр используя 256-битный ключ)|
+    |Twofish (128-бит блочный шифр, используя 256-бит ключ)|
 |Security|                     |Безопасность|
 |KeePass is OSI Certified Open Source Software.|
     |KeePass - OSI сертифицированное приложение с открытым кодом.|
@@ -365,7 +365,7 @@
 |Field copied to clipboard.| |Поле скопировано в буфер обмена.|
 
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
-    |Файл с паролем уже сущесвует. Хотите переписать его или использовать повторно?|
+    |Файл с паролем уже существует. Хотите переписать его или использовать повторно?|
 |Overwrite?|                   |Переписать?|
 |Expires:|                     |Окончание:|
 |Change group:|                |Изменить группу:|
@@ -421,17 +421,17 @@
 |Hide &User Names Behind Asterisks (***)|  |Показывать (***) вместо &имени пользователя|
 |Attachment:| |Файл:|
 |Attachment|  |Файл|
-|&Attachment| |Присоединенные &файлы|
+|&Attachment| |Прикрепленные &файлы|
 
 |Generate a random password...|           |Генерация случайного пароля...|
 |Open file and set as attachment...|      |Открыть файл и присоединить...|
-|Save attached file to disk...|           |Сохранить присоединенный файл...|
+|Save attached file to disk...|           |Сохранить прикрепленный файл...|
 
-|There already is a file attached with this entry.|           |У записи уже есть присоединенный файл.|
-|Do you want to overwrite the current attachment?|            |Переписать существующий присоединенный файл?|
+|There already is a file attached with this entry.|           |У записи уже есть прикрепленный файл.|
+|Do you want to overwrite the current attachment?|            |Переписать существующий прикрепленный файл?|
 |&Save Attached File To...|    |Сохранить присоединенный &файл в...|
-|There is no file attached with this entry.|                  |У записи нет присоединенного файла.|
-|Remove the currently attached file|      |Удалить присоединенный файл|
+|There is no file attached with this entry.|                  |У записи нет прикрепленного файла.|
+|Remove the currently attached file|      |Удалить прикрепленный файл|
 
 |Close button [X] minimizes the main window instead of terminating the application|
     |Сворачивать окно при нажатии на кнопку закрытия [X] вместо завершения приложения|
@@ -454,7 +454,7 @@
     |Возможно он доступен только для чтения или устройство хранения было удалено.|
 |If you exit now, all changes to the current database will be lost.|
     |Если вы выйдите сейчас, то текущая база паролей будет утеряна.|
-|Would you like to exit anyway?|          |Хотили выйти в любом случае?|
+|Would you like to exit anyway?|          |Хотите выйти в любом случае?|
 |Cannot access the selected drive.|       |Нет доступа к выбранному диску.|
 |Make sure a writable medium is inserted.||Проверьте, вставлен ли диск для записи.|
 |Not enough free disk space!|             |Недостаточно свободного места!|
@@ -476,15 +476,15 @@
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
     |Ваш основной пароль шифруется несколько раз до получения окончательного ключа шифрования базы паролей. Это затрудняет использование оценочных атак и атак по словарю.|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
-   |Чем выше это число, тем затруднительней атаки по словарю. Но чем больше это число, тем дольше загружается и сохраняется база паролей.|
+   |Чем больше это число, тем сложнее атаковать по словарю. Но чем больше это число, тем дольше загружается и сохраняется база паролей.|
 |Number of key encryption rounds:|        |Количество циклов шифрования:|
 |bits|                                    |бит|
 |Personal &Vault TXT File...|             |Personal &Vault TXT файл...|
-|Imported from Password Safe|             |Проимпортированно из Password Safe|
+|Imported from Password Safe|             |Импортировано из Password Safe|
 |Remember last opened file|               |Запоминать последний открытый файл|
 |Total number of groups / entries|        |Общее количество групп / записей|
 |Total: %u groups / %u entries|           |Всего: %u групп, %u записей|
-|%u of %u selected|                       |%u из %u выделенно|
+|%u of %u selected|                       |%u из %u выделено|
 |Number of selected entries (number of entries in the list)| |Количество выделенных записей (количество записей в списке)|
 |Status|                                  |Состояние|
 |The database file has been modified!|    |Файл базы данных был изменен!|
@@ -548,7 +548,7 @@
 |Most probably another application has reserved this hot key already.|
     |Вероятнее всего другое приложение уже зарезервировало эту "горячую" клавишу.|
 |Never expires|        |Никогда не истекает|
-|Number the TANs consecutively, starting from this value| |Нумеровать TANы последовательно, начиная с указанного значения|
+|Number the TANs consecutively, starting from this value| |Нумеровать TAN-ы последовательно, начиная с указанного значения|
 |Plugin|               |Модуль|
 |Plugins|              |Модули|
 |Success|              |Успешно|
@@ -658,7 +658,7 @@
 |&Help Contents| |Вызов &справки|
 |&Tools| |И&нструменты|
 |Auto-Type Entry Selection| |Выбор записи для автонабора|
-|Click [No] to open the file in normal writing mode.| |Нажните [Нет] для открытия файла в режиме записи.|
+|Click [No] to open the file in normal writing mode.| |Нажмите [Нет] для открытия файла в режиме записи.|
 |Click [Yes] to open the file in read-only mode.| |Нажмите [Да] для открытия файла в режиме чтения.|
 |Click on an entry to auto-type it.| |Нажмите на запись для ее автонабора.|
 |Exit program instead of locking the workspace after the specified time| |Выходить из программы вместо блокирования базы через указанное время|
@@ -696,7 +696,7 @@
 |&Full| |&Полный доступ|
 |&Read-Only| |&Только на чтение|
 |An application requests access through inter-process communication|
-    |Другое приложение запросило доступ на меж-процессное соединение (IPC)|
+    |Другое приложение запросило доступ на межпроцессное соединение (IPC)|
 |An entry already exists for the current URL.|
     |Запись с такой ссылкой уже существует.|
 |Application| |Приложение|
@@ -710,7 +710,7 @@
     |Имейте ввиду, что название приложения предоставляется им самим и поэтому может быть неправильным (таким образом злоумышленники могут попытаться получить доступ к Вашим паролям).|
 |Select the fields KeePass should remember| |Выберите поля, которые KeePass должен помнить|
 |The following application requests access to your currently opened KeePass database:|
-    |Следущее приложение запросило доступ к текущей открытой базе паролей KeePass:|
+    |Следующее приложение запросило доступ к текущей открытой базе паролей KeePass:|
 |Unknown| |Неизвестное|
 |Value| |Значение|
 |Enable remote control (allow applications to communicate with KeePass)|
@@ -800,7 +800,7 @@
 |Default auto-type sequence for standard entries:| |Последовательность нажатий клавиш для автонабора по умолчанию:|
 |Drop to background when copying data to the clipboard| |Переключаться в фоновый режим при копировании данных в буфер|
 |Field to reference| |Поле для ссылки|
-|Here you can configure auto-type.| |Здесь можно сконфигурировать автонабор.|
+|Here you can configure auto-type.| |Здесь можно настроить автонабор.|
 |Identify source entry by| |Определять запись-источник по полю|
 |In Notes Field| |В поле Комментарии|
 |In Password Field| |В поле Пароль|
@@ -817,7 +817,7 @@
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
     |Файл возможно испорчен. Пожалуйста попробуйте сохранить еще раз. Если не получится, сохраните базу паролей в другое место.|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
-    |Во избежание неопределенности, запись лучше определять по его идентификатору, который уникален.|
+    |Во избежание неясности запись лучше определять по ее уникальному идентификатору.|
 
 |Auto-Type: Customize Sequence| |Автонабор: Настроить|
 |Clear clipboard when closing/locking the database| |Очищать буфер обмена при закрытии/блокировке базы паролей|
@@ -839,8 +839,8 @@
     |Локальный файл помощи - это состояние документации на момент выхода версии программы. Он не обновляется автоматически.|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.|
     |Справочный центр всегда содержит последнюю версию документации. В этом случае обязательно требуется подключение к интернету.|
-|This option is disabled, because local help is not installed.| |Опция заблокированна, т.к. справка не установленна локально.|
-|Use the following help source when a "Help" button within KeePass is clicked:| |При нажатиии на кнопку "Помощь", использовать следующий источник:|
+|This option is disabled, because local help is not installed.| |Опция заблокирована, так как справка не установлена локально.|
+|Use the following help source when a "Help" button within KeePass is clicked:| |При нажатии кнопки "Помощь" использовать следующий источник:|
 
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)| |Использовать расширенную защиту памяти (DPAPI, только Vista и выше)|
 
@@ -849,13 +849,13 @@
 |Available| |Доступно|
 |Component| |Компонент|
 |Delete TAN entries immediately after using them| |Удалять TAN записи сразу после использование|
-|Installed| |Установленно|
+|Installed| |Установлено|
 |KeePass 1.x cannot open KDBX files.| |Невозможно открыть KBDX файл из KeePass 1.x.|
 |No updates available.| |Обновлений нет.|
 |Please choose a different name.| |Пожалуйста, выберите другое имя.|
 |Plugin unknown.| |Неизвестный модуль.|
-|Pre-release version.| |Предвыпускная версия.|
-|The specified name is reserved.| |Указанное имя зарезервированно.|
+|Pre-release version.| |Предфинальная версия.|
+|The specified name is reserved.| |Указанное имя зарезервировано.|
 |Up to date.| |Актуально.|
 |Use CNG/BCrypt for key transformations (only Windows Vista and higher)| |Использовать CNG/BCrypt для трансформации ключа (Windows Vista и выше)|
 |Use the KeePass 2.x 'Export' feature to migrate this file| |Попробуйте экспортировать этот файл из KeePass 2.x|
@@ -873,3 +873,5 @@
 
 |Ensure same keyboard layouts during auto-type| |Убедитесь, что раскладка клавиатуры совпадает при автонаборе|
 |Select &Notes Font| |Шрифт &комментариев|
+
+|{PARAM} more entries| |и еще {PARAM}|
