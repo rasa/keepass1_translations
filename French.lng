@@ -1,9 +1,9 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.23|
+|1.24|
 |~LANGUAGEAUTHOR|
-|Ronan PLANTEC|
+|Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
 |ronan2975@users.sourceforge.net|
 |&OK|
@@ -25,7 +25,7 @@
 |eMail|
 |Courriel|
 |Homebanking|
-|Banque en ligne|
+|Banque à domicile|
 |Entry|
 |Entrée|
 |&Title|
@@ -858,8 +858,6 @@
 |L'option 'Fichier de clés' ou 'Présélection' est déja spécifiée|
 |'Pw' option is already specified|
 |L'option 'Pw' est déja spécifiée|
-|Cache error (cannot open cached file).|
-|Erreur de cache (impossible d'ouvrir le fichier de cache).|
 |Command line argument|
 |Arguments de la ligne de commande|
 |Arguments|
@@ -1322,3 +1320,5 @@
 |Assurer la même configuration du clavier pendant la saisie automatique|
 |{PARAM} more entries|
 |{PARAM} plus d'entrées|
+|The database is empty|
+|La base de données est vide|
