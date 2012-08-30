@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Norsk (Nynorsk)|
-|~LANGUAGEVERSION||1.23|
+|~LANGUAGEVERSION||1.24|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||l10n@landro.net|
 |&OK||&OK|
@@ -464,7 +464,6 @@
 |Show TAN &Indices in Entry Titles||Vis TAN-&indeksar i tittelfeltet til posten|
 |Disable 'Save' button if the database hasn't been modified||Slå av lagre-knappen om databasen ikkje er blitt endra|
 |You have the latest version.||Du har siste utgåve av KeePass.|
-|Cache error (cannot open cached file).||Mellomlagerfeil - klarer ikkje å opna mellomagerfila.|
 |'Keyfile' or 'preselect' option is already specified||'Keyfile'- eller 'Preselect'-valet er allereie slått på|
 |Path is invalid||Filbana er ugyldig|
 |Filename not found||Fann ikkje filnamnet|
@@ -659,4 +658,6 @@
 |Remember key sources (key file paths, provider names, ...)||Hugs nøkkelkjelder (nøkkelfilbaner, tilbydarnamn, …)|
 |Ensure same keyboard layouts during auto-type||Sjå til at tastaturutformingane er like ved auto-inntasting|
 |Select &Notes Font||Vel &merknadsskrifttype|
-|{PARAM} more entries||{PARAM} fleire postar|
+|The database is empty||Databasen er tom|
+|{PARAM} more entries||{PARAM} fleire oppføringar|
+
