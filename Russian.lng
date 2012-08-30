@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.23|
+|~LANGUAGEVERSION|             |1.24|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -673,7 +673,6 @@
 
 |'Keyfile' or 'preselect' option is already specified| |'Keyfile' или 'preselect' опция уже задана|
 |'Pw' option is already specified| |'Pw' опция уже задана|
-|Cache error (cannot open cached file).| |Ошибка кэша (невозможно открыть файл кэша).|
 |Check For Updates| |Проверить обновления|
 |Check for updates at KeePass startup| |Проверять обновления при запуске KeePass|
 |Command line argument| |Аргумент командной строки|
@@ -875,3 +874,5 @@
 |Select &Notes Font| |Шрифт &комментариев|
 
 |{PARAM} more entries| |и еще {PARAM}|
+
+|The database is empty| |Пустая база паролей|
