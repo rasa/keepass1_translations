@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.23|
+|~LANGUAGEVERSION||1.24|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -143,7 +143,6 @@
 |bits||bits|
 |Brackets ([, ], {, }, (, ), <, >)||Paréntesis ([, ], {, }, (, ), <, >)|
 |By default, new entries expire in the following number of days:||Por defecto, las nuevas entradas caducan en el siguiente número de días:|
-|Cache error (cannot open cached file).||Error de caché (el archivo en caché no puede ser abierto).|
 |Calculate rounds for a 1-second delay on this computer||Calcular el número de vueltas que causarán un retraso de 1 segundo en esta computadora|
 |Cancel||Cancelar|
 |Cannot access the selected drive.||No es posible acceder la unidad seleccionada.|
@@ -661,3 +660,4 @@
 |Ensure same keyboard layouts during auto-type||Durante la escritura automática cerciorarse de que sea la misma distribución de teclado|
 |Select &Notes Font||Seleccionar la fuente para come&ntarios|
 |{PARAM} more entries||{PARAM} más entradas|
+|The database is empty||La base de datos está vacía|
