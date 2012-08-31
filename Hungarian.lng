@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.19|
+|1.24|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -704,8 +704,6 @@
 |'Mentés' gomb letiltása, ha az adatbázis nem változott|
 |You have the latest version.|
 |A legújabb verziót használod.|
-|Cache error (cannot open cached file).|
-|Cache hiba (nem nyithatók meg a letárolt fájlok).|
 |'Keyfile' or 'preselect' option is already specified|
 |A 'Kulcsfájl' vagy 'Előválasztott' opciók már be vannak állítva|
 |Path is invalid|
@@ -1326,3 +1324,5 @@
 |&Jegyzet betűtípusa|
 |{PARAM} more entries|
 |{PARAM} további bejegyzés|
+|The database is empty|
+|Az adatbázis üres|
