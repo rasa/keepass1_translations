@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.23 - 1|
+|1.24 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -1026,8 +1026,8 @@
 |連線失敗，無法檢查是否有新版本|
 |KeePass Initialization|
 |KeePass初始化|
-|Cache error (cannot open cached file).|
-|快取錯誤(無法開啟快取的檔案)。|
+|The database is empty|
+|資料庫是空的|
 |Password is empty|
 |密碼是空的|
 |Path is invalid|
