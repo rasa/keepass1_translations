@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.23|
+|1.24|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -1498,9 +1498,6 @@
 |Connect failed, cannot check for updates.|
 |Ryšys nutrūko, nepavyksta patikrinti naujinimų.|
 
-|Cache error (cannot open cached file).|
-|Podėlio klaida (neatsiveria į podėlį padėtas failas).|
-
 |Check for updates at KeePass startup|
 |Tikrinti naujinimus KeePass pradedant darbą|
 
@@ -1987,3 +1984,6 @@
 
 |{PARAM} more entries|
 |{PARAM} įrašų(-ais) daugiau|
+
+|The database is empty|
+|Duomenė bazė tuščia|
