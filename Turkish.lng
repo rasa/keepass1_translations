@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                                              |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                           |1.22|
+|~LANGUAGEVERSION|                                           |1.24|
 |~LANGUAGEAUTHOR|                                            |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                       |<translator@zeron.net>|
 |&OK|                                                        |&Tamam|
@@ -511,7 +511,6 @@
 |Show TAN &Indices in Entry Titles|                          |Kayıt Adlarında TAN &İndeksini Göster|
 |Disable 'Save' button if the database hasn't been modified| |Veritabanı güncellenmemişse 'Kaydet' düğmesini devre dışı bırak|
 |You have the latest version.|                               |En son sürümü kullanıyorsunuz.|
-|Cache error (cannot open cached file).|                     |Önbellek hatası (Önbelleklenmiş dosya açılamadı).|
 |'Keyfile' or 'preselect' option is already specified|       |'Anahtar dosya' veya 'Önseçim' seçeneği zaten belirtilmiş|
 |Path is invalid|                                            |Geçersiz yol|
 |Filename not found|                                         |Dosya adı bulunamadı|
@@ -742,3 +741,4 @@
 |Ensure same keyboard layouts during auto-type|              |Kendiliğinden yazarken aynı tuş takımı düzenini koru|
 |Select &Notes Font|                                         |&Not Yazı Tipini Seçin|
 |{PARAM} more entries|                                       |{PARAM} kayıt daha|
+|The database is empty|                                      |Veritabanı boş|
