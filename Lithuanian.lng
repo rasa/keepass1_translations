@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.24|
+|1.25|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -1375,11 +1375,11 @@
 |1 Year|
 |1 metai|
 
-|Include backup entries in quick searches (toolbar)|
-|Į greitas paieškas (įrankių juostoje) įtraukti atsarginius įrašus|
+|Include backup entries in quick searches|
+|Į greitąsias paieškas įtraukti atsarginius įrašus|
 
-|Include expired entries in quick searches (toolbar)|
-|Į greitas paieškas (įrankių juostoje) įtraukti pasibaigusio galiojimo įrašus|
+|Include expired entries in quick searches|
+|Į greitąsias paieškas įtraukti pasibaigusio galiojimo įrašus|
 
 |&Donate...|
 |Pa&remti...|
@@ -1765,8 +1765,8 @@
 |Copy [of an item]|
 |Kopija [įrašo]|
 
-|Focus entry list after a successful quick search (toolbar)|
-|Fokusuoti įrašų sąrašą po sėkmingos greitosios paieškos (įrankių juosta)|
+|Focus entry list after a successful quick search|
+|Fokusuoti įrašų sąrašą po sėkmingos greitosios paieškos|
 
 |Always grant full access through remote control (not recommended)|
 |Visuomet suteikti pilnas teises nuotoliniam valdymui (nerekomenduotina)|
@@ -1987,3 +1987,27 @@
 
 |The database is empty|
 |Duomenė bazė tuščia|
+
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
+|Automatiniai naujinimų tikrinimai nepastebimai atliekami fone. Pranešimas rodomas tik tuomet, kai yra naujinimų. Naujinimai nėra automatiškai parsiunčiami ar įdiegiami.|
+
+|Database files cannot be used as key files.|
+|Duomenų bazių failų negalima naudoti kaip rakto failų.|
+
+|Enable automatic update check?|
+|Ar aktyvuoti automatinį naujinimų tikrinimą?|
+
+|KeePass can automatically check for updates on each program start.|
+|KeePass gali automatiškai patikrinti naujinimus kiekvienąkart programai pradedant darbą.|
+
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
+|Į KeePass web serverį nesiunčiama jokia asmeninė informacija. KeePass tik parsisiunčia mažą versijos informacijos failą ir palygina galimą versiją su įdiegtąja.|
+
+|Quick search (toolbar)|
+|Greitoji paieška (įrankių juosta)|
+
+|Show tray icon only if main window has been sent to tray|
+|Rodyti dėklo piktogramą tik tuomet, kai pagrindinis langas yra pasiunčiamas į dėklą|
+
+|recommended|
+|recomenduojama|
