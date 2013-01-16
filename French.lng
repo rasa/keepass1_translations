@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.24|
+|1.25|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
@@ -764,8 +764,6 @@
 |1 année|
 |6 Months|
 |6 mois|
-|Include backup entries in quick searches (toolbar)|
-|Inclure les entrées sauvegardées dans la recherche rapide (barre d'outils)|
 |&Repair KeePass Database File...|
 |&Réparer un fichier de base de mots de passe KeePass...|
 |Automatically save when closing/locking the database|
@@ -1088,8 +1086,6 @@
 |Annuler tous les changements apportés à la base de données et fermer KeePass.|
 |Discard all changes made to the database and lock the KeePass workspace.|
 |Annuler tous les changements apportés à la base de données et verrouiller l'espace de travail KeePass.|
-|Focus entry list after a successful quick search (toolbar)|
-|Restreindre la liste d'entrées après une recherche rapide concluante (barre d'outils)|
 |Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
 |Générer une nouvelle clé et écrire par-dessus le fichier de clé existant. La clé actuellement enregistré dans le fichier de clé existant va être perdue.|
 |KeePass will not be closed.|
@@ -1190,8 +1186,6 @@
 |Effacer le presse-papier en fermant/verouillant la base de données|
 |Exclude &expired entries|
 |Exclure les entrées &expirées|
-|Include expired entries in quick searches (toolbar)|
-|Inclure les entrées expirées  dans les recherches rapides (barre d'outils)|
 |Normal|
 |Normal|
 |Open the file in read-only mode. Changes to the database can be saved to a different file.|
@@ -1322,3 +1316,25 @@
 |{PARAM} plus d'entrées|
 |The database is empty|
 |La base de données est vide|
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
+|Les vérifications de mise à jour automatique sont effectuées de façon inintrusive en arrière plan. Une information est affichée quand une mise à jour est disponible. Les mises à jour ne sont pas téléchargées et installées automatiquement.|
+|Database files cannot be used as key files.|
+|Les fichiers de base de données ne peuvent pas être utilisés comme des fichiers clé.|
+|Enable automatic update check?|
+|Activer la vérification de mise à jour automatique ?|
+|Focus entry list after a successful quick search|
+|restreindre la liste d'entrée après une recherche rapide concluante|
+|Include backup entries in quick searches|
+|Incorporer les entrées sauvegardées dans les recherches rapides|
+|Include expired entries in quick searches|
+|Incorporer les entrées expirées dans les recherches rapides|
+|KeePass can automatically check for updates on each program start.|
+|KeePass peut automatiquement vérifier des mises à jour à chaque démarrage du programme.|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
+|Aucune information personnelle n'est envoyée dans le serveur Web de KeePass. KeePass télécharges seulement un petit fichier d'information sur la version et compare la version disponible avec la version installée.|
+|Quick search (toolbar)|
+|Recherche rapide (barre d'outils)|
+|Show tray icon only if main window has been sent to tray|
+|Affiche l'icône en zone de notification seulement si la fenêtre principale a été envoyée en zone de notification|
+|recommended|
+|recommandé|
