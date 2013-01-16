@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.24|
+|1.25|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -628,10 +628,6 @@
 |6 hónap|
 |1 Year|
 |1 év|
-|Include backup entries in quick searches (toolbar)|
-|Biztonsági mentések figyelembevétele a gyors kereséseknél (eszköztár)|
-|Include expired entries in quick searches (toolbar)|
-|Lejárt bejegyzések figyelembevétele a gyors kereséseknél (eszköztár)|
 |&Donate...|
 |&Támogatás...|
 |Use alternative auto-type method (minimize window)|
@@ -886,8 +882,6 @@
 |A mesterjelszó becsült minőségének legalább %u bitesnek kell lennie!|
 |Copy [of an item]|
 |Másolás [egy elem]|
-|Focus entry list after a successful quick search (toolbar)|
-|Egy sikeres gyorskeresés után (eszköztár) kerüljön a fókusz a teljes listára|
 |Always grant full access through remote control (not recommended)|
 |Mindig teljes hozzáférés biztosítása a távoli irányításnál (nem szükséges)|
 |URL Field: Select Application...|
@@ -1319,10 +1313,32 @@
 |Minimize main window after locking the workspace|
 |Főablak minimalizálása munkaterület zárolás után|
 |Ensure same keyboard layouts during auto-type|
-|Autotype és billentyűzet kiosztás azonos legyen|
+|Győződjön meg az azonos billentyűzet-kiosztásról auto-type-hoz|
 |Select &Notes Font|
-|&Jegyzet betűtípusa|
-|{PARAM} more entries|
-|{PARAM} további bejegyzés|
+|&Betűtípus választás jegyzethez|
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
+|Frissítés ellenőrzések diszkréten a háttérben zajlanak. Figyelmeztetés csak akkor jelenik meg, ha van elérhető frissítés. A frissítések nem kerülnek automatikusan letöltésre, sem telepítésre.|
+|Database files cannot be used as key files.|
+|Adatbázis fájlok nem használhatók kulcsfájlként.|
+|Enable automatic update check?|
+|Automatikus frissítés ellenőerzés?|
+|Focus entry list after a successful quick search|
+|Sikeres gyorskeresés után fókuszt a teljes listára|
+|Include backup entries in quick searches|
+|Backup bejegyzések is a gyorskeresésekben|
+|Include expired entries in quick searches|
+|Lejárt bejegyzések is a gyorskeresésekben|
+|KeePass can automatically check for updates on each program start.|
+|A Keepass képes automatikusan ellenőrizni a frissítéseket minden indításnál.|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
+|Személyes információk nem kerülnek elküldésre a Keepass webszerverre. A Keepass csak egy kis verzióinfó fájlt tölt le és összehasonlítja az elérhető verziót a telepített verzióval.|
+|Quick search (toolbar)|
+|Gyors keresés (eszközsáv)|
+|Show tray icon only if main window has been sent to tray|
+|Tálcaikon mutatása csak akkor, ha az ablak a tálcára küldve|
 |The database is empty|
 |Az adatbázis üres|
+|recommended|
+|ajánlott|
+|{PARAM} more entries|
+|{PARAM} további tétel|
