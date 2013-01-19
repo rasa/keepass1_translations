@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.24|
+|~LANGUAGEVERSION||1.25|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -283,7 +283,6 @@
 |Find in t&his Group...||Buscar en es&te grupo...|
 |Find what:||Buscar:|
 |Find||Encontrar|
-|Focus entry list after a successful quick search (toolbar)||Enfocar la lista de entradas después de una búsqueda rápida exitosa (barra de herramientas)|
 |General||General|
 |Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.||Generar una nueva clave y sobreescribir el archivo de clave existente.|
 |Generate a random password...||Generar una contraseña aleatoria...|
@@ -329,8 +328,6 @@
 |In Title Field||Campo título|
 |In URL Field||Campo URL|
 |In User Name Field||Campo nombre de usuario|
-|Include backup entries in quick searches (toolbar)||Incluir entradas de respaldo en las búsquedas rápidas (barra de herramientas)|
-|Include expired entries in quick searches (toolbar)||Incluir entradas vencidas en las búsquedas rápidas (barra de herramientas)|
 |Incoming IPC Request||Petición IPC Entrante|
 |Insert Field Reference||Insertar campo de referencia|
 |Installed||Instalado|
@@ -524,7 +521,7 @@
 |Show full path in the title bar (instead of file name only)||Mostrar la ruta completa en la barra del título (en lugar de solamente el nombre del archivo)|
 |Show grid lines in password entry list||Mostrar líneas cuadriculadas en la lista de contraseñas|
 |Show TAN &Indices in Entry Titles||Mostrar índ&ices TAN en los títulos de las entradas|
-|Single left click instead of double-click for default tray icon action||Click único en vez de doble-click para ejecutar desde el icono en la bandeja de sistema|
+|Single left click instead of double-click for default tray icon action||Click único en lugar de doble-click para ejecutar la acción predeterminada del icono desde el área de notificación|
 |So, the more the better. The different, the better.||Por ende, a mayor cantidad mejor resultado. Más variedad, mayor calidad.|
 |Sort items in the auto-type entry selection dialog||Ordenar los elementos en el cuadro de selección de entradas para la escritura automática|
 |Sort List by &Creation Time||Ordenar la lista por fecha de &creación|
@@ -661,3 +658,14 @@
 |Select &Notes Font||Seleccionar la fuente para come&ntarios|
 |{PARAM} more entries||{PARAM} más entradas|
 |The database is empty||La base de datos está vacía|
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.||Las comprobaciones de actualizaciones son efectuadas en segundo plano de forma no intrusiva. Una notificación aparecerá en caso de que haya una actualización disponible. Las actualizaciones no son instaladas ni descargadas sin la autorización del usuario.|
+|Database files cannot be used as key files.||Los archivos de base de datos no pueden ser utilizados como archivos de clave.|
+|Enable automatic update check?||¿Habilitar la comprobación automática de actualizaciones?|
+|Focus entry list after a successful quick search||Enfocar la lista de entradas tras una búsqueda rápida exitosa|
+|Include backup entries in quick searches||Incluir entradas de respaldo en las búsquedas rápidas|
+|Include expired entries in quick searches||Incluir entradas vencidas en las búsquedas rápidas|
+|KeePass can automatically check for updates on each program start.||KeePass puede comprobar actualizaciones automáticamente en cada inicio del programa.|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.||Ninguna información personal es transmitida al servidor de KeePass. KeePass solo descarga un pequeño archivo para comparar el número de la versión instalada con la que se encuentra disponible en su web.|
+|Quick search (toolbar)||Búsqueda rápida (barra de herramientas)|
+|Show tray icon only if main window has been sent to tray||Mostrar el icono en el área de notificación sólo si la ventana principal ha sido enviada allí|
+|recommended||recomendado|
