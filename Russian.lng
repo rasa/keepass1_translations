@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.24|
+|~LANGUAGEVERSION|             |1.25|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -621,8 +621,8 @@
 |&Donate...| |Сделать &взнос...|
 |1 Year|     |1 год|
 |6 Months|   |6 месяцев|
-|Include backup entries in quick searches (toolbar)|
-    |Включать резервные записи в результаты быстрого поиска (панель управления)|
+|Include backup entries in quick searches|
+    |Включать резервные записи в результаты быстрого поиска|
 
 |&Repair KeePass Database File...| |По&чинить файл с паролями...|
 |Delete all backup entries before saving the database| |Удалять все резервные записи перед сохранением базы паролей|
@@ -766,8 +766,8 @@
 |Discard all changes made to the database and exit KeePass.| |Отменить все изменения в базе паролей и выйти из KeePass.|
 |Discard all changes made to the database and lock the KeePass workspace.| |Отменить все изменения в базе паролей и заблокировать KeePass.|
 |&Discard changes| |Отменить &изменения|
-|Focus entry list after a successful quick search (toolbar)|
-    |Установить фокус на списке записей после успешного быстрого поиска (через панель управления)|
+|Focus entry list after a successful quick search|
+    |Установить фокус на списке записей после успешного быстрого поиска|
 |Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
     |Сгенерировать новый ключ и переписать существующий файл с паролем. Текущий ключ будет потерян.|
 |KeePass will not be closed.| |KeePass не будет закрыт.|
@@ -821,7 +821,7 @@
 |Auto-Type: Customize Sequence| |Автонабор: Настроить|
 |Clear clipboard when closing/locking the database| |Очищать буфер обмена при закрытии/блокировке базы паролей|
 |Exclude &expired entries| |Искл&ючать просроченные записи|
-|Include expired entries in quick searches (toolbar)| |Включать просроченные записи при быстром поиске (панель управления)|
+|Include expired entries in quick searches| |Включать просроченные записи в результаты быстрого поиска|
 |Normal| |Обычный|
 |Open the file in read-only mode. Changes to the database can be saved to a different file.|
     |Открыть файл в режиме для чтения. Изменения можно сохранить в другой файл.|
@@ -876,3 +876,14 @@
 |{PARAM} more entries| |и еще {PARAM}|
 
 |The database is empty| |Пустая база паролей|
+
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
+|Автопроверка обновлений выполняется в фоновом режиме. Уведомление отображается только при наличии обновления. Обновления не загружаются и не устанавливаются автоматически.|
+|Database files cannot be used as key files.| |Файлы базы паролей нельзя использовать в качестве файлов с паролем.|
+|Enable automatic update check?| |Включить автопроверку обновления?|
+|KeePass can automatically check for updates on each program start.| |KeePass может автоматически проверять обновления при каждом запуске программы.|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
+|KeePass не отсылает персональные данные на свой сервер. KeePass загружает небольшой файл с информацией по версиям и сравнивает доступную версию с установленной.|
+|Quick search (toolbar)| |Быстрый поиск (панель управления)|
+|Show tray icon only if main window has been sent to tray| |Показывать значок в системной панели только, если главное окно было свернуто|
+|recommended| |рекомендуется|
