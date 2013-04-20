@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Ελληνικά|
 |~LANGUAGEVERSION|
-|1.24|
+|1.25|
 |~LANGUAGEAUTHOR|
 |Βραδέλης Στέργιος|
 |~LANGUAGEAUTHOREMAIL|
@@ -159,9 +159,9 @@
 |Add a new password group|
 |Προσθήκη νέας ομάδας κωδικών|
 |Edit Group|
-|Επεξεργασία ομάδας|
-|Modify a password group|
-|Τροποποίηση ομάδας κωδικών|
+|Επεξεργασία Ομάδας|
+|Modify existing password group.|
+|Τροποποίηση υπάρχουσας ομάδας κωδικών.|
 |Random mouse input|
 |Τυχαία εισαγωγή με ποντίκι|
 |Click to begin:|
@@ -442,7 +442,7 @@
 |&Εισαγωγή από|
 |&Get more languages...|
 |Αναζητήστε περισσότερες γλώσσες...|
-|Start and Exit|
+|Start and exit|
 |Εκκίνηση και Έξοδος|
 |Interface (GUI)|
 |Διεπαφή (GUI)|
@@ -915,11 +915,13 @@
 |6 Months|
 |6 Μήνες|
 |1 Year|
-|1 Έτος|
-|Include backup entries in quick searches (toolbar)|
-|Συμπεριέλάβε τις εγγραφές αντιγράφων ασφαλείας σε γρήγορες αναζητήσεις(γραμμή εργαλείων)|
-|Include expired entries in quick searches (toolbar)|
-|Συμπεριέλαβε τις ληγμένες εγγραφές σε γρήγορες αναζητήσεις(γραμμή εργαλείων)|
+|1 Jahr|
+|Quick search (toolbar)|
+|Γρήγορη αναζήτηση(γραμμή εργαλείων)|
+|Include backup entries in quick searches|
+|Συμπεριέλάβε τις εγγραφές αντιγράφων ασφαλείας σε γρήγορες αναζητήσεις|
+|Include expired entries in quick searches|
+|Συμπεριέλαβε τις ληγμένες εγγραφές σε γρήγορες αναζητήσεις|
 |&Donate...|
 |&Δωρεές...|
 |Use alternative auto-type method (minimize window)|
@@ -1200,8 +1202,8 @@
 |Η εκτιμώμενη ποιότητα του κύριου κωδικού πρέπει να είναι το λιγότερο %u bits!|
 |Copy [of an item]|
 |Αντιγραφή [ενός αντικειμένου]|
-|Focus entry list after a successful quick search (toolbar)|
-|Εστίασε στην λίστα εγγραφών μετά από μια επιτυχημένη γρήγορη αναζήτηση (Γραμμή Εργαλείων)|
+|Focus entry list after a successful quick search|
+|Εστίασε στην λίστα εγγραφών μετά από μια επιτυχημένη γρήγορη αναζήτηση|
 |Always grant full access through remote control (not recommended)|
 |Πάντα πλήρης πρόσβαση μέσω απομακρυσμένου ελέγχου (δεν συνίσταται)|
 |URL Field: Select Application...|
@@ -1278,12 +1280,13 @@
 |Online-Κέντρο Βοηθείας|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.|
 |Το Online-Κέντρο Βοηθείας περιέχει πάντα την τελευταία έκδοση της τεκμηρίωσης του προϊόντος. Απαιτείται σύνδεση στο διαδίκτυο.|
-|Help &Source...|
-|Πηγή &Βοηθείας...|
+
 |This option is disabled, because local help is not installed.|
 |Αυτή η επιλογή είναι απενεργοποιημένη, γιατί δεν έχει εγκατασταθεί τοπικό αρχείο βοηθείας.|
 |Choose between local help and online help center.|
 |Επιλέξτε μεταξύ τοπικής βοήθειας και online κέντρου βοηθείας.|
+|Help &Source...|
+|Πηγή &Βοηθείας...|
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)|
 |Χρήση προηγμένης προστασίας μνήμης (DPAPI, μόνο για Windows Vista και νεότερα)|
 |Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
@@ -1320,3 +1323,17 @@
 |{PARAM} περισσότερες εγγραφές|
 |The database is empty|
 |Η βάση δεδομένων είναι κενή|
+|Show tray icon only if main window has been sent to tray|
+|Εμφάνισε το εικονίδιο Tray, μόνο εάν το κύριο παράθυρο έχει αποσταλλεί στο tray|
+|KeePass can automatically check for updates on each program start.|
+|Το KeePass μπορεί να ελέγχει αυτόματα για ενημερώσεις κατά την εκκίνηση.|
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
+|Οι αυτόματοι έλεγχοι ενημερώσεων γίνονται στο παρασκήνιο. Ειδοποίηση εμφανίζεται μόνο εάν υπάρχει διαθέσιμη ενημέρωση. Οι ενημερώσεις δεν μεταφορτώνονται οι εγκαθίστανται αυτόματα.|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
+|Δεν αποστέλλονται προσωπικά δεδομένα στον διακομιστή KeePass. Το KeePass απλά μεταφορτώνει ένα αρχείο πληροφοριών έκδοσης και συγκρίνει την εγκατεστημένη έκδοση με την διαθέσιμη.|
+|Enable automatic update check?|
+|Ενεργοποίηση αυτόματου ελέγχου ενημερώσεων;|
+|recommended|
+|Προτείνεται|
+|Database files cannot be used as key files.|
+|Αρχεία βάσεων δεδομένων δεν μπορούν αν χρησιμοποιηθούν ως αρχεία κλειδιών.|
