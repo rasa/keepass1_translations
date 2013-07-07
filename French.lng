@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.25|
+|1.26|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
@@ -48,8 +48,8 @@
 |Chercher|
 |&Find|
 |&Chercher|
-|About KeePass...|
-|A propos de KeePass...|
+|About KeePass|
+|A propos de KeePass|
 |Password Groups|
 |Groupes de mots de passe|
 |Title|
@@ -1338,3 +1338,11 @@
 |Affiche l'icône en zone de notification seulement si la fenêtre principale a été envoyée en zone de notification|
 |recommended|
 |recommandé|
+|Are you sure you want to attempt to repair a database file?|
+|Etes-vous certain de souhaiter essayer réparer un fichier de base de données ?|
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
+|Dans le mode de réparation, l'intégrité des données n'est pas vérifiée (afin de récupérer autant de données que possible). Quand aucune vérification d'intégrité n'est accomplie, des données corrompues/malveillantes peuvent être incorporées dans la base de données.|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
+|Ainsi la fonction de réparation devrait être uniquement utilisée que quand il n'y a vraiment plus aucune autre solution. Si vous l'utilisez, après vous devriez vérifier s'il y a des données corrompues/malveillantes dans toute la base de données.|
+|Warning|
+|Attention|
