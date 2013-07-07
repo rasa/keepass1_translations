@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.25|
+|1.26|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -10,8 +10,6 @@
 |&Rendben|
 |&Cancel|
 |&Mégsem|
-|&Close|
-|&Bezárás|
 |&Generate Random Password|
 |&Véletlen jelszó generálása|
 |Choose an icon.|
@@ -52,8 +50,8 @@
 |&Keres|
 |Find a string in the password list.|
 |Sztring keresése a jelszólistában.|
-|About KeePass...|
-|KeePass névjegye...|
+|About KeePass|
+|KeePass névjegye|
 |Password Groups|
 |Jelszó csoportok|
 |Title|
@@ -158,8 +156,6 @@
 |Csoport neve:|
 |Add Group|
 |Új Csoport|
-|Length of generated password:|
-|Generált jelszó hossza:|
 |Create a new password group.|
 |Új jelszócsoport létrehozása.|
 |Edit Group|
@@ -487,7 +483,7 @@
 |Unknown error|
 |Ismeretlen hiba|
 |Success|
-|Siker|
+|Sikeres|
 |Invalid parameter|
 |Érvénytelen paraméter|
 |Invalid/wrong key|
@@ -1096,6 +1092,8 @@
 |Ennek ellenére szeretnél kilépni?|
 |Cannot access the selected drive.|
 |Nem érhető el a kiválasztott meghajtó.|
+|Length of generated password:|
+|Generált jelszó hossza:|
 |Make sure a writable medium is inserted.|
 |Győződj meg arról, hogy a behelyezett eszköz írható-e.|
 |Not enough free disk space!|
@@ -1342,3 +1340,11 @@
 |ajánlott|
 |{PARAM} more entries|
 |{PARAM} további tétel|
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
+|Javítás üzemmódban  az adatok integritása nem kerül elleőrzésre (a lehető legtöbb adat megmentése érdekében). Amikor nincs adat-integritás ellenőrzés, hibás vagy rosszindulatú adatok is bekerülhetnek az adatbázisba.|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
+|A javítás funkciót csak akkor célszerű választani, ha tényleg nincs más megoldás. Ha ezt választod, utána ellenőrizni kell a teljes adatbázist, hogy nem kerültek-e bele hibás vagy rosszindulatú adatok |
+|Warning|
+|Figyelmeztetés|
+|Are you sure you want to attempt to repair a database file?|
+|Valóban meg akarod kísérelni az adatbázisfájl javítását?|
