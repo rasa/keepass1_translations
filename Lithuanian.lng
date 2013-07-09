@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.25|
+|1.26|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -79,8 +79,8 @@
 |Find a string in the password list.|
 |Rasti eilutę slaptažodžių saraše.|
 
-|About KeePass...|
-|Apie KeePass...|
+|About KeePass|
+|Apie KeePass|
 
 |Password Groups|
 |Slaptažodžių grupės|
@@ -2011,3 +2011,15 @@
 
 |recommended|
 |recomenduojama|
+
+|Are you sure you want to attempt to repair a database file?|
+|Ar tikrai norite bandyti pataisyti duomenų bazės failą?|
+
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
+|Taisymo režime duomenų integruotumas netikrinamas (kad būtų atkurta kaip įmanoma daugiau duomenų). Netikrinant integruotumo, į duomenų bazę gali būti įtraukti sugadinti ar kenksmingi duomenys.|
+
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
+|Todėl taisymas turėtų būti naudojamas tik tuomet, kai nebėra kitos išeities. Po taisymo reikia stropiai patikrinti, ar į duomenų bazę nepateko sugadintų ar kenksmingų duomenų.|
+
+|Warning|
+|Įspėjimas|
