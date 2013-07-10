@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                                              |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                           |1.25|
+|~LANGUAGEVERSION|                                           |1.26|
 |~LANGUAGEAUTHOR|                                            |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                       |<translator@zeron.net>|
 |&OK|                                                        |&Tamam|
@@ -25,7 +25,7 @@
 |Find|                                                       |Bul|
 |&Find|                                                      |B&ul|
 |Find a string in the password list.|                        |Parola listesinde bir kelime bul.|
-|About KeePass...|                                           |KeePass Hakkında...|
+|About KeePass|                                              |KeePass Hakkında|
 |Password Groups|                                            |Parola Grubu|
 |Title|                                                      |Başlık|
 |User Name|                                                  |Kullanıcı Adı|
@@ -753,3 +753,9 @@
 |Quick search (toolbar)|                                      |Hızlı arama (araç çubuğu)|
 |Show tray icon only if main window has been sent to tray|    |Tepsi simgesi, yalnız ana pencere tepsiye küçültülmüş ise görüntülensin|
 |recommended|                                                 |önerilen|
+|Are you sure you want to attempt to repair a database file?| |Bir veritabanı dosyasını onarmayı denemek istediğinize emin misiniz?|
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
+	|Onarım kipinde, veri bütünlüğü sınanmaz (olabildiğince çok veriyi kurtarabilmek için). Bütünlük sınaması yapılmadığından, veritabanında bozuk/gereksiz bilgiler bulunabilir.|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
+	|Bu nedenle, gerçekten başka bir çare yoksa onarım seçeneği kullanılmalıdır. Onarım yapıldıktan sonra, tüm veritabanı bozuk/gereksiz verilere karşı gözden geçirilmelidir.|
+|Warning|                                                     |Dikkat|
