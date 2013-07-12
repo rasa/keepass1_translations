@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.25|
+|~LANGUAGEVERSION|             |1.26|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -30,7 +30,7 @@
 |&Find|           |&Поиск|
 |Find a string in the password list.| |Поиск строки в списке паролей.|
 
-|About KeePass...| |О программе...|
+|About KeePass| |О программе|
 
 |Password Groups|  |Группы паролей|
 |Title|            |Название|
@@ -887,3 +887,11 @@
 |Quick search (toolbar)| |Быстрый поиск (панель управления)|
 |Show tray icon only if main window has been sent to tray| |Показывать значок в системной панели только, если главное окно было свернуто|
 |recommended| |рекомендуется|
+
+|Are you sure you want to attempt to repair a database file?|
+|Вы уверены, что хотите попробовать восстановить файл базы паролей?|
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
+|В режиме восстановления целостность данных не проверяется (для восстановления максимального количества данных). Из-за отсутствия проверки на целостность поврежденные данные могут попасть в базу паролей.|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
+|Поэтому функциональность восстановления должна использоваться только при отсутствии других решений. После восстановления необходимо проверить всю базу паролей на предмет наличия поврежденных данных.|
+|Warning| |Внимание|
