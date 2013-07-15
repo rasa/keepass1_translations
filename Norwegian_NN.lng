@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Norsk (nynorsk)|
-|~LANGUAGEVERSION||1.25|
+|~LANGUAGEVERSION||1.26|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||l10n@landro.net|
 |&OK||&OK|
@@ -24,7 +24,6 @@
 |&Find||&Søk|
 |Find a string in the password list.||Finn ein tekststreng i passordlista.|
 |Find||Finn|
-|About KeePass...||Om KeePass …|
 |Password Groups||Passordgrupper|
 |Title||Tittel|
 |User Name||Brukarnamn|
@@ -114,7 +113,7 @@
 |Find in t&his Group...||Søk i &denne gruppa …|
 |&Add Entry...||Legg til ny &post …|
 |&Edit/View Entry...||&Endra/sjå på posten …|
-|&Delete Entry||&Slett post|
+|&Delete Entry||&Slett posten|
 |Dupli&cate Entry||&Dupliser posten|
 |Move Entry to &Top||Flytt posten til &toppen|
 |Move Entry &One Up||Flytt posten éin plass &opp|
@@ -164,7 +163,7 @@
 |Deleting a group will delete all items and subgroups in that group, too.||Å sletta ei gruppe vil òg sletta alle postane og undergruppene i gruppa.|
 |Are you sure you want to delete this group?||Vil du verkeleg sletta denne gruppa?|
 |Delete Group Confirmation||Stadfesting av gruppesletting|
-|Cannot open temporary file for printing!||Klarer ikkje å opna mellombels fil for utskrift|
+|Cannot open temporary file for printing!||Klarer ikkje å opna mellombels fil for utskrift.|
 |Load Language File||Last inn språkfil|
 |Load a Language File||Last inn ei språkfil|
 |Select one of the languages in the list below.||Vel eitt av språka i lista nedanfor.|
@@ -180,12 +179,12 @@
 |Settings||Innstillingar|
 |Here you can configure KeePass.||Her kan endra innstillingane til KeePass.|
 |Automatically open last used database on startup||Opna automatisk den sist brukte databasen ved oppstart|
-|Display images on buttons||Vis bilete på knappar|
+|Display images on buttons||Vis bilete på knappane|
 |Show grid lines in password entry list||Vis rutenett i passordlista|
 |Workspace locked||Arbeidsflata er låst|
 |Loading error||Innlastingsfeil|
-|Language file cannot be opened!||Klarer ikkje å opna språkfila|
-|Language file cannot be registered!||Klarer ikkje å registrera språkfila|
+|Language file cannot be opened!||Klarer ikkje å opna språkfila.|
+|Language file cannot be registered!||Klarer ikkje å registrera språkfila.|
 |The language file has been installed.||Språkfila er installert.|
 |You must restart KeePass in order to use the new language.||Du må starta om att KeePass for å ta i bruk det nye språket.|
 |Do you wish to restart KeePass now?||Vil du starta om att KeePass no?|
@@ -668,3 +667,8 @@
 |Quick search (toolbar)||Snøggsøk (verktøylinje)|
 |Show tray icon only if main window has been sent to tray|| Syn systemfeltikonet berre når hovudvindauget er vorte sendt til systemfeltet|
 |recommended||tilrådd|
+|About KeePass||Om KeePass|
+|Are you sure you want to attempt to repair a database file?||Er du verkeleg sikker på at du vil prøva å reparera ei databasefil?|
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.||For å kunna redda so mange data som råd er, vil ikkje datakonsistensen verta kontrollert i reparasjonsmodus. Når ingen integritetskontrollar vert utførte, kan øydelagte eller skadelege data verta tekne med i databasen din.|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.||Derfor bør du berre prøva å reparera når det ikkje finst andre løysingar. Etter ein reparasjon bør du sjå etter feil eller øydelagde data i heile databasen.|
+|Warning||Åtvaring|
