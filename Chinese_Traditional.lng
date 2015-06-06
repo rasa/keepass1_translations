@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.28 - 1|
+|1.29 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -166,10 +166,10 @@
 |關於翻譯(&T)...|
 |&About KeePass...|
 |關於KeePass(&A)...|
-|&OK|
-|確定(&O)|
-|&Cancel|
-|取消(&C)|
+|OK|
+|確定|
+|Select &Password Font|
+|選擇密碼字型(&P)|
 |bits|
 |位元|
 |General|
