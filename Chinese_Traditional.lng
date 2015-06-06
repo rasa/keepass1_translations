@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.27 - 1|
+|1.28 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -976,7 +976,7 @@
 |1年|
 |6 Months|
 |6個月|
-|Press Shift-Home or Shift-End to clear this edit control|
+|Press Shift+Home or Shift+End to clear this edit control|
 |按Shift+Home或Shift+End清除該編輯控制項內容|
 |&KeePass Database...|
 |KeePass資料庫(&K)...|
@@ -1328,6 +1328,10 @@
 |為了盡可能救回資料，修復模式不檢查資料正確性。因此，資料庫中可能摻雜損毀或錯誤的資料。|
 |Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
 |因此，只在沒有其他方法時才修復。如果您修復資料庫，您必須全面檢查資料庫中損毀與錯誤的資料。|
+|Saving database...|
+|資料庫儲存中...|
+|ch.|
+|字|
 |Warning|
 |警告|
 |About KeePass|
