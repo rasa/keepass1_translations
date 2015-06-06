@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.27|
+|1.28|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -211,7 +211,7 @@
 |Save &As...|
 |Mentés má&sként...|
 |Change &Master Key...|
-|Meseterkul&cs megváltoztatása...|
+|Mesterkul&cs megváltoztatása...|
 |&Print...|
 |Nyom&tatás...|
 |&Export|
@@ -596,8 +596,6 @@
 |Korlátozás egyetlen példányra|
 |Use more secure password edit controls|
 |Még biztonságosabb jelszó szerkesztő elemek használata|
-|Press Shift-Home or Shift-End to clear this edit control|
-|Nyomd meg a Shift-Home vagy a Shift-End billentyűket ennek a szerkesztőelemnek a törléséhez|
 |Single left click instead of double-click for default tray icon action|
 |Egy klikk használata a dupla klikk helyett tálcaikon esetén|
 |Exclude entries in the '&Backup' group|
@@ -1348,3 +1346,9 @@
 |Figyelmeztetés|
 |Are you sure you want to attempt to repair a database file?|
 |Valóban meg akarod kísérelni az adatbázisfájl javítását?|
+|Press Shift+Home or Shift+End to clear this edit control|
+|Nyomj Shift+Home vagy Shift+End billentyűt a szerkesztő törléséhez|
+|Saving database...|
+|Adatbázis mentése...|
+|ch.|
+|kar.|
