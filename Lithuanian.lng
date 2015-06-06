@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.28|
+|1.29|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -10,11 +10,8 @@
 |~LANGUAGEAUTHOREMAIL|
 |v.rekus@gmail.com/donaldas.apanavicius@gmail.com|
 
-|&OK|
-|&Gerai|
-
-|&Cancel|
-|&Atsisakyti|
+|OK|
+|Gerai|
 
 |&Close|
 |&Užverti|
@@ -639,10 +636,10 @@
 |&PwSafe v2 TXT failas...|
 
 |Select &Font|
-|Pasirinkite &šriftą|
+|Pasirinkti &šriftą|
 
 |Select a new font for the list controls:|
-|Pasirinkite šriftą sąrašo valdikliams:|
+|Pasirinkite naują šriftą sąrašo valdikliams:|
 
 |Code&Wallet TXT File...|
 |Code&Wallet TXT failas...|
@@ -1978,7 +1975,7 @@
 |Įsitikinkite, kad automatinis įvedimas naudoja tą patį klaviatūros išdėstymą|
 
 |Select &Notes Font|
-|Pari&nkti pastabų šriftą|
+|Pasiri&nkti pastabų šriftą|
 
 |{PARAM} more entries|
 |{PARAM} įrašų(-ais) daugiau|
@@ -2031,3 +2028,6 @@
 
 |ch.|
 |žnkl.|
+
+|Select &Password Font|
+|Pasirinkti sla&ptažodžio šriftą|
