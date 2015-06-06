@@ -1,7 +1,7 @@
-﻿2014-04-03 01:27|~LANGUAGENAME|
+﻿2014-09-25 01:28|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.27|
+|1.28|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ CCF|
 |~LANGUAGEAUTHOREMAIL|
@@ -912,8 +912,8 @@
 |本程序的发布遵循 GNU 通用公共授权许可 V2 或新版的条款。|
 |Use more secure password edit controls|
 |使用更安全的密码编辑控件|
-|Press Shift-Home or Shift-End to clear this edit control|
-|按 Shift-Home 或 Shift-End 清除当前编辑框内容|
+|Press Shift+Home or Shift+End to clear this edit control|
+|按 Shift+Home 或 Shift+End 清除当前编辑框内容|
 |Waiting for paste command.|
 |等待粘贴命令。|
 |&Donate...|
@@ -1331,8 +1331,7 @@
 |Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
 |自动更新检查在后台执行，仅当有可用更新时提示。不自动下载或安装更新。|
 |No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
-|在检查过程中不会发送任何私人信息至KeePass网络服务器，仅仅是下载一个很小的版本信息文件用来
-与已安装版本进行比对。|
+|在检查过程中不会发送任何私人信息至KeePass网络服务器，仅仅是下载一个很小的版本信息文件用来与已安装版本进行比对。|
 |Enable automatic update check?|
 |启用自动更新检查？|
 |recommended|
@@ -1347,3 +1346,7 @@
 |因此修复功能应在确实没有其它解决办法的时候才使用。如果你使用了这个功能，稍候你应该检查整个数据库来排查损坏的数据。|
 |Are you sure you want to attempt to repair a database file?|
 |你确定想要修复一个数据文件吗？|
+|ch.|
+|字符|
+|Saving database...|
+|正在保存数据库...|
