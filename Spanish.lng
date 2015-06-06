@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.28|
+|~LANGUAGEVERSION||1.29|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -18,7 +18,6 @@
 |&Add Entry...||&Añadir entrada...|
 |&Always on Top||Siempre encim&a|
 |&Attachment||&Adjunto|
-|&Cancel||&Cancelar|
 |&Case sensitive||Distinguir &mayúsculas de minúsculas|
 |&Close||&Cerrar|
 |&Copy||&Copiar|
@@ -56,7 +55,7 @@
 |&Lock/Unlock Workspace||&Bloquear/Desbloquear área de trabajo|
 |&Modify All Selected...||&Modificar todas las seleccionadas|
 |&New...||&Nuevo...|
-|&OK||&Aceptar|
+|OK||Aceptar|
 |&Open with KeePass||&Abrir con KeePass|
 |&Open...||&Abrir...|
 |&Options...||&Opciones...|
@@ -506,6 +505,7 @@
 |Select key file manually...||Seleccionar archivo de clave manualmente...|
 |Select key file manually...||Seleccione manualmente el archivo de clave...|
 |Select one of the languages in the list below.||Seleccione un idioma entre los listados abajo.|
+|Select &Password Font||Seleccione la &fuente para las contraseñas|
 |Select the fields KeePass should remember||Seleccione los campos que KeePass debería recordar|
 |Select the target window for the current entry.||Seleccione la ventana destino para la entrada actual.|
 |Self-Test(s) Failed||Auto-Test(s) falló(aron)|
