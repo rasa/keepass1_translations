@@ -1,11 +1,11 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.27|
+|1.28|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
-|ronan2975@users.sourceforge.net|
+|frt15t@boribar.com|
 |&OK|
 |&OK|
 |&Cancel|
@@ -768,8 +768,6 @@
 |Sauvegarder automatiquement avant de fermer/verrouiller la base de données|
 |Delete all backup entries before saving the database|
 |Effacer toutes les entrées sauvegardées avant d'enregistrer la base de mots de passe|
-|Press Shift-Home or Shift-End to clear this edit control|
-|Appuyer sur Maj-Origine ou Maj-Fin pour effacer ce contrôle d'édition|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
 |Plus ce nombre est élevé, plus les attaques de type dictionnaire sont difficiles. Mais ceci ralentit également le chargement et l'enregistrement de la base de mots de passe.|
 |Use alternative auto-type method (minimize window)|
@@ -1345,3 +1343,9 @@
 |Warning|
 |Attention|
 |&Export|&Exporter||
+|Press Shift+Home or Shift+End to clear this edit control|
+|Appuyer Maj+Origine ou Maj+Fin pour effacer cette commande d'édition|
+|Saving database...|
+|Enregistrement en cours de la Base de données...|
+|ch.|
+|Car.|
