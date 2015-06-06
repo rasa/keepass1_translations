@@ -1,5 +1,5 @@
-|~LANGUAGENAME||Norsk (nynorsk)|
-|~LANGUAGEVERSION||1.27|
+﻿|~LANGUAGENAME||Norsk (nynorsk)|
+|~LANGUAGEVERSION||1.28|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||l10n@landro.net|
 |&OK||&OK|
@@ -412,7 +412,6 @@
 |Paste operation completed.||Innliminga er ferdig.|
 |Limit to single instance||Avgrens til eitt tilfelle|
 |Use more secure password edit controls||Bruk sikrare passordendringskontrollar|
-|Press Shift-Home or Shift-End to clear this edit control||Trykk Skift+Home eller Skift+End for å tømma denne endringskontrollen|
 |Single left click instead of double-click for default tray icon action||Bruk enkeltklikk for å utføra standardhandlinga på systemfeltikon|
 |Exclude entries in the '&Backup' group||Ta ikkje med postar i &tryggleikskopigruppa|
 |By default, new entries expire in the following number of days:||Standardverdien er at nye postar går ut etter dette talet på dagar:|
@@ -668,4 +667,10 @@
 |In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.||For å kunna redda so mange data som råd er, vil ikkje datakonsistensen verta kontrollert i reparasjonsmodus. Når ingen integritetskontrollar vert utførte, kan øydelagte eller skadelege data verta tekne med i databasen din.|
 |Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.||Derfor bør du berre prøva å reparera når det ikkje finst andre løysingar. Etter ein reparasjon bør du sjå etter feil eller øydelagde data i heile databasen.|
 |Warning||Åtvaring|
-|&Export||&Eksporter||&Export Group||Eksporter gr&uppa||&Import||&Importer||&Repair Database File...||&Reparer databasefila …|
+|&Export||&Eksporter|
+|&Export Group||Eksporter gr&uppa|
+|&Import||&Importer|
+|&Repair Database File...||&Reparer databasefila …|
+|Press Shift+Home or Shift+End to clear this edit control||Trykk Skift+Home eller Skift+End for å tømma denne endringskontrollen|
+|Saving database...||Lagrar databasen …|
+|ch.||teikn|
