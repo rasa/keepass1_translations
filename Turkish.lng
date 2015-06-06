@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                                              |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                           |1.26|
+|~LANGUAGEVERSION|                                           |1.28|
 |~LANGUAGEAUTHOR|                                            |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                       |<translator@zeron.net>|
 |&OK|                                                        |&Tamam|
@@ -111,7 +111,7 @@
 |Save &As...|                                                |&Farklı Kaydet...|
 |Change &Master Key...|                                      |Temel Anahtarı &Değiştir...|
 |&Print...|                                                  |Ya&zdır...|
-|&Export To|                                                 |Dosyaya &Ver|
+|&Export|                                                    |&Ver|
 |&Lock Workspace|                                            |Çalışma Alanını &Kilitle|
 |&Unlock Workspace|                                          |Çalışma Alanını &Aç|
 |E&xit|                                                      |&Çıkış|
@@ -217,7 +217,7 @@
 |&HTML File...|                                              |&HTML Dosyası...|
 |&XML File...|                                               |&XML Dosyası...|
 |&CSV File...|                                               |&CSV Dosyası...|
-|&Import From|                                               |Dosyadan A&l|
+|&Import|                                                    |A&l|
 |&Get more languages...|                                     |Başka &dillere bak...|
 |Start and exit|                                             |Başlangıç ve Çıkış|
 |Interface (GUI)|                                            |Arabirim (GUI)|
@@ -449,7 +449,7 @@
 |Paste operation completed.|                                 |Yapıştırma tamamlandı.|
 |Limit to single instance|                                   |Tek KeePass kopyası çalışsın|
 |Use more secure password edit controls|                     |Daha güvenli parola düzenleme denetimleri kullan|
-|Press Shift-Home or Shift-End to clear this edit control|   |Bu düzenleme denetimini temizlemek için Shift-Home ya da Shift-End tuşlarına basın|
+|Press Shift+Home or Shift+End to clear this edit control|   |Bu düzenleme denetimini temizlemek için Shift+Home ya da Shift+End tuşlarına basın|
 |Single left click instead of double-click for default tray icon action|
     |Sistem alanı simgesi çift yerine tek sol tıklama ile etkinleşsin|
 |Exclude entries in the '&Backup' group|                     |'&Yedek' grubundaki kayıtlar yoksayılsın|
@@ -469,7 +469,7 @@
 |&Donate...|                                                 |&Bağış Yapın...|
 |Use alternative auto-type method (minimize window)|         |Alternatif kendiliğinden yazma yöntemi kullanılsın (pencereyi küçült)|
 |Delete all backup entries before saving the database|       |Veritabanını kaydedilmeden önce 'Yedek' grubundaki tüm kayıtlar silinsin|
-|&Repair KeePass Database File...|                           |KeePass Veritabanı Dosyasını &Onar...|
+|&Repair Database File...|                                   |Veritabanı Dosyasını &Onar...|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
     |Almak için seçtiğiniz dosya biçimi grup ve/veya kayıt kimliklerini destekliyor. Lütfen bir alma yöntemi seçin.|
 |Create new IDs|                                             |Yeni kimlikler oluşturulsun|
@@ -571,7 +571,7 @@
     |Beklenen giriş biçimi ile ilgili ayrıntılı bilgi yardım dosyasında bulunabilir. Yardım dosyası açılsın mı?|
 |Failed to save the configuration.|                          |Ayarlar kaydedilemedi.|
 |Arguments|                                                  |Değişkenler|
-|&Export Group To|                                           |&Grubu şuraya ver|
+|&Export Group|                                              |&Grubu ver|
 |in "Minimal functionality" mode|                            |"Minimum işlevsellik" kipinde|
 |Regular expression|                                         |Kurallı ifade|
 |Default user name for new entries:|                         |Yeni kayıtlar için varsayılan kullanıcı adı:|
@@ -737,6 +737,8 @@
 |&No|                                                        |&Hayır|
 |&Yes|                                                       |&Evet|
 |Custom database color:|                                     |Özel veritabanı rengi:|
+|Saving database...|                                         |Veritabanı kaydediliyor...|
+|ch.|                                                        |kr.|
 |Minimize main window after locking the workspace|           |Çalışma alanı kilitlendikten sonra ana pencere küçültülsün|
 |Ensure same keyboard layouts during auto-type|              |Kendiliğinden yazarken aynı tuş takımı düzeni korunsun|
 |Select &Notes Font|                                         |&Not Yazı Tipini Seçin|
