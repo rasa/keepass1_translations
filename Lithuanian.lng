@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.26|
+|1.27|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -322,8 +322,8 @@
 |&Print...|
 |&Spausdinti...|
 
-|&Export To|
-|&Eksportuoti į|
+|&Export|
+|&Eksportuoti|
 
 |&Lock Workspace|
 |B&lokuoti darbalaukį|
@@ -459,6 +459,7 @@
 
 |Select at least one of the options in the list above!|
 |Sąraše pasirinkite bent vieną parinktį!|
+
 
 |The following self-tests failed:|
 |Nepavyko šie vidiniai bandymai:|
@@ -658,8 +659,8 @@
 |&CSV File...|
 |&CSV failas...|
 
-|&Import From|
-|I&mportuoti iš|
+|&Import|
+|I&mportuoti|
 
 |&Get more languages...|
 |&Kitos kalbos...|
@@ -1387,8 +1388,8 @@
 |Delete all backup entries before saving the database|
 |Prieš išsaugant duomenų bazę pašalinti visus atsarginius įrašus|
 
-|&Repair KeePass Database File...|
-|Pataisyti KeePass &duomenų bazės failą...|
+|&Repair Database File...|
+|Pataisyti &duomenų bazės failą...|
 
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
 |Failo formatas, kuri pasirinkote importui, palaiko grupių ir/ar įrašų ID. Pasirinkite importo elgseną.|
@@ -1651,8 +1652,8 @@
 |Arguments|
 |Argumentai|
 
-|&Export Group To|
-|&Eksportuoti grupę į|
+|&Export Group|
+|&Eksportuoti grupę|
 
 |in "Minimal functionality" mode|
 |„Minimalaus funkcionalumo" režimas|
