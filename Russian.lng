@@ -1,10 +1,9 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.28|
+|~LANGUAGEVERSION|             |1.29|
 |~LANGUAGEAUTHOR|              |Andrew Gavrushenko (varrey)|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
-|&OK|           |&OK|
-|&Cancel|       |&Отмена|
+|OK|            |OK|
 |&Close|        |&Закрыть|
 
 |&Generate Random Password|    |&Генерация случайного пароля|
@@ -899,3 +898,5 @@
 |Press Shift+Home or Shift+End to clear this edit control| |Нажмите Shift+Home или Shift+End для очистки этого поля|
 |Saving database...| |Сохранение базы паролей...|
 |ch.| |сим.|
+
+|Select &Password Font| |Шрифт &пароля|
