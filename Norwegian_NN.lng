@@ -1,9 +1,7 @@
 ﻿|~LANGUAGENAME||Norsk (nynorsk)|
-|~LANGUAGEVERSION||1.28|
+|~LANGUAGEVERSION||1.29|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||l10n@landro.net|
-|&OK||&OK|
-|&Cancel||&Avbryt|
 |&Close||L&ukk|
 |&Generate Random Password||&Lag tilfeldig passord|
 |General||Generelt|
@@ -674,3 +672,5 @@
 |Press Shift+Home or Shift+End to clear this edit control||Trykk Skift+Home eller Skift+End for å tømma denne endringskontrollen|
 |Saving database...||Lagrar databasen …|
 |ch.||teikn|
+|OK||OK|
+|Select &Password Font||Vel &passordskrifttype|
