@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.26|
+|~LANGUAGEVERSION|             |1.27|
 |~LANGUAGEAUTHOR|              |Varrey|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -150,7 +150,6 @@
 |Save &As...|            |Сохранить &как...|
 |Change &Master Key...|  |&Изменить основной пароль...|
 |&Print...|              |&Распечатать...|
-|&Export To|             |&Экспортировать в|
 |&Lock Workspace|        |За&блокировать|
 |&Unlock Workspace|      |Сн&ять блокировку|
 |E&xit|                  |&Выход|
@@ -163,7 +162,6 @@
 |Ed&it Group...|   |Изм&енить группу...|
 |&Delete Group...| |&Удалить группу...|
 |Pr&int Group...|  |&Распечатать группу...|
-|&Export Group To| |&Экспортировать группу в|
 |Copy User &Name|  |Скопировать &имя пользователя|
 |Copy &Password|   |Скопировать &пароль|
 |Open &URL(s)|     |Открыть &ссылку(и)|
@@ -319,7 +317,6 @@
 |&HTML File...|                |&HTML файл...|
 |&XML File...|                 |&XML файл...|
 |&CSV File...|                 |&CSV файл...|
-|&Import From|                 |И&мпортировать, используя|
 
 |&Get more languages...|       |&Больше языков...|
 |Start and exit|               |Запуск и выход|
@@ -624,7 +621,7 @@
 |Include backup entries in quick searches|
     |Включать резервные записи в результаты быстрого поиска|
 
-|&Repair KeePass Database File...| |По&чинить файл с паролями...|
+|&Repair Database File...| |По&чинить файл с паролями...|
 |Delete all backup entries before saving the database| |Удалять все резервные записи перед сохранением базы паролей|
 |Press Shift-Home or Shift-End to clear this edit control| |Нажмите Shift-Home или Shift-End для очистки этого поля|
 |Use alternative auto-type method (minimize window)| |Использовать альтернативный метод автонабора|
@@ -895,3 +892,7 @@
 |Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
 |Поэтому функциональность восстановления должна использоваться только при отсутствии других решений. После восстановления необходимо проверить всю базу паролей на предмет наличия поврежденных данных.|
 |Warning| |Внимание|
+
+|&Export|             |&Экспортировать в|
+|&Export Group|       |&Экспортировать группу в|
+|&Import|             |И&мпортировать|
