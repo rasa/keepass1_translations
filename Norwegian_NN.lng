@@ -1,5 +1,5 @@
-﻿|~LANGUAGENAME||Norsk (nynorsk)|
-|~LANGUAGEVERSION||1.26|
+|~LANGUAGENAME||Norsk (nynorsk)|
+|~LANGUAGEVERSION||1.27|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||l10n@landro.net|
 |&OK||&OK|
@@ -101,7 +101,6 @@
 |Save &As...||Lagra &som …|
 |Change &Master Key...||Endra &hovudpassordet …|
 |&Print...||Skriv &ut …|
-|&Export To||&Eksporter til|
 |&Lock Workspace||Lås arbeids&flata|
 |&Unlock Workspace||&Opna arbeidsflata|
 |E&xit||Avsl&utt|
@@ -202,7 +201,6 @@
 |&HTML File...||&HTML-fil …|
 |&XML File...||&XML-fil …|
 |&CSV File...||&CSV-fil …|
-|&Import From||&Importer frå|
 |&Get more languages...||&Hent fleire språk …|
 |Start and exit||Start og avslutning|
 |Interface (GUI)||(Grafisk) grensesnitt|
@@ -430,7 +428,6 @@
 |&Donate...||&Doner …|
 |Use alternative auto-type method (minimize window)||Bruk alternativ auto-inntastingsmetode (minimer vindauge)|
 |Delete all backup entries before saving the database||Slett alle kopipostar før databaselagring|
-|&Repair KeePass Database File...||&Reparer KeePass databasefil …|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.||Filformatet du har vald for import støttar gruppe- og/eller post-ID. Vel kva for eigenskap du vil nytta.|
 |Create new IDs||Lag nye ID-ar|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.||Dette valet gjer at KeePass lagar nye ID-ar for alle grupper og postar. Dermed vil ikkje eksisterande data bli overskrivne.|
@@ -510,7 +507,6 @@
 |The help file contains detailed information about the expected input format. Do you want to open the help file?||Hjelpefila inneheld detaljerte opplysningar om inndataformatet ein ventar seg. Vil du opna ho?|
 |Failed to save the configuration.||Klarte ikkje å lagra innstillingane.|
 |Arguments||Argument|
-|&Export Group To||&Eksporter gruppe til|
 |Advanced Password Generator Options||Avanserte passordlagingsval|
 |Clear Search History||Tøm søkhistorikken|
 |Collect additional &entropy||Samla tilleggs&entropi|
@@ -672,3 +668,4 @@
 |In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.||For å kunna redda so mange data som råd er, vil ikkje datakonsistensen verta kontrollert i reparasjonsmodus. Når ingen integritetskontrollar vert utførte, kan øydelagte eller skadelege data verta tekne med i databasen din.|
 |Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.||Derfor bør du berre prøva å reparera når det ikkje finst andre løysingar. Etter ein reparasjon bør du sjå etter feil eller øydelagde data i heile databasen.|
 |Warning||Åtvaring|
+|&Export||&Eksporter||&Export Group||Eksporter gr&uppa||&Import||&Importer||&Repair Database File...||&Reparer databasefila …|
