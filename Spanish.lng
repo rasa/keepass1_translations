@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.26|
+|~LANGUAGEVERSION||1.27|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -35,8 +35,8 @@
 |&Edit||&Editar|
 |&Enable||&Activar|
 |&Expiration Time||Fecha de &expiración|
-|&Export Group To||&Exportar grupo a|
-|&Export To||&Exportar a|
+|&Export Group||&Exportar grupo|
+|&Export||&Exportar|
 |&File||&Archivo|
 |&Find in Database...||Encontrar en la &base de datos...|
 |&Find||&Encontrar|
@@ -49,7 +49,7 @@
 |&Help Contents||Contenidos de &ayuda|
 |&Help||&Ayuda|
 |&HTML File...||Archivo &HTML...|
-|&Import From||&Importar desde|
+|&Import||&Importar|
 |&KeePass Database...||Base de datos de &KeePass...|
 |&Last Access Time||Ú&ltimo acceso|
 |&Lock Workspace||&Bloquear área de trabajo|
@@ -68,7 +68,7 @@
 |&Read-Only||Sólo lectu&ra|
 |&Rearrange||&Reorganizar|
 |&Remove Association||&Quitar asociación|
-|&Repair KeePass Database File...||Reparar el archivo de base de datos de KeePass...|
+|&Repair Database File...||Reparar el archivo de base de datos...|
 |&Save Attached File To...||Guardar archi&vo adjunto en...|
 |&Save||&Guardar|
 |&Select All||&Seleccionar todos|
