@@ -1,15 +1,11 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.28|
+|1.29|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
 |frt15t@boribar.com|
-|&OK|
-|&OK|
-|&Cancel|
-|&Annuler|
 |&Close|
 |&Fermer|
 |&Generate Random Password|
@@ -103,15 +99,15 @@
 |Use &Mouse as Random Source|
 |Utilisez la &Souris comme Source d'Aléa|
 |Move the mouse in the field above until this is full:|
-|Bouger la souris dans le champ jusqu'à son remplissage :|
+|Bouger la souris dans le champ ci-dessus jusqu'à son remplissage :|
 |Hint: It is best to use both mouse and keyboard random sources.|
-|Conseil : il est mieux d'utiliser à la fois la souris et le clavier.|
+|Conseil : c'est mieux d'utiliser à la fois la souris et le clavier comme sources aléatoires.|
 |Last &Modification Time|
 |Heure de la Dernière &Modification|
 |Random keyboard input|
 |Saisie aléatoire au clavier|
 |Just hack some random keys into the edit box above.|
-|Juste saisir des caractères aléatoires ci-dessus.|
+|Saisir juste des caractères aléatoires dans la boîte d'édition ci-dessus.|
 |You don't have to remember the keys you type in. They are used to generate a random value.|
 |Il n'est pas nécessaire de retenir les caractères saisis. Ils sont utilisés pour générer une valeur aléatoire.|
 |So, the more the better. The different, the better.|
@@ -127,9 +123,9 @@
 |Get Random Data for Key Generation|
 |Générer des Données Aléatoires pour la Génération de Clé|
 |Move the mouse and type some random text to generate random values.|
-|Déplacez la souris et saisissez un texte quelconque pour générer des valeurs aléatoires.|
+|Déplacer la souris et saisir un texte quelconque pour générer des valeurs aléatoires.|
 |Pick an Icon|
-|Sélectionnez une Icône|
+|Sélectionner une Icône|
 |&File|
 |&Fichier|
 |&Edit|
@@ -227,15 +223,15 @@
 |Stop|
 |Arrêter|
 |Enter a group name!|
-|Saisissez le nom de groupe!|
+|Saisissez un nom de groupe!|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
-|Vous devez générer des valeurs aléatoires en utilisant un déplacement de souris ou la zone de saisie au clavier avant de fermer cette fenêtre.|
+|Vous devez générer des valeurs aléatoires en utilisant un déplacement aléatoire de souris ou la zone de saisie au clavier avant de fermer cette fenêtre.|
 |No random input|
 |Aucune entrée aléatoire|
 |The password must consist of at least one character!|
-|Le mot de passe doit contenir au minimum 1 caractère!|
+|Le mot de passe doit contenir au minimum un caractère!|
 |Select at least one of the options in the list above!|
-|Sélectionnez au minimum une option dans la liste ci-dessus!|
+|Sélectionner au minimum une option dans la liste ci-dessus!|
 |The following self-tests failed:|
 |Les auto-tests suivants ont échoué:|
 |- SHA 32-bit variables|
@@ -287,9 +283,9 @@
 |Cannot open temporary file for printing!|
 |Impossible d'ouvrir le fichier temporaire pour l'impression!|
 |Load Language File|
-|Ouvrir un Fichier Language|
+|Ouvrir un Fichier de Langue|
 |Load a Language File|
-|Ouvrir un Fichier Langage|
+|Ouvrir un Fichier Langue|
 |Select one of the languages in the list below.|
 |Sélectionnez une langue dans la liste ci-dessous.|
 |Available Languages|
@@ -301,9 +297,9 @@
 |Newline sequence:|
 |Séquence nouvelle ligne:|
 |Windows newline sequence (\r\n)|
-|Séquence Windows (\r\n)|
+|Séquence nouvelle ligne Windows (\r\n)|
 |Unix newline sequence (\n)|
-|Séquence Unix (\n)|
+|Séquence nouvelle ligne Unix (\n)|
 |Clipboard auto-clear time (seconds):|
 |Temps d'auto-effacement du presse-papiers (secondes) :|
 |Settings|
@@ -333,17 +329,17 @@
 |Restart KeePass?|
 |Redémarrer KeePass ?|
 |Application cannot be restarted automatically!|
-|L'application ne peut redémarrer automatiquement!|
+|L'application ne peut redémarrer automatiquement !|
 |Please restart KeePass manually.|
 |Veuillez redémarrer KeePass manuellement.|
 |&CSV File...|
 |Fichier &CSV...|
 |&PwSafe v2 TXT File...|
-|Fichier texte '&PwSafe v2'...|
+|Fichier TXT '&PwSafe v2'...|
 |Select &Font|
-|Sélectionnez la &police|
+|Sélectionnez la &Police|
 |Select &Notes Font|
-|Sélectionnez les &Notes la police|
+|Sélectionnez les &Notes la Police|
 |Select a new font for the list controls:|
 |Sélectionnez une nouvelle police pour les contrôles de la liste :|
 |Save current settings as password generator profile.|
@@ -379,7 +375,7 @@
 |Minimize to tray instead of taskbar|
 |Réduire dans la zone de notification au lieu de la barre des tâches|
 |Encryption algorithm to use (for this database):|
-|Algorithme de chiffrement à utiliser (pour cette base de mots de passe) :|
+|Algorithme de chiffrement à utiliser (pour cette base de données de mots de passe) :|
 |Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
 |Advanced Encryption Standard (AES) (blocs de 128 bits, clé de 256 bits)|
 |Twofish (128-bit block cipher using 256-bit key)|
@@ -389,7 +385,7 @@
 |KeePass is OSI Certified Open Source Software.|
 |KeePass est un logiciel Open Source certifié OSI.|
 |&Group name|
-|Nom de &groupe|
+|Nom de &Groupe|
 |Every second row has a different background color. Use this color:|
 |Chaque ligne paire utilise une couleur de fond différente. Utilisez cette couleur :|
 |Start KeePass at Windows startup (for current user)|
@@ -403,13 +399,13 @@
 |Search Results|
 |Résultats de la Recherche|
 |&Creation Time|
-|Date de &création|
+|Date de &Création|
 |Creation Time|
 |Heure de Création|
 |Last Modification|
-|Dernière modification|
+|Dernière Modification|
 |Last Access|
-|Dernier accès|
+|Dernier Accès|
 |&Last Access Time|
 |Heure du &Dernier accès|
 |Expires|
@@ -459,13 +455,13 @@
 |&Delete|
 |&Effacer|
 |&TAN Wizard...|
-|Assistant &TAN...|
+|Assistant &NAT...|
 |TAN Wizard|
-|Assistant TAN|
+|Assistant NAT|
 |Using this wizard you can easily add TAN entries.|
-|Avec cet assistant, vous pouvez facilement ajouter des entrées TAN.|
+|Avec cet assistant, vous pouvez facilement ajouter des entrées NAT.|
 |<TAN>|
-|<TAN>|
+|<NAT>|
 |&Print...|
 |Im&primer...|
 |Print Pre&view...|
@@ -477,7 +473,7 @@
 |Currently Used Language|
 |Langue Actuelle Utilisée|
 |Language File Version|
-|Version du Fichier langage |
+|Version du Fichier de Langue |
 |Author|
 |Auteur |
 |Translation Author Contact|
@@ -503,17 +499,17 @@
 |Open file and set as attachment...|
 |Ouvrir un fichier et l'utiliser comme un fichier joint...|
 |Save attached file to disk...|
-|Enregistrer le fichier attaché sur le disque...|
+|Enregistrer le fichier joint sur le disque...|
 |There already is a file attached with this entry.|
-|Un fichier est déjà attaché à cette entrée.|
+|Un fichier est déjà joint à cette entrée.|
 |Do you want to overwrite the current attachment?|
 |Voulez vous écraser le fichier joint actuel ?|
 |&Save Attached File To...|
-|Enregi&strer le fichier attaché sous...|
+|Enregi&strer le fichier joint sous...|
 |There is no file attached with this entry.|
-|Aucun fichier n'est attaché à cette entrée.|
+|Aucun fichier n'est joint à cette entrée.|
 |Remove the currently attached file|
-|Supprimer le fichier actuellement attaché|
+|Supprimer le fichier actuellement joint|
 |Close button [X] minimizes the main window instead of terminating the application|
 |Le bouton Fermer [X] minimise la fenêtre principale au lieu de quitter l'application|
 |KeePass Password Database|
@@ -521,7 +517,7 @@
 |&Open with KeePass|
 |&Ouvrir avec KeePass|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
-|Vous pouvez associer ici l'extension .kdb avec KeePass (pour que KeePass ouvre ces fichiers lors d'un double-clic) :|
+|Vous pouvez associer ici l'extension .kdb avec KeePass (afin que KeePass ouvre ces fichiers lors d'un double-clic) :|
 |Create &Association|
 |Créer l'&association|
 |&Remove Association|
@@ -533,7 +529,7 @@
 |The file couldn't be saved.|
 |le fichier ne peut être enregistré.|
 |Maybe it's read-only or the storage media has been removed.|
-|Le support de données peut être protégé en écriture ou avoir été retiré.|
+|Le support de sotckage est soit protégé en écriture soit a été retiré.|
 |If you exit now, all changes to the current database will be lost.|
 |Si vous quittez maintenant, tous les changements dans la base de mots de passe courante seront perdus.|
 |Would you like to exit anyway?|
@@ -563,11 +559,11 @@
 |Quality:|
 |Qualité :|
 |Database Settings|
-|Configuration de la base de mots de passe|
+|Configuration de la base de données|
 |Here you can configure the current database.|
-|Vous pouvez configurer ici la base de mots de passe courante.|
+|Vous pouvez configurer ici la base de données courante.|
 |Database Summary|
-|Résumé de la base de mots de passe|
+|Résumé de la Base de données|
 |Number of key encryption rounds:|
 |Nombre de passes de chiffrement de la clé :|
 |bits|
@@ -589,7 +585,7 @@
 |Status|
 |Statut|
 |The database file has been modified!|
-|Le fichier de base de mots de passe a été modifié!|
+|Le fichier de la base de données a été modifié!|
 |Most probably someone has changed the file while you were editing it.|
 |Le plus probable est que quelqu'un a changé le fichier pendant que vous le modifiez.|
 |Do you want to overwrite it?|
@@ -605,15 +601,15 @@
 |This will remove all selected entries unrecoverably!|
 |Ceci détruira de manière définitive toutes les entrées sélectionnées!|
 |Use PuTTY for ssh: and telnet: URLs|
-|Utilisez PuTTY pour les URLs ssh: et telnet:|
+|Utilisez PuTTY pour ssh: et telnet: URL|
 |N&o Auto-Sort|
 |Pas de tri aut&omatique|
 |Auto-&Sort Password List|
 |Liste de mots de passe triée automatiquement|
 |Auto-sorting of the password list is enabled, you cannot move entries manually.|
-|Le tri automatique de la liste de mots de passe est activé, vous ne pouvez déplacer des entrées manuellement.|
+|Le tri automatique de la liste de mots de passe est activé, vous ne pouvez pas déplacer des entrées manuellement.|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
-|Le tri automatique de la liste de mots de passe est activé, vous ne pouvez trier la liste manuellement.|
+|Le tri automatique de la liste de mots de passe est activé, vous ne pouvez pas trier la liste manuellement.|
 |Perform Auto-&Type|
 |Saisie au&tomatique|
 |&Disable|
@@ -621,9 +617,9 @@
 |&Enable|
 |Activ&er|
 |&Plugins...|
-|&Plugins...|
+|&Greffonq...|
 |About &Plugin...|
-|A propos du &plugin|
+|A propos du &Greffon|
 |Auto-Type|
 |Saisie auto|
 |Clipboard behavior:|
@@ -665,11 +661,11 @@
 |Never expires|
 |N'expire jamais|
 |Number the TANs consecutively, starting from this value|
-|Numéroter les TANs de manière incrémentielle, à partir de cette valeur|
+|Numéroter les NAT de manière incrémentielle, à partir de cette valeur|
 |Plugins|
-|Plugins|
+|Greffons|
 |Plugin|
-|Plugin|
+|Greffon|
 |Success|
 |Succès|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
@@ -685,9 +681,9 @@
 |Click [Cancel] to abort changing the key.|
 |Cliquez sur [Annuler] pour annuler le changement de clé.|
 |Failed to create backup of this entry!|
-|Impossible de créer une sauvegarde de cette entrée!|
+|Impossible de créer une sauvegarde de cette entrée !|
 |Immediately after opening a database|
-|Immédiatement après l'ouverture d'une base de mots de passe|
+|Immédiatement après l'ouverture d'une base de données|
 |Integration|
 |Intégration|
 |Start minimized and locked|
@@ -695,13 +691,13 @@
 |Save backups of modified entries into the 'Backup' group|
 |Enregistrer une sauvegarde des entrées modifiées dans le groupe 'Sauvegarde'|
 |Show entries that will expire soon (if any)|
-|Montrer les entrées qui expirent bientôt (s'il y en a)|
+|Montrer les entrées qui expireront bientôt (s'il y en a)|
 |Show expired entries (if any)|
 |Montrer les entrées expirées (s'il y en a)|
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!|
 |Impossible de créer/supprimer la clé de démarrage automatique de KeePass dans le registre de Windows!|
 |&Get More Import Plugins...|
-|&Obtenir plus de Plugins d'Import...|
+|&Obtenir plus de Greffons d'Importation...|
 |Encode/replace newline characters by '\n'|
 |Encoder/remplacer les caractères nouvelle ligne par '\n'|
 |Export Options|
@@ -717,7 +713,7 @@
 |Icon|
 |Icône|
 |Save the database now in order to get the new key applied.|
-|Sauvegardez la base de mots de passe maintenant afin d'utiliser la nouvelle clé.|
+|Sauvegardez la base de données maintenant afin d'utiliser la nouvelle clé.|
 |1 Month|
 |1 mois|
 |1 Week|
@@ -727,7 +723,7 @@
 |3 Months|
 |3 mois|
 |By default, new entries expire in the following number of days:|
-|Par défaut, les nouvelles entrées expirent dans un délai en jours de :|
+|Par défaut, les nouvelles entrées expireront dans un délai en jours de :|
 |Calculate rounds for a 1-second delay on this computer|
 |Cycle de calcul pour un délai d'1 seconde sur cet ordinateur|
 |Cannot register the global hot key.|
@@ -749,9 +745,9 @@
 |Single left click instead of double-click for default tray icon action|
 |Simple clic gauche au lieu d'un double-clic pour l'action par défaut de l'icône de la zone de notification|
 |The program is distributed under the terms of the GNU General Public License v2 or later.|
-|Ce programme est distribué conformément aux dispositions de la licence GNU GPL, version 2 ou ultérieure.|
+|Ce programme est distribué conformément aux dispositions de la licence GNU GPL version 2 ou ultérieure.|
 |Use more secure password edit controls|
-|Utilisez des contrôles d'édition des mots de passe plus sûrs|
+|Utiliser des contrôles d'édition de mots de passe plus sûrs|
 |Waiting for paste command.|
 |Attente d'une commande Coller.|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
@@ -767,9 +763,9 @@
 |Automatically save when closing/locking the database|
 |Sauvegarder automatiquement avant de fermer/verrouiller la base de données|
 |Delete all backup entries before saving the database|
-|Effacer toutes les entrées sauvegardées avant d'enregistrer la base de mots de passe|
+|Effacer toutes les entrées sauvegardées avant d'enregistrer la base de données|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
-|Plus ce nombre est élevé, plus les attaques de type dictionnaire sont difficiles. Mais ceci ralentit également le chargement et l'enregistrement de la base de mots de passe.|
+|Plus ce nombre est élevé, plus les attaques de type par dictionnaire sont difficiles. Mais ceci ralentit également le chargement et l'enregistrement de la base de données.|
 |Use alternative auto-type method (minimize window)|
 |Utilisez la méthode alternative de saisie automatique (fenêtre minimisée)|
 |&KeePass Database...|
@@ -787,11 +783,11 @@
 |Copy &URL to Clipboard|
 |Copier l'&URL dans le Presse-Papiers|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
-|Copier les URLs dans le presse-papiers plutôt que de les ouvrir (exception pour les URLs cmd://)|
+|Copier les URL dans le presse-papiers plutôt que de les ouvrir (exception : cmd:// URL)|
 |Create new IDs|
 |Créer de nouveaux IDs|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
-|Si vous sélectionnez cette option, KeePass créera de nouveaux IDs pour tous les groupes et entrées. Par conséquent aucun groupe ni entrée de la base de mots de passe actuellement ouverte ne sera modifié ou écrasé.|
+|Si vous sélectionnez cette option, KeePass créera de nouveaux ID pour tous les groupes et entrées. Par conséquent aucun groupe ni entrée de la base de mots de passe actuellement ouverte ne sera modifié ou écrasé.|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
 |KeePass comparera les dates de dernière modification des groupes/entrées et remplacera ceux existants uniquement si ceux à importer sont plus récents.|
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
@@ -805,17 +801,17 @@
 |Choose an icon.|
 |Choisir une icône.|
 |Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
-|Veuillez choisir si KeePass doit utiliser la clé de la base de mots de passe actuellement ouverte ou vous demander de définir une nouvelle clé pour chiffrer le fichier exporté.|
+|Veuillez choisir si KeePass doit utiliser la clé de la base de données actuellement ouverte ou vous demander de définir une nouvelle clé pour chiffrer le fichier exporté.|
 |Reuse the current key/password?|
 |Réutiliser la paire clé/mot de passe actuelle ?|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
-|Le format du fichier sélectionné pour l'import supporte les IDs de groupe et/ou d'entrée. Veuillez choisir un comportement d'import.|
+|Le format du fichier sélectionné pour l'import supporte les ID de groupe et/ou d'entrée. Veuillez choisir un comportement d'import.|
 |&Help|
 |&Aide|
 |&Help Contents|
 |&Sommaire de l'aide|
 |Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
-|Collez simplement vos TANs dans la fenêtre d'édition ci-dessous. Le formatage n'a pas réellement d'importance, tout caractère non TAN est ignoré et seules les sous chaînes TANs sont ajoutées comme entrées TAN.|
+|Collez simplement vos NAT dans la fenêtre d'édition ci-dessous. Le formatage n'a pas réellement d'importance, tout caractère non NAT est ignoré et seules les sous chaînes NAT sont ajoutées comme entrées NAT.|
 |The help file contains detailed information about the expected input format. Do you want to open the help file?|
 |Le fichier d'aide contient les informations détaillées a propos des formats d'entrée attendue. Voulez-vous ouvrir le fichier d'aide?|
 |&Tools|
@@ -833,7 +829,7 @@
 |Multiple entries exist for the current window. Please select the entry to auto-type.|
 |Des entrées multiples existent dans la fenêtre courante. Veuillez sélectionner l'entrée à utiliser pour la saisie automatique.|
 |TANs consist of the following characters:|
-|Les TAN se composent des caractères suivants :|
+|Les NAT se composent des caractères suivants :|
 |Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
 |Veuillez entrer un nom pour le nouveau profil de générateur de mots de passe, ou sélectionner un profil existant pour le remplacer :|
 |Now|
@@ -841,13 +837,13 @@
 |Open the file in read-only mode?|
 |Ouvrir le fichier en mode lecture seule ?|
 |Show TAN &Indices in Entry Titles|
-|Montrer les &Indices TAN dans le Titre des Entrées|
+|Montrer les &Indices NAT dans le Titre de l'Entrée|
 |TAN View &Options|
-|&Options d'affichage TAN|
+|&Options d'Affichage NAT|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
 |Le fichier que vous tentez d'utiliser est verrouillé, ce qui signifie que quelqu'un a déjà ouvert ce fichier et le modifie.|
 |Use &Simple List View for TAN-Only Groups|
-|Utilisez la vue Liste &Simple pour les Groupes TAN Uniquement|
+|Utilisez la vue Liste &Simple pour les Groupes NAT Uniquement|
 |'Keyfile' or 'preselect' option is already specified|
 |L'option 'Fichier de clés' ou 'Présélection' est déja spécifiée|
 |'Pw' option is already specified|
@@ -889,7 +885,7 @@
 |Application|
 |Application|
 |Do you grant the application access to your KeePass database?|
-|Permettez-vous à l'application d'accéder à votre Base de données KeePass?|
+|Permettez-vous à l'application d'accéder à votre base de données KeePass?|
 |Enable remote control (allow applications to communicate with KeePass)|
 |Activer le contrôle à distance (Permet aux applications de communiquer avec KeePass)|
 |Fields to remember|
@@ -1011,13 +1007,13 @@
 |Use local date/time format instead of ISO notation|
 |Utilisez le format local de date/heure plutôt que la notation ISO|
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
-|Si vous notez un problème avec la méthode évoluée, revenez à la méthode temporelle de vidange du presse-papier.|
+|Si vous notez un problème avec la méthode évoluée, revenez à la méthode temporelle de nettoyage du presse-papier.|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
-|Vérifier que le média contenant le fichier clé est inséré et que KeePass possède les droits d'accès (Vérifier les droits d'accès et qu'aucune autre application ne bloque ce fichier, ...).|
+|Assurez-vous que le média contenant le fichier clé est inséré et que KeePass possède les droits d'accès (Vérifier les droits d'accès et qu'aucune autre application ne bloque ce fichier, ...).|
 |There are too few characters in the character set to build up a password matching the specified rules|
 |Il y a trop de caractères dans ce jeux pour générer un mot de passe correspondant aux règles spécifiées|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
-|Attention! Il est possible que cette option ne fonctionne pas correctement sur votre système, spécialement si vous utilisez un presse-papier évolué ou un outil de sauvegarde du presse-papier.|
+|Attention ! Il est possible que cette option ne fonctionne pas correctement sur votre système, notamment si vous utilisez un presse-papier évolué ou un outil de sauvegarde du presse-papier.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
 |Vous avez sélectionnée le mode clé ET, vous devez donc saisir un mot de passe ET sélectionner un fichier clé.|
 |&Export Group|
@@ -1051,9 +1047,9 @@
 |Search...|
 |Recherche...|
 |TANs are imported into the currently selected group|
-|Les TANs seront importés dans le groupe actuellement sélectionné|
+|Les NAT seront importés dans le groupe actuellement sélectionné|
 |The key provider plugin did not supply a valid key|
-|Le plugin du fournisseur de la clé n'a pas fourni une clé valide|
+|Le greffon du fournisseur de la clé n'a pas fourni une clé valide|
 |Type to search the database|
 |Taper une recherche dans la base de donnée|
 |in "Minimal functionality" mode|
@@ -1091,7 +1087,7 @@
 |Lock workspace when locking Windows, switching user or sleeping|
 |Verrouiller l'espace de travail après avoir verrouillé Windows, permuter d'utilisateur ou avoir mis en veille|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
-|Les options et les règles marquées d'un astérisque réduise la sécurité des mots de passes générés. Ne les activez que si vous êtes forcés de suivre certaines règles d'un site, d'une application ou d'une police de mots de passe.|
+|Les options et les règles marquées d'un astérisque réduise la sécurité des mots de passes générés. Ne les activez que si vous êtes forcés de suivre certaines règles d'un site, d'une application ou d'une politique de mots de passe.|
 |Overwrite existing key file?|
 |Écrire par-dessus le fichier de clé existant?|
 |Reuse|
@@ -1161,7 +1157,7 @@
 |Insert Field Reference|
 |Insérer le champ Référence|
 |Multiple entries match the specified identifying field.|
-|Plusieures entrées correspondent le champ d'identification sélectionné.|
+|Plusieurs entrées correspondent au champ d'identification sélectionné.|
 |Prepend special initialization sequence for Internet Explorer windows|
 |Séquence spéciale d'initialisation préalable pour les fenêtres d'Internet Explorer|
 |Source field to reference|
@@ -1169,9 +1165,9 @@
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
 |Le fichier cible est peut être dans un état corrompu. Essayer de l'enregistrer encore une fois, et si cela ne fonctionne pas, enregistrer la base de données dans un répertoire différent.|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
-|Afin d'éviter les ambigüités, les entrées peuvent être identifiées par leur UUID, qui sont unique.|
+|Afin d'éviter les ambigüités, les entrées peuvent être identifiées par leur UUID, qui sont uniques.|
 |The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
-|Le champ sélectionné, qui identifie l'entrée d'origine, contient des caractères (tels que '{', '}', caractère de nouvelle ligne, ...) interdits.|
+|Le champ sélectionné, qui identifie l'entrée d'origine, contient des caractères (tels que '{', '}', caractère de nouvelle ligne, etc.) interdits.|
 |You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
 |Vous pouvez choisir une autre combinaison de touches dans 'Outils' - 'Options' - 'Avancé' - 'Saisie Automatique'.|
 |&Modify All Selected...|
@@ -1195,7 +1191,7 @@
 |Choose between local help and online help center.|
 |Choisir entre aide locale et centre d'aide en ligne.|
 |Get more plugins...|
-|Obtenir plus de plugins...|
+|Obtenir plus de greffons...|
 |Help &Source...|
 |&Origine de l'Aide...|
 |Help Source|
@@ -1205,9 +1201,9 @@
 |Online help center|
 |Centre d'aide en ligne|
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
-|Le fichier local d'aide est un aperçu de la documentation du produit lorsque la version de ce produit a été publiée. Elle n'est pas actualisée automatiquement.|
+|Le fichier local d'aide est un aperçu de la documentation du produit au moment où la version de ce produit a été publiée. Elle n'est pas actualisée automatiquement.|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.|
-|Le centre d'aide en ligne contient toujours la dernière version de la documentation du produit. Une connection Internet est pour cela requise.|
+|Le centre d'aide en ligne contient toujours la dernière version de la documentation du produit. Une connexion Internet pour cela est requise.|
 |This option is disabled, because local help is not installed.|
 |L'option est désactivée, parce que l'aide locale n'est pas disponible.|
 |Too little memory (RAM) available|
@@ -1233,7 +1229,7 @@
 |Connect failed, cannot check for updates.|
 |Echec de la connexion, impossible de  vérifier les mises à jour.|
 |Delete TAN entries immediately after using them|
-|Supprimer les entrées TAN immédiatement après les avoir utilisés|
+|Supprimer les entrées NAT immédiatement après les avoir utilisés|
 |Installed|
 |Installé|
 |KeePass 1.x cannot open KDBX files.|
@@ -1245,13 +1241,13 @@
 |Please choose a different name.|
 |Veuillez choisir un nom différent.|
 |Plugin unknown.|
-|Plugin inconnu.|
+|Greffon inconnu.|
 |Pre-release version.|
 |Version en pre-release|
 |Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
-|KeePass associée avec succès avec les fichiers. kdb! Un double-clic sur un fichier. kdb va maintenant démarrer KeePass automatiquement.|
+|KeePass a associé avec succès les fichiers .kdb ! Un double-clic sur un fichier .kdb démarrera dorénavant KeePass automatiquement.|
 |Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
-|Association supprimée avec succès! KeePass ne sera plus démarré lorsque vous double-cliquerez sur un fichier .kdb.|
+|Association supprimée avec succès ! KeePass ne sera plus démarré lorsque vous double-cliquerez sur un fichier .kdb.|
 |The specified name is reserved.|
 |Le nom spécifié est reservé.|
 |Up to date.|
@@ -1269,7 +1265,7 @@
 |Ctrl|
 |Ctrl|
 |Lock workspace after the following idle time (seconds):|
-|Verrouiller l'espace de travail après le délai d'inactivité (en secondes) :|
+|Verrouiller l'espace de travail après un délai d'inactivité (en secondes) :|
 |Sort List by &Creation Time|
 |Trier la liste par Date de c&réation|
 |Sort List by &Expiration Time|
@@ -1305,7 +1301,7 @@
 |Minimize main window after locking the workspace|
 |Réduire la fenêtre principale après le verrouillage de l'espace de travail|
 |Remember key sources (key file paths, provider names, ...)|
-|Se rappeler des sources de clé (chemins du fichier clé, noms fournis, ...)|
+|Se rappeler des sources de clé (chemins du fichier clé, noms fournis, etc.)|
 |Ensure same keyboard layouts during auto-type|
 |Assurer la même configuration du clavier pendant la saisie automatique|
 |{PARAM} more entries|
@@ -1313,7 +1309,7 @@
 |The database is empty|
 |La base de données est vide|
 |Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
-|Les vérifications de mise à jour automatique sont effectuées de façon inintrusive en arrière plan. Une information est affichée quand une mise à jour est disponible. Les mises à jour ne sont pas téléchargées et installées automatiquement.|
+|Les vérifications de mise à jour automatique sont effectuées de façon inintruisive en arrière plan. Une information n'est seulement affichée que lorsque une mise à jour est disponible. Les mises à jour ne sont pas téléchargées et installées automatiquement.|
 |Database files cannot be used as key files.|
 |Les fichiers de base de données ne peuvent pas être utilisés comme des fichiers clé.|
 |Enable automatic update check?|
@@ -1327,7 +1323,7 @@
 |KeePass can automatically check for updates on each program start.|
 |KeePass peut automatiquement vérifier des mises à jour à chaque démarrage du programme.|
 |No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
-|Aucune information personnelle n'est envoyée dans le serveur Web de KeePass. KeePass télécharges seulement un petit fichier d'information sur la version et compare la version disponible avec la version installée.|
+|Aucune information personnelle n'est envoyée dans le serveur Web de KeePass. KeePass télécharge seulement un petit fichier d'information sur la version et compare la version disponible avec la version installée.|
 |Quick search (toolbar)|
 |Recherche rapide (barre d'outils)|
 |Show tray icon only if main window has been sent to tray|
@@ -1342,10 +1338,15 @@
 |Ainsi la fonction de réparation devrait être uniquement utilisée que quand il n'y a vraiment plus aucune autre solution. Si vous l'utilisez, après vous devriez vérifier s'il y a des données corrompues/malveillantes dans toute la base de données.|
 |Warning|
 |Attention|
-|&Export|&Exporter||
+|&Export|
+|&Exporter|
 |Press Shift+Home or Shift+End to clear this edit control|
 |Appuyer Maj+Origine ou Maj+Fin pour effacer cette commande d'édition|
 |Saving database...|
 |Enregistrement en cours de la Base de données...|
 |ch.|
 |Car.|
+|OK|
+|OK|
+|Select &Password Font|
+|Sélectionner la police du mot de &passe|
