@@ -1,6 +1,6 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.27|
-|~LANGUAGEAUTHOR|              |Varrey|
+|~LANGUAGEVERSION|             |1.28|
+|~LANGUAGEAUTHOR|              |Andrew Gavrushenko (varrey)|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
 |&OK|           |&OK|
@@ -623,7 +623,6 @@
 
 |&Repair Database File...| |По&чинить файл с паролями...|
 |Delete all backup entries before saving the database| |Удалять все резервные записи перед сохранением базы паролей|
-|Press Shift-Home or Shift-End to clear this edit control| |Нажмите Shift-Home или Shift-End для очистки этого поля|
 |Use alternative auto-type method (minimize window)| |Использовать альтернативный метод автонабора|
 
 |&KeePass Database...| |Базу паролей &KeePass...|
@@ -896,3 +895,7 @@
 |&Export|             |&Экспортировать в|
 |&Export Group|       |&Экспортировать группу в|
 |&Import|             |И&мпортировать|
+
+|Press Shift+Home or Shift+End to clear this edit control| |Нажмите Shift+Home или Shift+End для очистки этого поля|
+|Saving database...| |Сохранение базы паролей...|
+|ch.| |сим.|
