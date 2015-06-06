@@ -1,7 +1,7 @@
-﻿2013-07-17 01:26|~LANGUAGENAME|
+﻿2014-04-03 01:27|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.26|
+|1.27|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ CCF|
 |~LANGUAGEAUTHOREMAIL|
@@ -212,7 +212,7 @@
 |更改管理密码/密匙(&M)...|
 |&Print...|
 |打印(&P)...|
-|&Export To|
+|&Export|
 |导出(&E)|
 |&Lock Workspace|
 |锁定工作区(&L)|
@@ -436,7 +436,7 @@
 |&XML文件...|
 |&CSV File...|
 |&CSV文件...|
-|&Import From|
+|&Import|
 |导入(&I)|
 |&Get more languages...|
 |获取更多语言(&G)...|
@@ -928,8 +928,8 @@
 |快速查找时包含失效记录|
 |Delete all backup entries before saving the database|
 |保存数据前删除所有备份记录|
-|&Repair KeePass Database File...|
-|修复KeePass数据库文件(&R)...|
+|&Repair Database File...|
+|修复数据库文件(&R)...|
 |&KeePass Database...|
 |&KeePass 数据库...|
 |Acknowledgements|
@@ -1124,8 +1124,8 @@
 |保存配置失败。|
 |Arguments|
 |参数|
-|&Export Group To|
-|输出群组到(&E)|
+|&Export Group|
+|导出群组(&E)|
 |in "Minimal functionality" mode|
 |处于"最小化功能"模式|
 |Regular expression|
