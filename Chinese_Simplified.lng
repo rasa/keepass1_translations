@@ -1,15 +1,13 @@
-﻿2014-09-25 01:28|~LANGUAGENAME|
+﻿2015-03-30 01:29|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.28|
+|1.29|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ CCF|
 |~LANGUAGEAUTHOREMAIL|
 |leodou at users.sourceforge.net|
-|&OK|
-|确定(&O)|
-|&Cancel|
-|取消(&C)|
+|OK|
+|确定|
 |&Close|
 |关闭(&C)|
 |&Generate Random Password|
@@ -421,11 +419,13 @@
 |&PwSafe v2 TXT File...|
 |&PwSafe v2 TXT文件...|
 |Select &Font|
-|选择字体(&F)|
+|选取字体(&F)|
+|Select &Password Font|
+|选取密码字体(&P)|
 |Select &Notes Font|
-|选择备注字体(&N)|
+|选取备注字体(&N)|
 |Select a new font for the list controls:|
-|为列表记录选择新字体：|
+|为列表记录选取新字体：|
 |Code&Wallet TXT File...|
 |Code&Wallet TXT文件...|
 |&TXT File...|
