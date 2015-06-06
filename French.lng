@@ -859,7 +859,7 @@
 |Database is already specified|
 |La base de données est déja spécifiée|
 |Disable 'Save' button if the database hasn't been modified|
-|Désactiver le bouton 'Enregsitrer' si la base de données n'a pas été modifiée|
+|Désactiver le bouton 'Enregistrer' si la base de données n'a pas été modifiée|
 |Filename not found|
 |Aucun fichier portant ce nom n'a été trouvé|
 |It contains an unmatched quote|
@@ -941,7 +941,7 @@
 |(No key file selected)|
 |(Aucun fichier clé sélectionné)|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
-|Un fichier clé est déjà présent sur ce disque. Voulez vous l'écraser ou le réutiliser?|
+|Un fichier clé est déjà présent sur ce disque. Voulez-vous l'écraser ou le réutiliser?|
 |All Files|
 |Tous Fichiers|
 |Generate using character set:|
@@ -1179,7 +1179,7 @@
 |Auto-Type: Customize Sequence|
 |Saisie Automatique : Séquence Personnalisée|
 |Clear clipboard when closing/locking the database|
-|Effacer le presse-papier en fermant/verouillant la base de données|
+|Effacer le presse-papier en fermant/verrouillant la base de données|
 |Exclude &expired entries|
 |Exclure les entrées &expirées|
 |Normal|
@@ -1257,7 +1257,7 @@
 |Up to date.|
 |À jour.|
 |Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
-|Utiliser CNG/BCrypt pour les transformations de clé (uniquement sur Windows Vista et supérieur)|
+|Utiliser CNG/BCrypt pour les transformations de clé (seulement avec Windows Vista et supérieur)|
 |Use the KeePass 2.x 'Export' feature to migrate this file|
 |Utiliser la fonction 'Exportation' de KeePass 2.x pour migrer ce fichier|
 |Version|
