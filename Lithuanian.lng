@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.27|
+|1.28|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -1334,9 +1334,6 @@
 |Use more secure password edit controls|
 |Naudoti saugesnius slaptažodžio redagavimo valdiklius|
 
-|Press Shift-Home or Shift-End to clear this edit control|
-|Norėdami panaikinti šį redagavimo valdiklį paspauskite Shift-Home ar Shift-End|
-
 |Single left click instead of double-click for default tray icon action|
 |Standartinis dėklo piktogramos veiksmas atliekamas spustelėjus kairįjį klavišą, o ne dukart spustelėjus|
 
@@ -2024,3 +2021,13 @@
 
 |Warning|
 |Įspėjimas|
+
+|Press Shift+Home or Shift+End to clear this edit control|
+|Norėdami panaikinti šį redagavimo valdiklį paspauskite Shift+Home ar Shift+End|
+
+
+|Saving database...|
+|Saugoma duomenų bazė...|
+
+|ch.|
+|žnkl.|
