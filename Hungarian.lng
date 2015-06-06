@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.26|
+|1.27|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -214,7 +214,7 @@
 |Meseterkul&cs megváltoztatása...|
 |&Print...|
 |Nyom&tatás...|
-|&Export To|
+|&Export|
 |&Exportálás|
 |&Lock Workspace|
 |Munkaterület &zárolása|
@@ -422,8 +422,8 @@
 |&XML fájl...|
 |&CSV File...|
 |&CSV fájl...|
-|&Import From|
-|&Importálás...|
+|&Import|
+|&Importálás|
 |&Get more languages...|
 |&További nyelvek...|
 |Start and exit|
@@ -630,8 +630,8 @@
 |Alternatív auto-gépelési módszer használata (az ablak kicsinyítésével)|
 |Delete all backup entries before saving the database|
 |Minden biztonsági másolat törlése az adatbázis mentése előtt|
-|&Repair KeePass Database File...|
-|KeePass adatbázis fájl &javítása...|
+|&Repair Database File...|
+|Adatbázis fájl &javítása...|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
 |Az általad importáláshoz választott fájl formátuma támogatja a csoportok és/vagy bejegyzések ID-jét (azonosítóját). Kérlek válaszd ki az importálás típusát.|
 |Create new IDs|
@@ -794,8 +794,8 @@
 |Beállítások mentése sikertelen.|
 |Arguments|
 |Argumentumok|
-|&Export Group To|
-|Csoport &exportálása mint|
+|&Export Group|
+|Csoport &exportálása|
 |in "Minimal functionality" mode|
 |Minimálisan működő módban|
 |Regular expression|
