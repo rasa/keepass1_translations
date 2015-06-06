@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.26|
+|1.27|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
@@ -148,8 +148,6 @@
 |Enregistrer so&us...|
 |Change &Master Key...|
 |&Modifier la clé maître...|
-|&Export To|
-|&Exporter sous|
 |&Lock Workspace|
 |&Verrouiller l'espace de travail|
 |&Unlock Workspace|
@@ -362,7 +360,7 @@
 |Fichier &CSV...|
 |CSV Files|
 |Fichiers &CSV|
-|&Import From|
+|&Import|
 |&Importer|
 |&Get more languages...|
 |&Obtenir d'autres langues...|
@@ -764,8 +762,8 @@
 |1 année|
 |6 Months|
 |6 mois|
-|&Repair KeePass Database File...|
-|&Réparer un fichier de base de mots de passe KeePass...|
+|&Repair Database File...|
+|&Réparer un fichier base de données...|
 |Automatically save when closing/locking the database|
 |Sauvegarder automatiquement avant de fermer/verrouiller la base de données|
 |Delete all backup entries before saving the database|
@@ -1024,8 +1022,8 @@
 |Attention! Il est possible que cette option ne fonctionne pas correctement sur votre système, spécialement si vous utilisez un presse-papier évolué ou un outil de sauvegarde du presse-papier.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
 |Vous avez sélectionnée le mode clé ET, vous devez donc saisir un mot de passe ET sélectionner un fichier clé.|
-|&Export Group To|
-|&Exporter le groupe en|
+|&Export Group|
+|&Exporter le groupe|
 |Advanced Password Generator Options|
 |Options avancées du générateur de mot de passe|
 |Clear Search History|
@@ -1346,3 +1344,4 @@
 |Ainsi la fonction de réparation devrait être uniquement utilisée que quand il n'y a vraiment plus aucune autre solution. Si vous l'utilisez, après vous devriez vérifier s'il y a des données corrompues/malveillantes dans toute la base de données.|
 |Warning|
 |Attention|
+|&Export|&Exporter||
