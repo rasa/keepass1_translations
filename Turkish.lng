@@ -1,11 +1,11 @@
 ﻿|~LANGUAGENAME|                                              |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                           |1.28|
+|~LANGUAGEVERSION|                                           |1.29|
 |~LANGUAGEAUTHOR|                                            |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                       |<translator@zeron.net>|
-|&OK|                                                        |&Tamam|
-|&Cancel|                                                    |İ&ptal|
+|OK|                                                         |&Tamam|
 |&Close|                                                     |&Kapat|
-|&Generate Random Password|                                  |&Rasgele parola üret|
+|&Generate Random Password|                                  |&Rasgele Parola Üret|
+|Select &Password Font|                                      |&Parola Yazı Tipi|
 |Choose an icon.|                                            |Bir simge seçin.|
 |General|                                                    |Genel|
 |Windows|                                                    |Windows|
