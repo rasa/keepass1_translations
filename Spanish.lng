@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.27|
+|~LANGUAGEVERSION||1.28|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -454,7 +454,7 @@
 |Pr&int Group...||Impr&imir grupo...|
 |Prepend special initialization sequence for Internet Explorer windows||Agregar secuencia especial de inicialización para ventanas de Internet Explorer|
 |Pre-release version.||Versión de pre-lanzamiento.|
-|Press Shift-Home or Shift-End to clear this edit control||Presione Shift-Inicio o Shift-Fin para borrar este control de edición|
+|Press Shift+Home or Shift+End to clear this edit control||Presione Shift+Inicio o Shift+Fin para borrar este control de edición|
 |Print backup entries (entries in the 'Backup' group)||Imprimir entradas de respaldo (entradas que se encuentren en el grupo 'Respaldo')|
 |Print Options||Opciones de impresión|
 |Print Pre&view...||&Pre&visualizar impresión...|
@@ -673,3 +673,5 @@
 |In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.||En modo de reparación la integridad de la información no es verificada (esto a fin de recuperar la mayor cantidad de información posible). Cuando no se realizan comprobaciones de integridad, información dañada o maliciosa puede terminar siendo incorporada a la base de datos.|
 |Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.||Por consiguiente, la opción de reparar debería ser utilizada solo cuando no quedan más alternativas. Si la emplea, usted después debería verificar minuciosamente la base de datos en busca de información dañada o maliciosa.|
 |Warning||Advertencia|
+|Saving database...||Guardando la base de datos...|
+|ch.||carac.|
