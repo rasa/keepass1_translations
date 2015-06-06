@@ -1,9 +1,7 @@
 ﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
-|~LANGUAGEVERSION||1.28|
+|~LANGUAGEVERSION||1.29|
 |~LANGUAGEAUTHOR||José Gonçalves|
 |~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
-|&OK||OK|
-|&Cancel||Cancelar|
 |&Close||Fechar|
 |&Generate Random Password||Gerar Senha Aleatória|
 |General||Geral||Windows||Windows||Network||Rede||Internet||Internet|
@@ -266,3 +264,5 @@
 |Press Shift+Home or Shift+End to clear this edit control||Pressione Shift+Home ou Shift+End para limpar esta edição de controlo|
 |Saving database...||Guardando a base de dados...|
 |ch.||Caract.|
+|OK||OK|
+|Select &Password Font||Selecione a fonte da &Senha|
