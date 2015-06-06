@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.26 - 1|
+|1.27 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -34,10 +34,10 @@
 |預覽列印(&V)...|
 |&Print...|
 |列印(&P)...|
-|&Export To|
-|匯出到(&E)|
-|&Import From|
-|匯入自(&I)|
+|&Export|
+|匯出(&E)|
+|&Import|
+|匯入(&I)|
 |&Lock Workspace|
 |鎖定(&L)|
 |&Unlock Workspace|
@@ -146,7 +146,7 @@
 |密碼產生器(&G)...|
 |&TAN Wizard...|
 |TAN精靈(&T)...|
-|&Repair KeePass Database File...|
+|&Repair Database File...|
 |修復資料庫檔案(&R)...|
 |Show &Expired Entries|
 |列出已過期的項目(&E)|
@@ -1100,8 +1100,8 @@
 |要列印的欄位|
 |Clear Search History|
 |清除搜尋記錄|
-|&Export Group To|
-|將群組輸出到(&K)|
+|&Export Group|
+|匯出群組(&K)|
 |Default user name for new entries:|
 |新項目的預設使用者名稱：|
 |Here you can customize the printed sheet.|
