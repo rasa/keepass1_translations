@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.29|
+|1.30|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -1352,3 +1352,9 @@
 |Adatbázis mentése...|
 |ch.|
 |kar.|
+|Accept this password?|
+|Elfogadja ezt a jelszót?|
+|Delete &attachments|
+|M&ellékletek törlése|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
+|A generált jelszó egy helyőrzőt tartalmaz. Ha ezt a jelszót használja (pl. a vágólapra másolja vagy auto-type-ot használ), a helyőrző lecserélésre kerül, azaz egy másik jelszóként használható.|
