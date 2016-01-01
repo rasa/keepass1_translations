@@ -1,11 +1,11 @@
 ﻿|~LANGUAGENAME|
 |Slovenian (Slovenščina)|
 |~LANGUAGEVERSION|
-|1.29|
+|1.30|
 |~LANGUAGEAUTHOR|
 |Zala Pia Lipičnik, Iztok Osredkar - Institut OKO, Peter Klofutar|
 |~LANGUAGEAUTHOREMAIL|
-|zalchy.pii@gmail.com, iztok.osredkar@institut-oko.si, peter_klofutar@telemach.si|
+|zalchy.pii@gmail.com, iztok.osredkar@institut-oko.si, peter_klofutar@telemach.net|
 |- Arcfour crypto routine|
 |- Šifrirna rutina Arcfour|
 |- Rijndael decryption|
@@ -1034,8 +1034,6 @@
 |Za selitev te datoteke uporabi značilnost 'Izvozi' KeePassa 2.x|
 |Use the following help source when a "Help" button within KeePass is clicked:|
 |Uporabi naslednji vir pomoči ob kliku na gumb "Pomoč" v KeePassu:|
-|&UUID|
-|UU&ID|
 |Version|
 |Različica|
 |Warning|
@@ -1352,3 +1350,11 @@
 |še {PARAM} vnosov|
 |Load the existing key file and use it as key for the current database. The key file will not be modified.|
 |Naloži obstoječo datoteko ključa in jouporabi kot ključ za trenutno podatkovno zbirko. Datoteka ključa ne bo spremenjena.|
+|Accept this password?|
+|Sprejmi to geslo?|
+|Delete &attachments|
+|Izbriši p&riponke|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
+|Ustvarjeno geslo vse vsebuje ogrado. Ko to geslo uporabite (npr. s kopiranjem na odložišče ali samodejnim tipkanjem), bo ograda nadomeščena in posledično bo morda uporabljeno drugo geslo.|
+|UU&ID|
+|UU&ID|
