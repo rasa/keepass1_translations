@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Latina|
-|~LANGUAGEVERSION|             |1.26|
+|~LANGUAGEVERSION|             |1.30|
 |~LANGUAGEAUTHOR|              |akkadites|
 |~LANGUAGEAUTHOREMAIL|         |quotcumque@gmail.com|
 
@@ -150,7 +150,7 @@
 |Save &As...|            |Servare &ut...|
 |Change &Master Key...|  |&Mutare tesseram principalem...|
 |&Print...|              |Im&pressio...|
-|&Export To|             |&Exportare in|
+|&Export|             |&Exportare in|
 |&Lock Workspace|        |Ob&sidere spatium|
 |&Unlock Workspace|      |T&ollere obsessionem|
 |E&xit|                  |E&xire|
@@ -163,7 +163,7 @@
 |Ed&it Group...|   |R&edigere fasciculum...|
 |&Delete Group...| |&Delere fasciculum...|
 |Pr&int Group...|  |Im&primere fasciculum...|
-|&Export Group To| |&Exportare fasciculum in|
+|&Export Group| |&Exportare fasciculum in|
 |Copy User &Name|  |Copiare &nomen utentis|
 |Copy &Password|   |Copiare &tesseram|
 |Open &URL(s)|     |Aperire &inscriptione(m/s)|
@@ -232,7 +232,7 @@
 
 |Clipboard cleared.|           |Receptaculum excambii depurgatum.|
 |Field copied to clipboard. Clipboard will be cleared in %d seconds.|
-    |Campus in receptaculo duplicatus est. Receptaculum depost %d secundas purgabitur.|
+    |Campus in receptaculo translatus est. Receptaculum depost %d secundas purgabitur.|
 
 |Failed to set the master key!|
     |Non provenit tesseram principalem constituere!|
@@ -313,13 +313,13 @@
 |&PwSafe v2 TXT File...|       |TXT-plica &PwSafe v2...|
 |Select &Font|                 |Electus &litterarum|
 |Select a new font for the list controls:|     |Selige novas litteras ad rationem objectorum:|
-
+|Select &Password Font| |Selige litteras &tesserarum|
 |Code&Wallet TXT File...|      |Code&Wallet TXT plica...|
 |&TXT File...|                 |&TXT plica...|
 |&HTML File...|                |&HTML plica...|
 |&XML File...|                 |&XML plica...|
 |&CSV File...|                 |&CSV plica...|
-|&Import From|                 |&Importare de|
+|&Import|                 |&Importare de|
 
 |&Get more languages...|       |Plures &linguae...|
 |Start and exit|               |Initiatio et exitus|
@@ -624,7 +624,7 @@
 |Include backup entries in quick searches|
     |Quaerere rapide etiam inter schedulas reservatas|
 
-|&Repair KeePass Database File...| |&Resarcire repositorium tesserarum...|
+|&Repair Database File...| |&Resarcire repositorium tesserarum...|
 |Delete all backup entries before saving the database| |Ejicere schedulas reservatas priusquam servetur|
 |Press Shift-Home or Shift-End to clear this edit control| |Preme Shift-Home aut Shift-End ad campum purgandum|
 |Use alternative auto-type method (minimize window)| |Uti modo inducendi automatici altero|
@@ -655,7 +655,7 @@
 |Enable auto-type features| |Accendere scriptionem automaticam|
 
 |&Help| |In&formatorium|
-|&Help Contents| |Index &articulurum|
+|&Help Contents| |Index &articulorum|
 |&Tools| |&Instrumenta|
 |Auto-Type Entry Selection| |Selectio schedulae, quae automatice scribatur|
 |Click [No] to open the file in normal writing mode.| |Pulsa [Non], ut plica aperiatur in statu, in quo rescribi potest.|
@@ -895,3 +895,4 @@
 |Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
 |Idcirco facultatem reparandi capta si nihil melius habes quod facias. Reparatione completa necesse est, ut totum repositorium recenseatur, nisi quae data corrupta fuerint.|
 |Warning| |Attentio|
+|Delete &attachments| |Delere &applicationes|
