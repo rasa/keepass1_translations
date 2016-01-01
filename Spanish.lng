@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.29|
+|~LANGUAGEVERSION||1.30|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
@@ -101,6 +101,7 @@
 |About &Plugin...||Acerca del &Com&plemento|
 |About &Translation...||Acerca de la &traducción...|
 |About KeePass||Acerca de KeePass|
+|Accept this password?||¿Aceptar esta contraseña?|
 |Acknowledgements||Reconocimientos|
 |Add &Group...||Añadir &grupo...|
 |Add Entry||Añadir entrada|
@@ -131,11 +132,11 @@
 |Automatically save when closing/locking the database||Guardar automáticamente al cerrar/bloquear la base de datos|
 |Auto-sorting of the password list is enabled, you cannot move entries manually.||Ordenar automáticamente la lista de contraseñas se encuentra activado, usted no puede mover las entradas manualmente.|
 |Auto-sorting of the password list is enabled, you cannot sort the list manually now.||Ordenar automáticamente la lista de contraseñas está activado, usted no puede ordenar la lista manualmente.|
-|Auto-Type Entry Selection||Selección de entradas para la Escritura Automática|
-|Auto-Type: Customize Sequence||Escritura automática: Personalizar secuencia|
-|Auto-Type: Help||Escritura Automática: Ayuda|
-|Auto-Type: Select Target Window...||Escritura Automática: Seleccione la ventana destino...|
-|Auto-Type||Autocompletar|
+|Auto-Type Entry Selection||Selección de entradas para la escritura automática|
+|Auto-Type: Customize Sequence||Escritura automática: personalizar secuencia|
+|Auto-Type: Help||Escritura automática: ayuda|
+|Auto-Type: Select Target Window...||Escritura automática: seleccione la ventana destino...|
+|Auto-Type||Escritura automática|
 |Available Languages||Idiomas disponibles|
 |Available||Disponible|
 |Backup||Respaldo|
@@ -205,6 +206,7 @@
 |Default auto-type sequence for standard entries:||Secuencia por defecto de escritura automática para entradas estándar:|
 |Default user name for new entries:||Nombre de usuario por defecto para nuevas entradas:|
 |Default||Por defecto|
+|Delete &attachments||Eliminar &adjuntos|
 |Delete all backup entries before saving the database||Eliminar todas las entradas de respaldo antes de guardar la base de datos|
 |Delete currently selected profile.||Eliminar el perfil seleccionado.|
 |Delete Entries Confirmation||Confirmación de borrado de entradas|
@@ -561,6 +563,7 @@
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.||El archivo que está tratando de abrir está bloqueado, tal vez alguien más haya abierto el archivo y se encuentre editándolo.|
 |The following application requests access to your currently opened KeePass database:||La siguiente aplicación solicita acceso a su base de datos de KeePass actualmente abierta:|
 |The following self-tests failed:||Las siguientes pruebas fallaron:|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.||La contraseña generada contiene un marcador de posición. Al usar esta contraseña (por ejemplo, al copiarla al portapapeles o escribirla automáticamente), el marcador de posición será sustituido; en otras palabras, una contraseña distinta sería utilizada.|
 |The group you selected cannot store entries. Please select a different group.||El grupo que seleccionó no pueda almacenar entradas. Por favor seleccione otro grupo.|
 |The help file contains detailed information about the expected input format. Do you want to open the help file?||El archivo de ayuda contiene información detallada acerca del formato de entrada adecuado. ¿Desea abrir el archivo de ayuda?|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||Mientras más alto sea este número, mayor dificultad tendrán los ataques de diccionario. Pero elevar este número también hace que la base de datos sea más lenta para cargar y guardar.|
@@ -606,7 +609,7 @@
 |Up to date.||Actualizado.|
 |Upper-case (A, B, C, ...)||Mayúsculas (A, B, C, ...)|
 |URL Field: Help||Campo URL: Ayuda|
-|URL Field: Insert Placeholder||Campo URL: Insertar Posicionador|
+|URL Field: Insert Placeholder||Campo URL: Insertar Marcador de posición|
 |URL Field: Select Application...||Campo URL: Seleccionar Aplicación...|
 |URL Field: Select Document...||Campo URL: Seleccionar Documento...|
 |URL:||URL:|
@@ -641,7 +644,7 @@
 |Workspace is locked.||El área de trabajo se encuentra bloqueada.|
 |Workspace locked||Área de trabajo bloqueada|
 |Would you like to exit anyway?||¿Desea salir de todos modos?|
-|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.||Puede escoger otra combinación de teclas en 'Herramientas' - 'Opciones' - 'Avanzado' - 'Autocompletar'.|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.||Puede escoger otra combinación de teclas en 'Herramientas' - 'Opciones' - 'Avanzado' - 'Escritura automática'.|
 |You don't have to remember the keys you type in. They are used to generate a random value.||Usted no tiene que memorizarlas, son usadas únicamente para generar un valor aleatorio.|
 |You have changed an option that requires restarting KeePass to get active.||Usted a cambiado una opción que requiere reiniciar KeePass para que tenga efecto.|
 |You have the latest version.||Usted cuenta con la versión más reciente.|
