@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
-|~LANGUAGEVERSION||1.29|
+|~LANGUAGEVERSION||1.30|
 |~LANGUAGEAUTHOR||José Gonçalves|
 |~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
 |&Close||Fechar|
@@ -266,3 +266,6 @@
 |ch.||Caract.|
 |OK||OK|
 |Select &Password Font||Selecione a fonte da &Senha|
+|Accept this password?||Aceitar esta senha?|
+|Delete &attachments||Apagar &anexos|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.||A senha gerada contém um espaço reservado. Ao utilizar esta senha (por exemplo, copiando-a para a área de transferência ou auto-digitando-a), o espaço reservado será substituído, ou seja efetivamente uma senha diferente poderá ser usada.|
