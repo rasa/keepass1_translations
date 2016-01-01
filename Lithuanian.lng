@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.29|
+|1.30|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -2031,3 +2031,12 @@
 
 |Select &Password Font|
 |Pasirinkti sla&ptažodžio šriftą|
+
+|Accept this password?|
+|Ar šis slaptažodis tinka?|
+
+|Delete &attachments|
+|Š&alinti priedus|
+
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
+|Sugeneruotame slaptažodyje yra vietoženklis. Naudojant slaptažodį (jį kopijuojant ar automatiškai įvedant) vietoženklis bus pakeistas, rezultate gali būti panaudotas kitoks slaptažodis.|
