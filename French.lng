@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.29|
+|1.30|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
@@ -1350,3 +1350,9 @@
 |OK|
 |Select &Password Font|
 |Sélectionner la police du mot de &passe|
+|Accept this password?|
+|Accepter ce mot de passe ?|
+|Delete &attachments|
+|Supprimer &pièces jointes|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
+|Le mot de passe généré contient un paramètre de remplacement. Quand on utilise ce mot de passe (c-à-d. en le copiant dans le presse-papier ou en le saisissant automatiquement), le paramètre de remplacement sera remplacé, par exemple un mot de passe différent pourrait effectivement être utilisé.|
