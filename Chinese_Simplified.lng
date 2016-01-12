@@ -1,7 +1,7 @@
-﻿2015-03-30 01:29|~LANGUAGENAME|
+﻿2016-01-13 01:30|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.29|
+|1.30|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ CCF|
 |~LANGUAGEAUTHOREMAIL|
@@ -1101,7 +1101,7 @@
 |Generate using character set:|
 |使用字符集生成:|
 |Generate using pattern:|
-|使用样品生成:|
+|使用样式生成:|
 |Also include the following characters:|
 |同时包括下列字符:|
 |Exclude look-alike characters|
@@ -1213,7 +1213,7 @@
 |URL Field: Select Document...|
 |网址: 选择文档...|
 |URL Field: Insert Placeholder|
-|网址: 插入标志符|
+|网址: 插入占位符|
 |Auto-Type: Help|
 |自动输入: 帮助|
 |Auto-Type: Customize Sequence|
@@ -1350,3 +1350,9 @@
 |字符|
 |Saving database...|
 |正在保存数据库...|
+|Delete &attachments|
+|删除附件(&A)|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
+|生成的密码包含一个占位符，当使用该密码时（比如复制到剪贴板或自动输入），占位符会被替换，也就是说一个不同的密码会被使用。|
+|Accept this password?|
+|接受此密码？|
