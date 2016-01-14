@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.29|
+|~LANGUAGEVERSION|             |1.30|
 |~LANGUAGEAUTHOR|              |Andrew Gavrushenko (varrey)|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -842,7 +842,7 @@
 |1 update is available!| |1 обновление доступно!|
 |Available| |Доступно|
 |Component| |Компонент|
-|Delete TAN entries immediately after using them| |Удалять TAN записи сразу после использование|
+|Delete TAN entries immediately after using them| |Удалять TAN записи сразу после использования|
 |Installed| |Установлено|
 |KeePass 1.x cannot open KDBX files.| |Невозможно открыть KBDX файл из KeePass 1.x.|
 |No updates available.| |Обновлений нет.|
@@ -900,3 +900,8 @@
 |ch.| |сим.|
 
 |Select &Password Font| |Шрифт &пароля|
+
+|Accept this password?| |Принять этот пароль?|
+|Delete &attachments| |Удалить прикрепленные &файлы|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
+|Сгенерированный пароль содержит шаблон. При использовании пароля (при копировании или автонаборе), шаблон будет заменен.|
