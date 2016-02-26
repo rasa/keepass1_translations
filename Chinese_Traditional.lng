@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.30 - 1|
+|1.31 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -96,8 +96,8 @@
 |對只有TAN的群組使用簡明的清單檢視(&S)|
 |Show TAN &Indices in Entry Titles|
 |在項目標題顯示顯示TAN索引(&I)|
-|Auto-&Sort Password List|
-|自動排序密碼清單(&S)|
+|Auto-&Sort Entry List|
+|自動排序項目清單(&S)|
 |N&o Auto-Sort|
 |不自動排序(&O)|
 |Sort List by &Title|
@@ -406,10 +406,10 @@
 |尋找|
 |&Find|
 |尋找(&F)|
-|Find a string in the password list.|
-|在密碼清單中找一個字串。|
-|Password Groups|
-|密碼群組|
+|Find a string in the entry list.|
+|在項目清單中找一個字串。|
+|Group|
+|群組|
 |Ready.|
 |就緒。|
 |Enter Password:|
@@ -616,8 +616,8 @@
 |介面|
 |Display images on buttons|
 |在按鈕上顯示圖示|
-|Show grid lines in password entry list|
-|在密碼項目清單上顯示格線|
+|Show grid lines in the entry list|
+|在項目清單上顯示格線|
 |Automatically resize table columns when resizing the main window|
 |變更主視窗大小時自動調整欄位大小|
 |Minimize to tray instead of taskbar|
@@ -638,7 +638,7 @@
 |Windows換行(\r\n)|
 |Unix newline sequence (\n)|
 |Unix換行 (\n)|
-|Mark database as modified on last-access time change|
+|Mark database as modified on last access time change|
 |在上次存取的時間改變後，將資料庫視為已變更|
 |Memory|
 |記憶|
@@ -800,8 +800,8 @@
 |KeePass密碼資料庫|
 |&Open with KeePass|
 |使用KeePass開啟(&O)|
-|Password List|
-|密碼清單|
+|Entry List|
+|項目清單|
 |Exit?|
 |離開？|
 |The file couldn't be saved.|
@@ -862,10 +862,10 @@
 |確認刪除項目|
 |&Select All|
 |全選(&S)|
-|Auto-sorting of the password list is enabled, you cannot move entries manually.|
-|密碼清單自動排序已啟動，您無法手動移動項目。|
-|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
-|密碼清單自動排序已啟動，您無法手動排序項目。|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
+|項目清單自動排序已啟動，您無法手動移動項目。|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
+|項目清單自動排序已啟動，您無法手動排序項目。|
 |Plugin|
 |Plugin|
 |Plugins|
@@ -1340,6 +1340,8 @@
 |刪除附件(&A)|
 |The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
 |產生的密碼包含其他欄位的參照。使用這個密碼時，將使用參照欄位的內容。也就是說，每次複製或自動輸入的密碼可能不一樣。|
+|~LANGISO6391CODE|
+|zh|
 |About KeePass|
 |關於KeePass|
 |Version|
