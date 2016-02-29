@@ -1,5 +1,6 @@
 ﻿|~LANGUAGENAME|                |Russian|
-|~LANGUAGEVERSION|             |1.30|
+|~LANGISO6391CODE|             |ru|
+|~LANGUAGEVERSION|             |1.31|
 |~LANGUAGEAUTHOR|              |Andrew Gavrushenko (varrey)|
 |~LANGUAGEAUTHOREMAIL|         |keepass.ru@gmail.com|
 
@@ -27,11 +28,11 @@
 |Find what:|      |Искать текст:|
 |Find|            |Поиск|
 |&Find|           |&Поиск|
-|Find a string in the password list.| |Поиск строки в списке паролей.|
+|Find a string in the entry list.| |Поиск строки в списке записей.|
 
 |About KeePass| |О программе|
 
-|Password Groups|  |Группы паролей|
+|Group|  |Группа|
 |Title|            |Название|
 |User Name|        |Имя|
 |URL|              |Ссылка|
@@ -277,7 +278,7 @@
     |Автосохранение базы паролей при выходе и блокировке|
 |Display images on buttons|
     |Показывать картинки на кнопках|
-|Show grid lines in password entry list|
+|Show grid lines in the entry list|
     |Показывать линии в списке записей|
 |Workspace is locked.|
     |База паролей заблокирована.|
@@ -443,7 +444,7 @@
 |Create &Association|                     |Привяз&ать|
 |&Remove Association|                     |&Удалить привязку|
 |Setup|                                   |Настройка|
-|Password List|                           |Список паролей|
+|Entry List|                              |Список записей|
 |Exit?|                                   |Выйти?|
 |The file couldn't be saved.|             |Невозможно сохранить файл.|
 |Maybe it's read-only or the storage media has been removed.|
@@ -494,16 +495,16 @@
     |Вы уверены, что хотите удалить все выделенные записи?|
 |Delete Entries Confirmation|             |Подтверждение удаления записей|
 |Use PuTTY for ssh: and telnet: URLs|     |Использовать PuTTY для ssh: и telnet: ссылок|
-|Mark database as modified on last-access time change|
+|Mark database as modified on last access time change|
     |При просмотре помечать базу паролей как измененную|
 |Se&lect All|                             |В&ыделить все|
-|Auto-&Sort Password List|                |&Автосортировка списка паролей|
+|Auto-&Sort Entry List|                   |&Автосортировка списка записей|
 |N&o Auto-Sort|                           |Не использовать &автосортировку|
-|Auto-sorting of the password list is enabled, you cannot move entries manually.|
-    |Автосортировка списка паролей включена - вы не можете перемещать записи вручную.|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
+    |Автосортировка списка записей включена, вы не можете перемещать записи вручную.|
 |Perform Auto-&Type|                      |Начать а&втонабор|
-|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
-    |Автосортировка списка паролей включена - вы не можете сортировать записи вручную.|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
+    |Автосортировка списка записей включена, теперь вы не можете сортировать записи вручную.|
 |Select key file manually...|             |Выберите файл с паролем вручную...|
 |Save key file manually to...|            |Сохранить файл с паролем вручную как...|
 |Enter the new composite master key.|     |Введите новый составной пароль.|
