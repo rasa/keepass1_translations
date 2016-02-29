@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.30|
+|1.31|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -73,14 +73,14 @@
 |&Find|
 |&Rasti|
 
-|Find a string in the password list.|
-|Rasti eilutę slaptažodžių saraše.|
+|Find a string in the entry list.|
+|Rasti eilutę įrašų saraše.|
 
 |About KeePass|
 |Apie KeePass|
 
-|Password Groups|
-|Slaptažodžių grupės|
+|Group|
+|Grupė|
 
 |Title|
 |Antraštė|
@@ -584,8 +584,8 @@
 |Display images on buttons|
 |Mygtukai su paveikslėliais|
 
-|Show grid lines in password entry list|
-|Slaptažodžio įvesties sąraše rodyti tinklelį|
+|Show grid lines in the entry list|
+|Įvesties sąraše rodyti tinklelį|
 
 |Workspace is locked.|
 |Darbalaukis blokuotas.|
@@ -962,8 +962,8 @@
 |Setup|
 |Sąranka|
 
-|Password List|
-|Slaptažodžių sąrašas|
+|Entry List|
+|Įrašų sąrašas|
 
 |Exit?|
 |Išeiti?|
@@ -1085,26 +1085,26 @@
 |Use PuTTY for ssh: and telnet: URLs|
 |Naudoti PuTTY ssh: ir telnet: nuorodoms|
 
-|Mark database as modified on last-access time change|
+|Mark database as modified on last access time change|
 |Pažymėti duomenų bazę kaip pakeistą, pakeičiant paskutinės prieigos laiką|
 
 |Se&lect All|
 |Pažymėti &viską|
 
-|Auto-&Sort Password List|
+|Auto-&Sort Entry List|
 |&Automatiškai rikiuoti sąrašą|
 
 |N&o Auto-Sort|
 |Aut&omatiškai nerikiuoti|
 
-|Auto-sorting of the password list is enabled, you cannot move entries manually.|
-|Slaptažodžiai rikiuojami automatiškai, todėl rankiniu būdu įrašai neperkeliami.|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
+|Įrašai rikiuojami automatiškai, todėl rankiniu būdu įrašai neperkeliami.|
 
 |Perform Auto-&Type|
 |Vykdyti &automatinį įvedimą|
 
-|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
-|Slaptažodžiai rikiuojami automatiškai, todėl sąrašo rikiuoti rankiniu būdu negalima.|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
+|Įrašai rikiuojami automatiškai, todėl sąrašo rikiuoti rankiniu būdu negalima.|
 
 |Select key file manually...|
 |Pasirinkite rakto failą...|
@@ -2040,3 +2040,6 @@
 
 |The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
 |Sugeneruotame slaptažodyje yra vietoženklis. Naudojant slaptažodį (jį kopijuojant ar automatiškai įvedant) vietoženklis bus pakeistas, rezultate gali būti panaudotas kitoks slaptažodis.|
+
+|~LANGISO6391CODE|
+|lt|
