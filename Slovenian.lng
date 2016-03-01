@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Slovenian (Slovenščina)|
 |~LANGUAGEVERSION|
-|1.30|
+|1.31|
 |~LANGUAGEAUTHOR|
 |Zala Pia Lipičnik, Iztok Osredkar - Institut OKO, Peter Klofutar|
 |~LANGUAGEAUTHOREMAIL|
@@ -236,16 +236,10 @@
 |Priponka|
 |Author|
 |Avtorji|
-|Auto-&Sort Password List|
-|S&amodejno razvrsti seznam gesel|
 |Automatically open last used database on startup|
 |Samodejno odpri zadnjo uporabljeno podatkovno zbirko ob zagonu|
 |Automatically resize table columns when resizing the main window|
 |Samodejno spremeni velikost stolpcev tabele med spreminjanjem glavnega okna|
-|Auto-sorting of the password list is enabled, you cannot move entries manually.|
-|Samodejno razvrščanje seznama gesel je omogočeno, vnosov ni možno premikati ročno.|
-|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
-|Samodejno razvrščanje seznama gesel je omogočeno, seznama trenutno ni možno ročno razvrstiti.|
 |Auto-Type Entry Selection|
 |Izbira vnosov za samodejno vnašanje|
 |Auto-Type|
@@ -452,8 +446,6 @@
 |Datoteke ni mogoče najti|
 |Files|
 |Datoteke|
-|Find a string in the password list.|
-|Poiščite niz na seznamu gesel.|
 |Find in t&his Group...|
 |Naj&di v tej skupini ...|
 |Find|
@@ -576,8 +568,6 @@
 |Prepričajte se, da je zapisljiv nosilec vstavljen.|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
 |Prepričajte se, da je noslec, ki vsebuje datoteko ključa vstaavljen in da ima KeePass dostop do njega (preverite pravice dostopa do datoteke, prepričajte se da je noben program ne blokira ...).|
-|Mark database as modified on last-access time change|
-|Označi podatkovno zbirko kot spremenjeno ob zadnji spremembi časa dostopa|
 |Mass Modify|
 |Množično spreminjanje|
 |Master Password:|
@@ -682,12 +672,8 @@
 |Geslo in ponovljeno geslo nista enaka!|
 |Password Generator|
 |Ustvarjalnik gesel|
-|Password Groups|
-|Skupine gesel|
 |Password is empty|
 |Geslo je prazno|
-|Password List|
-|Seznam gesel|
 |Password:|
 |Geslo:|
 |Password|
@@ -792,8 +778,6 @@
 |Pokaži potekle vnose (če kakšen obstaja)|
 |Show full path in the title bar (instead of file name only)|
 |Prikaži polno pot do datoteke v nazivni vrstici (namesto le imena datoteke)|
-|Show grid lines in password entry list|
-|Prikaži pomožne črte na seznamu vnosov gesla|
 |Single left click instead of double-click for default tray icon action|
 |Levi klik namesto dvojnega klika za privzeto dejanje ikone sistemske vrstice|
 |So, the more the better. The different, the better.|
@@ -1358,3 +1342,21 @@
 |Ustvarjeno geslo vse vsebuje ogrado. Ko to geslo uporabite (npr. s kopiranjem na odložišče ali samodejnim tipkanjem), bo ograda nadomeščena in posledično bo morda uporabljeno drugo geslo.|
 |UU&ID|
 |UU&ID|
+|Auto-&Sort Entry List|
+|&Samodejno razvrsti seznam vnosov|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
+|Samodejno razvrščanje seznama vnosov je omogočeno; vnosov ne morete premikati ročno.|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
+|Samodejno razvrščanje seznama vnosov je omogočeno; seznama sedaj ne morete razvrščati ročno.|
+|Entry List|
+|Seznam vnosov|
+|Find a string in the entry list.|
+|Poišči niz na seznamu vnosov.|
+|Group|
+|Skupina|
+|Mark database as modified on last access time change|
+|Označi podatkovno zbirko kot spremenjeno ob zadnji spremembi časa dostopa|
+|Show grid lines in the entry list|
+|Prikaži črte mreže na seznamu vnosov|
+|~LANGISO6391CODE|
+|sl|
