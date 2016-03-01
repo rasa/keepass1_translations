@@ -1,7 +1,8 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.30|
+|~LANGUAGEVERSION||1.31|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
+|~LANGISO6391CODE||es|
 |- Arcfour crypto routine||- Rutina de criptografia Arcfour|
 |- Rijndael decryption||- Descifrado Rijndael|
 |- Rijndael encryption||- Cifrado Rijndael|
@@ -126,12 +127,12 @@
 |Attachment:||Adjunto:|
 |Attachment||Adjunto|
 |Author||Autor|
-|Auto-&Sort Password List||&Ordenar automáticamente lista de contraseñas|
+|Auto-&Sort Entry List||Cla&sificar automáticamente lista de entradas|
 |Automatically open last used database on startup||Al inicio, abrir automáticamente la última base de datos utilizada|
 |Automatically resize table columns when resizing the main window||Modificar el tamaño de las columnas automáticamente al modificar el tamaño de la ventana principal|
 |Automatically save when closing/locking the database||Guardar automáticamente al cerrar/bloquear la base de datos|
-|Auto-sorting of the password list is enabled, you cannot move entries manually.||Ordenar automáticamente la lista de contraseñas se encuentra activado, usted no puede mover las entradas manualmente.|
-|Auto-sorting of the password list is enabled, you cannot sort the list manually now.||Ordenar automáticamente la lista de contraseñas está activado, usted no puede ordenar la lista manualmente.|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.||La clasificación automática de la lista de entradas se encuentra activada. Usted no puede mover las entradas manualmente.|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.||La clasificación automática de la lista de entradas se encuentra activada. Usted no puede ordenar la lista manualmente.|
 |Auto-Type Entry Selection||Selección de entradas para la escritura automática|
 |Auto-Type: Customize Sequence||Escritura automática: personalizar secuencia|
 |Auto-Type: Help||Escritura automática: ayuda|
@@ -248,6 +249,7 @@
 |Enter the composite master key.||Ingrese la clave maestra compuesta.|
 |Enter the new composite master key.||Ingrese la nueva clave maestra compuesta.|
 |Entry||Entrada|
+|Entry List||Lista de entradas|
 |Error code||Código de error|
 |Every second row has a different background color. Use this color:||Cada segunda fila tiene un color de fondo diferente. Use este color:|
 |Exclude &expired entries||Excluir entradas v&encidas|
@@ -280,7 +282,7 @@
 |File error: error while writing to the file||Error de archivo: error al intentar escribir en el archivo|
 |Filename not found||Nombre de archivo no encontrado|
 |Files||Archivos|
-|Find a string in the password list.||Encontrar una secuencia en la lista de contraseñas.|
+|Find a string in the entry list.||Encontrar una secuencia en la lista de entradas.|
 |Find in t&his Group...||Buscar en es&te grupo...|
 |Find what:||Buscar:|
 |Find||Encontrar|
@@ -296,6 +298,7 @@
 |Global auto-type hot key combination:||Combinación de teclas global para la escritura automática:|
 |Group name:||Nombre del grupo:|
 |Group Tree||Árbol de grupos|
+|Group||Grupo|
 |Group:||Grupo:|
 |Help &Source...||Fuente de a&yuda...|
 |Help Source||Fuente de ayuda|
@@ -373,7 +376,7 @@
 |Lower-case (a, b, c, ...)||Minúsculas (a, b, c, ...)|
 |Make sure a writable medium is inserted.||Asegúrese que ha insertado un medio con posibilidad de escritura.|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).||Revise que el dispositivo que contiene el archivo de clave está conectado, y que KeePass tiene los permisos para acceder a él (verifique los permisos de archivo, asegúrese que no hay otra aplicación bloqueando el archivo, ...).|
-|Mark database as modified on last-access time change||Marcar como modificada la base de datos tras el cambio del último acceso|
+|Mark database as modified on last access time change||Marcar la base de datos como modificada tras el cambio del último acceso|
 |Mass Modify||Modificación masiva|
 |Master Password:||Contraseña maestra:|
 |Maybe it's read-only or the storage media has been removed.||Tal vez el medio está configurado en "sólo lectura" o ha sido removido.|
@@ -434,9 +437,7 @@
 |Password &Generator...||&Generador de contraseñas...|
 |Password and repeated password aren't identical!||¡La contraseña y la contraseña repetida no son idénticas!|
 |Password Generator||Generador de contraseñas|
-|Password Groups||Grupos de contraseña|
 |Password is empty||La contraseña está vacía|
-|Password List||Lista de contraseñas|
 |Password:||Contraseña:|
 |Password||Contraseña|
 |Paste operation completed.||Operación de pegado completada.|
@@ -521,7 +522,7 @@
 |Show entries that will expire soon (if any)||Mostras entradas próximas a expirar (en caso de haberlas)|
 |Show expired entries (if any)||Mostrar entradas vencidas (en caso de haberlas)|
 |Show full path in the title bar (instead of file name only)||Mostrar la ruta completa en la barra del título (en lugar de solamente el nombre del archivo)|
-|Show grid lines in password entry list||Mostrar líneas cuadriculadas en la lista de contraseñas|
+|Show grid lines in the entry list||Mostrar líneas de cuadrícula en la lista de entradas|
 |Show TAN &Indices in Entry Titles||Mostrar índ&ices TAN en los títulos de las entradas|
 |Single left click instead of double-click for default tray icon action||Click único en lugar de doble-click para ejecutar la acción predeterminada del icono desde el área de notificación|
 |So, the more the better. The different, the better.||Por ende, a mayor cantidad mejor resultado. Más variedad, mayor calidad.|
