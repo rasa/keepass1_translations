@@ -1,4 +1,5 @@
-﻿2016-01-13 01:30|~LANGUAGENAME|
+﻿2016-03-3 01:31
+|~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
 |1.30|
@@ -6,6 +7,8 @@
 |Leo Dou @ CCF|
 |~LANGUAGEAUTHOREMAIL|
 |leodou at users.sourceforge.net|
+|~LANGISO6391CODE|
+|zh|
 |OK|
 |确定|
 |&Close|
@@ -46,12 +49,12 @@
 |查找|
 |&Find|
 |查找(&F)|
-|Find a string in the password list.|
-|在密码列表中查找一个字串|
+|Find a string in the entry list.|
+|在记录列表中查找一个字串|
 |About KeePass|
 |关于 KeePass|
-|Password Groups|
-|密码群组|
+|Group|
+|群组|
 |Title|
 |标题|
 |User Name|
@@ -384,7 +387,7 @@
 |退出和锁定数据库时自动保存|
 |Display images on buttons|
 |显示按钮图标|
-|Show grid lines in password entry list|
+|Show grid lines in the entry list|
 |在密码记录列表上显示格线|
 |Workspace is locked.|
 |工作区已被锁定。|
@@ -407,7 +410,7 @@
 |Application cannot be restarted automatically!|
 |程序无法自动重新启动！|
 |Please restart KeePass manually.|
-|请手工启动 KeePass。|
+|请手动重启 KeePass。|
 |CSV Files|
 |CSV文件|
 |Text Files|
@@ -642,8 +645,8 @@
 |解除关联(&R)|
 |Setup|
 |设置|
-|Password List|
-|密码列表|
+|Entry List|
+|记录列表|
 |Exit?|
 |退出？|
 |The file couldn't be saved.|
@@ -724,20 +727,20 @@
 |确认删除记录|
 |Use PuTTY for ssh: and telnet: URLs|
 |使用 PuTTY 处理 ssh: 和 telnet: 网址|
-|Mark database as modified on last-access time change|
+|Mark database as modified on last access time change|
 |在最后访问时间改变时，将数据库标记为已修改|
 |Se&lect All|
 |全选(&L)|
-|Auto-&Sort Password List|
+|Auto-&Sort Entry List|
 |自动排序(&S)|
 |N&o Auto-Sort|
 |不自动排序(&O)|
-|Auto-sorting of the password list is enabled, you cannot move entries manually.|
-|已启动自动排序，无法手动移动记录。|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
+|已启用自动排序，无法手动移动记录。|
 |Perform Auto-&Type|
 |执行自动输入|
-|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
-|已启动自动排序，无法手动排序记录。|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
+|已启用自动排序，无法手动排序记录。|
 |Select key file manually...|
 |选择密匙文件...|
 |Save key file manually to...|
@@ -1341,7 +1344,7 @@
 |Warning|
 |警告|
 |In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
-|修复模式下不检查数据的完整性（以最大限度的恢复数据）。在不检查数据完整性的情况下，被损坏的数据可能会被合并到数据库中|
+|修复模式下不检查数据的完整性（以最大限度的恢复数据）。在不检查数据完整性的情况下，被损坏的数据可能会被合并到数据库中。|
 |Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
 |因此修复功能应在确实没有其它解决办法的时候才使用。如果你使用了这个功能，稍候你应该检查整个数据库来排查损坏的数据。|
 |Are you sure you want to attempt to repair a database file?|
