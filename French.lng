@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.30|
+|1.31|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
@@ -46,8 +46,6 @@
 |&Chercher|
 |About KeePass|
 |A propos de KeePass|
-|Password Groups|
-|Groupes de mots de passe|
 |Title|
 |Titre|
 |User Name|
@@ -166,8 +164,6 @@
 |&Effacer le groupe...|
 |Failed to save the configuration.|
 |Impossible d'enregistrer la configuration.|
-|Find a string in the password list.|
-|Rechercher une chaîne dans la liste de mots de passe.|
 |Copy User &Name|
 |Copier le &Nom d'Utilisateur|
 |Copy &Password|
@@ -310,8 +306,6 @@
 |Ouvrir automatiquement au démarrage la dernière base de mots de passe utilisée|
 |Display images on buttons|
 |Afficher les images sur les boutons|
-|Show grid lines in password entry list|
-|Afficher la grille dans la liste des entrées de mots de passe|
 |Workspace locked|
 |L'espace de travail est verrouillé|
 |Loading error|
@@ -524,8 +518,6 @@
 |&Supprimer l'association|
 |Setup|
 |Configuration|
-|Password List|
-|Liste de mots de passe|
 |The file couldn't be saved.|
 |le fichier ne peut être enregistré.|
 |Maybe it's read-only or the storage media has been removed.|
@@ -594,8 +586,6 @@
 |Etes-vous sûr de vouloir effacer toutes les entrées sélectionnées ?|
 |Delete Entries Confirmation|
 |Confirmation d'effacement des entrées|
-|Mark database as modified on last-access time change|
-|Marquer la base de mots de passe comme modifiée lors de la dernière modification|
 |Se&lect All|
 |Sé&lectionner tout|
 |This will remove all selected entries unrecoverably!|
@@ -604,12 +594,6 @@
 |Utilisez PuTTY pour ssh: et telnet: URL|
 |N&o Auto-Sort|
 |Pas de tri aut&omatique|
-|Auto-&Sort Password List|
-|Liste de mots de passe triée automatiquement|
-|Auto-sorting of the password list is enabled, you cannot move entries manually.|
-|Le tri automatique de la liste de mots de passe est activé, vous ne pouvez pas déplacer des entrées manuellement.|
-|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
-|Le tri automatique de la liste de mots de passe est activé, vous ne pouvez pas trier la liste manuellement.|
 |Perform Auto-&Type|
 |Saisie au&tomatique|
 |&Disable|
@@ -617,7 +601,7 @@
 |&Enable|
 |Activ&er|
 |&Plugins...|
-|&Greffonq...|
+|&Greffon...|
 |About &Plugin...|
 |A propos du &Greffon|
 |Auto-Type|
@@ -647,7 +631,7 @@
 |Help:|
 |Aide :|
 |Here you can configure all installed KeePass plugins.|
-|Vous pouvez configurer ici tous les plugins installés sur KeePass.|
+|Vous pouvez configurer ici tous les greffons installés sur KeePass.|
 |Internal error|
 |Erreur interne|
 |Invalid parameter|
@@ -1356,3 +1340,21 @@
 |Supprimer &pièces jointes|
 |The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
 |Le mot de passe généré contient un paramètre de remplacement. Quand on utilise ce mot de passe (c-à-d. en le copiant dans le presse-papier ou en le saisissant automatiquement), le paramètre de remplacement sera remplacé, par exemple un mot de passe différent pourrait effectivement être utilisé.|
+|~LANGISO6391CODE|
+|fr|
+|Auto-&Sort Entry List|
+|Liste Entrée &Tri-Automatique|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
+|Le Tri-Automatique de la liste d'entrée est activé ; vous ne pouvez pas déplacer les entrées manuellement.|
+|Entry List|
+|Liste Entrées|
+|Find a string in the entry list.|
+|Trouver une chaîne dans la liste d'entrées.|
+|Group|
+|Groupe|
+|Mark database as modified on last access time change|
+|Marquer la base de données comme modifiée sur le dernier temps d'accès|
+|Show grid lines in the entry list|
+|Montrer les lignes de la grille dans la liste d'entrées|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
+|Le Tri-Automatique de la liste d'entrée est activé ; vous ne pouvez pas trier maintenant la liste manuellement.|
