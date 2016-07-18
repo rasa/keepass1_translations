@@ -1,7 +1,8 @@
 ﻿|~LANGUAGENAME||Norsk (nynorsk)|
-|~LANGUAGEVERSION||1.29|
+|~LANGUAGEVERSION||1.31|
 |~LANGUAGEAUTHOR||Yngve Spjeld Landro|
 |~LANGUAGEAUTHOREMAIL||l10n@landro.net|
+|~LANGISO6391CODE||nn|
 |&Close||L&ukk|
 |&Generate Random Password||&Lag tilfeldig passord|
 |General||Generelt|
@@ -20,9 +21,7 @@
 |Search in||Søk i|
 |Find what:||Søk etter:|
 |&Find||&Søk|
-|Find a string in the password list.||Finn ein tekststreng i passordlista.|
 |Find||Finn|
-|Password Groups||Passordgrupper|
 |Title||Tittel|
 |User Name||Brukarnamn|
 |URL||Adresse|
@@ -177,7 +176,6 @@
 |Here you can configure KeePass.||Her kan endra innstillingane til KeePass.|
 |Automatically open last used database on startup||Opna automatisk den sist brukte databasen ved oppstart|
 |Display images on buttons||Vis bilete på knappane|
-|Show grid lines in password entry list||Vis rutenett i passordlista|
 |Workspace locked||Arbeidsflata er låst|
 |Loading error||Innlastingsfeil|
 |Language file cannot be opened!||Klarer ikkje å opna språkfila.|
@@ -295,7 +293,6 @@
 |Create &Association||Lag &knyting|
 |&Remove Association||&Fjern knyting|
 |Setup||Innstillingar|
-|Password List||Passordliste|
 |Exit?||Avslutta?|
 |The file couldn't be saved.||Klarte ikkje å lagra fila.|
 |Maybe it's read-only or the storage media has been removed.||Kanskje kan ein berre lesa fila, eller så kan lagringsmediet vera fjerna.|
@@ -335,13 +332,9 @@
 |Are you sure you want to delete all selected entries?||Er du sikker på du vil sletta alle valde postar?|
 |Delete Entries Confirmation||Stadfest slettinga av postane|
 |Use PuTTY for ssh: and telnet: URLs||Bruk PuTTY for ssh:- og telnet:-adresser|
-|Mark database as modified on last-access time change||Opning av databasen gjer at han blir merka som endra|
 |Se&lect All||Vel &alle|
-|Auto-&Sort Password List||Automatisk passordliste&sortering|
 |N&o Auto-Sort||&Inga automatisk sortering|
-|Auto-sorting of the password list is enabled, you cannot move entries manually.||Automatisk sortering av passordlista er slått på. Du kan ikkje flytta postar manuelt.|
 |Perform Auto-&Type||Bruk auto-&inntasting|
-|Auto-sorting of the password list is enabled, you cannot sort the list manually now.||Automatisk sortering av passordlista er slått på. Du kan ikkje flytta postar manuelt no.|
 |Select key file manually...||Vel nøkkelfil manuelt …|
 |Save key file manually to...||Lagra passordfila manuelt i …|
 |Enter the new composite master key.||Skriv inn den nye samansette hovudnøkkelen.|
@@ -674,3 +667,14 @@
 |ch.||teikn|
 |OK||OK|
 |Select &Password Font||Vel &passordskrifttype|
+|Accept this password?||Vil du godta passordet?|
+|Auto-&Sort Entry List||Auto-&sorter oppføringslista|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.||Auto-sortering er slått på; du kan ikkje flytta postar manuelt.|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.||Auto-sortering er slått på; du kan ikkje sortera postar manuelt lenger.|
+|Delete &attachments|| Slett &vedlegg|
+|Entry List||Oppføringslista|
+|Find a string in the entry list.||Finn tekst i oppføringslista.|
+|Group||Gruppe|
+|Mark database as modified on last access time change||Merk databasen som endra om han er vorten opna|
+|Show grid lines in the entry list||Syn rutenett i oppføringslista|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.||Det laga passordet inneheld ein plasshaldar. Når du nyttar dette passordet (ved t.d. å kopiera det eller bruka auto-inntasting), vil plasshaldaren verta bytt ut. Det kan bety at eit anna passord kan verta teke i bruk.|
