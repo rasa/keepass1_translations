@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.31 - 1|
+|1.32 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -1340,6 +1340,8 @@
 |刪除附件(&A)|
 |The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
 |產生的密碼包含其他欄位的參照。使用這個密碼時，將使用參照欄位的內容。也就是說，每次複製或自動輸入的密碼可能不一樣。|
+|The regular expression is invalid.|
+|這個正規表達式無效。|
 |~LANGISO6391CODE|
 |zh|
 |About KeePass|
