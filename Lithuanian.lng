@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.31|
+|1.32|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -2043,3 +2043,6 @@
 
 |~LANGISO6391CODE|
 |lt|
+
+|The regular expression is invalid.|
+|Tiesioginė išraiška neteisinga.|
