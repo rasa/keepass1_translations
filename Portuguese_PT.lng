@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
-|~LANGUAGEVERSION||1.31|
+|~LANGUAGEVERSION||1.32|
 |~LANGUAGEAUTHOR||José Gonçalves|
 |~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
 |&Close||Fechar|
@@ -279,3 +279,4 @@
 |Mark database as modified on last access time change||Marcar base de dados como modificada no último acesso de mudança de hora|
 |Show grid lines in the entry list||Mostrar linhas da grelha na lista de entrada|
 |~LANGISO6391CODE||pt|
+|The regular expression is invalid.||A expressão regular é inválida.|
