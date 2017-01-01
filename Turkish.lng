@@ -1,7 +1,8 @@
 ﻿|~LANGUAGENAME|                                                      |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                                   |1.30|
+|~LANGUAGEVERSION|                                                   |1.32|
 |~LANGUAGEAUTHOR|                                                    |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                               |<translator@zeron.net>|
+|~LANGISO6391CODE|                                                   |tr|
 |OK|                                                                 |&Tamam|
 |&Close|                                                             |&Kapat|
 |&Generate Random Password|                                          |&Rasgele Parola Üret|
@@ -24,9 +25,9 @@
 |Find what:|                                                         |Aranan:|
 |Find|                                                               |Bul|
 |&Find|                                                              |B&ul|
-|Find a string in the password list.|                                |Parola listesinde bir kelime bul.|
+|Find a string in the entry list.|                                   |Kayıt listesinde bir ifade ara.|
 |About KeePass|                                                      |KeePass Hakkında|
-|Password Groups|                                                    |Parola Grubu|
+|Group|                                                              |Grup|
 |Title|                                                              |Başlık|
 |User Name|                                                          |Kullanıcı Adı|
 |User &name|                                                         |Kullanıcı &adı|
@@ -188,8 +189,8 @@
 |Settings|                                                           |Ayarlar|
 |Here you can configure KeePass.|                                    |KeePass programını buradan yapılandırabilirsiniz.|
 |Automatically open last used database on startup|                   |Açılışta son kullanılan veritabanı yüklensin|
-|Display images on buttons|                                          |GUI: Düğmelerin üzerinde görseller görüntülensin|
-|Show grid lines in password entry list|                             |GUI: Kayıt listesinde ızgara çizgileri görüntülensin|
+|Display images on buttons|                                          |Düğmelerin üzerinde görseller görüntülensin|
+|Show grid lines in the entry list|                                  |Kayıt listesinde tablo çizgileri görüntülensin|
 |Workspace locked|                                                   |Çalışma alanı kilitlendi|
 |Loading error|                                                      |Yükleme Hatası|
 |Language file cannot be opened!|                                    |Dil dosyası açılamadı!|
@@ -294,7 +295,7 @@
 |Save attached file to disk...|                                      |Ek dosyasını diske kaydet...|
 |There already is a file attached with this entry.|                  |Zaten bu kayıda eklenmiş bir dosya var.|
 |Do you want to overwrite the current attachment?|                   |Varolan ek dosyasının üzerine yazmak istiyor musunuz?|
-|&Save Attached File To...|                                         |Ek dosyasını &kaydet...|
+|&Save Attached File To...|                                          |Ek Dosyasını &Kaydet...|
 |There is no file attached with this entry.|                         |Bu kayıda eklenmiş bir dosya bulunmuyor.|
 |Remove the currently attached file|                                 |Varolan ek dosyasını sil|
 |Close button [X] minimizes the main window instead of terminating the application|
@@ -306,7 +307,7 @@
 |Create &Association|                                                |İ&lişkilendir|
 |&Remove Association|                                                |İlişkiyi &Kaldır|
 |Setup|                                                              |Ayarlar|
-|Password List|                                                      |Parola Listesi|
+|Entry List|                                                         |Kayıt Listesi|
 |Exit?|                                                              |Çıkmak istiyor musunuz?|
 |The file couldn't be saved.|                                        |Dosya kaydedilemedi.|
 |Maybe it's read-only or the storage media has been removed.|        |Salt okunur ya da depolama ortamı çıkarılmış.|
@@ -351,15 +352,15 @@
 |Are you sure you want to delete all selected entries?|              |Seçili olan tüm kayıtları gerçekten silmek istiyor musunuz?|
 |Delete Entries Confirmation|                                        |Kayıtlar Silinsin|
 |Use PuTTY for ssh: and telnet: URLs|                                |ssh: ve telnet: adresleri için PuTTY kullanılsın|
-|Mark database as modified on last-access time change|               |Son erişim zamanı değiştiğinde veritabanı değiştirilmiş olarak işaretlensin.|
+|Mark database as modified on last access time change|               |Son erişim zamanı değiştiğinde veritabanı değiştirilmiş olarak işaretlensin.|
 |Se&lect All|                                                        |&Tümünü Seç|
-|Auto-&Sort Password List|                                           |Parola Listesi &Sıralaması|
-|N&o Auto-Sort|                                                      |&Otomatik sıralanmasın|
-|Auto-sorting of the password list is enabled, you cannot move entries manually.|
+|Auto-&Sort Entry List|                                              |Kayıt Listesi Otomatik &Sıralansın|
+|N&o Auto-Sort|                                                      |&Otomatik Sıralanmasın|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
     |Otomatik sıralama etkin olduğundan kayıtları el ile sıralayamazsınız.|
 |Perform Auto-&Type|                                                 |&Otomatik yaz|
-|Auto-sorting of the password list is enabled, you cannot sort the list manually now.|
-    |Otomatik sıralama etkin olduğundan, artık listeyi el ile sıralayamazsınız.|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
+    |Otomatik sıralama etkin olduğundan kayıtları  el ile sıralayamazsınız.|
 |Select key file manually...|                                        |Anahtar dosyasını kendim seçeyim...|
 |Save key file manually to...|                                       |Anahtar dosyasını kendim kaydedeyim...|
 |Enter the new composite master key.|                                |Yeni karma anahtarı yazın.|
@@ -561,6 +562,7 @@
 |&Export Group|                                                      |&Grubu ver|
 |in "Minimal functionality" mode|                                    |"Minimum işlevsellik" kipinde|
 |Regular expression|                                                 |Kurallı ifade|
+|The regular expression is invalid.|                                 |Kurallı ifade geçersiz.|
 |Default user name for new entries:|                                 |Yeni kayıtlar için varsayılan kullanıcı adı:|
 |Advanced Password Generator Options|                                |Gelişmiş Parola Üretme Ayarları|
 |Exclude the following characters:|                                  |Aşağıdaki karakterler katılmasın:|
