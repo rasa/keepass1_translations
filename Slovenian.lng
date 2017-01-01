@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Slovenian (Slovenščina)|
 |~LANGUAGEVERSION|
-|1.31|
+|1.32|
 |~LANGUAGEAUTHOR|
 |Zala Pia Lipičnik, Iztok Osredkar - Institut OKO, Peter Klofutar|
 |~LANGUAGEAUTHOREMAIL|
@@ -1358,5 +1358,7 @@
 |Označi podatkovno zbirko kot spremenjeno ob zadnji spremembi časa dostopa|
 |Show grid lines in the entry list|
 |Prikaži črte mreže na seznamu vnosov|
+|The regular expression is invalid.|
+|Običajni izraz ni veljaven.|
 |~LANGISO6391CODE|
 |sl|
