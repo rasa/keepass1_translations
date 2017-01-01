@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.31|
+|1.32|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -800,6 +800,8 @@
 |Minimálisan mûködõ módban|
 |Regular expression|
 |Szabályos kifejezés|
+|The regular expression is invalid.|
+|A reguláris kifejezés érvénytelen.|
 |Default user name for new entries:|
 |Alapértelmezett felhasználónév az új bejegyzésekhez:|
 |Advanced Password Generator Options|
