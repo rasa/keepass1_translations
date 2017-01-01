@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.31|
+|~LANGUAGEVERSION||1.32|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |~LANGISO6391CODE||es|
@@ -578,6 +578,7 @@
 |The program is distributed under the terms of the GNU General Public License v2 or later.||El programa es distribuido bajo los términos de la GNU General Public License v2 o posterior.|
 |The program will exit now.||El programa se cerrará ahora.|
 |The random the better.||Más aleatorio, mejor.|
+|The regular expression is invalid.||La expresión regular es inválida.|
 |The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).||El campo seleccionado, que identifica la entrada de origen, contiene caracteres inválidos (como '{', '}', saltos de línea, ...).|
 |The selected key file already exists||El archivo de clave seleccionado ya existe|
 |The specified name is reserved.||El nombre especificado está reservado.|
