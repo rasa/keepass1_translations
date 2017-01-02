@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.31|
+|1.32|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
@@ -1358,3 +1358,5 @@
 |Montrer les lignes de la grille dans la liste d'entrées|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
 |Le Tri-Automatique de la liste d'entrée est activé ; vous ne pouvez pas trier maintenant la liste manuellement.|
+|The regular expression is invalid.|
+|L'expression régulière est invalide.|
