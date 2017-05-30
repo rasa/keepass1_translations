@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.32|
+|1.33|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -842,7 +842,7 @@
 |About &Translation...|
 |Apie &vertimą...|
 
-|Translation information|
+|Translation Information|
 |Vertimo informacija|
 
 |Currently Used Language|
@@ -1673,8 +1673,8 @@
 |The key provider plugin did not supply a valid key|
 |Rakto pateikimo papildinys nepateikė tinkamo rakto|
 
-|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
-|Registruoti Ctrl-Alt-K spartųjį klavišą (KeePass langą iškels į priekį)|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)|
+|Registruoti Ctrl+Alt+K spartųjį klavišą (KeePass langą iškels į priekį)|
 
 |Type to search the database|
 |Įveskite tekstą paieškai duomenų bazėje|
@@ -2046,3 +2046,6 @@
 
 |The regular expression is invalid.|
 |Tiesioginė išraiška neteisinga.|
+
+|Tray icon|
+|Dėklo piktograma|
