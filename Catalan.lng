@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Català|
-|~LANGUAGEVERSION||1.32|
+|~LANGUAGEVERSION||1.33|
 |~LANGUAGEAUTHOR||Albert Morera|
 |~LANGUAGEAUTHOREMAIL||@|
 |- Arcfour crypto routine||- Rutina criptogràfica Arcfour|
@@ -491,7 +491,7 @@
 |Ready.||Preparat.|
 |Reason||Motiu|
 |recommended||recomanat|
-|Register Ctrl-Alt-K hot key (brings the KeePass window to front)||Registra la drecera Ctrl-Alt-K (porta la finestra del KeePass al primer pla)|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)||Registra la drecera Ctrl-Alt-K (porta la finestra del KeePass al primer pla)|
 |Regular expression||Expressió regular|
 |Remember key sources (key file paths, provider names, ...)||Recorda les fonts de claus (camins de fitxers de clau, proveïdor de noms, etc.)|
 |Remember last opened file||Recorda l'últim fitxer obert|
@@ -547,7 +547,7 @@
 |Show full path in the title bar (instead of file name only)||Mostra el camí complet a la barra del títol (en lloc de només el nom del fitxer)|
 |Show grid lines in the entry list||Mostra les línies de la graella en la llista d’entrades|
 |Show TAN &Indices in Entry Titles||Mostra els &índexs TAN en el títol de les entrades|
-|Show tray icon only if main window has been sent to tray||Mostra la icona a la safata del sistema només si s’hi ha enviat la finestra principal|
+|Show tray icon only if main window has been sent to tray||Mostra la icona a la safata del sistema només si s’hi envia des de la finestra principal|
 |Single left click instead of double-click for default tray icon action||Un clic esquerre en lloc d'un doble-clic a la icona de la safata per a l’acció per defecte|
 |So, the more the better. The different, the better.||Així doncs, com més tecles i més diverses millor.|
 |Sort items in the auto-type entry selection dialog||Ordena els elements en el diàleg de selecció d'entrades de l’auto-tecleig|
@@ -625,7 +625,8 @@
 |Total number of groups / entries||Nombre total de grups i entrades|
 |Total: %u groups / %u entries||Total: %u grups / %u entrades|
 |Translation Author Contact||Contacte amb el traductor|
-|Translation information||Informació sobre la traducció|
+|Translation Information||Informació sobre la traducció|
+|Tray icon||Icona a la safata del sistema|
 |Twofish (128-bit block cipher using 256-bit key)||Twofish (blocs de 128 bits xifrats amb clau de 256 bits)|
 |Type to search the database||Tecleja per cercar a la base de dades|
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!||No s’ha pogut crear/suprimir la clau d'auto-inici del KeePass en el registre del Windows!|
