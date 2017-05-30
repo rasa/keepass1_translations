@@ -1,4 +1,4 @@
-﻿2016-03-3 01:31
+﻿2017-05-27 01:33
 |~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
@@ -565,7 +565,7 @@
 |打印预览(&V)...|
 |About &Translation...|
 |关于语言文件(&T)...|
-|Translation information|
+|Translation Information|
 |语言文件信息|
 |Currently Used Language|
 |当前语言|
@@ -1147,8 +1147,8 @@
 |提供者|
 |The key provider plugin did not supply a valid key|
 |密匙提供插件未提供一个有效密匙|
-|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
-|注册热键 Ctrl-Alt-K （激活 KeePass 窗口）|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)|
+|注册热键 Ctrl+Alt+K （激活 KeePass 窗口）|
 |Type to search the database|
 |键入以搜索数据库|
 |Search...|
@@ -1359,3 +1359,7 @@
 |生成的密码包含一个占位符，当使用该密码时（比如复制到剪贴板或自动输入），占位符会被替换，也就是说一个不同的密码会被使用。|
 |Accept this password?|
 |接受此密码？|
+|The regular expression is invalid.|
+|正则表达式无效。|
+|Tray icon|
+|托盘图标|
