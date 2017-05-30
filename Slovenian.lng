@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Slovenian (Slovenščina)|
 |~LANGUAGEVERSION|
-|1.32|
+|1.33|
 |~LANGUAGEAUTHOR|
 |Zala Pia Lipičnik, Iztok Osredkar - Institut OKO, Peter Klofutar|
 |~LANGUAGEAUTHOREMAIL|
@@ -850,7 +850,7 @@
 |Skupno: %u skupin / %u vnosov|
 |Translation Author Contact|
 |Stik z avtorji prevoda|
-|Translation information|
+|Translation Information|
 |Podatki o prevodu ...|
 |Twofish (128-bit block cipher using 256-bit key)|
 |Twofish (128-bitna blokovna šifra z uporabo 256-bitnega ključa)|
@@ -1218,8 +1218,8 @@
 |Hitro iskanje (orodna vrstica)|
 |Read-only|
 |Samo za branje|
-|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
-|Registriraj hitro tipko Ctrl-Alt-K (postavi okno KeePass v ospredje)|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)|
+|Registriraj hitro tipko Ctrl+Alt+K (postavi okno KeePass v ospredje)|
 |Regular expression|
 |Običajni izraz|
 |Remember key sources (key file paths, provider names, ...)|
@@ -1362,3 +1362,5 @@
 |Običajni izraz ni veljaven.|
 |~LANGISO6391CODE|
 |sl|
+|Tray icon|
+|Ikona sistemske vrstice|
