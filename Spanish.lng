@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.32|
+|~LANGUAGEVERSION||1.33|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |~LANGISO6391CODE||es|
@@ -76,7 +76,7 @@
 |&TAN Wizard...||Asistente de &TAN...|
 |&Title||&Título|
 |&Tools||Herramien&tas|
-|&Tray/Untray||&Tray/Untray|
+|&Tray/Untray||Enviar a la bandeja del sis&tema/Traer desde la bandeja del sistema|
 |&TXT File...||Archivo &TXT...|
 |&Undo||&Deshacer|
 |&Unlock Workspace||&Desbloquear área de trabajo|
@@ -470,7 +470,7 @@
 |Read-only||Sólo lectura|
 |Ready.||Listo.|
 |Reason||Razón|
-|Register Ctrl-Alt-K hot key (brings the KeePass window to front)||Registrar Ctrl-Alt-K como hotkey (trae al frente la ventana de KeePass)|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)||Registrar Ctrl+Alt+K como atajo de teclado (trae al frente la ventana de KeePass)|
 |Regular expression||Expresión regular|
 |Remember last opened file||Recordar el último archivo abierto|
 |Remove the currently attached file||Quitar el archico adjunto actual|
@@ -599,7 +599,8 @@
 |Total number of groups / entries||Número total de grupos / entradas|
 |Total: %u groups / %u entries||Total: %u grupo(s) / %u entrada(s)|
 |Translation Author Contact||Contactar al autor de la traducción|
-|Translation information||Información sobre la traducción...|
+|Translation Information||Información sobre la traducción|
+|Tray icon||Icono de la bandeja del sistema|
 |Twofish (128-bit block cipher using 256-bit key)||Twofish (bloque de cifrado de 128-bit usando clave de 256-bit)|
 |Type to search the database||Escriba para buscar en la base de datos|
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!||¡Imposible crear/eliminar del registro de Windows la entrada de auto-inicio de KeePass!|
