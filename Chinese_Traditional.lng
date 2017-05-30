@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.32 - 1|
+|1.33 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -482,6 +482,8 @@
 |移動群組到最下面(&B)|
 |&Tray/Untray|
 |工具列顯示切換(&T)|
+|Tray icon|
+|工具列圖示|
 |Stop|
 |停止|
 |Enter a group name!|
@@ -766,7 +768,7 @@
 |TAN包含以下字元：|
 |<TAN>|
 |<TAN>|
-|Translation information|
+|Translation Information|
 |翻譯資訊|
 |Currently Used Language|
 |語言|
@@ -1124,7 +1126,7 @@
 |在「最少功能」模式|
 |The key provider plugin did not supply a valid key|
 |金鑰提供plugin沒有提供有效的金鑰|
-|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)|
 |註冊快速建Ctrl+Alt+K(將KeePass視窗帶到最上層)|
 |Abort specifying a new key for the current database.|
 |取消指定這個資料庫的新金鑰。|
