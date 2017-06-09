@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.32|
+|1.33|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
@@ -462,8 +462,6 @@
 |&Aperçu avant impression...|
 |About &Translation...|
 |A propos de la &traduction...|
-|Translation information|
-|Informations de traduction|
 |Currently Used Language|
 |Langue Actuelle Utilisée|
 |Language File Version|
@@ -1024,8 +1022,6 @@
 |Imprimer les entrées sauvegardées (entrées du groupe 'Sauvegarde')|
 |Provider|
 |Fournisseur|
-|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
-|Enregistrer le raccourci Ctrl-Alt-K (met la fenêtre Keepass au premier plan)|
 |Regular expression|
 |Expression régulière|
 |Search...|
@@ -1360,3 +1356,9 @@
 |Le Tri-Automatique de la liste d'entrée est activé ; vous ne pouvez pas trier maintenant la liste manuellement.|
 |The regular expression is invalid.|
 |L'expression régulière est invalide.|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)|
+|Enregistrer le raccourci Ctrl+Alt+K (amènera la fenêtre de KeePass au premier plan de l'écran)|
+|Translation Information|
+|Informations de traduction|
+|Tray icon|
+|Icône de la zone de notification|
