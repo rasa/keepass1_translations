@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.32|
+|1.33|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -70,6 +70,8 @@
 |Megjegyzés|
 |Ready.|
 |Kész.|
+|Tray icon|
+|Tálca ikon|
 |Enter Password:|
 |Add meg a jelszót:|
 |Master Password:|
@@ -818,8 +820,8 @@
 |Szolgáltató|
 |The key provider plugin did not supply a valid key|
 |A kulcsszolgáltató bõvítmény nem ad valós kulcsot|
-|Register Ctrl-Alt-K hot key (brings the KeePass window to front)|
-|A Ctrl-Alt-K billentyûparancs regisztrálása (elõtérbe hozza a KeePass ablakot)|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)|
+|A Ctrl+Alt+K billentyûparancs regisztrálása (elõtérbe hozza a KeePass ablakot)|
 |Type to search the database|
 |Írd ide az adatbázisban való kereséshez|
 |Search...|
@@ -1008,8 +1010,8 @@
 |Nyomtatási &kép...|
 |About &Translation...|
 |A &fordításról...|
-|Translation information|
-|Információ az aktuális fordításról|
+|Translation Information|
+|Fordítás Információ|
 |Currently Used Language|
 |Jelenleg használt nyelv|
 |Language File Version|
