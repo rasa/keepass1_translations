@@ -272,6 +272,7 @@
 |Expires:||Caduca el:|
 |Export backup entries (entries in the 'Backup' group)||Exporta les entrades de la còpia de seguretat (les del grup 'Backup')|
 |Export Options||Opcions d'exportació|
+|Failed to attach file:||No es pot adjuntar el fitxer:|
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.||Error en canviar l'associació del fitxers .kdb. Assegureu-vos que teniu permisos d'escriptura al registre i per canviar les associacions de fitxers.|
 |Failed to create backup of this entry!||Error en crear la còpia de seguretat d'aquesta entrada!|
 |Failed to save the configuration.||No s'ha pogut desar la configuració.|
@@ -449,6 +450,7 @@
 |Option not recognized||Opció no reconeguda|
 |Options||Opcions|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.||Les opcions/regles marcades amb un asterisc redueixen la seguretat de les contrasenyes que es generen. Habiliteu-los només si us veieu obligats a seguir aquestes regles per un lloc Web, un programari o una política de contrasenyes.|
+|Out of memory||Sense memòria|
 |Overwrite||Sobreescriu|
 |Overwrite existing key file?||Sobreescriu el fitxer de clau existent|
 |Overwrite if newer||Sobreescriu si és més recent|
@@ -578,6 +580,7 @@
 |TANs are imported into the currently selected group||Els TAN s'importen al grup seleccionat actualment|
 |TANs consist of the following characters:||El TAN es composta dels següents caràcters:|
 |Text Files||Fitxers de text|
+|The attachment is too large||El fitxer adjunt és massa gran|
 |The composite master key has been changed!||S'ha canviat la clau mestra composta!|
 |The current database file has been modified||S’ha modificat el fitxer de la base de dades actual|
 |The database file has been modified!||S’ha modificat el fitxer de la base de dades!|
@@ -621,7 +624,6 @@
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.||Per evitar ambigüitats, les entrades es poden identificar pels seus UUID, els quals són únics.|
 |To execute this operation you must enable unsafe operations in the options dialog.||Per executar aquesta operació heu d'habilitar les operacions no segures al diàleg d'opcions.|
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:||Per especificar una finestra de destí, seleccioneu una finestra ja oberta de la llista desplegable, o bé entreu el títol de la finestra manualment:|
-|Too little memory (RAM) available||No hi ha prou memòria (RAM) disponible|
 |Total number of groups / entries||Nombre total de grups i entrades|
 |Total: %u groups / %u entries||Total: %u grups / %u entrades|
 |Translation Author Contact||Contacte amb el traductor|
@@ -679,3 +681,4 @@
 |You must restart KeePass in order to use the new language.||Heu de reiniciar el KeePass per emprar el nou idioma.|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||La vostra clau es xifra diverses vegades per construir la clau final de xifratge de la vostra base de dades. Això afegeix un factor que fa que els atacs per endevinament o diccionari hagin de ser més durs.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.||Heu seleccionat utilitzar contrasenya i fitxer, per tant heu d'introduir una contrasenya i un fitxer de clau.|
+
