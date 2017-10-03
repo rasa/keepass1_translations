@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
-|~LANGUAGEVERSION||1.33|
+|~LANGUAGEVERSION||1.34|
 |~LANGUAGEAUTHOR||José Gonçalves|
 |~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
 |&Close||Fechar|
@@ -188,7 +188,7 @@
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||O ficheiro de ajuda local é uma amostra da documentação do produto na altura em que a versão é publicada. Não actualiza automaticamente.|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.||O centro de ajuda online contém a última versão da documentação do produto. É necessária uma ligação à Internet.|
 |This option is disabled, because local help is not installed.||Esta opção está desligada, porque o ficheiro de ajuda local não está instalado.|
-|Too little memory (RAM) available||Pouca memória (RAM) disponível|
+
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)||Usar protecção avançada da memória (DPAPI, só em Windows Vista ou superior)|
 |Use the following help source when a "Help" button within KeePass is clicked:||Usar a seguinte fonte de ajuda quando clicar o botão "Ajuda":|
 |%u updates are available!||%u actualizações disponíveis|
@@ -283,3 +283,7 @@
 |Register Ctrl+Alt+K hot key (brings the KeePass window to front)||Registar a combinação Ctrl+Alt+K (traz a janela do KeePass para frente)|
 |Translation Information||Informação da Tradução|
 |Tray icon||Ícone da bandeja do sistema|
+
+|Failed to attach file:||Falha ao anexar o ficheiro:|
+|Out of memory||Sem memória|
+|The attachment is too large||O anexo é muito grande|
