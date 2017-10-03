@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.33|
+|~LANGUAGEVERSION||1.34|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |~LANGISO6391CODE||es|
@@ -263,6 +263,7 @@
 |Expires||Vencimiento|
 |Export backup entries (entries in the 'Backup' group)||Exportar entradas de respaldo (entradas del grupo 'Respaldo')|
 |Export Options||Exportar Opciones|
+|Failed to attach file:||No fue posible adjuntar el archivo:|
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.||No se pudo cambiar la asociación de archivos .kdb. Revise que tiene los permisos necesarios para escribir en el registro y modificar las asociaciones de archivos.|
 |Failed to create backup of this entry!||¡No se pudo crear una copia de seguridad de esta entrada!|
 |Failed to save the configuration.||Error al guardar la configuración.|
@@ -430,6 +431,7 @@
 |Option not recognized||Opción no identificada|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.||Las opciones/reglas marcadas con un asterisco disminuyen la seguridad de las contraseñas generadas. Sólo actívelas si se ve forzado a seguir dichas reglas por el sitio web, aplicación o la política de contraseñas.|
 |Options||Opciones|
+|Out of memory||Memoria insuficiente|
 |Overwrite existing key file?||¿Sobreescribir el archivo de clave existente?|
 |Overwrite if newer||Sobreescribir si es más reciente|
 |Overwrite?||¿Sobreescribir?|
@@ -554,6 +556,7 @@
 |TANs are imported into the currently selected group||TANs son importados en el grupo seleccionado actualmente|
 |TANs consist of the following characters:||TANs consisten de los siguientes caracteres:|
 |Text Files||Archivos Texto|
+|The attachment is too large||El archivo adjunto es demasiado grande|
 |The composite master key has been changed!||¡La clave maestra compuesta ha sido modificada!|
 |The current database file has been modified||La base de datos actual ha sido modificada.|
 |The database file has been modified!||¡El archivo de la base de datos fue modificado!|
@@ -595,7 +598,6 @@
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.||Para evitar ambigüedades, las entradas pueden ser identificadas por sus UUID.|
 |To execute this operation you must enable unsafe operations in the options dialog.||Para ejecutar esta operación, usted debe habilitar operaciones inseguras en el panel de opciones.|
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:||Para especificar la ventana destino, seleccione una ventana existente menú desplegable o introduzca manualmente el título de la ventana:|
-|Too little memory (RAM) available||Muy poca memoria (RAM) disponible|
 |Total number of groups / entries||Número total de grupos / entradas|
 |Total: %u groups / %u entries||Total: %u grupo(s) / %u entrada(s)|
 |Translation Author Contact||Contactar al autor de la traducción|
