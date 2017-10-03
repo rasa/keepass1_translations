@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.33|
+|1.34|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -1160,9 +1160,6 @@
 |Invalid parameter|
 |Netinkamas parametras|
 
-|Too little memory (RAM) available|
-|Trūksta operacinės atminties (RAM)|
-
 |Invalid/wrong key|
 |Neteisingas raktas|
 
@@ -2049,3 +2046,12 @@
 
 |Tray icon|
 |Dėklo piktograma|
+
+|Failed to attach file:|
+|Nepavyko pridėti failo:|
+
+|Out of memory|
+|Pritrūko atminties|
+
+|The attachment is too large|
+|Priedas per didelis|
