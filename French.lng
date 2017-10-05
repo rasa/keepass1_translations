@@ -1,11 +1,11 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.33|
+|1.34|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
-|frt15t@boribar.com, http://www.boribar.com/|
+|frt15t@boribar.com|
 |&Close|
 |&Fermer|
 |&Generate Random Password|
@@ -1186,8 +1186,6 @@
 |Le centre d'aide en ligne contient toujours la dernière version de la documentation du produit. Une connexion Internet pour cela est requise.|
 |This option is disabled, because local help is not installed.|
 |L'option est désactivée, parce que l'aide locale n'est pas disponible.|
-|Too little memory (RAM) available|
-|Trop peu de mémoire (RAM) disponible|
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)|
 |Utiliser la protection de mémoire avancée (DPAPI, seulement avec Windows Vista et supérieur)|
 |Use the following help source when a "Help" button within KeePass is clicked:|
@@ -1362,3 +1360,9 @@
 |Informations de traduction|
 |Tray icon|
 |Icône de la zone de notification|
+|Failed to attach file:|
+|Le jonction du fichier a échoué :|
+|Out of memory|
+|Manque de mémoire|
+|The attachment is too large|
+|La pièce jointe est trop volumineuse|
