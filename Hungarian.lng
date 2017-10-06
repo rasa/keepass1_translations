@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.33|
+|1.34|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -1052,6 +1052,10 @@
 |Melléklet leírása|
 |&Attachment|
 |&Melléklet|
+|Failed to attach file:|
+|Sikertelen fájl csatolás:|
+|The attachment is too large|
+|A csatolmány túl nagy méretû|
 |Generate a random password...|
 |Véletlen jelszó generálása...|
 |Open file and set as attachment...|
@@ -1286,8 +1290,8 @@
 |A megadott név foglalt.|
 |This option is disabled, because local help is not installed.|
 |Ez a lehetõség nem elérhetõ, mert a helyi súgó nincs telepítve.|
-|Too little memory (RAM) available|
-|Nincs elég RAM memória.|
+|Out of memory|
+|Nincs elég memória|
 |Up to date.|
 |Frissítve.|
 |Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
