@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Slovenian (Slovenščina)|
 |~LANGUAGEVERSION|
-|1.33|
+|1.34|
 |~LANGUAGEAUTHOR|
 |Zala Pia Lipičnik, Iztok Osredkar - Institut OKO, Peter Klofutar|
 |~LANGUAGEAUTHOREMAIL|
@@ -1318,8 +1318,6 @@
 |Da se izognete nejasnosti, lahko vnose prepoznate po njihovem edinstvenem UUID-ju.|
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
 |Da določite ciljno okno, s spustnega seznama izberite obstoječe trenutno odprto okno ali ročno vnesite naziv okna:|
-|Too little memory (RAM) available|
-|Na voljo je premalo pomnilnika (RAMA)|
 |Type to search the database|
 |Tipkajte za iskanje po podatkovni zbirki|
 |ch.|
@@ -1364,3 +1362,9 @@
 |sl|
 |Tray icon|
 |Ikona sistemske vrstice|
+|Failed to attach file:|
+|Pripenjanje datoteke je spodletelo:|
+|Out of memory|
+|Zmanjkalo je prostora v pomnilniku|
+|The attachment is too large|
+|Priponka je prevelika|
