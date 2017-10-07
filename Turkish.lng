@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                                                      |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                                   |1.33|
+|~LANGUAGEVERSION|                                                   |1.34|
 |~LANGUAGEAUTHOR|                                                    |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                               |<translator@zeron.net>|
 |~LANGISO6391CODE|                                                   |tr|
@@ -668,7 +668,6 @@
 |This option is disabled, because local help is not installed.|      |Yerel yardım dosyası bulunamadığından bu seçenek devre dışı|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
     |Karışıklığı önlemek için kayıtlar tekil olan UUID alanı ile adlandırılabilir.|
-|Too little memory (RAM) available|                                  |Çok az RAM bellek var|
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)|
     |Gelişmiş bellek koruma kullanılsın (DRAPI yalnız Windows Vista ve sonrasında geçerli)|
 |Use the following help source when a "Help" button within KeePass is clicked:|
@@ -750,3 +749,6 @@
 |The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
 	|Oluşturulan parolada bir kod bulunuyor. Bu parolayı kullanırken (panoya kopyalama ya da otomatik yazma gibi) kod güncellenerek farklı bir parola kullanılması sağlanabilir.|
 |Tray icon|                                                           |Tepsi simgesi|
+|Failed to attach file:|                                              |Dosya eklenemedi:|
+|Out of memory|                                                       |Bellek yetersiz|
+|The attachment is too large|                                         |Ek dosya boyutu çok büyük|
