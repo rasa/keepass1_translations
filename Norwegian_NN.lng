@@ -1,6 +1,6 @@
-﻿|~LANGUAGENAME||Norsk (nynorsk)|
-|~LANGUAGEVERSION||1.32|
-|~LANGUAGEAUTHOR||Yngve Spjeld Landro|
+|~LANGUAGENAME||Norsk (nynorsk)|
+|~LANGUAGEVERSION||1.34|
+|~LANGUAGEAUTHOR||Yngve Spjeld-Landro|
 |~LANGUAGEAUTHOREMAIL||l10n@landro.net|
 |~LANGISO6391CODE||nn|
 |&Close||L&ukk|
@@ -679,3 +679,6 @@
 |Show grid lines in the entry list||Syn rutenett i oppføringslista|
 |The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.||Det laga passordet inneheld ein plasshaldar. Når du nyttar dette passordet (ved t.d. å kopiera det eller bruka auto-inntasting), vil plasshaldaren verta bytt ut. Det kan bety at eit anna passord kan verta teke i bruk.|
 |The regular expression is invalid.||Det regulære uttrykket er ugyldig.|
+|Tray icon||Systemfeltikon|
+|Failed to attach file:||Klarte ikkje å leggja til fila:|
+|The attachment is too large||Vedlegget er for stort|
