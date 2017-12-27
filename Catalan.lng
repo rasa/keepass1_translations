@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Català|
-|~LANGUAGEVERSION||1.33|
+|~LANGUAGEVERSION||1.35|
 |~LANGUAGEAUTHOR||Albert Morera|
 |~LANGUAGEAUTHOREMAIL||@|
 |- Arcfour crypto routine||- Rutina criptogràfica Arcfour|
@@ -44,7 +44,6 @@
 |&Generate||&Genera|
 |&Generate Random Password||&Genera una contrasenya aleatòria|
 |&Get More Import Plugins...||&Aconsegueix més connectors d'importació...|
-|&Get more languages...||&Aconsegueix més idiomes...|
 |&Group name||Nom del &grup|
 |&Help||&Ajuda|
 |&Help Contents||&Continguts de l'ajuda|
@@ -91,6 +90,10 @@
 |***||***|
 |{PARAM} more entries||{PARAM} entrades més|
 |~LANGISO6391CODE||~LANGISO6391CODE|
+|~LANGUAGEAUTHOR||Albert Morera|
+|~LANGUAGEAUTHOREMAIL||@|
+|~LANGUAGENAME||Català|
+|~LANGUAGEVERSION||1.32|
 |<TAN>||<TAN>|
 |1 Month||1 mes|
 |1 update is available!||1 actualització disponible!|
@@ -144,10 +147,10 @@
 |Auto-Type: Help||Auto-tecleig: Ajuda|
 |Auto-Type: Select Target Window...||Auto-tecleig: Selecciona la  finestra destí...|
 |Available||Disponible|
-|Available Languages||Idiomes disponibles|
 |Backup||Còpia de seguretat|
 |bits||bits|
 |Brackets ([, ], {, }, (, ), <, >)||Claudàtors ([, ], {, }, (, ), <, >)|
+|Built-in||Incorporat|
 |By default, new entries expire in the following number of days:||Per defecte, les noves entrades caducaran en el nombre de dies següent:|
 |Calculate rounds for a 1-second delay on this computer||Calcula les iteracions per un retard d'1 segon en aquest ordinador|
 |Cancel||Cancel·la|
@@ -155,7 +158,7 @@
 |Cannot open temporary file for printing!||No es pot obrir el fitxer temporal per imprimir-lo!|
 |Cannot register the global hot key.||No es pot registrar la drecera de teclat global.|
 |ch.||car.|
-|Change &Language...||&Canvia l'idioma...|
+|Change &Language...||&Canvia la llengua...|
 |Change &Master Key...||&Canvia la clau &mestra...|
 |Change Composite Master Key||Canvia la clau mestra composta|
 |Change entry icon:||Canvia la icona de l'entrada:|
@@ -190,6 +193,7 @@
 |Command line argument||Argument de la línia de comandes|
 |Component||Component|
 |Connect failed, cannot check for updates.||La connexió ha fallat, no s'ha pogut comprovar si hi ha actualitzacions.|
+|Contact||Contacte|
 |Copy &All||Copia-ho &tot|
 |Copy &Password||Copia la &contrasenya|
 |Copy &URL to Clipboard||Copia l’&URL al porta-retalls|
@@ -206,7 +210,7 @@
 |Ctrl||Ctrl|
 |Cu&t||&Retalla|
 |Current settings||Configuració actual|
-|Currently Used Language||Idioma actual|
+|Currently used language||Llengua actual|
 |Custom database color:||Color personalitzat de la base de dades:|
 |Database files cannot be used as key files.||Els fitxers de base de dades no es poden emprar com a fitxers de clau.|
 |Database is already specified||Ja s'ha especificat la base de dades|
@@ -230,6 +234,7 @@
 |Discard all changes made to the database and lock the KeePass workspace.||Descarta tots els canvis fets a la base de dades i bloqueja l’espai de treball del KeePass.|
 |Display images on buttons||Mostra imatges en els botons|
 |Do you grant the application access to your KeePass database?||Voleu donar permís al programari per accedir a la base de dades de KeePass?|
+|Do you want to open the application directory (in order to move or delete language files)?||Voleu obrir la carpeta del programari (per tal de moure o esborrar fitxers de llengua)?|
 |Do you want to overwrite it?||Voleu sobreescriure’l?|
 |Do you want to overwrite the current attachment?||Voleu sobreescriure l'adjunt actual?|
 |Do you want to save the changes before closing?||Voleu desar els canvis abans de tancar?|
@@ -284,6 +289,7 @@
 |Fields to export||Camps a exportar|
 |Fields to print||Camps a imprimir|
 |Fields to remember||Camps a recordar|
+|File||Fitxer|
 |File access error: failed to open file in read mode||Error d'accés al fitxer: no s'ha pogut obrir el fitxer en mode de lectura|
 |File access error: failed to open file in write mode||Error d'accés al fitxer: no s'ha pogut obrir el fitxer en mode d'escriptura|
 |File cannot be opened!||No es pot obrir el fitxer!|
@@ -303,6 +309,7 @@
 |Generate using character set:||Genera emprant un conjunt de caràcters:|
 |Generate using pattern:||Genera emprant un patró:|
 |Generated password||S’ha generat la contrasenya|
+|Get More &Languages...||Aconsegueix més &llengües...|
 |Get more plugins...||Obté més connectors...|
 |Get Random||Obté aleatorietat|
 |Get Random Data for Key Generation||Obté dades aleatòries per a la generació de claus|
@@ -315,6 +322,7 @@
 |Help Source||Origen de l'ajuda|
 |Help:||Ajuda:|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):||Aquí podeu associar els fitxers .kdb amb el KeePass (els obrirà en fer-hi doble clic):|
+|Here you can change the user interface language.||Aquí podeu canviar la llengua de la interfície d'usuari.|
 |Here you can configure all installed KeePass plugins.||Aquí podeu configurar els connectors instal·lats del KeePass.|
 |Here you can configure auto-type.||Aquí podeu configurar l’auto-tecleig.|
 |Here you can configure KeePass.||Aquí podeu configurar el KeePass.|
@@ -349,6 +357,7 @@
 |Incoming IPC Request||Petició d'entrada IPC|
 |Insert Field Reference||Insereix la referència del camp|
 |Installed||Instal·lat|
+|Installed Languages||Llengües instal·lades|
 |Integration||Integració|
 |Interface (GUI)||Interfície (GUI)|
 |Internal error||Error intern|
@@ -373,18 +382,16 @@
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.||KeePass reemplaçarà tots els grups i les entrades amb els del fitxer importat si tenen el mateix identificador.|
 |Key File||Fitxer de clau|
 |'Keyfile' or 'preselect' option is already specified||Ja s'ha especificat l'opció «fitxer clau» o «pre-seleccionat»|
-|Language file cannot be opened!||No es pot obrir el fitxer d'idioma!|
-|Language file cannot be registered!||No es pot registrar el fitxer d'idioma!|
-|Language File Version||Versió del fitxer d'idioma|
+|Language file cannot be activated!||No es pot activar el fitxer de llengua!|
+|Language file cannot be opened!||No es pot obrir el fitxer de llengua!|
 |Last &Modification Time||Hora de l'&última modificació|
 |Last Access||Últim accés|
 |Last Modification||Última modificació|
 |Length of generated password:||Longitud de la contrasenya generada:|
 |Limit to single instance||Limita a una única instància|
-|Load a Language File||Carrega un fitxer d'idioma|
-|Load Language File||Càrrega el fitxer d'idioma|
 |Load the existing key file and use it as key for the current database. The key file will not be modified.||Carrega el fitxer de clau existent i empra'l com a clau de la base de dades actual. No es modificarà el fitxer de clau.|
 |Loading error||Error en carregar|
+|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.||No es permet la carrega de fitxers de llengua directament de la carpeta del programari. Els fitxers de llengua s'han de desar a la subcarpeta 'Languages' de la carpeta del programari.  |
 |Local help file||Fitxer d'ajuda local|
 |Lock workspace after the following idle time (seconds):||Bloqueja l’espai de treball després del temps d'inactivitat següent (segons):|
 |Lock workspace when locking Windows, switching user or sleeping||Bloqueja l'espai de treball quan es bloquegi Windows, es canviï d'usuari o es suspengui l'ordinador|
@@ -439,7 +446,9 @@
 |Number of selected entries (number of entries in the list)||Nombre d'entrades seleccionades (nombre d'entrades a la llista)|
 |Number the TANs consecutively, starting from this value||Enumereu els TAN consecutivament, començant pel valor|
 |OK||D’acord|
+|One or more language files have been found in the KeePass application directory.||S'ha trobat un o més fitxers de llengua a la carpeta del programari KeePass.|
 |Online help center||Centre d'ajuda en línia|
+|Open &Folder||Obre &Carpeta|
 |Open &Help File||&Obre el fitxer d'ajuda|
 |Open &License File||Obre el fitxer amb la &llicència|
 |Open &URL(s)||Obre l’&URL(s)|
@@ -533,7 +542,7 @@
 |Select a new font for the list controls:||Seleccioneu un tipus de lletra pels controls:|
 |Select at least one of the options in the list above!||Seleccioneu almenys una de les opcions de la llista de dalt!|
 |Select key file manually...||Seleccioneu el fitxer de clau manualment...|
-|Select one of the languages in the list below.||Seleccioneu un dels idiomes de la llista.|
+|Select Language||Seleccioneu la llengua|
 |Select the fields KeePass should remember||Seleccioneu els camps que el KeePass hauria de recordar|
 |Select the target window for the current entry.||Selecciona la finestra de destí per a l'entrada actual.|
 |Self-Test(s) Failed||Prova(es) fallida(es)|
@@ -549,7 +558,7 @@
 |Show full path in the title bar (instead of file name only)||Mostra el camí complet a la barra del títol (en lloc de només el nom del fitxer)|
 |Show grid lines in the entry list||Mostra les línies de la graella en la llista d’entrades|
 |Show TAN &Indices in Entry Titles||Mostra els &índexs TAN en el títol de les entrades|
-|Show tray icon only if main window has been sent to tray||Mostra la icona a la safata del sistema només si s’hi envia des de la finestra principal|
+|Show tray icon only if main window has been sent to tray||Mostra la icona a la safata del sistema només si s’hi ha enviat la finestra principal|
 |Single left click instead of double-click for default tray icon action||Un clic esquerre en lloc d'un doble-clic a la icona de la safata per a l’acció per defecte|
 |So, the more the better. The different, the better.||Així doncs, com més tecles i més diverses millor.|
 |Sort items in the auto-type entry selection dialog||Ordena els elements en el diàleg de selecció d'entrades de l’auto-tecleig|
@@ -598,7 +607,6 @@
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||Com més alt sigui aquest nombre, més durs han de ser els atacs amb diccionari; però també s’alenteix més en carregar i desar la base de dades.|
 |The KeePass workspace will not be locked.||No es bloquejarà l’espai de treball del KeePass.|
 |The key provider plugin did not supply a valid key||El connector del proveïdor de claus no ha proporcionat una clau vàlida|
-|The language file has been installed.||S'ha instal·lat el fitxer d'idioma.|
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||El fitxer d'ajuda local és una instantània de la documentació en el moment què es va publicar aquesta versió. No s'actualitza automàticament.|
 |The master password must be at least %u characters long!||La contrasenya mestra ha de ser almenys de %u caràcters de longitud!|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.||El centre d'ajuda en línia sempre conté l'última versió de la documentació del producte. És necessària una connexió a Internet.|
@@ -609,6 +617,7 @@
 |The regular expression is invalid.||L’expressió regular no és vàlida.|
 |The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).||El camp seleccionat, que identifica el camp d'origen, conté caràcters no permesos (com ara '{', '}', salts de línia, etc.).|
 |The selected key file already exists||El fitxer de clau seleccionat ja existeix|
+|The selected language has been activated. KeePass must be restarted in order to load the language.||S'ha activat el fitxer de llengua. Heu de reiniciar el KeePass per emprar la nova llengua.|
 |The specified name is reserved.||El nom especificat està reservat.|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.||El fitxer destí indicat pot ser que estigui malmès. Proveu-ho de nou, i si no funciona, deseu la base de dades en un altre lloc.|
 |There already is a file attached with this entry.||Ja hi ha un fitxer adjunt en aquesta entrada.|
@@ -626,7 +635,6 @@
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:||Per especificar una finestra de destí, seleccioneu una finestra ja oberta de la llista desplegable, o bé entreu el títol de la finestra manualment:|
 |Total number of groups / entries||Nombre total de grups i entrades|
 |Total: %u groups / %u entries||Total: %u grups / %u entrades|
-|Translation Author Contact||Contacte amb el traductor|
 |Translation Information||Informació sobre la traducció|
 |Tray icon||Icona a la safata del sistema|
 |Twofish (128-bit block cipher using 256-bit key)||Twofish (blocs de 128 bits xifrats amb clau de 256 bits)|
@@ -678,7 +686,7 @@
 |You have changed an option that requires restarting KeePass to get active.||Heu canviat una opció que requereix reiniciar el KeePass per a tenir efecte.|
 |You have the latest version.||Teniu l'última versió disponible.|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.||Abans de tancar aquesta finestra de diàleg, heu de generar valors aleatoris emprant el ratolí a la casella o bé amb el teclat en el camp d'edició.|
-|You must restart KeePass in order to use the new language.||Heu de reiniciar el KeePass per emprar el nou idioma.|
-|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||La vostra clau es xifra diverses vegades per construir la clau final de xifratge de la vostra base de dades. Això afegeix un factor que fa que els atacs per endevinament o diccionari hagin de ser més durs.|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||La vostra clau es xifra diverses vegades per construir la clau final de xifratge de la vostra base de dades. Això afegeix un factor que fa que els atacs per endevinació o diccionari hagin de ser més durs.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.||Heu seleccionat utilitzar contrasenya i fitxer, per tant heu d'introduir una contrasenya i un fitxer de clau.|
+
 
