@@ -1,4 +1,4 @@
-﻿2017-10-20 01:34
+﻿2017-12-28 01:35
 |~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
@@ -357,14 +357,12 @@
 |确认删除群组|
 |Cannot open temporary file for printing!|
 |无法为打印打开临时文件！|
-|Load Language File|
-|载入语言文件|
-|Load a Language File|
-|载入一个语言文件|
-|Select one of the languages in the list below.|
-|选择列表中的一个语言文件。|
-|Available Languages|
-|可用的语言|
+|Select Language|
+|选择语言|
+|Here you can change the user interface language.|
+|你可以在这里更改用户界面语言。|
+|Installed Languages|
+|已安装的语言|
 |Open &Help File|
 |打开帮助(&H)|
 |Open &License File|
@@ -397,12 +395,10 @@
 |加载错误|
 |Language file cannot be opened!|
 |无法打开语言文件！|
-|Language file cannot be registered!|
-|无法注册语言文件！|
-|The language file has been installed.|
-|成功加载语言文件。|
-|You must restart KeePass in order to use the new language.|
-|必须重启 KeePass 才能使用新的语言。|
+|Language file cannot be activated!|
+|无法激活语言文件！|
+|The selected language has been activated. KeePass must be restarted in order to load the language.|
+|已激活所选语言文件，必须重启 KeePass 来载入新的语言。|
 |Do you wish to restart KeePass now?|
 |现在重启吗？|
 |Restart KeePass?|
@@ -441,8 +437,8 @@
 |&CSV文件...|
 |&Import|
 |导入(&I)|
-|&Get more languages...|
-|获取更多语言(&G)...|
+|Get More &Languages...|
+|获取更多语言(&L)...|
 |Start and exit|
 |启动与退出|
 |Interface (GUI)|
@@ -567,14 +563,12 @@
 |关于语言文件(&T)...|
 |Translation Information|
 |语言文件信息|
-|Currently Used Language|
+|Currently used language|
 |当前语言|
-|Language File Version|
-|语言文件版本|
 |Author|
 |作者|
-|Translation Author Contact|
-|联系翻译作者|
+|Contact|
+|联系方式|
 |&Rearrange|
 |排序(&R)|
 |&Sort Group List|
@@ -1367,3 +1361,15 @@
 |添加附件失败:|
 |The attachment is too large|
 |附件太大|
+|Open &Folder|
+|打开文件夹(&F)|
+|One or more language files have been found in the KeePass application directory.|
+|在 KeePass 程序文件夹中发现了一个或多个语言文件。|
+|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.|
+|不支持直接从程序文件夹加载语言文件，语言文件应被放置在程序文件夹下面的 'Languages' 文件夹里。|
+|Do you want to open the application directory (in order to move or delete language files)?|
+|你想打开程序文件夹吗（以便移动或删除语言文件）？|
+|File|
+|文件|
+|Built-in|
+|内置|
