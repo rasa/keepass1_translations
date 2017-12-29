@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.34 - 1|
+|1.35 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -546,14 +546,10 @@
 |群組刪除確認|
 |Cannot open temporary file for printing!|
 |無法為列印開啟暫存檔案！|
-|Load Language File|
-|變更語言|
-|Load a Language File|
-|載入語言檔|
-|Select one of the languages in the list below.|
-|選擇清單中的一個語言檔。|
-|Available Languages|
-|可用的語言|
+|Select Language|
+|選擇語言|
+|Installed Languages|
+|已安裝的語言|
 |Settings|
 |設定|
 |Here you can configure KeePass.|
@@ -564,12 +560,10 @@
 |載入錯誤|
 |Language file cannot be opened!|
 |無法開啟語言檔！|
-|Language file cannot be registered!|
-|無法註冊語言檔！|
-|The language file has been installed.|
-|此語言檔已安裝。|
-|You must restart KeePass in order to use the new language.|
-|您必須重新啟動KeePass，新的語言才能使用。|
+|Language file cannot be activated!|
+|無法使用語言檔！|
+|The selected language has been activated. KeePass must be restarted in order to load the language.|
+|已選擇新的界面語言。KeePass必須重新啟動，才能讓新的界面語言生效。|
 |Do you wish to restart KeePass now?|
 |要現在重新啟動KeePass嗎？|
 |Restart KeePass?|
@@ -598,8 +592,8 @@
 |&XML檔案...|
 |&CSV File...|
 |&CSV檔案...|
-|&Get more languages...|
-|更多語言(&G)...|
+|Get More &Languages...|
+|下載更多語言(&L)...|
 |Lock workspace when minimizing the main window|
 |在最小化主視窗時鎖定|
 |Minimize main window after locking the workspace|
@@ -770,13 +764,11 @@
 |<TAN>|
 |Translation Information|
 |翻譯資訊|
-|Currently Used Language|
-|語言|
-|Language File Version|
-|版本|
+|Currently used language|
+|目前使用的語言|
 |Author|
 |作者|
-|Translation Author Contact|
+|Contact|
 |聯絡方式|
 |&Rearrange|
 |排序(&R)|
@@ -1348,6 +1340,20 @@
 |附加檔案失敗：|
 |The attachment is too large|
 |附件過大|
+|Built-in|
+|內建|
+|File|
+|檔案|
+|Do you want to open the application directory (in order to move or delete language files)?|
+|您希望開啟KeePass執行檔資料夾嗎？(以便移動或刪除語言檔)|
+|Here you can change the user interface language.|
+|您可以在此變更界面語言。|
+|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.|
+|不支援從KeePass執行檔資料夾載入語言檔。語言檔必須放在KeePass執行檔資料夾下的「Languages」資料夾中。|
+|One or more language files have been found in the KeePass application directory.|
+|在KeePass執行檔所在的資料夾發現一個或多個語言檔。|
+|Open &Folder|
+|開啟資料夾(&F)|
 |~LANGISO6391CODE|
 |zh|
 |About KeePass|
