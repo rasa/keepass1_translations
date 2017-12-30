@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.34|
+|~LANGUAGEVERSION||1.35|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |~LANGISO6391CODE||es|
@@ -44,7 +44,7 @@
 |&Generate Random Password||&Generar contraseña aleatoria|
 |&Generate||&Generar|
 |&Get More Import Plugins...||&Obtener más complementos para importar...|
-|&Get more languages...||&Obtener más idiomas...|
+|Get More &Languages...||Obtener más &idiomas...|
 |&Group name||Nombre del &grupo|
 |&Help Contents||Contenidos de &ayuda|
 |&Help||&Ayuda|
@@ -138,11 +138,11 @@
 |Auto-Type: Help||Escritura automática: ayuda|
 |Auto-Type: Select Target Window...||Escritura automática: seleccione la ventana destino...|
 |Auto-Type||Escritura automática|
-|Available Languages||Idiomas disponibles|
 |Available||Disponible|
 |Backup||Respaldo|
 |bits||bits|
 |Brackets ([, ], {, }, (, ), <, >)||Paréntesis ([, ], {, }, (, ), <, >)|
+|Built-in||Integrado|
 |By default, new entries expire in the following number of days:||Por defecto, las nuevas entradas caducan en el siguiente número de días:|
 |Calculate rounds for a 1-second delay on this computer||Calcular el número de vueltas que causarán un retraso de 1 segundo en esta computadora|
 |Cancel||Cancelar|
@@ -184,6 +184,7 @@
 |Command line argument||Argumento para la línea de comandos|
 |Component||Componente|
 |Connect failed, cannot check for updates.||Falló la conexión, no se pudo comprobar si había actualizaciones.|
+|Contact||Contacto|
 |Copy &All||Copiar &todos|
 |Copy &Password||Copiar &contraseña|
 |Copy &URL to Clipboard||Copias &URL al portapapeles|
@@ -200,7 +201,7 @@
 |Ctrl||Ctrl|
 |Cu&t||Cor&tar|
 |Current settings||Configuración actual|
-|Currently Used Language||Idioma empleado actualmente|
+|Currently used language||Idioma utilizado actualmente|
 |Database is already specified||La base de datos ya se encuentra especificada|
 |Database Settings||Configuración de la base de datos|
 |Database Summary||Sumario de la base de datos|
@@ -223,6 +224,7 @@
 |&Discard changes||&Descartar modificaciones|
 |Display images on buttons||Mostrar imágenes en los botones|
 |Do you grant the application access to your KeePass database?||¿Le concede usted a la aplicación acceso a su base de datos de KeePass?|
+|Do you want to open the application directory (in order to move or delete language files)?||¿Desea abrir la carpeta de la aplicación? (para mover o borrar estos archivos de idioma)|
 |Do you want to overwrite it?||¿Desea sobreescribirlo?|
 |Do you want to overwrite the current attachment?||Usted desea sobreecribir el adjunto?|
 |Do you want to save the changes before closing?||¿Desea guardar los cambios antes de salir?|
@@ -275,6 +277,7 @@
 |Fields to export||Campos a exportar|
 |Fields to print||Campos a imprimir|
 |Fields to remember||Campos a recordar|
+|File||Archivo|
 |File access error: failed to open file in read mode||Error al acceder al archivo: no se pudo abrir el archivo en modo de lectura|
 |File access error: failed to open file in write mode||Error al acceder al archivo: no se pudo abrir el archivo en modo de escritura|
 |File cannot be opened!||¡El archivo no puede ser abierto!|
@@ -305,7 +308,8 @@
 |Help Source||Fuente de ayuda|
 |Help:||Ayuda:|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):||Aquí usted puede asociar los archivo .kdb con KeePass (KeePass abrirá estos archivos cuando haga doble click sobre ellos):|
-|Here you can configure all installed KeePass plugins.||Acá usted puede configurar todos los complementos que haya instalado.|
+|Here you can change the user interface language.||Aquí ustedes puede cambiar el idioma usado por el programa.|
+|Here you can configure all installed KeePass plugins.||Aquí usted puede configurar todos los complementos que haya instalado.|
 |Here you can configure auto-type.||Aquí puede configurar la escritura automática|
 |Here you can configure KeePass.||Aquí usted puede configurar KeePass.|
 |Here you can configure the current database.||Aquí usted puede configurar la base de datos actual.|
@@ -336,6 +340,7 @@
 |Incoming IPC Request||Petición IPC Entrante|
 |Insert Field Reference||Insertar campo de referencia|
 |Installed||Instalado|
+|Installed Languages||Idiomas instalados|
 |Integration||Integración|
 |Interface (GUI)||Interfaz (GUI)|
 |Internal error||Error interno|
@@ -357,18 +362,16 @@
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.||KeePass reemplazará todos los grupos y entradas existentes por aquellos(as) en el archivo a importar, en caso de tener la misma ID.|
 |Key File||Archivo de Clave|
 |'Keyfile' or 'preselect' option is already specified||La opción 'keyfile' o 'preselect' se encuentra ya especificada|
-|Language file cannot be opened!||¡Archivo de idioma no puede ser abierto!|
-|Language file cannot be registered!||¡Archivo de idioma no puede ser registrado!|
-|Language File Version||Versión del archivo de idioma|
+|Language file cannot be activated!||¡No fue posible activar el archivo de idioma!|
+|Language file cannot be opened!||¡No fue posible abrir el archivo de idioma!|
 |Last &Modification Time||Fecha de la última &modificación|
 |Last Access||Último acceso|
 |Last Modification||Última modificación|
 |Length of generated password:||Longitud de la contraseña generada:|
 |Limit to single instance||Permitir una única instancia|
-|Load a Language File||Cargar un archivo de idioma|
-|Load Language File||Cargar archivo de idioma|
 |Load the existing key file and use it as key for the current database. The key file will not be modified.||Cargar el archivo de clave existente y usarlo como clave para la base de datos actual. El archivo de clave no será modificado.|
 |Loading error||Error al cargar|
+|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.||Cargar archivos de idioma directamente desde el directorio de la aplicación ya no es posible. Los archivos de idioma deben guardarse en la carpeta 'Languages' ubicada en el directorio de la aplicación.|
 |Local help file||Archivo de ayuda local|
 |Lock workspace after the following idle time (seconds):||Bloquear el área de trabajo después del siguiente tiempo de inactividad (segundos):|
 |Lock workspace when locking Windows, switching user or sleeping||Bloquear el área de trabajo al bloquear Windows, cambiar de usuario o hibernar|
@@ -420,12 +423,14 @@
 |Number of key encryption rounds:||Número de veces que será cifrada la clave:|
 |Number of selected entries (number of entries in the list)||Número de entradas seleccionadas (número de entradas en la lista)|
 |Number the TANs consecutively, starting from this value||Número de TANs consecutivas, empezando desde este valor|
+|One or more language files have been found in the KeePass application directory.||Se encontraron uno o más archivos de idioma en la carpeta de KeePass.|
 |Online help center||Centro de ayuda en línea|
 |Open &Help File||Abrir Arc&hivo de Ayuda|
 |Open &License File||Abrir &Licencia|
 |Open &URL(s)||Abrir &URL(s)|
 |Open Database||Abrir base de datos|
 |Open file and set as attachment...||Abrir archivo y establecerlo como adjunto...|
+|Open &Folder||Abrir &Carpeta|
 |Open the file in read-only mode. Changes to the database can be saved to a different file.||Abrir el archivo en modo de sólo lectura. Los cambios en la base de datos pueden ser guardados en un archivo distinto.|
 |Open the file in read-only mode?||¿Abrir el archivo en modo de sólo lectura?|
 |Option not recognized||Opción no identificada|
@@ -509,7 +514,7 @@
 |Select at least one of the options in the list above!||¡Seleccione al menos una de las opciones de la lista superior!|
 |Select key file manually...||Seleccionar archivo de clave manualmente...|
 |Select key file manually...||Seleccione manualmente el archivo de clave...|
-|Select one of the languages in the list below.||Seleccione un idioma entre los listados abajo.|
+|Select Language||Seleccione el idioma|
 |Select &Password Font||Seleccione la &fuente para las contraseñas|
 |Select the fields KeePass should remember||Seleccione los campos que KeePass debería recordar|
 |Select the target window for the current entry.||Seleccione la ventana destino para la entrada actual.|
@@ -573,7 +578,6 @@
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||Mientras más alto sea este número, mayor dificultad tendrán los ataques de diccionario. Pero elevar este número también hace que la base de datos sea más lenta para cargar y guardar.|
 |The KeePass workspace will not be locked.||El área de trabajo de KeePass no será bloqueada.|
 |The key provider plugin did not supply a valid key||El complemento proveedor de claves no proporcionó una clave válida|
-|The language file has been installed.||El archivo de idioma fue instalado.|
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||El archivo de ayuda local es una copia de la documentación del producto al momento de haber sido publicada esta versión. No se actualiza automáticamente.|
 |The master password must be at least %u characters long!||¡La contraseña maestra debe ser de al menos %u caracteres!|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.||El centro de ayuda en línea siempre dispone de la versión más reciente de la documentación del producto. Es necesaria una conexión a internet.|
@@ -584,6 +588,7 @@
 |The regular expression is invalid.||La expresión regular es inválida.|
 |The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).||El campo seleccionado, que identifica la entrada de origen, contiene caracteres inválidos (como '{', '}', saltos de línea, ...).|
 |The selected key file already exists||El archivo de clave seleccionado ya existe|
+|The selected language has been activated. KeePass must be restarted in order to load the language.||El archivo de idioma seleccionado ha sido activado. KeePass debe ser reiniciado para que el cambio tenga efecto.|
 |The specified name is reserved.||El nombre especificado está reservado.|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.||El archivo de destino puede estar dañado. Por favor intente guardarlo de nuevo y, si vuelve a fallar, guarde la base de datos en una ubicación diferente.|
 |There already is a file attached with this entry.||Ya hay un archivo adjuntado a esta entrada.|
@@ -600,7 +605,6 @@
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:||Para especificar la ventana destino, seleccione una ventana existente menú desplegable o introduzca manualmente el título de la ventana:|
 |Total number of groups / entries||Número total de grupos / entradas|
 |Total: %u groups / %u entries||Total: %u grupo(s) / %u entrada(s)|
-|Translation Author Contact||Contactar al autor de la traducción|
 |Translation Information||Información sobre la traducción|
 |Tray icon||Icono de la bandeja del sistema|
 |Twofish (128-bit block cipher using 256-bit key)||Twofish (bloque de cifrado de 128-bit usando clave de 256-bit)|
@@ -654,7 +658,6 @@
 |You have changed an option that requires restarting KeePass to get active.||Usted a cambiado una opción que requiere reiniciar KeePass para que tenga efecto.|
 |You have the latest version.||Usted cuenta con la versión más reciente.|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.||Usted debe generar valores aleatorios utilizando la entrada aleatoria del mouse o el cuadro de edición antes de poder cerrar este diálogo.|
-|You must restart KeePass in order to use the new language.||Usted debe reiniciar Keepass para poder usar el nuevo idioma.|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||Su clave es cifrada varias veces con la finalidad de aumentar su seguridad, haciéndola más resistente a ataques de diccionario.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.||Usted ha escogido el método de clave 'AND', debe introducir una contraseña y (AND) además seleccionar un archivo de clave.|
 |Remember key sources (key file paths, provider names, ...)||Recordar información de los archivos de clave (rutas de los archivos, nombre de proveedores, etc.)|
