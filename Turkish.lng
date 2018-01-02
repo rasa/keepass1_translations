@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                                                      |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                                   |1.34|
+|~LANGUAGEVERSION|                                                   |1.35|
 |~LANGUAGEAUTHOR|                                                    |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                               |<translator@zeron.net>|
 |~LANGISO6391CODE|                                                   |tr|
@@ -17,7 +17,7 @@
 |Entry|                                                              |Kayıt|
 |&Title|                                                             |&Başlık|
 |User &Name|                                                         |&Kullanıcı Adı|
-|&URL|                                                               |İ&nternet Adresi|
+|&URL|                                                               |&Adres|
 |&Password|                                                          |&Parola|
 |N&otes|                                                             |N&otlar|
 |&Case sensitive|                                                    |Büyük küçük &harf uyumlu|
@@ -31,7 +31,7 @@
 |Title|                                                              |Başlık|
 |User Name|                                                          |Kullanıcı Adı|
 |User &name|                                                         |Kullanıcı &adı|
-|URL|                                                                |İnternet Adresi|
+|URL|                                                                |Adres|
 |Password|                                                           |Parola|
 |Notes|                                                              |Notlar|
 |Ready.|                                                             |Hazır.|
@@ -67,7 +67,7 @@
 |Group:|                                                             |Grup:|
 |Title:|                                                             |Başlık:|
 |User name:|                                                         |Kullanıcı adı:|
-|URL:|                                                               |İnternet Adresi:|
+|URL:|                                                               |Adres:|
 |Icon:|                                                              |Simge:|
 |Password:|                                                          |Parola:|
 |Repeat:|                                                            |Parola onayı:|
@@ -116,7 +116,7 @@
 |&Lock/Unlock Workspace|                                             |Çalışma alanı &kilitle/aç|
 |&Options...|                                                        |&Ayarlar...|
 |Pr&int Group...|                                                    |Grubu &Yazdır...|
-|Open &URL(s)|                                                       |İ&nternet Adresini Aç|
+|Open &URL(s)|                                                       |A&dresi Aç|
 |&Find in Database...|                                               |&Veritabanında Bul...|
 |Find in t&his Group...|                                             |Seçili &Grupta Bul...|
 |&Add Entry...|                                                      |Kayıt &Ekle...|
@@ -175,10 +175,7 @@
 |Are you sure you want to delete this group?|                        |Bu grubu silmek istediğinizden emin misiniz?|
 |Delete Group Confirmation|                                          |Grubu sil|
 |Cannot open temporary file for printing!|                           |Yazdırma için geçici dosya açılamadı!|
-|Load Language File|                                                 |Dil Dosyasını Yükle|
-|Load a Language File|                                               |Bir Dil Dosyası Yükle|
-|Select one of the languages in the list below.|                     |Aşağıdaki listeden kullanmak istediğiniz dili seçin.|
-|Available Languages|                                                |Kullanılabilecek Diller|
+|Select Language|                                                    |Dili Seçin|
 |&Help|                                                              |&Yardım|
 |&Help Contents|                                                     |Yardı&m İçeriği|
 |Open &Help File|                                                    |&Yardım Dosyasını Görüntüle|
@@ -195,9 +192,9 @@
 |Workspace locked|                                                   |Çalışma alanı kilitlendi|
 |Loading error|                                                      |Yükleme Sorunu|
 |Language file cannot be opened!|                                    |Dil dosyası açılamadı!|
-|Language file cannot be registered!|                                |Dil dosyası yüklenemedi!|
-|The language file has been installed.|                              |Dil dosyası kuruldu.|
-|You must restart KeePass in order to use the new language.|         |Yeni dili kullanmak için KeePass yeniden başlatılmalı.|
+|Language file cannot be activated!|                                 |Dil dosyası etkinleştirilemedi!|
+|The selected language has been activated. KeePass must be restarted in order to load the language.|
+         |Seçilmiş dil etkinleştirildi. Bu dili kullanmak için KeePass yeniden başlatılmalı.|
 |Do you wish to restart KeePass now?|                                |KeePass şimdi yeniden başlatılsın mı?|
 |Restart KeePass?|                                                   |KeePass yeniden başlatılsın mı?|
 |Application cannot be restarted automatically!|                     |Uygulama kendiliğinden yeniden başlatılamadı!|
@@ -216,7 +213,7 @@
 |&XML File...|                                                       |&XML Dosyası...|
 |&CSV File...|                                                       |&CSV Dosyası...|
 |&Import|                                                            |A&l|
-|&Get more languages...|                                             |Başka &dillere bak...|
+|Get More &Languages...|                                             |Diğer &Dillere Bakın...|
 |Start and exit|                                                     |Başlangıç ve Çıkış|
 |Interface (GUI)|                                                    |Arabirim (GUI)|
 |Files|                                                              |Dosyalar|
@@ -238,12 +235,12 @@
 |Last Modification|                                                  |Son Değişiklik|
 |Last Access|                                                        |Son Erişim|
 |Expires|                                                            |Son kullanma|
-|UUID|                                                                       |UUID|
+|UUID|                                                               |Eşsiz Kod|
 |&Creation Time|                                                     |&Oluşturulma Zamanı|
 |Last &Modification Time|                                            |Son &Değişiklik Zamanı|
 |&Last Access Time|                                                  |Son &Erişim Zamanı|
 |&Expiration Time|                                                   |&Son Kullanma Tarihi|
-|UU&ID|                                                              |&UUID|
+|UU&ID|                                                              |&Eşsiz Kod|
 |Show &Toolbar|                                                      |&Araç Çubuğu Görüntülensin|
 |Field copied to clipboard.|                                         |Alan panoya kopyalandı.|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
@@ -278,10 +275,8 @@
 |Print Pre&view...|                                                  |Baskı Ö&nizleme...|
 |About &Translation...|                                              |&Çeviri Hakkında...|
 |Translation Information|                                            |Çeviri Bilgisi|
-|Currently Used Language|                                            |Geçerli Dil|
-|Language File Version|                                              |Dil Dosyası Sürümü|
+|Currently used language|                                            |Geçerli Dil|
 |Author|                                                             |Çeviren|
-|Translation Author Contact|                                         |İletişim|
 |&Rearrange|                                                         |Yeniden &Düzenle|
 |&Sort Group List|                                                   |Grup Listesini &Sırala|
 |Move Group One &Left|                                               |Grubu Bir S&ola Taşı|
@@ -482,8 +477,8 @@
 |Reuse the current key/password?|                                    |Geçerli anahtar ve parola yeniden kullanılsın mı?|
 |Show full path in the title bar (instead of file name only)|        |Başlık çubuğunda dosya adıyla birlikte tam yol  görüntülensin|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
-    |İnternet adresleri doğrudan açılmak yerine panoya kopyalansın (cmd:// adresleri hariç)|
-|Copy &URL to Clipboard|                                             |İ&nternet adresi panoya kopyalansın|
+    |Adresler doğrudan açılmak yerine panoya kopyalansın (cmd:// adresleri hariç)|
+|Copy &URL to Clipboard|                                             |Adres panoya k&opyalansın|
 |Exit program instead of locking the workspace after the specified time|
     |Belirtilmiş süre dolduğunda çalışma alanı kilitleneceğine yazılımdan çıkılsın|  
 |Click on an entry to auto-type it.|                                 |Otomatik yazdırılacak kayıdın üzerine tıklayın.|
@@ -518,7 +513,7 @@
 |Value|                                                              |Değer|
 |Select the fields KeePass should remember|                          |KeePass tarafından hatırlanacak alanları seçin|
 |Fields to remember|                                                 |Hatırlanacak alanlar|
-|An entry already exists for the current URL.|                       |Geçerli İnternet adresi için bir kayıt zaten var.|
+|An entry already exists for the current URL.|                       |Geçerli adres için bir kayıt zaten var.|
 |The following application requests access to your currently opened KeePass database:|
     |Aşağıdaki uygulama şu anda açık olan KeePass veritabanına erişmek istiyor:|
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
@@ -536,7 +531,7 @@
     |Uzaktan denetim kullanılsın (uygulamalar KeePass ile iletişim kurabilsin)|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
     |Anahtar dosyasını içeren medyanın takılı olduğundan ve KeePass tarafından erişim izni olduğundan emin olun (dosya erişim haklarını denetleyin, diğer uygulamaların dosyayı engellemediğinden emin olun, ....).|
-|URL Field: Help|                                                    |İnternet Adresi Alanı: Yardım|
+|URL Field: Help|                                                    |Adres Alanı: Yardım|
 |There are too few characters in the character set to build up a password matching the specified rules|
     |Kullanılan karakter sayısı, belirlenmiş kurallara uygun bir parola oluşturmak için çok az|
 |(Custom)|                                                           |(Özel)|
@@ -608,9 +603,9 @@
 |Copy [of an item]|                                                  |Kopyala [bir ögeden]|
 |Focus entry list after a successful quick search|                   |Başarılı bir hızlı arama işleminden sonra kayıt listesine odaklan|
 |Always grant full access through remote control (not recommended)|  |Uzaktan denetim sırasında her zaman tam erişim hakkı verilsin (önerilmez)|
-|URL Field: Select Application...|                                   |İnternet Adresi Alanı: Uygulama Seçin...|
-|URL Field: Select Document...|                                      |İnternet Adresi Alanı: Belge Seçin...|
-|URL Field: Insert Placeholder|                                      |İnternet Adresi Alanı: Ayıraç Ekleyin|
+|URL Field: Select Application...|                                   |Adres Alanı: Uygulama Seçin...|
+|URL Field: Select Document...|                                      |Adres Alanı: Belge Seçin...|
+|URL Field: Insert Placeholder|                                      |Adres Alanı: Ayıraç Ekleyin|
 |Auto-Type: Help|                                                    |Otomatik Yaz: Yardım|
 |Auto-Type: Select Target Window...|                                 |Otomatik Yaz: Hedef Pencereyi Seçin...|
 |Select the target window for the current entry.|                    |Bu kayıt için hedef pencereyi seçin.|
@@ -640,7 +635,7 @@
 |In Notes Field|                                                     |Notlar alanından|
 |In Password Field|                                                  |Parola alanından|
 |In Title Field|                                                     |Ad alanından|
-|In URL Field|                                                       |İnternet Adresi alanından|
+|In URL Field|                                                       |Adres alanından|
 |In User Name Field|                                                 |Kullanıcı Adı alanından|
 |Include expired entries in quick searches|                          |Hızlı aramalarda süresi geçmiş kayıtlara da bak|
 |Insert Field Reference|                                             |Alan Referansı Ekle|
@@ -667,7 +662,7 @@
     |Hedef dosya bozulmuş olabilir. Lütfen yeniden kaydetmeyi deneyin. Başarısız olursanız veritabanını başka bir yere kaydetmeyi deneyin.|
 |This option is disabled, because local help is not installed.|      |Yerel yardım dosyası bulunamadığından bu seçenek devre dışı|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
-    |Karışıklığı önlemek için kayıtlar tekil olan UUID alanı ile adlandırılabilir.|
+    |Karışıklığı önlemek için kayıtlar eşsiz olan Eşsiz Kod alanı ile adlandırılabilir.|
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)|
     |Gelişmiş bellek koruma kullanılsın (DRAPI yalnız Windows Vista ve sonrasında geçerli)|
 |Use the following help source when a "Help" button within KeePass is clicked:|
@@ -708,7 +703,7 @@
 |Sort List by &Expiration Time|                                      |&Son kullanma süresine göre sıralansın|
 |Sort List by &Password|                                             |&Parolalara göre sıralansın|
 |Sort List by &Title|                                                |&Başlıklara göre sıralansın|
-|Sort List by &URL|                                                  |İ&nternet adresine göre sıralansın|
+|Sort List by &URL|                                                  |&Adrese göre sıralansın|
 |Sort List by Last &Access Time|                                     |&Erişim zamanına göre sıralansın|
 |Sort List by Last &Modify Time|                                     |Son &değişiklik zamanına göre sıralansın|
 |Sort List by Note&s|                                                |&Notlara göre sıralansın|
@@ -752,3 +747,15 @@
 |Failed to attach file:|                                              |Dosya eklenemedi:|
 |Out of memory|                                                       |Bellek yetersiz|
 |The attachment is too large|                                         |Ek dosya boyutu çok büyük|
+|Built-in|                                                            |İçsel|
+|Contact|                                                             |İletişim|
+|File|                                                                |Dosya|
+|Open &Folder|                                                        |Kla&sör Aç|
+|Here you can change the user interface language.|                    |Uygulama dili buradan değiştirilebilir.|
+|Installed Languages|                                                 |Kurulmuş Diller|
+|Do you want to open the application directory (in order to move or delete language files)?|
+    |Uygulama klasörünü açmak ister misiniz (dil dosyalarını taşımak ya da silmek için)?|
+|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.|
+    |Doğrudan uygulama klasöründe bulunan dil dosyaları kullanılmaz. Dil dosyalarının uygulama klasörünün altındaki 'Languages' klasörüne bulunması gerekir.|
+|One or more language files have been found in the KeePass application directory.|
+    |KeePass uygulama klasöründe bir ya da bir kaç dil dosyasu bulundu.|
