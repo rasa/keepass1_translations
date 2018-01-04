@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.34|
+|1.35|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
@@ -278,14 +278,6 @@
 |Confirmation de l'effacement du groupe|
 |Cannot open temporary file for printing!|
 |Impossible d'ouvrir le fichier temporaire pour l'impression!|
-|Load Language File|
-|Ouvrir un Fichier de Langue|
-|Load a Language File|
-|Ouvrir un Fichier Langue|
-|Select one of the languages in the list below.|
-|Sélectionnez une langue dans la liste ci-dessous.|
-|Available Languages|
-|Langues disponibles|
 |Open &Help File|
 |Ouvrir le fic&hier d'aide|
 |Open &License File|
@@ -312,12 +304,6 @@
 |Erreur de chargement|
 |Language file cannot be opened!|
 |Le fichier de langue ne peut être ouvert!|
-|Language file cannot be registered!|
-|Le fichier de langue ne peut être enregistré!|
-|The language file has been installed.|
-|Le fichier de langue a été installé.|
-|You must restart KeePass in order to use the new language.|
-|Vous devez redémarrer KeePass pour utiliser la nouvelle langue.|
 |Do you wish to restart KeePass now?|
 |Voulez-vous redémarrer KeePass maintenant ?|
 |Restart KeePass?|
@@ -352,8 +338,6 @@
 |Fichiers &CSV|
 |&Import|
 |&Importer|
-|&Get more languages...|
-|&Obtenir d'autres langues...|
 |Start and exit|
 |Démarrer et quitter|
 |Interface (GUI)|
@@ -462,14 +446,8 @@
 |&Aperçu avant impression...|
 |About &Translation...|
 |A propos de la &traduction...|
-|Currently Used Language|
-|Langue Actuelle Utilisée|
-|Language File Version|
-|Version du Fichier de Langue |
 |Author|
 |Auteur |
-|Translation Author Contact|
-|Contacts du traducteur|
 |&Rearrange|
 |&Réorganiser|
 |&Sort Group List|
@@ -1366,3 +1344,31 @@
 |Manque de mémoire|
 |The attachment is too large|
 |La pièce jointe est trop volumineuse|
+|Built-in|
+|Commande intrinsèque|
+|Contact|
+|Contact|
+|Currently used language|
+|Langage en cours utilisé|
+|Do you want to open the application directory (in order to move or delete language files)?|
+|Souhaitez-vous ouvrir le répertoire de l'application (afin d'y mettre ou supprimer des fichiers de langue) ?|
+|File|
+|Fichier|
+|Get More &Languages...|
+|Obtenir Plus de &Langues...|
+|Here you can change the user interface language.|
+|Ici vous pouvez changer la langue de l'interface utilisatrice.|
+|Installed Languages|
+|Langues installées|
+|Language file cannot be activated!|
+|Le fichier de langue ne peut pas être activé !|
+|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.|
+|Charger les fichiers de langues directement depuis le répertoire de l'application n'est pas supporté. Les fichiers de langues devraient plutôt être stockés dans le dossier 'Languages' du répertoire de l'application.|
+|One or more language files have been found in the KeePass application directory.|
+|Un ou plus de fichiers de langues ont été trouvés dans le répertoire de l'application KeePass.|
+|Open &Folder|
+|Ouvrir &Dossier|
+|Select Language|
+|Sélectionner Langue|
+|The selected language has been activated. KeePass must be restarted in order to load the language.|
+|La langue sélectionnée a été activée. KeePass doit être redémarré afin de charger la langue.|
