@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.35|
+|1.36|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -78,6 +78,8 @@
 |&Keres|
 |Find a string in the entry list.|
 |Karakterlánc keresés a listában.|
+|Search for passwords in quick searches|
+|Jelszavak keresése gyors keresésekben|
 |About KeePass|
 |KeePass névjegye|
 |Group|
