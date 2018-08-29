@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.35 - 1|
+|1.36 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -710,8 +710,6 @@
 |為變更過的項目備份到「備份」群組|
 |Delete all backup entries before saving the database|
 |在儲存前刪除所有備份項目|
-|Include backup entries in quick searches|
-|快速搜尋時包含備份項目|
 |Exit program instead of locking the workspace after the specified time|
 |在特定時間後不鎖定，改成結束程式|
 |Show full path in the title bar (instead of file name only)|
@@ -1212,8 +1210,12 @@
 |在關閉/鎖定資料庫時清除剪貼簿|
 |Exclude &expired entries|
 |排除過期的項目(&E)|
+|Include backup entries in quick searches|
+|在快速搜尋時包含備份項目|
 |Include expired entries in quick searches|
 |在快速搜尋時包含過期的項目|
+|Search for passwords in quick searches|
+|在快速搜尋時包含密碼|
 |Normal|
 |標準|
 |Open the file in read-only mode. Changes to the database can be saved to a different file.|
