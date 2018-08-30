@@ -1,6 +1,6 @@
 ﻿|~LANGUAGENAME|			|Russian|
 |~LANGISO6391CODE|		|ru|
-|~LANGUAGEVERSION|		|1.35|
+|~LANGUAGEVERSION|		|1.36|
 |~LANGUAGEAUTHOR|		|Dmitry Yerokhin, Andrew Gavrushenko|
 |~LANGUAGEAUTHOREMAIL|		|erodim@mail.ru|
 
@@ -526,6 +526,7 @@
 |1 Year|				|1 год|
 |6 Months|				|6 месяцев|
 |Include backup entries in quick searches|	|Включать резервные записи в быстрый поиск|
+|Search for passwords in quick searches|	|Искать пароли при быстром поиске|
 
 |&Repair Database File...|		|По&чинить файл с паролями...|
 |Delete all backup entries before saving the database|	|Удалять все резервные записи перед сохранением базы паролей|
