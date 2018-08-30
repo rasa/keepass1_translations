@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
-|~LANGUAGEVERSION||1.35|
+|~LANGUAGEVERSION||1.36|
 |~LANGUAGEAUTHOR||José Gonçalves|
 |~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
 |&Close||Fechar|
@@ -287,7 +287,7 @@
 
 |Built-in||Integrado|
 |Contact||Contacto|
-|Currently used language|||Idioma atualmente utilizado|
+|Currently used language||Idioma atualmente utilizado|
 |Do you want to open the application directory (in order to move or delete language files)?||Quer abrir a pasta do aplicativo (para mover ou excluir ficheiros de idiomas)?|
 |File||Ficheiro|
 |Get More &Languages...||Obter mais &Idiomas...|
@@ -300,3 +300,4 @@
 |Select Language||Selecionar Idioma|
 |The selected language has been activated. KeePass must be restarted in order to load the language.||O idioma selecionado foi ativado. KeePass deve ser reiniciado para carregar o idioma.|
 
+|Search for passwords in quick searches||Procurar por senhas nas pesquisas rápidas|
