@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                                                      |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                                   |1.35|
+|~LANGUAGEVERSION|                                                   |1.36|
 |~LANGUAGEAUTHOR|                                                    |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                               |<translator@zeron.net>|
 |~LANGISO6391CODE|                                                   |tr|
@@ -759,3 +759,4 @@
     |Doğrudan uygulama klasöründe bulunan dil dosyaları kullanılmaz. Dil dosyalarının uygulama klasörünün altındaki 'Languages' klasörüne bulunması gerekir.|
 |One or more language files have been found in the KeePass application directory.|
     |KeePass uygulama klasöründe bir ya da bir kaç dil dosyasu bulundu.|
+|Search for passwords in quick searches|                              |Hızlı aramalarda parolalar aranabilsin|
