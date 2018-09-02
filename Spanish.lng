@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.35|
+|~LANGUAGEVERSION||1.36|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |~LANGISO6391CODE||es|
@@ -505,6 +505,7 @@
 |Save||Guardar|
 |Se&lect All||Se&leccionar todo|
 |Search in||Buscar en|
+|Search for passwords in quick searches||Buscar contraseñas en las búsquedas rápidas|
 |Search Results||Resultados de la búsqueda|
 |Search...||Buscar...|
 |Security||Seguridad|
