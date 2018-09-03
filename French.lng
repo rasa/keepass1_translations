@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.35|
+|1.36|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
@@ -1372,3 +1372,5 @@
 |Sélectionner Langue|
 |The selected language has been activated. KeePass must be restarted in order to load the language.|
 |La langue sélectionnée a été activée. KeePass doit être redémarré afin de charger la langue.|
+|Search for passwords in quick searches|
+|Chercher des mots de passe dans les recherches rapides|
