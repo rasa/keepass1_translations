@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.35|
+|1.36|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -2054,7 +2054,7 @@
 |Kalbos failų įkėlimas iš programos katalogo nepalaikomas. Kalbų failai turi būti įrašyti į programos katalogo aplanką 'Languages'.|
 
 |One or more language files have been found in the KeePass application directory.|
-|Vienas ar daugiau kalbų failų aptikta KeePass programos kataloge.|
+|Vienas ar daugiau kalbų failų aptikti KeePass programos kataloge.|
 
 |Open &Folder|
 |Atverti &aplanką|
@@ -2064,3 +2064,6 @@
 
 |The selected language has been activated. KeePass must be restarted in order to load the language.|
 |Parinktoji kalba aktyvuota. Norėdami įkelti kalbą, iš naujo paleiskite KeePass.|
+
+|Search for passwords in quick searches|
+|Greitosiose paieškose ieškoti slaptažodžių|
