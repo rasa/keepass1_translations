@@ -146,8 +146,8 @@
 |Ed&it Group...|		|Изм&енить группу...|
 |&Delete Group...|		|&Удалить группу...|
 |Pr&int Group...|		|&Распечатать группу...|
-|Copy User &Name|		|Скопировать лог&ин|
-|Copy &Password|		|Скопировать &пароль|
+|Copy User &Name|		|Копировать лог&ин|
+|Copy &Password|		|Копировать &пароль|
 |Open &URL(s)|			|Открыть &URL-адрес(а)|
 |&Find in Database...|		|Найти в базе пар&олей...|
 |Find in t&his Group...|	|На&йти в этой группе...|
@@ -315,8 +315,8 @@
 |Show &Entry View|		|Поле просмотра &записи|
 
 |Automatically resize table columns when resizing the main window|	|Автоподбор ширины столбцов таблицы при изменении размеров окна|
-|&Copy|				|С&копировать|
-|Copy &All|			|Скопировать &все|
+|&Copy|				|&Копировать|
+|Copy &All|			|Копировать &все|
 |&Undo|				|&Отменить|
 |&Paste|			|&Вставить|
 |Cu&t|				|В&ырезать|
@@ -391,7 +391,7 @@
 |If you exit now, all changes to the current database will be lost.|	|При выходе текущая база паролей будет утеряна.|
 |Would you like to exit anyway?|	|Настаиваете на выходе?|
 |Cannot access the selected drive.|	|Нет доступа к выбранному диску.|
-|Make sure a writable medium is inserted.|	|Проверьте, доступен ли для записи носитель.|
+|Make sure a writable medium is inserted.|	|Проверьте, доступен ли носитель для записи.|
 |Not enough free disk space!|		|Недостаточно свободного места!|
 |Disable unsafe (security-critical) operations like exports, etc.|	|Запрещать небезопасные операции (экспорт и пр.)|
 |Unsafe operations are disabled.|	|Небезопасные операции запрещены.|
@@ -547,7 +547,7 @@
 |Overwrite if newer|			|Перезаписывать старые|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|	|KeePass сравнит время изменения групп/записей и заменит имеющиеся, только если импортируемые более новые.|
 
-|Copy &URL to Clipboard|		|Скопировать URL-адре&с в буфер обмена|
+|Copy &URL to Clipboard|		|Копировать URL-адре&с в буфер обмена|
 |Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|	|Не открывать, а копировать URL-адреса в буфер обмена (кроме cmd://)|
 |Enable auto-type features|		|Разрешить автонабор|
 
