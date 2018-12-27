@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.36 - 1|
+|1.37 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -330,8 +330,12 @@
 |排除下列字元：|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
 |標上星號的選項或規則降低了密碼的安全性。只有在必要時使用這些選項(例如受限於網站、應用程式或密碼原則)。|
-|Collect additional &entropy|
-|蒐集亂數(&E)|
+|&Show dialog for collecting user input as additional entropy|
+|顯示讓使用者輸入額外亂數的對話方塊(&S)|
+|Do not store data in the Windows clipboard history and the cloud clipboard|
+|不要將資料儲存在Windows剪貼簿歷史紀錄與雲端剪貼簿|
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
+|以下選項對於主視窗中項目的剪貼簿相關指令有效(例如「複製使用者名稱」與「複製密碼」)。|
 |Generated password|
 |產生的密碼|
 |&Generate|
