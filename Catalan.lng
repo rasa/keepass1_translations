@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Català|
-|~LANGUAGEVERSION||1.35|
+|~LANGUAGEVERSION||1.37|
 |~LANGUAGEAUTHOR||Albert Morera|
 |~LANGUAGEAUTHOREMAIL||@|
 |- Arcfour crypto routine||- Rutina criptogràfica Arcfour|
@@ -71,6 +71,7 @@
 |&Save||&Desa|
 |&Save Attached File To...||&Desa el fitxer adjunt a...|
 |&Select All||&Selecciona-ho tot|
+|&Show dialog for collecting user input as additional entropy||&Diàleg per prendre entrades de l'usuari com entropia addicional|
 |&Sort Group List||&Ordena la llista de grups|
 |&TAN Wizard...||Assistent de &TAN...|
 |&Title||&Títol|
@@ -93,7 +94,7 @@
 |~LANGUAGEAUTHOR||Albert Morera|
 |~LANGUAGEAUTHOREMAIL||@|
 |~LANGUAGENAME||Català|
-|~LANGUAGEVERSION||1.32|
+|~LANGUAGEVERSION||1.37|
 |<TAN>||<TAN>|
 |1 Month||1 mes|
 |1 update is available!||1 actualització disponible!|
@@ -189,7 +190,6 @@
 |Clipboard cleared.||S'ha netejat el porta-retalls.|
 |Close button [X] minimizes the main window instead of terminating the application||El botó de tancar [X] minimitza la finestra principal en lloc de sortir del programa|
 |Code&Wallet TXT File...||Fitxer TXT Code&Wallet...|
-|Collect additional &entropy||Afegeix &entropia addicional|
 |Command line argument||Argument de la línia de comandes|
 |Component||Component|
 |Connect failed, cannot check for updates.||La connexió ha fallat, no s'ha pogut comprovar si hi ha actualitzacions.|
@@ -233,6 +233,7 @@
 |Discard all changes made to the database and exit KeePass.|| Descarta tots els canvis fets a la base de dades i surt del KeePass.|
 |Discard all changes made to the database and lock the KeePass workspace.||Descarta tots els canvis fets a la base de dades i bloqueja l’espai de treball del KeePass.|
 |Display images on buttons||Mostra imatges en els botons|
+|Do not store data in the Windows clipboard history and the cloud clipboard||No emmagatzemis dades a l'historial del porta-retalls de Windows ni al porta-retalls del núvol|
 |Do you grant the application access to your KeePass database?||Voleu donar permís al programari per accedir a la base de dades de KeePass?|
 |Do you want to open the application directory (in order to move or delete language files)?||Voleu obrir la carpeta del programari (per tal de moure o esborrar fitxers de llengua)?|
 |Do you want to overwrite it?||Voleu sobreescriure’l?|
@@ -601,6 +602,7 @@
 |The file will not be closed.||No es tancarà el fitxer.|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.||El fitxer que voleu obrir està bloquejat, per exemple algú ha obert el fitxer i l'està editant.|
 |The following application requests access to your currently opened KeePass database:||Les següents peticions d’aplicació accedeixen a la base de dades de KeePass oberta:|
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').||Les opcions següents s'apliquen a les comandes d'entrada del porta-retalls en la finestra principal (com ara 'Copia el nom d'usuari' i 'Copia la contrasenya') |
 |The following self-tests failed:||Han fallat les proves següents:|
 |The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.||La contrasenya generada conté un codi de camp. Quan s’utilitzi aquesta contrasenya (e.g. copiant-la al porta-retalls o amb auto-tecleig), es reemplaçarà el codi de camp, i.e. es podrà emprar una contrasenya diferent.|
 |The group you selected cannot store entries. Please select a different group.||El grup que heu seleccionat no pot emmagatzemar entrades. Seleccioneu un altre grup.|
