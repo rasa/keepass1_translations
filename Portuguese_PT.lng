@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
-|~LANGUAGEVERSION||1.36|
+|~LANGUAGEVERSION||1.37|
 |~LANGUAGEAUTHOR||José Gonçalves|
 |~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
 |&Close||Fechar|
@@ -85,7 +85,6 @@
 
 |Advanced Password Generator Options||Opções Avançadas do Gerador de Senhas|
 |Clear Search History||Limpar Histórico da Procura|
-|Collect additional &entropy||Recolher &entropia adicional|
 |Default user name for new entries:||Nome de utilizador padrão para novas entradas:|
 |Exclude the following characters:||Excluir os seguintes caracteres:|
 |Fields to print||Campos a imprimir|
@@ -301,3 +300,7 @@
 |The selected language has been activated. KeePass must be restarted in order to load the language.||O idioma selecionado foi ativado. KeePass deve ser reiniciado para carregar o idioma.|
 
 |Search for passwords in quick searches||Procurar por senhas nas pesquisas rápidas|
+
+|&Show dialog for collecting user input as additional entropy||&Mostrar caixa de diálogo para recolha de entrada do utilizador como entropia adicional|
+|Do not store data in the Windows clipboard history and the cloud clipboard||Não armazene dados no histórico da área de transferência do Windows e na área de transferência da nuvem|
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').||As opções a seguir se aplicam aos comandos de área de transferência de entrada na janela principal (como 'Copiar nome de utilizador' e 'Copiar senha').|
