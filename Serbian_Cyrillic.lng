@@ -1,9 +1,9 @@
 |~LANGUAGENAME|
 |Српски|
 |~LANGUAGEVERSION|
-|1.36|
+|1.37|
 |~LANGUAGEAUTHOR|
-|Ljuba Ćirović|
+|Љуба Ћировић|
 |~LANGUAGEAUTHOREMAIL|
 |ljuba.cirovic@gmail.com|
 |&Close|
@@ -92,8 +92,12 @@
 |Опције|
 |Current settings|
 |Актуелна подешавања|
-|Collect additional &entropy|
-|Сакупи додатну ентропију|
+|&Show dialog for collecting user input as additional entropy|
+|Прикажи дијалог за прикупљање корисничког уноса као додатне ентропије|
+|Do not store data in the Windows clipboard history and the cloud clipboard|
+|Не чувати податке у историјама Windows радне табле и радне табле у облаку|
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
+|Следеће опције се примењују за унос наредби радне табле у главном прозору (као што су 'Препиши корисничко име' и 'Препиши лозинку').|
 |Generated password|
 |Генерисана лозинка|
 |&Generate|
