@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.36|
+|1.37|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -150,9 +150,6 @@
 
 |Current settings|
 |Dabartiniai parametrai|
-
-|Collect additional &entropy|
-|Surinkti papildomą &entropiją|
 
 |Generated password|
 |Sugeneruotas slaptažodis|
@@ -2048,7 +2045,7 @@
 |Įdiegtos kalbos|
 
 |Language file cannot be activated!|
-|Kalbos failas negali būti aktyvuotas!|
+|Nepavyko aktyvinti kalbos failo!|
 
 |Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.|
 |Kalbos failų įkėlimas iš programos katalogo nepalaikomas. Kalbų failai turi būti įrašyti į programos katalogo aplanką 'Languages'.|
@@ -2067,3 +2064,12 @@
 
 |Search for passwords in quick searches|
 |Greitosiose paieškose ieškoti slaptažodžių|
+
+|&Show dialog for collecting user input as additional entropy|
+|Rodyti dialogą vartotojo įvesčiai surinkti kaip papildomą &entropiją|
+
+|Do not store data in the Windows clipboard history and the cloud clipboard|
+|Neįrašyti duomenų į Windows iškarpinės istoriją ir debesies iškarpinę|
+
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
+|Šios parinktys galioja komandoms pagrindiniame lange, naudojančioms iškarpinę (kaip 'Kopijuoti vartotojo vardą' ir 'Kopijuoti slaptažodį').|
