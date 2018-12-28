@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.36|
+|1.37|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -132,8 +132,6 @@
 |Opciók|
 |Current settings|
 |Jelenlegi beállítások|
-|Collect additional &entropy|
-|További &entrópia kiszámítása|
 |Generated password|
 |Elkészült jelszó|
 |&Generate|
@@ -1376,3 +1374,9 @@
 |M&ellékletek törlése|
 |The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
 |A generált jelszó egy helyõrzõt tartalmaz. Ha ezt a jelszót használja (pl. a vágólapra másolja vagy auto-type-ot használ), a helyõrzõ lecserélésre kerül, azaz egy másik jelszóként használható.|
+|&Show dialog for collecting user input as additional entropy|
+|Felhasználói bevitel dialógusablak a további entrópiához|
+|Do not store data in the Windows clipboard history and the cloud clipboard|
+|Ne tároljon adatot sem a Windows vágólap elõzményekben sem a felhõ vágólapon|
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
+|A következõ opciók a vágólap parancsokra vonatkoznak a fõablakban (mint 'Felhasználónév másolás' és 'Jelszó másolás').|
