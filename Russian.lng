@@ -1,6 +1,6 @@
 ﻿|~LANGUAGENAME|			|Russian|
 |~LANGISO6391CODE|		|ru|
-|~LANGUAGEVERSION|		|1.36|
+|~LANGUAGEVERSION|		|1.37|
 |~LANGUAGEAUTHOR|		|Dmitry Yerokhin, Andrew Gavrushenko|
 |~LANGUAGEAUTHOREMAIL|		|erodim@mail.ru|
 
@@ -62,13 +62,13 @@
 |Save current settings as a profile.|	|Сохранить текущие настройки как профиль.|
 |Delete currently selected profile.|	|Удалить выбранный профиль.|
 |Current settings|		|Текущие настройки|
+|&Show dialog for collecting user input as additional entropy|	|Показывать окно для сбора дополнительной &энтропии|
 |Generate using character set:|	|Использовать наборы символов:|
 |Length of generated password:|	|Длина создаваемого пароля:|
 |Generate using pattern:|	|Использовать шаблон:|
 |Exclude look-alike characters|	|Исключать похожие символы|
 |Options|			|Настройки|
 |Also include the following characters:|	|Также использовать следующие символы:|
-|Collect additional &entropy|	|Сбор дополнительной &энтропии|
 |Generated password|		|Созданный пароль|
 |&Generate|			|&Создать|
 |&Accept|			|&Принять|
@@ -237,7 +237,7 @@
 |Clipboard auto-clear time (seconds):|	|Автоматически очищать буфер обмена через (сек):|
 |Settings|			|Настройки|
 |Here you can configure KeePass.|	|Настройки KeePass.|
-|Automatically open last used database on startup|	|Открывать последнюю использованную базу паролей при запуске|
+|Automatically open last used database on startup|	|Открывать последнюю использовавшуюся базу паролей при запуске|
 |Automatically save when closing/locking the database|	|Автоматически сохранять базу паролей при выходе и блокировке|
 |Display images on buttons|	|Картинки на кнопках|
 |Show grid lines in the entry list|	|Разлинованный список записей|
@@ -295,7 +295,7 @@
 
 |&Creation Time|		|&Время создания|
 |Last &Modification Time|	|Время и&зменения|
-|&Last Access Time|		|Время о&бращения|
+|&Last Access Time|		|Время &доступа|
 |&Expiration Time|		|&Окончание действия|
 |UU&ID|				|UU&ID|
 
@@ -311,7 +311,7 @@
 |Change expiration time:|	|Изменить время истечения:|
 |Mass Modify|			|Массовое изменение|
 |Change fields of all selected entries|	|Изменение полей у всех выбранных записей|
-|Show &Columns|			|П&оказ столбцов|
+|Show &Columns|			|&Отображаемые столбцы|
 |Show &Entry View|		|Поле просмотра &записи|
 
 |Automatically resize table columns when resizing the main window|	|Автоподбор ширины столбцов таблицы при изменении размеров окна|
@@ -340,6 +340,8 @@
 |Author|			|Автор|
 |Contact|			|Контакты|
 |Built-in|			|Встроенный|
+|Do not store data in the Windows clipboard history and the cloud clipboard|	|Не хранить данные в истории буфера обмена Windows и облачном буфере|
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|	|Следующие опции применимы для команд буфера обмена в главном окне (таким, как 'Копировать логин' и 'Копировать пароль').|
 |Do you want to open the application directory (in order to move or delete language files)?|	|Открыть папку приложения (чтобы перенести или удалить языковые файлы)?|
 |Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.|	|Загрузка языковых файлов непосредственно из папки приложения не поддерживается. Языковые файлы должны находиться во вложенной папке 'Languages'.|
 |One or more language files have been found in the KeePass application directory.|	|В папке KeePass обнаружены языковые файлы.|
@@ -486,7 +488,7 @@
 |Click [No] to reuse the selected key file for this database.|	|[Нет] - повторно использовать выбранный ключевой файл для текущей базы.|
 |Click [Yes] to overwrite the key file.|	|[Да] - перезаписать ключевой файл.|
 |Failed to create backup of this entry!|	|Невозможно создать резервную копию для этой записи!|
-|Immediately after opening a database|	|Действия сразу после открытия базы паролей|
+|Immediately after opening a database|	|Действия при открытии базы паролей|
 |Integration|				|Интеграция|
 |Start minimized and locked|		|Запускать в свёрнутом и заблокированном состоянии|
 |Save backups of modified entries into the 'Backup' group|	|Сохранять копии изменённых записей в группе 'Резервирование'|
@@ -515,7 +517,7 @@
 |Click to expire the entry in %u days|	|Установить окончание через %u дн.|
 |Exclude entries in the '&Backup' group|	|Не искать в группе 'Р&езервирование'|
 |Field has been pasted.|		|Поле вставлено.|
-|Limit to single instance|		|Разрешить запускать только одну копию программы|
+|Limit to single instance|		|Разрешить запуск только одной копии программы|
 |Paste operation completed.|		|Вставка выполнена.|
 |Single left click instead of double-click for default tray icon action|	|Действие по умолчанию - по одинарному щелчку ЛКМ в области уведомлений|
 |The program is distributed under the terms of the GNU General Public License v2 or later.|	|Программа распространяется по принципу GNU General Public License v2 или новее.|
@@ -528,7 +530,7 @@
 |Include backup entries in quick searches|	|Включать резервные записи в быстрый поиск|
 |Search for passwords in quick searches|	|Искать пароли при быстром поиске|
 
-|&Repair Database File...|		|По&чинить файл с паролями...|
+|&Repair Database File...|		|&Восстановить файл базы данных...|
 |Delete all backup entries before saving the database|	|Удалять все резервные записи перед сохранением базы паролей|
 |Use alternative auto-type method (minimize window)|	|Альтернативный метод автонабора (свёрнутое окно)|
 
@@ -643,7 +645,7 @@
 |Abort the current operation.|		|Прекратить текущую операцию.|
 |Always grant full access through remote control (not recommended)|	|Всегда разрешать полный доступ через удалённое управление (не рекомендуется)|
 |Auto-Type: Help|			|Автонабор: справка|
-|Auto-Type: Select Target Window...|	|Автонабор: выбор целевого окна...|
+|Auto-Type: Select Target Window...|	|Автонабор: выбрать целевое окно...|
 |Cancel|				|Отмена|
 |Copy [of an item]|			|Копия [элемента]|
 |Discard all changes made to the database and close the file.|	|Отменить все изменения в базе паролей и закрыть файл.|
@@ -672,8 +674,8 @@
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|	|Выберите из списка открытых окон целевое окно или введите его заголовок:|
 |URL Field: Help|			|Поле URL: справка|
 |URL Field: Insert Placeholder|		|Поле URL: вставить шаблон|
-|URL Field: Select Application...|	|Поле URL: выбор приложения...|
-|URL Field: Select Document...|		|Поле URL: выбор документа...|
+|URL Field: Select Application...|	|Поле URL: выбрать приложение...|
+|URL Field: Select Document...|		|Поле URL: выбрать документ...|
 
 |Default auto-type sequence for standard entries:|	|Последовательность автонабора по умолчанию для стандартных записей:|
 |Drop to background when copying data to the clipboard|	|Переходить в фоновый режим при копировании данных в буфер обмена|
@@ -703,7 +705,7 @@
 |Sort items in the auto-type entry selection dialog|	|Сортировать элементы в окне выбора записей для автонабора|
 |Take ownership of the file and open it in normal writing mode.|	|Стать владельцем файла и открыть его в обычном режиме для записи.|
 
-|Choose between local help and online help center.|	|Выбор между локальным файлом и справочным онлайн-центром.|
+|Choose between local help and online help center.|	|Выбор между локальной и веб-справкой.|
 |Help &Source...|			|&Источник справки...|
 |Help Source|				|Источник справки|
 |Local help file|			|Локальный файл справки|
@@ -760,7 +762,7 @@
 
 |Are you sure you want to attempt to repair a database file?|	|Попробовать восстановить файл с базой данных?|
 |In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|	|При восстановлении целостность данных не проверяется (чтобы восстановить как можно больше). Из-за этого в базу паролей могут попасть повреждённые данные.|
-|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|	|Поэтому к восстановлению следует прибегать лишь когда нет других вариантов. После восстановления проверьте всю базу на предмет повреждённых/вредоносных данных.|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|	|Поэтому к восстановлению следует прибегать, лишь когда нет других вариантов. После восстановления проверьте всю базу, чтобы в ней не было повреждённых/вредоносных данных.|
 |Warning|				|Внимание|
 
 |&Export|				|&Экспорт|
