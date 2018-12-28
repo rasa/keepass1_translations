@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Norsk (nynorsk)|
-|~LANGUAGEVERSION||1.35|
+|~LANGUAGEVERSION||1.37|
 |~LANGUAGEAUTHOR||Yngve Spjeld-Landro|
 |~LANGUAGEAUTHOREMAIL||l10n@landro.net|
 |~LANGISO6391CODE||nn|
@@ -487,7 +487,6 @@
 |Arguments||Argument|
 |Advanced Password Generator Options||Avanserte passordlagingsval|
 |Clear Search History||Tøm søkhistorikken|
-|Collect additional &entropy||Samla tilleggs&entropi|
 |Default user name for new entries:||Standard brukarnamn for nye postar:|
 |Exclude the following characters:||Ekskluder desse teikna:|
 |Fields to print||Felt å skriva ut|
@@ -687,3 +686,8 @@
 |Select Language||Vel språk|
 |The selected language has been activated. KeePass must be restarted in order to load the language.||Språket er valt, men KeePass må starta om att for å ta det i bruk.|
 |Translation Information||Omsetjingsopplysningar|
+
+|&Show dialog for collecting user input as additional entropy||Syn meldingsvindauge for å henta &tilleggsentropi frå brukaren|
+|Do not store data in the Windows clipboard history and the cloud clipboard||Lagra ikkje data i Windows sin utklippshistorikk og skyutklippstavle|
+|Search for passwords in quick searches||Søk etter passord i snøggsøka|
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').||Desse vala gjeld innlegging av utklippstavlekommandoar (slik som 'Kopier brukarnamnet' og 'Kopier passordet').|
