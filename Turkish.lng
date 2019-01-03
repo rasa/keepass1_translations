@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                                                      |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                                   |1.36|
+|~LANGUAGEVERSION|                                                   |1.37|
 |~LANGUAGEAUTHOR|                                                    |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                               |<translator@zeron.net>|
 |~LANGISO6391CODE|                                                   |tr|
@@ -51,7 +51,6 @@
 |Here you can generate a random password.|                           |Bu pencerede rastgele parolalar üretebilirsiniz.|
 |Options|                                                            |Ayarlar|
 |Current settings|                                                   |Geçerli ayarlar|
-|Collect additional &entropy|                                        |Ek &düzensizlik topla|
 |Generated password|                                                 |Oluşturulan parola|
 |&Generate|                                                          |Ü&ret|
 |&Accept|                                                            |&Kullan|
@@ -760,3 +759,8 @@
 |One or more language files have been found in the KeePass application directory.|
     |KeePass uygulama klasöründe bir ya da bir kaç dil dosyasu bulundu.|
 |Search for passwords in quick searches|                              |Hızlı aramalarda parolalar aranabilsin|
+|&Show dialog for collecting user input as additional entropy|        |Ek karmaşıklık için kullanıcı girişi &penceresi görüntülensin|
+|Do not store data in the Windows clipboard history and the cloud clipboard|
+	|Veriler Windows panosu geçmişine ve bulut panosuna kaydedilmesin|
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
+	|Bu seçenek ana penceredeki kayıt pano komutlarına uygulanır ('Kullanıcı Adını Kopyala' ve 'Parolayı Kopyala' gibi).|
