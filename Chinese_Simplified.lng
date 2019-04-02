@@ -1,4 +1,4 @@
-﻿2018-11-08 01:36
+﻿2018-12-27 01:37
 |~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
@@ -99,8 +99,8 @@
 |选项|
 |Current settings|
 |当前配置|
-|Collect additional &entropy|
-|收集附加熵(&E)|
+|&Show dialog for collecting user input as additional entropy|
+|显示收集用户输入作为附加熵的对话框(&S)|
 |Generated password|
 |生成的密码|
 |&Generate|
@@ -1375,3 +1375,7 @@
 |文件|
 |Built-in|
 |内置|
+|Do not store data in the Windows clipboard history and the cloud clipboard|
+|不在Windows剪贴板历史记录及云剪贴板中存储数据|
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
+|应用下列的选项来进入主窗口的剪贴板命令（如‘复制用户名’和‘复制密码’）|
