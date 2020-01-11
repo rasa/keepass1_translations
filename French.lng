@@ -1,11 +1,11 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.37|
+|1.38|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
-|frt15t@boribar.com|
+|ronan.plantec@boribar.com|
 |&Close|
 |&Fermer|
 |&Generate Random Password|
@@ -742,8 +742,6 @@
 |Cliquez sur [Oui] pour utiliser la même clé que celle de la base de mots de passe actuellement ouverte.|
 |Copy &URL to Clipboard|
 |Copier l'adresse (&URL) dans le presse-papiers|
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
-|Copier les adresse (URLs) dans le presse-papiers plutôt que de les ouvrir (exception : cmd:// URLs)|
 |Create new IDs|
 |Créer de nouveaux ID|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
@@ -946,8 +944,6 @@
 |Détruire le profil courant sélectionné.|
 |Here you can generate a random password.|
 |Vous pouvez générer ici un mot de passe aléatoire.|
-|High ANSI characters|
-|Caractères ANSI hauts|
 |KeePass Password Safe Files|
 |Fichiers KeePass Password Safe|
 |Repeat the master password for the new database.|
@@ -1378,3 +1374,11 @@
 |Ne pas enregistrer les données dans l'historique du presse-papiers Windows et dans le presse-papiers du nuage|
 |The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
 |Les options suivantes appliquent aux commandes du presse-papiers de l'entrée dans la fenêtre principale (comme 'Copie Nom d'utilisateur' et 'Copie Mot de passe').|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
+|Copier les adresses (URLs) vers le presse-papiers au lieu de les ouvrir elles-mêmes (exception: cmd:// Adresses (ULRs)|
+|Latin-1 Supplement|
+|Supplément Latin-1|
+|The character set is invalid|
+|Le caractère mis est invalide|
+|The pattern is invalid|
+|La chaîne de caractère est invalide|
