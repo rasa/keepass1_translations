@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.37 - 1|
+|1.38 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -314,8 +314,12 @@
 |特殊字元|
 |Brackets ([, ], {, }, (, ), <, >)|
 |括號 [, ], {, }, (, ), <, >|
-|High ANSI characters|
-|High ANSI字元(一般不建議使用)|
+|Latin-1 Supplement|
+|Latin-1 Supplement|
+|The character set is invalid|
+|此字元集無效|
+|The pattern is invalid|
+|此樣式無效|
 |Also include the following characters:|
 |也包含這些字元：|
 |Generate using pattern:|
@@ -682,7 +686,7 @@
 |使用替代的自動輸入方法(最小化視窗)|
 |Enable auto-type features|
 |啟動自動輸入功能|
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
 |點選網址時，將網址複製到剪貼簿，而不開啟網頁(cmd://網址除外)|
 |Enable remote control (allow applications to communicate with KeePass)|
 |啟動遠端控制(允許其它應用程式與KeePass通訊)|
