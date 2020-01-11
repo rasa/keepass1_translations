@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Català|
-|~LANGUAGEVERSION||1.37|
+|~LANGUAGEVERSION||1.38|
 |~LANGUAGEAUTHOR||Albert Morera|
 |~LANGUAGEAUTHOREMAIL||@|
 |- Arcfour crypto routine||- Rutina criptogràfica Arcfour|
@@ -198,7 +198,7 @@
 |Copy &Password||Copia la &contrasenya|
 |Copy &URL to Clipboard||Copia l’&URL al porta-retalls|
 |Copy [of an item]||Còpia [d'un element]|
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)||Copia els URL al porta-retalls en lloc de llançar-los (a excepció de les URL: cmd://)|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)||Copia els URL al porta-retalls en lloc d'obrir-los (a excepció dels URL: cmd://)|
 |Copy User &Name||Copia el &nom d'usuari|
 |Create &Association||Crea &associació|
 |Create a new password entry.||Crea una nova entrada de contrasenya|
@@ -334,7 +334,6 @@
 |Hide &Passwords Behind Asterisks (***)||Amaga les &contrasenyes amb asteriscs (***)|
 |Hide &User Names Behind Asterisks (***)||Amaga el nom d'&usuari amb asteriscs (***)|
 |Hide passwords behind asterisks (***).||Amaga les &contrasenyes amb asteriscs (***).|
-|High ANSI characters||Caràcters ANSI alts|
 |Hint: It is best to use both mouse and keyboard random sources.||Consell: el millor és utilitzar tant el ratolí com el teclat com a fonts d'aleatorietat.|
 |Homebanking||Banca electrònica|
 |Icon||Icona|
@@ -388,6 +387,7 @@
 |Last &Modification Time||Hora de l'&última modificació|
 |Last Access||Últim accés|
 |Last Modification||Última modificació|
+|Latin-1 Supplement||Suplement Latin-1|
 |Length of generated password:||Longitud de la contrasenya generada:|
 |Limit to single instance||Limita a una única instància|
 |Load the existing key file and use it as key for the current database. The key file will not be modified.||Carrega el fitxer de clau existent i empra'l com a clau de la base de dades actual. No es modificarà el fitxer de clau.|
@@ -592,6 +592,7 @@
 |TANs consist of the following characters:||El TAN es composta dels següents caràcters:|
 |Text Files||Fitxers de text|
 |The attachment is too large||El fitxer adjunt és massa gran|
+|The character set is invalid||El joc de caràcters no és vàlid|
 |The composite master key has been changed!||S'ha canviat la clau mestra composta!|
 |The current database file has been modified||S’ha modificat el fitxer de la base de dades actual|
 |The database file has been modified!||S’ha modificat el fitxer de la base de dades!|
@@ -614,6 +615,7 @@
 |The master password must be at least %u characters long!||La contrasenya mestra ha de ser almenys de %u caràcters de longitud!|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.||El centre d'ajuda en línia sempre conté l'última versió de la documentació del producte. És necessària una connexió a Internet.|
 |The password must consist of at least one character!||La contrasenya ha de tenir almenys un caràcter!|
+|The pattern is invalid||El patró no és vàlid|
 |The program is distributed under the terms of the GNU General Public License v2 or later.||Aquest programari es distribueix a l’empara de la GNU General Public License v2 o posterior.|
 |The program will exit now.||El programa ara sortirà.|
 |The random the better.||Com més aleatori millor.|
@@ -691,5 +693,3 @@
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.||Abans de tancar aquesta finestra de diàleg, heu de generar valors aleatoris emprant el ratolí a la casella o bé amb el teclat en el camp d'edició.|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||La vostra clau es xifra diverses vegades per construir la clau final de xifratge de la vostra base de dades. Això afegeix un factor que fa que els atacs per endevinació o diccionari hagin de ser més durs.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.||Heu seleccionat utilitzar contrasenya i fitxer, per tant heu d'introduir una contrasenya i un fitxer de clau.|
-
-
