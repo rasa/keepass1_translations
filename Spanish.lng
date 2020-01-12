@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.35|
+|~LANGUAGEVERSION||1.38|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |~LANGISO6391CODE||es|
@@ -72,6 +72,7 @@
 |&Save Attached File To...||Guardar archi&vo adjunto en...|
 |&Save||&Guardar|
 |&Select All||&Seleccionar todos|
+|&Show dialog for collecting user input as additional entropy||Mo&strar ventana de diálogo para recolectar información ingresada por el usuario como entropía adicional|
 |&Sort Group List||&Ordenar lista de grupos|
 |&TAN Wizard...||Asistente de &TAN...|
 |&Title||&Título|
@@ -180,7 +181,6 @@
 |Clipboard cleared.||Portapapeles borrado.|
 |Close button [X] minimizes the main window instead of terminating the application||Botón de cerrar [X] minimiza la ventana principal en vez de terminar la aplicación|
 |Code&Wallet TXT File...||Archivo TXT Code&Wallet...|
-|Collect additional &entropy||Recolectar &entropía adicional|
 |Command line argument||Argumento para la línea de comandos|
 |Component||Componente|
 |Connect failed, cannot check for updates.||Falló la conexión, no se pudo comprobar si había actualizaciones.|
@@ -189,7 +189,7 @@
 |Copy &Password||Copiar &contraseña|
 |Copy &URL to Clipboard||Copias &URL al portapapeles|
 |Copy [of an item]||Copiar [de un ítem]|
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)||Copiar URLs al portapapeles en vez de ejecutarlas (excepción: URLs de la forma cmd://)|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)||Copiar las URLs al portapapeles en lugar de abrirlas (excepción: URLs de la forma cmd://)|
 |Copy User &Name||Copiar &nombre de usuario|
 |Create &Association||Crear &asociación|
 |Create a new password entry.||Crear una nueva entrada de contraseña.|
@@ -223,6 +223,7 @@
 |Discard all changes made to the database and lock the KeePass workspace.||Descartar todas las modificaciones realizadas a la base de datos y bloquear el área de trabajo de KeePass.|
 |&Discard changes||&Descartar modificaciones|
 |Display images on buttons||Mostrar imágenes en los botones|
+|Do not store data in the Windows clipboard history and the cloud clipboard||No almacenar información en el historial del portapapeles de Windows ni el portapapeles en la nube|
 |Do you grant the application access to your KeePass database?||¿Le concede usted a la aplicación acceso a su base de datos de KeePass?|
 |Do you want to open the application directory (in order to move or delete language files)?||¿Desea abrir la carpeta de la aplicación? (para mover o borrar estos archivos de idioma)|
 |Do you want to overwrite it?||¿Desea sobreescribirlo?|
@@ -234,7 +235,7 @@
 |E&xit||S&alir|
 |Each character must occur at most once||Cada caracter debe estar presente a lo sumo una vez|
 |Ed&it Group...||Ed&itar grupo...|
-|Edit Entry||Editar entrada|
+|Edit Entry||Editar gntrada|
 |Edit Group||Editar grupo|
 |EITHER enter a master password OR select a key file.||Introduzca una contraseña maestra O seleccione un archivo de clave.|
 |eMail||eMail|
@@ -319,7 +320,6 @@
 |Hide &Passwords Behind Asterisks (***)||Ocultar &contraseñas detrás de asteriscos (***)|
 |Hide &User Names Behind Asterisks (***)||Ocultar nombres de &usuario detrás de asteriscos (***)|
 |Hide passwords behind asterisks (***).||Ocultar contraseñas mediante asteriscos (***).|
-|High ANSI characters||Caracteres ANSI extendidos|
 |Hint: It is best to use both mouse and keyboard random sources.||Pista: Es mejor usar tanto mouse y teclado como fuentes aleatorias.|
 |Homebanking||Banco|
 |Icon:||Icono:|
@@ -367,11 +367,12 @@
 |Last &Modification Time||Fecha de la última &modificación|
 |Last Access||Último acceso|
 |Last Modification||Última modificación|
+|Latin-1 Supplement||Suplemento ISO Latín 1|
 |Length of generated password:||Longitud de la contraseña generada:|
 |Limit to single instance||Permitir una única instancia|
 |Load the existing key file and use it as key for the current database. The key file will not be modified.||Cargar el archivo de clave existente y usarlo como clave para la base de datos actual. El archivo de clave no será modificado.|
 |Loading error||Error al cargar|
-|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.||Cargar archivos de idioma directamente desde el directorio de la aplicación no es posible. Los archivos de idioma deben guardarse en la carpeta 'Languages' ubicada en el directorio de la aplicación.|
+|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.||Cargar archivos de idioma directamente desde el directorio de la aplicación ya no es posible. Los archivos de idioma deben guardarse en la carpeta 'Languages' ubicada en el directorio de la aplicación.|
 |Local help file||Archivo de ayuda local|
 |Lock workspace after the following idle time (seconds):||Bloquear el área de trabajo después del siguiente tiempo de inactividad (segundos):|
 |Lock workspace when locking Windows, switching user or sleeping||Bloquear el área de trabajo al bloquear Windows, cambiar de usuario o hibernar|
@@ -505,6 +506,7 @@
 |Save||Guardar|
 |Se&lect All||Se&leccionar todo|
 |Search in||Buscar en|
+|Search for passwords in quick searches||Buscar contraseñas en las búsquedas rápidas|
 |Search Results||Resultados de la búsqueda|
 |Search...||Buscar...|
 |Security||Seguridad|
@@ -562,6 +564,7 @@
 |TANs consist of the following characters:||TANs consisten de los siguientes caracteres:|
 |Text Files||Archivos Texto|
 |The attachment is too large||El archivo adjunto es demasiado grande|
+|The character set is invalid||El conjunto de caracteres es inválido|
 |The composite master key has been changed!||¡La clave maestra compuesta ha sido modificada!|
 |The current database file has been modified||La base de datos actual ha sido modificada.|
 |The database file has been modified!||¡El archivo de la base de datos fue modificado!|
@@ -571,6 +574,7 @@
 |The file will not be closed.||El archivo no será cerrado.|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.||El archivo que está tratando de abrir está bloqueado, tal vez alguien más haya abierto el archivo y se encuentre editándolo.|
 |The following application requests access to your currently opened KeePass database:||La siguiente aplicación solicita acceso a su base de datos de KeePass actualmente abierta:|
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').||Las siguientes opciones aplican a comandos relacionados con el portapapeles en la ventana principal (como 'Copiar usuario' y 'Copiar contraseña').|
 |The following self-tests failed:||Las siguientes pruebas fallaron:|
 |The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.||La contraseña generada contiene un marcador de posición. Al usar esta contraseña (por ejemplo, al copiarla al portapapeles o escribirla automáticamente), el marcador de posición será sustituido; en otras palabras, una contraseña distinta sería utilizada.|
 |The group you selected cannot store entries. Please select a different group.||El grupo que seleccionó no pueda almacenar entradas. Por favor seleccione otro grupo.|
@@ -582,6 +586,7 @@
 |The master password must be at least %u characters long!||¡La contraseña maestra debe ser de al menos %u caracteres!|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.||El centro de ayuda en línea siempre dispone de la versión más reciente de la documentación del producto. Es necesaria una conexión a internet.|
 |The password must consist of at least one character!||¡La contraseña debe tener al menos un caracter!|
+|The pattern is invalid||El patrón es inválido|
 |The program is distributed under the terms of the GNU General Public License v2 or later.||El programa es distribuido bajo los términos de la GNU General Public License v2 o posterior.|
 |The program will exit now.||El programa se cerrará ahora.|
 |The random the better.||Más aleatorio, mejor.|
