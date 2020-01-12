@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.37|
+|1.38|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -152,8 +152,8 @@
 |Szóköz ( )|
 |Special|
 |Speciális|
-|High ANSI characters|
-|Magas ANSI karakterek|
+|Latin-1 Supplement|
+|Latin-1 kiegészítés|
 |Brackets ([, ], {, }, (, ), <, >)|
 |Zárójelek ([, ], {, }, (, ), <, >)|
 |Group:|
@@ -674,8 +674,8 @@
 |Teljes útvonal megjelenítése a címsorban (kizárólag a fájlnév helyett)|
 |Enable auto-type features|
 |Auto-gépelés engedélyezése|
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
-|Az URL-ek vágólapra másolása azok betöltése helyett (kivétel: cmd:// típusú URL-ek)|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
+|URL másolása vágólapra annak megnyitása helyett (kivéve: cmd:// típusú URL-ek)|
 |Copy &URL to Clipboard|
 |&URL másolása a Vágólapra|
 |Exit program instead of locking the workspace after the specified time|
@@ -1380,3 +1380,7 @@
 |Ne tároljon adatot sem a Windows vágólap elõzményekben sem a felhõ vágólapon|
 |The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
 |A következõ opciók a vágólap parancsokra vonatkoznak a fõablakban (mint 'Felhasználónév másolás' és 'Jelszó másolás').|
+|The character set is invalid|
+|A karakterkészlet érvénytelen|
+|The pattern is invalid|
+|A minta érvénytelen|
