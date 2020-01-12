@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Norsk (nynorsk)|
-|~LANGUAGEVERSION||1.37|
+|~LANGUAGEVERSION||1.38|
 |~LANGUAGEAUTHOR||Yngve Spjeld-Landro|
 |~LANGUAGEAUTHOREMAIL||l10n@landro.net|
 |~LANGISO6391CODE||nn|
@@ -52,7 +52,7 @@
 |Minus (-)||Minus (-)|
 |Space ( )||Mellomrom ( )|
 |Special||Spesialteikn|
-|High ANSI characters||Høge ANSI-teikn|
+
 |Brackets ([, ], {, }, (, ), <, >)||Parentesar ([, ], {, }, (, ), <, >)|
 |Group:||Gruppe:|
 |Title:||Tittel:|
@@ -420,7 +420,6 @@
 |Click [No] to set a new key for the exported file.||Klikk [Nei] for å laga ein ny nøkkel til den eksporterte fila.|
 |Reuse the current key/password?||Bruka om att den noverande nøkkelen/passordet?|
 |Show full path in the title bar (instead of file name only)||Vis full filbane i tittelfeltet (ikkje berre filnamnet)|
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)||Kopier adresser til utklippstavla i staden for å kjøra dei (unntak er cmd://-adresser)|
 |Copy &URL to Clipboard||Kopier &adressa til utklippstavla|
 |Exit program instead of locking the workspace after the specified time||Avslutt programmet i staden for berre å låsa arbeidsflata når tida er ute|
 |Click on an entry to auto-type it.||Klikk på ein post for auto-inntasting.|
@@ -691,3 +690,9 @@
 |Do not store data in the Windows clipboard history and the cloud clipboard||Lagra ikkje data i Windows sin utklippshistorikk og skyutklippstavle|
 |Search for passwords in quick searches||Søk etter passord i snøggsøka|
 |The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').||Desse vala gjeld innlegging av utklippstavlekommandoar (slik som 'Kopier brukarnamnet' og 'Kopier passordet').|
+
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)||Kopier adresser til utklippstavla i staden for å opna dei (unntak: cmd://-adresser)|
+|Latin-1 Supplement||Latin-1-tillegg|
+|The character set is invalid||Teiknkodinga er ugyldig|
+|The pattern is invalid||Mønsteret er ugyldig|
+
