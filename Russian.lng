@@ -1,6 +1,6 @@
 ﻿|~LANGUAGENAME|			|Russian|
 |~LANGISO6391CODE|		|ru|
-|~LANGUAGEVERSION|		|1.37|
+|~LANGUAGEVERSION|		|1.38|
 |~LANGUAGEAUTHOR|		|Dmitry Yerokhin, Andrew Gavrushenko|
 |~LANGUAGEAUTHOREMAIL|		|erodim@mail.ru|
 
@@ -79,8 +79,10 @@
 |Minus (-)|			|Минус (-)|
 |Space ( )|			|Пробел ( )|
 |Special|			|Спецсимволы|
-|High ANSI characters|		|Верхние ANSI-символы|
+|Latin-1 Supplement|		|Дополнение к латинице-1|
 |Brackets ([, ], {, }, (, ), <, >)|	|Скобки ([, ], {, }, (, ), <, >)|
+|The character set is invalid|	|Неверный набор символов|
+|The pattern is invalid|	|Неверный шаблон|
 |There are too few characters in the character set to build up a password matching the specified rules|	|Недостаточно символов для создания пароля по указанным правилам|
 
 |Group:|			|Группа:|
@@ -206,7 +208,7 @@
 |Self-Test(s) Failed|		|Самопроверка не пройдена|
 
 |Clipboard cleared.|		|Буфер обмена очищен.|
-|Field copied to clipboard. Clipboard will be cleared in %d seconds.|	|Поле скопировано в буфер обмена. Буфер будет очищен через %d сек.|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.|	|Поле скопировано в буфер обмена. Он будет очищен через %d сек.|
 
 |Failed to set the master key!|	|Ошибка установки мастер-ключа!|
 |File cannot be opened!|	|Невозможно открыть файл!|
@@ -240,7 +242,7 @@
 |Automatically open last used database on startup|	|Открывать последнюю использовавшуюся базу паролей при запуске|
 |Automatically save when closing/locking the database|	|Автоматически сохранять базу паролей при выходе и блокировке|
 |Display images on buttons|	|Картинки на кнопках|
-|Show grid lines in the entry list|	|Разлинованный список записей|
+|Show grid lines in the entry list|	|Сетка в списке записей|
 |Workspace is locked.|		|База паролей заблокирована.|
 |Workspace locked|		|База паролей заблокирована|
 
@@ -279,7 +281,7 @@
 |Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|	|Advanced Encryption Standard (AES) (128-бит блочный шифр, 256-бит ключ)|
 |Twofish (128-bit block cipher using 256-bit key)|	|Twofish (128-бит блочный шифр, 256-бит ключ)|
 |Security|			|Безопасность|
-|KeePass is OSI Certified Open Source Software.|	|KeePass - сертифицированное OSI приложение с открытым кодом.|
+|KeePass is OSI Certified Open Source Software.|	|KeePass - приложение с открытым кодом, сертифицированное OSI.|
 |Lock workspace after the following idle time (seconds):|	|Блокировать при бездействии через (сек):|
 |&Group name|			|Имя &группы|
 |Every second row has a different background color. Use this color:|	|Цвет фона каждой второй строки:|
@@ -311,10 +313,10 @@
 |Change expiration time:|	|Изменить время истечения:|
 |Mass Modify|			|Массовое изменение|
 |Change fields of all selected entries|	|Изменение полей у всех выбранных записей|
-|Show &Columns|			|&Отображаемые столбцы|
+|Show &Columns|			|&Отображаемые колонки|
 |Show &Entry View|		|Поле просмотра &записи|
 
-|Automatically resize table columns when resizing the main window|	|Автоподбор ширины столбцов таблицы при изменении размеров окна|
+|Automatically resize table columns when resizing the main window|	|Автоподбор ширины колонок таблицы при изменении размеров окна|
 |&Copy|				|&Копировать|
 |Copy &All|			|Копировать &все|
 |&Undo|				|&Отменить|
@@ -550,7 +552,7 @@
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|	|KeePass сравнит время изменения групп/записей и заменит имеющиеся, только если импортируемые более новые.|
 
 |Copy &URL to Clipboard|		|Копировать URL-адре&с в буфер обмена|
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|	|Не открывать, а копировать URL-адреса в буфер обмена (кроме cmd://)|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|	|Не открывать, а копировать URL-адреса в буфер обмена (кроме cmd://)|
 |Enable auto-type features|		|Разрешить автонабор|
 
 |&Help|					|&Справка|
@@ -569,12 +571,12 @@
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|	|Файл, который вы пытаетесь открыть, заблокирован, т.е. открыт на редактирование в другой программе.|
 |Use &Simple List View for TAN-Only Groups|	|Простой сп&исок при показе групп только с TAN|
 
-|'Keyfile' or 'preselect' option is already specified|	|Опция 'Keyfile' или 'preselect' уже задана|
-|'Pw' option is already specified|	|Опция 'Pw' уже задана|
+|'Keyfile' or 'preselect' option is already specified|	|Опция 'keyfile' или 'preselect' уже задана|
+|'Pw' option is already specified|	|Опция 'pw' уже задана|
 |Check For Updates|			|Проверить наличие обновлений|
 |Check for updates at KeePass startup|	|Проверять обновления при запуске KeePass|
 |Command line argument|			|Аргумент командной строки|
-|Connect failed, cannot check for updates.|	|Ошибка подключения, проверить наличие обновлений невозможно.|
+|Connect failed, cannot check for updates.|	|Ошибка подключения, невозможно проверить наличие обновлений.|
 |Database is already specified|		|База паролей уже задана|
 |Disable 'Save' button if the database hasn't been modified|	|Блокировать кнопку 'Сохранить', если база паролей не менялась|
 |Use local date/time format instead of ISO notation|	|Локальный формат даты/времени вместо ISO|
@@ -639,9 +641,9 @@
 |TANs are imported into the currently selected group|	|TAN-коды импортируются в текущую выбранную группу|
 |The key provider plugin did not supply a valid key|	|Плагин-провайдер ключей не предоставил допустимый ключ|
 |Type to search the database|		|Введите фразу для поиска|
-|in "Minimal functionality" mode|	|в режиме "Наименьшей функциональности"|
+|in "Minimal functionality" mode|	|в режиме "Наименьшая функциональность"|
 
-|Abort specifying a new key for the current database.|	|Прекратить задание ключа текущей базы паролей.|
+|Abort specifying a new key for the current database.|	|Прекратить указание ключа текущей базы паролей.|
 |Abort the current operation.|		|Прекратить текущую операцию.|
 |Always grant full access through remote control (not recommended)|	|Всегда разрешать полный доступ через удалённое управление (не рекомендуется)|
 |Auto-Type: Help|			|Автонабор: справка|
