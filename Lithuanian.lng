@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.37|
+|1.38|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -180,9 +180,6 @@
 
 |Special|
 |Specialieji ženklai|
-
-|High ANSI characters|
-|ANSI ženklai didesniu kodu|
 
 |Brackets ([, ], {, }, (, ), <, >)|
 |Skliaustai ('{', '}', '[', ...)|
@@ -1391,7 +1388,7 @@
 |Enable auto-type features|
 |Aktyvuoti automatinį įvedimą|
 
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
 |Kopijuoti URL į iškarpinę, o ne atverti (išskyrus: cmd:// URL)|
 
 |Copy &URL to Clipboard|
@@ -2073,3 +2070,12 @@
 
 |The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
 |Šios parinktys galioja komandoms pagrindiniame lange, naudojančioms iškarpinę (kaip 'Kopijuoti vartotojo vardą' ir 'Kopijuoti slaptažodį').|
+
+|Latin-1 Supplement|
+|Latin-1 papildinys|
+
+|The character set is invalid|
+|Ženklų rinkinys netinkamas|
+
+|The pattern is invalid|
+|Modelis netinkamas|
