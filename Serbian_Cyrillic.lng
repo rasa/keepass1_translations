@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Српски|
 |~LANGUAGEVERSION|
-|1.37|
+|1.38|
 |~LANGUAGEAUTHOR|
 |Љуба Ћировић|
 |~LANGUAGEAUTHOREMAIL|
@@ -93,7 +93,7 @@
 |Current settings|
 |Актуелна подешавања|
 |&Show dialog for collecting user input as additional entropy|
-|Прикажи дијалог за прикупљање корисничког уноса као додатне ентропије|
+|Прикажи оквир за прикупљање корисничког уноса (додатна ентропија)|
 |Do not store data in the Windows clipboard history and the cloud clipboard|
 |Не чувати податке у историјама Windows радне табле и радне табле у облаку|
 |The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
@@ -118,8 +118,6 @@
 |Размак ( )|
 |Special|
 |Специјално|
-|High ANSI characters|
-|Високи ANSI знакови|
 |Brackets ([, ], {, }, (, ), <, >)|
 |Заграде ([, ], {, }, (, ), <, >)|
 |Group:|
@@ -874,8 +872,8 @@
 |Покажи пуну путању у насловној траци (уместо само имена датотеке)|
 |Enable auto-type features|
 |Омогући одлике аутоматског попуњавања|
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
-|Препиши УРЛове на радну таблу уместо да их покренеш (осим: cmd:// УРЛова)|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
+|Препиши УРЛове на радну таблу уместо да их отвориш (осим: cmd:// УРЛова)|
 |Copy &URL to Clipboard|
 |Препиши УРЛ на радну таблу|
 |Exit program instead of locking the workspace after the specified time|
@@ -1380,3 +1378,9 @@
 |препоручује се|
 |~LANGISO6391CODE|
 |sr|
+|Latin-1 Supplement|
+|Додатак за Latin-1|
+|The character set is invalid|
+|Неисправан скуп знакова|
+|The pattern is invalid|
+|Неисправан шаблон|
