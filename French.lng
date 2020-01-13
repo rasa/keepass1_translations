@@ -1371,11 +1371,11 @@
 |&Show dialog for collecting user input as additional entropy|
 |&Montrer la fenêtre pour la collection d'entrée utilisateur en tant qu'entropie additionnelle|
 |Do not store data in the Windows clipboard history and the cloud clipboard|
-|Ne pas enregistrer les données dans l'historique du presse-papiers Windows et dans le presse-papiers du nuage|
+|Ne pas enregistrer les données dans l'historique du presse-papiers Windows et de celui du nuage|
 |The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
 |Les options suivantes appliquent aux commandes du presse-papiers de l'entrée dans la fenêtre principale (comme 'Copie Nom d'utilisateur' et 'Copie Mot de passe').|
 |Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
-|Copier les adresses (URLs) vers le presse-papiers au lieu de les ouvrir elles-mêmes (exception: cmd:// Adresses (ULRs)|
+|Copier les adresses (URLs) vers le presse-papiers au lieu de les ouvrir elles-mêmes (exception: cmd:// Adresses (URLs)|
 |Latin-1 Supplement|
 |Supplément Latin-1|
 |The character set is invalid|
