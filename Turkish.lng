@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                                                      |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                                   |1.37|
+|~LANGUAGEVERSION|                                                   |1.38|
 |~LANGUAGEAUTHOR|                                                    |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                               |<translator@zeron.net>|
 |~LANGISO6391CODE|                                                   |tr|
@@ -61,7 +61,6 @@
 |Minus (-)|                                                          |Eksi (-)|
 |Space ( )|                                                          |Boşluk ( )|
 |Special|                                                            |Özel|
-|High ANSI characters|                                               |Yüksek ANSI karakterler|
 |Brackets ([, ], {, }, (, ), <, >)|                                  |Ayraçlar ('{', '}', '[', ...)|
 |Group:|                                                             |Grup:|
 |Title:|                                                             |Başlık:|
@@ -475,7 +474,7 @@
 |Click [No] to set a new key for the exported file.|                 |Verilen dosyaya yeni bir anahtar atamak için [Hayır] düğmesine tıklayın.|
 |Reuse the current key/password?|                                    |Geçerli anahtar ve parola yeniden kullanılsın mı?|
 |Show full path in the title bar (instead of file name only)|        |Başlık çubuğunda dosya adıyla birlikte tam yol  görüntülensin|
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
     |Adresler doğrudan açılmak yerine panoya kopyalansın (cmd:// adresleri hariç)|
 |Copy &URL to Clipboard|                                             |Adres panoya k&opyalansın|
 |Exit program instead of locking the workspace after the specified time|
@@ -764,3 +763,6 @@
 	|Veriler Windows panosu geçmişine ve bulut panosuna kaydedilmesin|
 |The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
 	|Bu seçenek ana penceredeki kayıt pano komutlarına uygulanır ('Kullanıcı Adını Kopyala' ve 'Parolayı Kopyala' gibi).|
+|Latin-1 Supplement|                                                  |Latin-1 Desteği|
+|The character set is invalid|                                        |Karakter kümesi geçersiz|
+|The pattern is invalid|                                              |Düzen geçersiz|
