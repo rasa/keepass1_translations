@@ -1,4 +1,4 @@
-﻿2018-12-27 01:37
+﻿2020-1-13 01:38
 |~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
@@ -121,8 +121,8 @@
 |空格 ( )|
 |Special|
 |特殊字符|
-|High ANSI characters|
-|高位ANSI字符|
+|Latin-1 Supplement|
+|Latin字符补充1|
 |Brackets ([, ], {, }, (, ), <, >)|
 |括号 ([, ], {, }, (, ), <, >)|
 |Group:|
@@ -961,8 +961,8 @@
 |你所选择的导入文件格式支持群组 和/或 记录名称标识，请设置导入选项。|
 |Copy &URL to Clipboard|
 |复制网址(&U)|
-|Copy URLs to clipboard instead of launching them (exception: cmd:// URLs)|
-|复制网址 但 不打开网址（例外：cmd:// URLs 格式的网址仍会打开）|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
+|复制网址（但不打开）（例外：cmd:// URLs 格式的网址仍会打开）|
 |&Help|
 |帮助(&H)|
 |&Help Contents|
@@ -1085,6 +1085,10 @@
 |网址: 帮助|
 |There are too few characters in the character set to build up a password matching the specified rules|
 |所选字符集中字符数太少，无法生成满足指定条件的密码|
+|The character set is invalid|
+|字符集无效|
+|The pattern is invalid|
+|样式无效|
 |(Custom)|
 |（自定义）|
 |Save current settings as a profile.|
