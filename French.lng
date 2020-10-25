@@ -361,7 +361,7 @@
 |Security|
 |Sécurité|
 |KeePass is OSI Certified Open Source Software.|
-|KeePass est un logiciel open source certifié OSI.|
+|KeePass est un logiciel au code source ouvert certifié OSI.|
 |&Group name|
 |Nom de &groupe|
 |Every second row has a different background color. Use this color:|
@@ -497,23 +497,23 @@
 |The file couldn't be saved.|
 |Le fichier ne peut être enregistré.|
 |Maybe it's read-only or the storage media has been removed.|
-|Le support de sotckage est soit protégé en écriture soit a été retiré.|
+|Le support de stockage est soit protégé en écriture soit a été retiré.|
 |If you exit now, all changes to the current database will be lost.|
 |Si vous quittez maintenant, tous les changements dans la base de mots de passe courante seront perdus.|
 |Would you like to exit anyway?|
-|Voulez-vous tout de même quitter ?|
+|Souhaitez-vous tout de même quitter ?|
 |Cannot access the selected drive.|
 |Accès au lecteur de disque sélectionné impossible.|
 |Make sure a writable medium is inserted.|
-|Assurez-vous d'avoir inséré un support non-protégé en écriture.|
+|Assurez-vous d'avoir inséré un support non protégé en écriture.|
 |Not enough free disk space!|
 |Espace libre insuffisant sur le disque!|
 |Disable unsafe (security-critical) operations like exports, etc.|
 |Désactiver les opérations non sûres (critiques pour la sécurité) telles que les exportations, etc.|
 |Unsafe operations are disabled.|
-|Les opérations non-sûres sont désactivées.|
+|Les opérations non sûres sont désactivées.|
 |To execute this operation you must enable unsafe operations in the options dialog.|
-|Pour exécuter cette opération vous devez réactiver les opérations non sûres dans la boîte de dialogue des options.|
+|Pour exécuter cette opération, vous devez réactiver les opérations non sûres dans la boîte de dialogue des options.|
 |You have changed an option that requires restarting KeePass to get active.|
 |Vous avez modifié une option qui nécessite le redémarrage de KeePass pour être activée.|
 |Expired Entries|
@@ -745,7 +745,7 @@
 |Create new IDs|
 |Créer de nouveaux ID|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
-|Si vous sélectionnez cette option, KeePass créera de nouveaux ID pour tous les groupes et entrées. Par conséquent aucun groupe ni entrée de la base de mots de passe actuellement ouverte ne sera modifié ou écrasé.|
+|Si vous sélectionnez cette option, KeePass créera de nouveaux ID pour tous les groupes et entrées. Par conséquent, aucun groupe ni entrée de la base de mots de passe actuellement ouverte ne sera modifié ou écrasé.|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
 |KeePass comparera les dates de dernière modification des groupes/entrées et remplacera ceux existants uniquement si ceux à importer sont plus récents.|
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
@@ -793,7 +793,7 @@
 |Now|
 |Maintenant|
 |Open the file in read-only mode?|
-|Ouvrir le fichier en mode lecture seule ?|
+|Souhaitez-vous ouvrir le fichier en mode lecture seule ?|
 |Show TAN &Indices in Entry Titles|
 |Afficher les &indices de NAT (TAN) dans le titre de l'entrée|
 |TAN View &Options|
@@ -845,7 +845,7 @@
 |Do you grant the application access to your KeePass database?|
 |Permettez-vous à l'application d'accéder à votre base de données KeePass?|
 |Enable remote control (allow applications to communicate with KeePass)|
-|Activer le contrôle à distance (Permet aux applications de communiquer avec KeePass)|
+|Activer le contrôle à distance (permet aux applications de communiquer avec KeePass)|
 |Fields to remember|
 |Champs à retenir|
 |Incoming IPC Request|
@@ -915,7 +915,7 @@
 |Digits (0, 1, 2, ...)|
 |Chiffres (0, 1, 2, etc.)|
 |EITHER enter a master password OR select a key file.|
-|Au CHOIX entrez un mot de passe maître OU sélectionnez un fichier clé.|
+|AU CHOIX entrez un mot de passe maître OU sélectionnez un fichier clé.|
 |Enter Password:|
 |Saisir mot de passe :|
 |Enter the composite master key.|
@@ -985,7 +985,7 @@
 |Fields to print|
 |Champs à imprimer|
 |Here you can customize the printed sheet.|
-|Ici vous pouvez personnaliser la feuille à imprimer.|
+|Ici, vous pouvez personnaliser la feuille à imprimer.|
 |Key File|
 |Fichier clé|
 |Print Options|
@@ -1003,7 +1003,7 @@
 |The key provider plugin did not supply a valid key|
 |Le greffon (plug-in) du fournisseur de la clé n'a pas fourni une clé valide|
 |Type to search the database|
-|Taper une recherche dans la base de donnée|
+|Taper une recherche dans la base de données|
 |in "Minimal functionality" mode|
 |en mode "Fonctionnalité minimale"|
 |Abort specifying a new key for the current database.|
@@ -1039,7 +1039,7 @@
 |Lock workspace when locking Windows, switching user or sleeping|
 |Verrouiller l'espace de travail après avoir verrouillé Windows, permuté d'utilisateur ou avoir mis en veille|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
-|Les options et les règles marquées d'un astérisque réduisent la sécurité des mots de passes générés. Ne les activez que si vous êtes forcés de suivre certaines règles d'un site, d'une application ou d'une politique de mots de passe.|
+|Les options et les règles marquées d'un astérisque réduisent la sécurité des mots de passe générés. Ne les activez que si vous êtes forcés de suivre certaines règles d'un site, d'une application ou d'une politique de mots de passe.|
 |Overwrite existing key file?|
 |Écrire par-dessus le fichier de clé existant ?|
 |Reuse|
@@ -1093,7 +1093,7 @@
 |Field to reference|
 |Champ pour référence|
 |Here you can configure auto-type.|
-|Ici vous pouvez configurer la saisie automatique.|
+|Ici, vous pouvez configurer la saisie automatique.|
 |Identify source entry by|
 |Identifier l'entrée d'origine par|
 |In Notes Field|
@@ -1117,15 +1117,15 @@
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
 |Le fichier cible est peut être dans un état corrompu. Essayer de l'enregistrer encore une fois, et si cela ne fonctionne pas, enregistrer la base de données dans un répertoire différent.|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
-|Afin d'éviter les ambigüités, les entrées peuvent être identifiées par leur UUID, qui est unique.|
+|Afin d'éviter les ambiguïtés, les entrées peuvent être identifiées par leur UUID, qui est unique.|
 |The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
 |Le champ sélectionné, qui identifie l'entrée d'origine, contient des caractères interdits (tels que '{', '}', caractère de nouvelle ligne, etc.).|
 |You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
-|Vous pouvez choisir une autre combinaison de touches dans 'Outils' - 'Options' - 'Avancé' - 'Saisie Automatique'.|
+|Vous pouvez choisir une autre combinaison de touches dans 'Outils' - 'Options' - 'Avancé' - 'Saisie automatique'.|
 |&Modify All Selected...|
 |Modifier &toute la sélection...|
 |Auto-Type: Customize Sequence|
-|Saisie Automatique : séquence personnalisée|
+|Saisie automatique : séquence personnalisée|
 |Clear clipboard when closing/locking the database|
 |Effacer le presse-papiers en fermant/verrouillant la base de données|
 |Exclude &expired entries|
@@ -1139,7 +1139,7 @@
 |Sort items in the auto-type entry selection dialog|
 |Trier les éléments dans la boîte de dialogue de sélection de l'entrée de la saisie automatique|
 |Take ownership of the file and open it in normal writing mode.|
-|Récupérer la propriété du fichier et l'ouvrir en mode écriture normale.|
+|Récupérer la propriété du fichier et l'ouvrir en mode d'écriture normale.|
 |Choose between local help and online help center.|
 |Choisir entre aide locale et centre d'aide en ligne.|
 |Get more plugins...|
@@ -1259,11 +1259,11 @@
 |The database is empty|
 |La base de données est vide|
 |Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
-|Les vérifications de mise à jour automatique sont effectuées de façon non intrusive en arrière plan. Une information n'est seulement affichée que lorsqu'une mise à jour est disponible. Les mises à jour ne sont pas téléchargées et installées automatiquement.|
+|Les vérifications de mise à jour automatique sont effectuées de façon non intrusive en arrière-plan. Une information n'est seulement affichée que lorsqu'une mise à jour est disponible. Les mises à jour ne sont pas téléchargées et installées automatiquement.|
 |Database files cannot be used as key files.|
-|Les fichiers de base de données ne peuvent pas être utilisés comme des fichiers clé.|
+|Les fichiers de base de données ne peuvent pas être utilisés comme des fichiers clés.|
 |Enable automatic update check?|
-|Activer la vérification de mise à jour automatique ?|
+|Souhaitez-vous activer la vérification de mise à jour automatique ?|
 |Focus entry list after a successful quick search|
 |Restreindre la liste d'entrées après une recherche rapide concluante|
 |Include backup entries in quick searches|
@@ -1281,7 +1281,7 @@
 |recommended|
 |recommandé|
 |Are you sure you want to attempt to repair a database file?|
-|Étes-vous certain de souhaiter essayer de réparer un fichier de base de données ?|
+|Êtes-vous certain de souhaiter essayer de réparer un fichier de base de données ?|
 |In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
 |Dans le mode de réparation, l'intégrité des données n'est pas vérifiée (afin de récupérer autant de données que possible). Quand aucune vérification d'intégrité n'est accomplie, des données corrompues/malveillantes peuvent être incorporées dans la base de données.|
 |Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
@@ -1301,17 +1301,17 @@
 |Select &Password Font|
 |Sélectionner la police du mot de &passe|
 |Accept this password?|
-|Accepter ce mot de passe ?|
+|Souhaitez-vous accepter ce mot de passe ?|
 |Delete &attachments|
-|Supprimer &pièces jointes|
+|Supprimer les &pièces jointes|
 |The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
-|Le mot de passe généré contient un paramêtre substituable (placeholder). Quand on utilise ce mot de passe (c.-à-d. en le copiant dans le presse-papiers ou en le saisissant automatiquement), le paramètre substituable (placeholder) sera remplacé, par exemple un mot de passe différent pourrait effectivement être utilisé.|
+|Le mot de passe généré contient un paramètre substituable (placeholder). Quand on utilise ce mot de passe (c.-à-d. en le copiant dans le presse-papiers ou en le saisissant automatiquement), le paramètre substituable (placeholder) sera remplacé, par exemple un mot de passe différent pourrait effectivement être utilisé.|
 |~LANGISO6391CODE|
 |fr|
 |Auto-&Sort Entry List|
 |&Tri automatique de la liste d'entrées|
 |Auto-sorting of the entry list is enabled; you cannot move entries manually.|
-|Le Tri automatique de la liste d'entrée est activé ; vous ne pouvez pas déplacer les entrées manuellement.|
+|Le tri automatique de la liste d'entrées est activé ; vous ne pouvez pas déplacer les entrées manuellement.|
 |Entry List|
 |Liste des entrées|
 |Find a string in the entry list.|
@@ -1323,7 +1323,7 @@
 |Show grid lines in the entry list|
 |Afficher les lignes de la grille dans la liste d'entrées|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
-|Le Tri automatique de la liste d'entrée est activé ; vous ne pouvez pas trier maintenant la liste manuellement.|
+|Le tri automatique de la liste d'entrées est activé ; vous ne pouvez pas trier maintenant la liste manuellement.|
 |The regular expression is invalid.|
 |L'expression régulière est invalide.|
 |Register Ctrl+Alt+K hot key (brings the KeePass window to front)|
@@ -1351,7 +1351,7 @@
 |Get More &Languages...|
 |Obtenir davantage de &langues...|
 |Here you can change the user interface language.|
-|Ici vous pouvez changer la langue de l'interface de l'utilisateur.|
+|Ici, vous pouvez changer la langue de l'interface de l'utilisateur.|
 |Installed Languages|
 |Langues installées|
 |Language file cannot be activated!|
@@ -1373,7 +1373,7 @@
 |Do not store data in the Windows clipboard history and the cloud clipboard|
 |Ne pas enregistrer les données dans l'historique du presse-papiers Windows et celui du nuage|
 |The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
-|Les options suivantes appliquent aux commandes du presse-papiers de l'entrée dans la fenêtre principale (comme 'Copie Nom d'utilisateur' et 'Copie Mot de passe').|
+|Les options suivantes s'appliquent aux commandes du presse-papiers de l'entrée dans la fenêtre principale (comme 'Copie nom d'utilisateur' et 'Copie mot de passe').|
 |Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
 |Copier les URL vers le presse-papiers au lieu de les ouvrir elles-mêmes (exception : cmd:// URLs)|
 |Latin-1 Supplement|
