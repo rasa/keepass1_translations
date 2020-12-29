@@ -1,4 +1,4 @@
-﻿2020-1-13 01:38
+﻿2020-12-29 01:39
 |~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
@@ -71,22 +71,22 @@
 |输入密码：|
 |Master Password:|
 |管理密码：|
-|Create New Password Database|
-|创建新的密码数据库|
-|Set Composite Master Key|
+|Create New Database|
+|创建新数据库|
+|Set Master Key|
 |设置管理密码/密匙|
-|Specify the composite master key.|
-|确认管理密码|
+|Specify the master key.|
+|指定管理密码/密匙。|
 |Repeat Master Password|
 |确认管理密码|
 |Repeat the master password for the new database.|
-|确认新建数据库的管理密码|
+|确认新建数据库的管理密码。|
 |Open Database|
 |打开数据库|
-|Enter Composite Master Key|
+|Enter Master Key|
 |输入管理密码/密匙|
-|Enter the composite master key.|
-|输入管理密码/密匙|
+|Enter the master key.|
+|输入管理密码/密匙。|
 |(No key file selected)|
 |(未选择密匙文件)|
 |Key File|
@@ -339,8 +339,8 @@
 |无法打开文件！|
 |File cannot be saved!|
 |无法保存文件！|
-|KeePass Password Safe Files|
-|KeePass Password Safe 文件|
+|KeePass KDB Files|
+|KeePass KDB 文件|
 |All Files|
 |所有文件|
 |The current database file has been modified|
@@ -623,8 +623,8 @@
 |移除当前附件|
 |Close button [X] minimizes the main window instead of terminating the application|
 |按 关闭 按钮 [X] 时，最小化程序|
-|KeePass Password Database|
-|KeePass 密码数据库|
+|KeePass Database|
+|KeePass 数据库|
 |&Open with KeePass|
 |用 KeePass 打开(&O)|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
@@ -739,12 +739,12 @@
 |选择密匙文件...|
 |Save key file manually to...|
 |保存密匙文件...|
-|Enter the new composite master key.|
-|输入新的管理密码。|
+|Specify the new master key.|
+|指定新的管理密码/密钥。|
 |Repeat the new master password for this database.|
 |确认当前数据库的新管理密码|
-|Change Composite Master Key|
-|更改管理密码|
+|Change Master Key|
+|更改管理密码/密钥|
 |Plugin|
 |插件|
 |Plugins|
@@ -847,8 +847,8 @@
 |备份修改过的记录到“备份”群组|
 |Failed to create backup of this entry!|
 |无法备份该记录！|
-|The composite master key has been changed!|
-|管理密码已更改！|
+|The master key has been changed!|
+|管理密码/密钥已更改！|
 |Save the database now in order to get the new key applied.|
 |保存数据库以使新的密匙生效。|
 |Fields to export|
@@ -1383,3 +1383,5 @@
 |不在Windows剪贴板历史记录及云剪贴板中存储数据|
 |The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
 |应用下列的选项来进入主窗口的剪贴板命令（如‘复制用户名’和‘复制密码’）|
+|Consider similar dashes as identical|
+|将相似的连接符视为相同|
