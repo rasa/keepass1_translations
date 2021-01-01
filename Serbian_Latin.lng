@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Srpski|
 |~LANGUAGEVERSION|
-|1.38|
+|1.39|
 |~LANGUAGEAUTHOR|
 |Ljuba Ćirović|
 |~LANGUAGEAUTHOREMAIL|
@@ -64,22 +64,12 @@
 |Uneti lozinku:|
 |Master Password:|
 |Glavna lozinka:|
-|Create New Password Database|
-|Kreiraj novu bazu podataka sa lozinkama|
-|Set Composite Master Key|
-|Postavi složeni glavni ključ|
-|Specify the composite master key.|
-|Navesti složeni glavni ključ.|
 |Repeat Master Password|
 |Ponovi glavnu lozinku|
 |Repeat the master password for the new database.|
 |Ponovi glavnu lozinku za novu bazu podataka.|
 |Open Database|
 |Otvori bazu podataka|
-|Enter Composite Master Key|
-|Uneti složeni glavni ključ|
-|Enter the composite master key.|
-|Uneti složeni glavni ključ.|
 |(No key file selected)|
 |(Nije odabrana datoteka ključa)|
 |Key File|
@@ -316,8 +306,6 @@
 |Datoteka ne može da se otvori!|
 |File cannot be saved!|
 |Datoteka ne može da se sačuva!|
-|KeePass Password Safe Files|
-|Datoteke KeePass sefa za lozinke|
 |All Files|
 |Sve datoteke|
 |The current database file has been modified|
@@ -572,8 +560,6 @@
 |Ukloni trenutno priloženu datoteku|
 |Close button [X] minimizes the main window instead of terminating the application|
 |Dugme za zatvaranje [X] minimizuje prozor umesto da prekine i zatvori program|
-|KeePass Password Database|
-|KeePass baza podataka| 
 |&Open with KeePass|
 |Otvori KeePass-om|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
@@ -672,12 +658,8 @@
 |Ručno odabrati datoteku ključa...|
 |Save key file manually to...|
 |Ručno sačuvaj datoteku ključa u...|
-|Enter the new composite master key.|
-|Uneti novi složeni glavni ključ.|
 |Repeat the new master password for this database.|
 |Ponovi novu glavnu lozinku za ovu bazu podataka.|
-|Change Composite Master Key|
-|Promeni složeni glavni ključ|
 |Plugin|
 |Umetak|
 |Plugins|
@@ -774,8 +756,6 @@
 |Sačuvaj rezervne kopije izmenjenih stavki u grupu 'Rezervne kopije'|
 |Failed to create backup of this entry!|
 |Neuspelo kreiranje rezervne kopije ove stavke!|
-|The composite master key has been changed!|
-|Složeni glavni ključ je promenjen!|
 |Save the database now in order to get the new key applied.|
 |Sačuvati bazu podataka da bi se primenio novi ključ.|
 |Fields to export|
@@ -872,8 +852,6 @@
 |Pokaži punu putanju u naslovnoj traci (umesto samo imena datoteke)|
 |Enable auto-type features|
 |Omogući odlike automatskog popunjavanja|
-|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
-|Prepiši URLove na radnu tablu umesto da ih otvoriš (osim: cmd:// URLova)|
 |Copy &URL to Clipboard|
 |Prepiši URL na radnu tablu|
 |Exit program instead of locking the workspace after the specified time|
@@ -1376,11 +1354,35 @@
 |zn.|
 |recommended|
 |preporučuje se|
-|~LANGISO6391CODE|
-|sr|
+|Change Master Key|
+|Promeni glavni ključ|
+|Consider similar dashes as identical|
+|Slične crtice smatraj identičnim|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
+|Prepiši URLove na radnu tablu umesto da ih otvoriš (izuzetak: cmd:// URLs)|
+|Create New Database|
+|Kreiraj novu bazu podataka|
+|Enter Master Key|
+|Upiši glavni ključ|
+|Enter the master key.|
+|Upisati glavni ključ.|
+|KeePass Database|
+|KeePass baza podataka|
+|KeePass KDB Files|
+|KeePass KDB datoteke|
 |Latin-1 Supplement|
 |Dodatak za Latin-1|
+|Set Master Key|
+|Podesi glavni ključ|
+|Specify the master key.|
+|Navesti glavni ključ.|
+|Specify the new master key.|
+|Navesti novi glavni ključ.|
 |The character set is invalid|
-|Neispravan skup znakova|
+|Skup znakova nije ispravan|
+|The master key has been changed!|
+|Glavni ključ je izmenjen!|
 |The pattern is invalid|
-|Neispravan šablon|
+|Model je neispravan|
+|~LANGISO6391CODE|
+|sr|
