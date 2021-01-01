@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.38 - 1|
+|1.39 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -206,8 +206,8 @@
 |唯一識別碼(UUID)|
 |Attachment|
 |附件|
-|Set Composite Master Key|
-|設定複合式資料庫金鑰|
+|Set Master Key|
+|設定資料庫金鑰|
 |Master Password:|
 |資料庫密碼：|
 |&Use master password and key file|
@@ -230,24 +230,24 @@
 |請輸入密碼或選擇鑰匙檔案。|
 |Password and repeated password aren't identical!|
 |密碼與重複輸入的密碼不符！|
-|Create New Password Database|
+|Create New Database|
 |建立資料庫|
-|Specify the composite master key.|
-|指定複合式資料庫金鑰。|
+|Specify the master key.|
+|指定資料庫金鑰。|
 |Repeat the master password for the new database.|
 |確認資料庫密碼。|
 |Open Database|
 |開啟資料庫|
-|Enter the composite master key.|
-|輸入複合式資料庫金鑰。|
-|Change Composite Master Key|
-|變更複合式資料庫金鑰|
-|Enter the new composite master key.|
-|輸入新的複合式資料庫金鑰。|
+|Enter the master key.|
+|輸入資料庫金鑰。|
+|Change Master Key|
+|變更資料庫金鑰|
+|Specify the new master key.|
+|輸入新的資料庫金鑰。|
 |Repeat the new master password for this database.|
 |確認資料庫密碼。|
-|The composite master key has been changed!|
-|複合式資料庫金鑰已變更！|
+|The master key has been changed!|
+|資料庫金鑰已變更！|
 |Save the database now in order to get the new key applied.|
 |為了讓新的鑰匙生效，請儲存資料庫。|
 |Database Settings|
@@ -422,8 +422,8 @@
 |就緒。|
 |Enter Password:|
 |密碼：|
-|Enter Composite Master Key|
-|輸入複合式資料庫金鑰|
+|Enter Master Key|
+|輸入資料庫金鑰|
 |Options|
 |選項|
 |Group name:|
@@ -536,8 +536,8 @@
 |無法開啟檔案！|
 |File cannot be saved!|
 |檔案無法儲存！|
-|KeePass Password Safe Files|
-|KeePass密碼資料庫|
+|KeePass KDB Files|
+|KeePass KDB檔案|
 |All Files|
 |所有檔案|
 |KeePass - Save Before Close/Lock?|
@@ -796,8 +796,8 @@
 |此項目沒有附件。|
 |Remove the currently attached file|
 |移除目前的附件|
-|KeePass Password Database|
-|KeePass密碼資料庫|
+|KeePass Database|
+|KeePass資料庫|
 |&Open with KeePass|
 |使用KeePass開啟(&O)|
 |Entry List|
@@ -1364,6 +1364,8 @@
 |在KeePass執行檔所在的資料夾發現一個或多個語言檔。|
 |Open &Folder|
 |開啟資料夾(&F)|
+|Consider similar dashes as identical|
+|將相似的連字號視為相同|
 |~LANGISO6391CODE|
 |zh|
 |About KeePass|
