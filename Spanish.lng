@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.38|
+|~LANGUAGEVERSION||1.39|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |~LANGISO6391CODE||es|
@@ -152,7 +152,7 @@
 |Cannot register the global hot key.||No se puede registrar la combinación de teclas global.|
 |Change &Language...||Cambiar idioma...|
 |Change &Master Key...||Cambiar clave &maestra...|
-|Change Composite Master Key||Modificar la Clave Maestra Compuesta|
+|Change Master Key||Modificar la Clave Maestra|
 |Change entry icon:||Cambiar icono de la entrada:|
 |Change expiration time:||Cambiar fecha de expiración:|
 |Change fields of all selected entries||Cambiar campos de las entradas seleccionadas|
@@ -184,6 +184,7 @@
 |Command line argument||Argumento para la línea de comandos|
 |Component||Componente|
 |Connect failed, cannot check for updates.||Falló la conexión, no se pudo comprobar si había actualizaciones.|
+|Consider similar dashes as identical||Considerar guiones similares como idénticos|
 |Contact||Contacto|
 |Copy &All||Copiar &todos|
 |Copy &Password||Copiar &contraseña|
@@ -195,7 +196,7 @@
 |Create a new password entry.||Crear una nueva entrada de contraseña.|
 |Create a new password group.||Crear un nuevo grupo de contraseñas.|
 |Create new IDs||Crear nuevas IDs|
-|Create New Password Database||Crear una nueva contraseña de la base de datos|
+|Create New Database||Crear una nueva base de datos|
 |Creation Time||Fecha de Creación|
 |CSV Files||Archivos CSV|
 |Ctrl||Ctrl|
@@ -247,10 +248,9 @@
 |Encryption/decryption error||Error al cifrar/descifrar|
 |Enhanced: allow pasting only once and protect against clipboard spies||Avanzado: permitir el pegado una única vez y proteger contra espías del portapapeles|
 |Enter a group name!||¡Introduzca un nombre de grupo!|
-|Enter Composite Master Key||Ingrese Clave Maestra Compuesta|
+|Enter Master Key||Ingrese la clave maestra|
 |Enter Password:||Introduzca la contraseña:|
-|Enter the composite master key.||Ingrese la clave maestra compuesta.|
-|Enter the new composite master key.||Ingrese la nueva clave maestra compuesta.|
+|Enter the master key.||Ingrese la clave maestra.|
 |Entry||Entrada|
 |Entry List||Lista de entradas|
 |Error code||Código de error|
@@ -353,10 +353,10 @@
 |Just hack some random keys into the edit box above.||Escribas algunas claves aleatorias dentro del cuadro superior.|
 |KeePass - Save Before Close/Lock?||KeePass - ¿Guardar antes de Cerrar/Bloquear?|
 |KeePass 1.x cannot open KDBX files.||KeePass 1.x no puede abrir archivos KDBX.|
+|KeePass Database||Base de datos de KeePass|
 |KeePass Initialization||Inicio de KeePass|
 |KeePass is OSI Certified Open Source Software.||KeePass es un OSI Certified Open Source Software.|
-|KeePass Password Database||Base de datos de contraseñas KeePass|
-|KeePass Password Safe Files||KeePass Password Safe Files|
+|KeePass KDB Files||Archivos KDB de KeePass|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.||KeePass comparará la última vez que fueron modificados(as) los grupos y entradas, y los reemplazará únicamente si los elementos a importar son más recientes.|
 |KeePass will not be closed.||KeePass no será cerrado.|
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.||KeePass reemplazará todos los grupos y entradas existentes por aquellos(as) en el archivo a importar, en caso de tener la misma ID.|
@@ -521,7 +521,7 @@
 |Select the fields KeePass should remember||Seleccione los campos que KeePass debería recordar|
 |Select the target window for the current entry.||Seleccione la ventana destino para la entrada actual.|
 |Self-Test(s) Failed||Auto-Test(s) falló(aron)|
-|Set Composite Master Key||Defina una clave maestra compuesta|
+|Set Master Key||Defina una clave maestra|
 |Settings||Configuración|
 |Setup||Configuración|
 |Show &Columns||Mostrar &columnas|
@@ -548,7 +548,8 @@
 |Source field to reference||Campo de origen para referencia|
 |Space ( )||Espacio ( )|
 |Special||Especiales|
-|Specify the composite master key.||Especificar la clave maestra compuesta.|
+|Specify the master key.||Especificar la clave maestra.|
+|Specify the new master key.||Especificar la nueva clave maestra.|
 |Start and exit||Iniciar y Salir|
 |Start KeePass at Windows startup (for current user)||Iniciar KeePass al cargar Windows (usuario actual)|
 |Start minimized and locked||Iniciar minimizado y bloqueado|
@@ -565,7 +566,6 @@
 |Text Files||Archivos Texto|
 |The attachment is too large||El archivo adjunto es demasiado grande|
 |The character set is invalid||El conjunto de caracteres es inválido|
-|The composite master key has been changed!||¡La clave maestra compuesta ha sido modificada!|
 |The current database file has been modified||La base de datos actual ha sido modificada.|
 |The database file has been modified!||¡El archivo de la base de datos fue modificado!|
 |The estimated quality of the master password must be at least %u bits!||¡La calidad estimada para la contraseña maestra debe ser de al menos %u bits!|
@@ -583,6 +583,7 @@
 |The KeePass workspace will not be locked.||El área de trabajo de KeePass no será bloqueada.|
 |The key provider plugin did not supply a valid key||El complemento proveedor de claves no proporcionó una clave válida|
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||El archivo de ayuda local es una copia de la documentación del producto al momento de haber sido publicada esta versión. No se actualiza automáticamente.|
+|The master key has been changed!||¡La clave maestra ha sido modificada!|
 |The master password must be at least %u characters long!||¡La contraseña maestra debe ser de al menos %u caracteres!|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.||El centro de ayuda en línea siempre dispone de la versión más reciente de la documentación del producto. Es necesaria una conexión a internet.|
 |The password must consist of at least one character!||¡La contraseña debe tener al menos un caracter!|
