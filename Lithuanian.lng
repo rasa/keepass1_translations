@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.38|
+|1.39|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -109,14 +109,18 @@
 |Master Password:|
 |Pagrindinis slaptažodis:|
 
-|Create New Password Database|
+|Create New Database|
 |Sukurti naują duomenų bazę|
 
-|Set Composite Master Key|
-|Nustatykite sudėtinį pagrindinį raktą|
+|Set Master Key|
+|Nustatykite pagrindinį raktą|
 
-|Specify the composite master key.|
-|Nurodykite sudėtinį pagrindinį raktą.|
+|Specify the new master key.|
+|Nurodykite naują pagrindinį raktą.|
+
+|Specify the master key.|
+|Nurodykite pagrindinį raktą.|
+
 
 |Repeat Master Password|
 |Pakartokite pagrindinį slaptažodį|
@@ -127,11 +131,11 @@
 |Open Database|
 |Atverti duomenų bazę|
 
-|Enter Composite Master Key|
-|Įveskite sudėtinį pagrindinį raktą|
+|Enter the master key.|
+|Įveskite pagrindinį raktą.|
 
-|Enter the composite master key.|
-|Įveskite sudėtinį pagrindinį raktą.|
+|Enter Master Key|
+|Įveskite pagrindinį raktą.|
 
 |(No key file selected)|
 |(Nepasirinktas rakto failas)|
@@ -500,8 +504,8 @@
 |File cannot be saved!|
 |Failas neįsirašo!|
 
-|KeePass Password Safe Files|
-|KeePass slaptažodžių seifų failai|
+|KeePass KDB Files|
+|KeePass KDB failai|
 
 |All Files|
 |Visi failai|
@@ -899,8 +903,8 @@
 |Close button [X] minimizes the main window instead of terminating the application|
 |Užvėrimo [X] mygtukas sumažina langą, bet nesustabdo programos|
 
-|KeePass Password Database|
-|KeePass slaptažodžių duomenų bazė|
+|KeePass Database|
+|KeePass duomenų bazė|
 
 |&Open with KeePass|
 |&Atverti su KeePass|
@@ -1073,14 +1077,11 @@
 |Save key file manually to...|
 |Įrašyti rakto failą į...|
 
-|Enter the new composite master key.|
-|Įveskite naują sudėtinį pagrindinį raktą.|
-
 |Repeat the new master password for this database.|
 |Pakartokite duomenų bazės pagrindinį slaptažodį.|
 
-|Change Composite Master Key|
-|Pakeisti sudėtinį pagrindinį raktą|
+|Change Master Key|
+|Pakeisti pagrindinį raktą|
 
 |Plugin|
 |Papildinys|
@@ -1232,8 +1233,8 @@
 |Failed to create backup of this entry!|
 |Atsarginės kopijos sukurti nepavyko!|
 
-|The composite master key has been changed!|
-|Sudėtinis pagrindinis raktas pakeistas!|
+|The master key has been changed!|
+|Pagrindinis raktas pakeistas!|
 
 |Save the database now in order to get the new key applied.|
 |Norėdami pritaikyti naująjį raktą, dabar įrašykite duomenų bazę|
@@ -2079,3 +2080,6 @@
 
 |The pattern is invalid|
 |Modelis netinkamas|
+
+|Consider similar dashes as identical|
+|Panašius brūkšnius laikyti identiškais|
