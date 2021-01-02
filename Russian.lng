@@ -1,6 +1,6 @@
 ﻿|~LANGUAGENAME|			|Russian|
 |~LANGISO6391CODE|		|ru|
-|~LANGUAGEVERSION|		|1.38|
+|~LANGUAGEVERSION|		|1.39|
 |~LANGUAGEAUTHOR|		|Dmitry Yerokhin, Andrew Gavrushenko|
 |~LANGUAGEAUTHOREMAIL|		|erodim@mail.ru|
 
@@ -41,17 +41,17 @@
 
 |Ready.|			|Готов.|
 
-|Enter the composite master key.|	|Введите составной мастер-ключ.|
+|Enter Master Key|		|Введите мастер-ключ|
 |Enter Password:|		|Введите пароль:|
 
-|Create New Password Database|	|Создание новой базы паролей|
-|Set Composite Master Key|	|Установка мастер-ключа|
-|Specify the composite master key.|	|Укажите составной мастер-ключ.|
+|Create New Database|		|Создание новой базы данных|
+|Set Master Key|		|Установка мастер-ключа|
+|Specify the master key.|	|Укажите мастер-ключ.|
+|Specify the new master key.|	|Укажите новый мастер-ключ.|
 |Repeat Master Password|	|Повтор мастер-пароля|
 |Repeat the master password for the new database.|	|Введите мастер-пароль ещё раз.|
 |Open Database|			|Открытие базы паролей|
 |Master Password:|		|Мастер-пароль:|
-|Enter Composite Master Key|	|Введите составной мастер-ключ|
 |Key File|			|Ключевой файл|
 |(No key file selected)|	|<ключевой файл не выбран>|
 
@@ -84,6 +84,7 @@
 |The character set is invalid|	|Неверный набор символов|
 |The pattern is invalid|	|Неверный шаблон|
 |There are too few characters in the character set to build up a password matching the specified rules|	|Недостаточно символов для создания пароля по указанным правилам|
+|Consider similar dashes as identical|	|Считать похожие тире одинаковыми|
 
 |Group:|			|Группа:|
 |Title:|			|Название:|
@@ -214,7 +215,7 @@
 |File cannot be opened!|	|Невозможно открыть файл!|
 |File cannot be saved!|		|Невозможно сохранить файл!|
 
-|KeePass Password Safe Files|	|Базы паролей KeePass|
+|KeePass KDB Files|		|KDB-файлы KeePass|
 |All Files|			|Все файлы|
 
 |The current database file has been modified|		|Текущий файл базы паролей был изменён.|
@@ -380,7 +381,7 @@
 
 |Close button [X] minimizes the main window instead of terminating the application|	|Кнопка закрытия [X] сворачивает окно, а не закрывает программу|
 
-|KeePass Password Database|	|База паролей KeePass|
+|KeePass Database|		|База данных KeePass|
 |&Open with KeePass|		|Откр&ыть в KeePass|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|	|Здесь можно ассоциировать файлы .kdb с KeePass (чтобы при двойном щелчке мышью по kdb-файлу он открывался в KeePass), либо удалить ассоциацию:|
 |Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|	|Файлы .kdb ассоциированы с KeePass! Теперь двойной щелчок по файлу .kdb будет запускать KeePass автоматически.|
@@ -438,9 +439,9 @@
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|	|Включена автосортировка списка записей, сортировать записи вручную теперь нельзя.|
 |Select key file manually...|		|Выберите ключевой файл вручную...|
 |Save key file manually to...|		|Сохранить ключевой файл вручную как...|
-|Enter the new composite master key.|	|Введите новый составной мастер-ключ.|
+|Enter the master key.|			|Введите мастер-ключ.|
 |Repeat the new master password for this database.|	|Ещё раз введите новый пароль для этой базы.|
-|Change Composite Master Key|		|Изменение составного мастер-ключа|
+|Change Master Key|			|Изменение мастер-ключа|
 
 |&Disable|				|&Отключить|
 |&Enable|				|&Включить|
@@ -507,7 +508,7 @@
 |Group Tree|				|Дерево групп|
 |Here you can customize the exported files.|	|Здесь можно настроить экспортируемые файлы.|
 |Icon|					|Значок|
-|The composite master key has been changed!|	|Составной мастер-ключ изменён!|
+|The master key has been changed!|	|Мастер-ключ изменён!|
 |Save the database now in order to get the new key applied.|	|Сохраните базу паролей, чтобы применить новый ключ.|
 
 |1 Month|				|1 месяц|
