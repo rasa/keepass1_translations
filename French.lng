@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.38|
+|1.39|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
@@ -537,7 +537,7 @@
 |bits|
 |bits|
 |Personal &Vault TXT File...|
-|Fichier TXT &Vault personnel...|
+|Fichier TXT &coffre-fort personnel...|
 |Imported from Password Safe|
 |Importé depuis Password Safe|
 |Remember last opened file|
@@ -1382,3 +1382,25 @@
 |Le jeu de caractères mis est invalide|
 |The pattern is invalid|
 |Le motif est invalide|
+|Change Master Key|
+|Changer la clé principale|
+|Consider similar dashes as identical|
+|Considérer les tirets similaires comme identiques|
+|Create New Database|
+|Créer une nouvelle base de données|
+|Enter Master Key|
+|Saisir la clé principale|
+|Enter the master key.|
+|Saisir la clé principale.|
+|KeePass Database|
+|Base de données de KeePass|
+|KeePass KDB Files|
+|Les fichiers KDB de KeePass|
+|Set Master Key|
+|Définir la clé principale|
+|Specify the master key.|
+|Spécifier la clé principale.|
+|Specify the new master key.|
+|Spécifier la nouvelle clé principale.|
+|The master key has been changed!|
+|La clé principale a été modifiée !|
