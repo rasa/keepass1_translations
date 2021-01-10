@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Català|
-|~LANGUAGEVERSION||1.38|
+|~LANGUAGEVERSION||1.39|
 |~LANGUAGEAUTHOR||Albert Morera|
 |~LANGUAGEAUTHOREMAIL||@|
 |- Arcfour crypto routine||- Rutina criptogràfica Arcfour|
@@ -161,7 +161,7 @@
 |ch.||car.|
 |Change &Language...||&Canvia la llengua...|
 |Change &Master Key...||&Canvia la clau &mestra...|
-|Change Composite Master Key||Canvia la clau mestra composta|
+|Change Master Key||Canvia la clau mestra|
 |Change entry icon:||Canvia la icona de l'entrada:|
 |Change expiration time:||Canvia la data de caducitat:|
 |Change fields of all selected entries||Canvia els camps de totes les entrades seleccionades|
@@ -193,6 +193,7 @@
 |Command line argument||Argument de la línia de comandes|
 |Component||Component|
 |Connect failed, cannot check for updates.||La connexió ha fallat, no s'ha pogut comprovar si hi ha actualitzacions.|
+|Consider similar dashes as identical||Considera guions similars com idèntics|
 |Contact||Contacte|
 |Copy &All||Copia-ho &tot|
 |Copy &Password||Copia la &contrasenya|
@@ -203,8 +204,8 @@
 |Create &Association||Crea &associació|
 |Create a new password entry.||Crea una nova entrada de contrasenya|
 |Create a new password group.||Crea un nou grup de contrasenyes.|
+|Create New Database||Crea una nova base de dades|
 |Create new IDs||Crea nous identificadors ID|
-|Create New Password Database||Crea una nova base de dades de contrasenyes|
 |Creation Time||Data de creació|
 |CSV Files||Fitxers CSV|
 |Ctrl||Ctrl|
@@ -259,10 +260,9 @@
 |Enhanced: allow pasting only once and protect against clipboard spies||Millorat: permet enganxar només un cop i protegeix el porta-retalls d'espies.|
 |Ensure same keyboard layouts during auto-type||Garanteix la mateixa distribució de teclat durant l’auto-tecleig|
 |Enter a group name!||Entreu un nom de grup!|
-|Enter Composite Master Key||Entreu la Clau Mestra Composta|
+|Enter Master Key||Entreu la Clau Mestra|
 |Enter Password:||Entreu la contrasenya:|
-|Enter the composite master key.||Entreu la clau mestra composta.|
-|Enter the new composite master key.||Entreu la nova clau mestra composta.|
+|Enter the master key.||Entreu la clau mestra.|
 |Entry||Entrada|
 |Entry List||Llista d’entrades|
 |Error code||Codi d'error|
@@ -372,10 +372,10 @@
 |KeePass &Website||&Web del KeePass|
 |KeePass 1.x cannot open KDBX files.||KeePass 1.x no pot obrir fitxers KDBX.|
 |KeePass can automatically check for updates on each program start.||El KeePass pot comprovar automàticament, en obrir-lo,  si hi ha actualitzacions.|
+|KeePass Database||Base de dades de KeePass|
 |KeePass Initialization||Inicialització del KeePass|
 |KeePass is OSI Certified Open Source Software.||KeePass és programari de codi obert certificat per l'OSI.|
-|KeePass Password Database||Base de dades de contrasenyes de KeePass|
-|KeePass Password Safe Files||Fitxers de KeePass Password Safe|
+|KeePass KDB Files||Fitxers KDB de KeePass|
 |KeePass Website||Web del KeePass|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.||KeePass compararà les dates de l'última modificació de grups/entrades i reemplaçarà els existents només si els que s'importen són més recents.|
 |KeePass will not be closed.||No es tancarà el KeePass.|
@@ -548,7 +548,7 @@
 |Select the fields KeePass should remember||Seleccioneu els camps que el KeePass hauria de recordar|
 |Select the target window for the current entry.||Selecciona la finestra de destí per a l'entrada actual.|
 |Self-Test(s) Failed||Prova(es) fallida(es)|
-|Set Composite Master Key||Establiu la clau mestra composta|
+|Set Master Key||Establiu la clau mestra|
 |Settings||Opcions|
 |Setup||Configuració|
 |Show &Columns||Mostra les &columnes|
@@ -576,7 +576,8 @@
 |Source field to reference||Camp d'origen a referenciar|
 |Space ( )||Espai ( )|
 |Special||Especial|
-|Specify the composite master key.||Indiqueu la clau mestra composta.|
+|Specify the master key.||Indiqueu la clau mestra.|
+|Specify the new master key.||Indiqueu la nova clau mestra.|
 |Start and exit||Inicia i surt|
 |Start KeePass at Windows startup (for current user)||Inicia el KeePass en iniciar el Windows (per a l'usuari actual)|
 |Start minimized and locked||Inicia minimitzat i bloquejat|
@@ -593,7 +594,6 @@
 |Text Files||Fitxers de text|
 |The attachment is too large||El fitxer adjunt és massa gran|
 |The character set is invalid||El joc de caràcters no és vàlid|
-|The composite master key has been changed!||S'ha canviat la clau mestra composta!|
 |The current database file has been modified||S’ha modificat el fitxer de la base de dades actual|
 |The database file has been modified!||S’ha modificat el fitxer de la base de dades!|
 |The database is empty||La base de dades està buida|
@@ -612,6 +612,7 @@
 |The KeePass workspace will not be locked.||No es bloquejarà l’espai de treball del KeePass.|
 |The key provider plugin did not supply a valid key||El connector del proveïdor de claus no ha proporcionat una clau vàlida|
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||El fitxer d'ajuda local és una instantània de la documentació en el moment què es va publicar aquesta versió. No s'actualitza automàticament.|
+|The master key has been changed!||S'ha canviat la clau mestra!|
 |The master password must be at least %u characters long!||La contrasenya mestra ha de ser almenys de %u caràcters de longitud!|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.||El centre d'ajuda en línia sempre conté l'última versió de la documentació del producte. És necessària una connexió a Internet.|
 |The password must consist of at least one character!||La contrasenya ha de tenir almenys un caràcter!|
