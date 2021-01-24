@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.38|
+|1.39|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -104,21 +104,25 @@
 |Add meg a jelszót:|
 |Master Password:|
 |Mesterjelszó:|
-|Create New Password Database|
-|Új jelszóadatbázis létrehozása|
-|Set Composite Master Key|
+|Create New Database|
+|Új adatbázis készítése|
+|Set Master Key|
 |Mester kulcs beállítása|
-|Specify the composite master key.|
-|Összetett mesterkulcs megadása.|
+|Specify the master key.|
+|Mesterkulcs megadása.|
+|Specify the new master key.|
+|Add meg az új mesterkulcsot.|
 |Repeat Master Password|
 |Ismételd meg a mester jelszót|
 |Repeat the master password for the new database.|
 |Ismételd meg a mester jelszót az új adatbázishoz.|
+|Consider similar dashes as identical|
+|Tekintsük a hasonló kötõjeleket azonosnak|
 |Open Database|
 |Adatbázis megnyitása|
-|Enter Composite Master Key|
-|Add meg az összetett mester kulcsot|
-|Enter the composite master key.|
+|Enter Master Key|
+|Mesterkulcs megadása|
+|Enter the master key.|
 |Add meg a mester kulcsot.|
 |(No key file selected)|
 |(Nincs kiválasztott kulcsfájl)|
@@ -356,8 +360,8 @@
 |A fájl nem nyitható meg!|
 |File cannot be saved!|
 |A fájl nem menthetõ!|
-|KeePass Password Safe Files|
-|KeePass Jelszó széf fájlok|
+|KeePass KDB Files|
+|KeePass KDB fájlok|
 |All Files|
 |Minden fájl|
 |The current database file has been modified|
@@ -472,7 +476,7 @@
 |Add meg az adatbázis új összetett mester kulcsát.|
 |Repeat the new master password for this database.|
 |Mester kulcs megismétlése.|
-|Change Composite Master Key|
+|Change Master Key|
 |Mesterkulcs módosítása|
 |Plugin|
 |Bõvítmény|
@@ -572,8 +576,8 @@
 |Biztonsági mentések és változtatások mentése a 'Biztonsági mentés' csoportba|
 |Failed to create backup of this entry!|
 |Nem sikerült a bejegyzés biztonsági mentése!|
-|The composite master key has been changed!|
-|Az összetett mesterkulcs megváltozott!|
+|The master key has been changed!|
+|A mesterkulcs megváltozott!|
 |Save the database now in order to get the new key applied.|
 |Mentsd el az adatbázist, hogy az új kulcs kerüljön alkalmazásra.|
 |Fields to export|
@@ -1080,8 +1084,8 @@
 |A jelenleg csatolt fájl eltávolítása|
 |Close button [X] minimizes the main window instead of terminating the application|
 |A Kilépés [X] gomb csak kis méretûvé tegye a programot a kilépés helyett|
-|KeePass Password Database|
-|KeePass jelszó adatbázis|
+|KeePass Database|
+|KeePass adatbázis|
 |&Open with KeePass|
 |&Megnyitás a KeePass-al|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
