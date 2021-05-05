@@ -3,1388 +3,1388 @@
 |~LANGUAGEVERSION|
 |1.39|
 |~LANGUAGEAUTHOR|
-|herka (1.13) • Zotius (1.18 verziótól)|
+|herka (1.13) â€¢ Zotius (1.18 verziÃ³tÃ³l)|
 |~LANGUAGEAUTHOREMAIL|
-|herka0@gmail.com • zotius@t-online.hu|
+|herka0@gmail.com â€¢ zotius@t-online.hu|
 |~LANGISO6391CODE|
 |hu|
 |OK|
 |Rendben|
 |Built-in|
-|Beépített|
+|BeÃ©pÃ­tett|
 |Contact|
 |Kapcsolat|
 |Do you want to open the application directory (in order to move or delete language files)?|
-|Valóban megnyitod az alkalmazás mappáját (a nyelvi fájlok áthelyezéséhez vagy törléséhez)?|
+|ValÃ³ban megnyitod az alkalmazÃ¡s mappÃ¡jÃ¡t (a nyelvi fÃ¡jlok Ã¡thelyezÃ©sÃ©hez vagy tÃ¶rlÃ©sÃ©hez)?|
 |File|
-|Fájl|
+|FÃ¡jl|
 |Get More &Languages...|
-|További nyelvek beszerzése...|
+|TovÃ¡bbi nyelvek beszerzÃ©se...|
 |Here you can change the user interface language.|
-|Itt megváltoztathatod a felhasználói felület nyelvét|
+|Itt megvÃ¡ltoztathatod a felhasznÃ¡lÃ³i felÃ¼let nyelvÃ©t|
 |Installed Languages|
-|Telepített nyelvek|
+|TelepÃ­tett nyelvek|
 |Language file cannot be activated!|
-|A nyelvi fájl nem aktíválható!|
+|A nyelvi fÃ¡jl nem aktÃ­vÃ¡lhatÃ³!|
 |Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.|
-|A nyelvi fájlok betöltése közvetlenül az alkalmazás mappájából nem támogatott. A nyelvi fájlokat ezentúl az alkalmazás mappája alatti 'Languages' mappában kell elhelyezni.|
+|A nyelvi fÃ¡jlok betÃ¶ltÃ©se kÃ¶zvetlenÃ¼l az alkalmazÃ¡s mappÃ¡jÃ¡bÃ³l nem tÃ¡mogatott. A nyelvi fÃ¡jlokat ezentÃºl az alkalmazÃ¡s mappÃ¡ja alatti 'Languages' mappÃ¡ban kell elhelyezni.|
 |One or more language files have been found in the KeePass application directory.|
-|Egy vagy több nyelvi fájl található a KeePass alkalmazás mappájában.|
+|Egy vagy tÃ¶bb nyelvi fÃ¡jl talÃ¡lhatÃ³ a KeePass alkalmazÃ¡s mappÃ¡jÃ¡ban.|
 |Open &Folder|
-|&Mappa megnyitása|
+|&Mappa megnyitÃ¡sa|
 |Select Language|
-|Válassz nyelvet|
+|VÃ¡lassz nyelvet|
 |The selected language has been activated. KeePass must be restarted in order to load the language.|
-|A kiválasztott nyelv aktíválásra került. A KeePasst újra kell indítani a nyelvi fájl betöltéséhez.|
+|A kivÃ¡lasztott nyelv aktÃ­vÃ¡lÃ¡sra kerÃ¼lt. A KeePasst Ãºjra kell indÃ­tani a nyelvi fÃ¡jl betÃ¶ltÃ©sÃ©hez.|
 |Select &Password Font|
-|Válassz &Jelszó betûtípust|
+|VÃ¡lassz &JelszÃ³ betÃ»tÃ­pust|
 |&Generate Random Password|
-|&Véletlen jelszó generálása|
+|&VÃ©letlen jelszÃ³ generÃ¡lÃ¡sa|
 |Choose an icon.|
-|Válassz egy ikont.|
+|VÃ¡lassz egy ikont.|
 |General|
-|Általános|
+|ÃltalÃ¡nos|
 |Windows|
 |Windows|
 |Network|
-|Hálózat|
+|HÃ¡lÃ³zat|
 |Internet|
 |Internet|
 |eMail|
 |e-mail|
 |Homebanking|
-|Pénzügyek|
+|PÃ©nzÃ¼gyek|
 |Entry|
-|Bejegyzés|
+|BejegyzÃ©s|
 |&Title|
-|&Cím|
+|&CÃ­m|
 |User &Name|
-|Felhasználó&név|
+|FelhasznÃ¡lÃ³&nÃ©v|
 |&URL|
 |&URL|
 |&Password|
-|&Jelszó|
+|&JelszÃ³|
 |N&otes|
-|&Megjegyzés|
+|&MegjegyzÃ©s|
 |&Case sensitive|
-|&Kis-nagybetû érzékeny|
+|&Kis-nagybetÃ» Ã©rzÃ©keny|
 |Search in|
-|Keresés|
+|KeresÃ©s|
 |Find what:|
-|Keresendõ szöveg:|
+|KeresendÃµ szÃ¶veg:|
 |Find|
-|Keresés|
+|KeresÃ©s|
 |&Find|
 |&Keres|
 |Find a string in the entry list.|
-|Karakterlánc keresés a listában.|
+|KarakterlÃ¡nc keresÃ©s a listÃ¡ban.|
 |Search for passwords in quick searches|
-|Jelszavak keresése gyors keresésekben|
+|Jelszavak keresÃ©se gyors keresÃ©sekben|
 |About KeePass|
-|KeePass névjegye|
+|KeePass nÃ©vjegye|
 |Group|
 |Csoport|
 |Title|
-|Cím|
+|CÃ­m|
 |User Name|
-|Felhasználónév|
+|FelhasznÃ¡lÃ³nÃ©v|
 |User &name|
-|Felhasználó&név|
+|FelhasznÃ¡lÃ³&nÃ©v|
 |URL|
 |URL|
 |Password|
-|Jelszó|
+|JelszÃ³|
 |Notes|
-|Megjegyzés|
+|MegjegyzÃ©s|
 |Ready.|
-|Kész.|
+|KÃ©sz.|
 |Tray icon|
-|Tálca ikon|
+|TÃ¡lca ikon|
 |Enter Password:|
-|Add meg a jelszót:|
+|Add meg a jelszÃ³t:|
 |Master Password:|
-|Mesterjelszó:|
+|MesterjelszÃ³:|
 |Create New Database|
-|Új adatbázis készítése|
+|Ãšj adatbÃ¡zis kÃ©szÃ­tÃ©se|
 |Set Master Key|
-|Mester kulcs beállítása|
+|Mester kulcs beÃ¡llÃ­tÃ¡sa|
 |Specify the master key.|
-|Mesterkulcs megadása.|
+|Mesterkulcs megadÃ¡sa.|
 |Specify the new master key.|
-|Add meg az új mesterkulcsot.|
+|Add meg az Ãºj mesterkulcsot.|
 |Repeat Master Password|
-|Ismételd meg a mester jelszót|
+|IsmÃ©teld meg a mester jelszÃ³t|
 |Repeat the master password for the new database.|
-|Ismételd meg a mester jelszót az új adatbázishoz.|
+|IsmÃ©teld meg a mester jelszÃ³t az Ãºj adatbÃ¡zishoz.|
 |Consider similar dashes as identical|
-|Tekintsük a hasonló kötõjeleket azonosnak|
+|TekintsÃ¼k a hasonlÃ³ kÃ¶tÃµjeleket azonosnak|
 |Open Database|
-|Adatbázis megnyitása|
+|AdatbÃ¡zis megnyitÃ¡sa|
 |Enter Master Key|
-|Mesterkulcs megadása|
+|Mesterkulcs megadÃ¡sa|
 |Enter the master key.|
 |Add meg a mester kulcsot.|
 |(No key file selected)|
-|(Nincs kiválasztott kulcsfájl)|
+|(Nincs kivÃ¡lasztott kulcsfÃ¡jl)|
 |Key File|
-|Kulcsfájl|
+|KulcsfÃ¡jl|
 |Password Generator|
-|Jelszó generátor|
+|JelszÃ³ generÃ¡tor|
 |Here you can generate a random password.|
-|Itt generálhatsz egy véletlen jelszót.|
+|Itt generÃ¡lhatsz egy vÃ©letlen jelszÃ³t.|
 |Options|
-|Opciók|
+|OpciÃ³k|
 |Current settings|
-|Jelenlegi beállítások|
+|Jelenlegi beÃ¡llÃ­tÃ¡sok|
 |Generated password|
-|Elkészült jelszó|
+|ElkÃ©szÃ¼lt jelszÃ³|
 |&Generate|
-|&Generálás|
+|&GenerÃ¡lÃ¡s|
 |&Accept|
 |&Elfogadom|
 |Upper-case (A, B, C, ...)|
-|Nagybetûk (A, B, C, ...)|
+|NagybetÃ»k (A, B, C, ...)|
 |Lower-case (a, b, c, ...)|
-|Kisbetûk (a, b, c, ...)|
+|KisbetÃ»k (a, b, c, ...)|
 |Digits (0, 1, 2, ...)|
-|Számok (1, 2, 3, ...)|
+|SzÃ¡mok (1, 2, 3, ...)|
 |Underline (_)|
-|Aláhúzás (_)|
+|AlÃ¡hÃºzÃ¡s (_)|
 |Minus (-)|
-|Mínusz (-)|
+|MÃ­nusz (-)|
 |Space ( )|
-|Szóköz ( )|
+|SzÃ³kÃ¶z ( )|
 |Special|
-|Speciális|
+|SpeciÃ¡lis|
 |Latin-1 Supplement|
-|Latin-1 kiegészítés|
+|Latin-1 kiegÃ©szÃ­tÃ©s|
 |Brackets ([, ], {, }, (, ), <, >)|
-|Zárójelek ([, ], {, }, (, ), <, >)|
+|ZÃ¡rÃ³jelek ([, ], {, }, (, ), <, >)|
 |Group:|
 |Csoport:|
 |Title:|
-|Megnevezés:|
+|MegnevezÃ©s:|
 |User name:|
-|Felhasználónév:|
+|FelhasznÃ¡lÃ³nÃ©v:|
 |URL:|
 |URL:|
 |Icon:|
 |Ikon:|
 |Password:|
-|Jelszó:|
+|JelszÃ³:|
 |Repeat:|
-|Jelszó ismét:|
+|JelszÃ³ ismÃ©t:|
 |Notes:|
-|Megjegyzés:|
+|MegjegyzÃ©s:|
 |***|
 |***|
 |Add Entry|
-|Új bejegyzés|
+|Ãšj bejegyzÃ©s|
 |Create a new password entry.|
-|Egy új jelszó bejegyzés létrehozása.|
+|Egy Ãºj jelszÃ³ bejegyzÃ©s lÃ©trehozÃ¡sa.|
 |Edit Entry|
-|Bejegyzés szerkesztése|
+|BejegyzÃ©s szerkesztÃ©se|
 |Modify existing password entry.|
-|Létezõ jelszó bejegyzés módosítása.|
+|LÃ©tezÃµ jelszÃ³ bejegyzÃ©s mÃ³dosÃ­tÃ¡sa.|
 |Group name:|
 |Csoport neve:|
 |Add Group|
-|Új Csoport|
+|Ãšj Csoport|
 |Create a new password group.|
-|Új jelszócsoport létrehozása.|
+|Ãšj jelszÃ³csoport lÃ©trehozÃ¡sa.|
 |Edit Group|
-|Csoport szerkesztése|
+|Csoport szerkesztÃ©se|
 |Modify existing password group.|
-|Létezõ jelszócsoport módosítása.|
+|LÃ©tezÃµ jelszÃ³csoport mÃ³dosÃ­tÃ¡sa.|
 |Random mouse input|
-|Véletlenszerû egér bemenet|
+|VÃ©letlenszerÃ» egÃ©r bemenet|
 |Click to begin:|
-|Kattints a kezdéshez:|
+|Kattints a kezdÃ©shez:|
 |Use &Mouse as Random Source|
-|Az egér használata &véletlen adatforrásként|
+|Az egÃ©r hasznÃ¡lata &vÃ©letlen adatforrÃ¡skÃ©nt|
 |Move the mouse in the field above until this is full:|
-|Mozgasd fent az egeret, amíg ez megtelik:|
+|Mozgasd fent az egeret, amÃ­g ez megtelik:|
 |Hint: It is best to use both mouse and keyboard random sources.|
-|Tipp: Legjobb egyszerre használni az egeret és a billentyûzetet véletlen adatforrásként.|
+|Tipp: Legjobb egyszerre hasznÃ¡lni az egeret Ã©s a billentyÃ»zetet vÃ©letlen adatforrÃ¡skÃ©nt.|
 |Random keyboard input|
-|Véletlenszerû billentyûzet bemenet|
+|VÃ©letlenszerÃ» billentyÃ»zet bemenet|
 |Just hack some random keys into the edit box above.|
-|Egyszerûen pötyögj be néhány betût a fenti dobozba.|
+|EgyszerÃ»en pÃ¶tyÃ¶gj be nÃ©hÃ¡ny betÃ»t a fenti dobozba.|
 |You don't have to remember the keys you type in. They are used to generate a random value.|
-|Nem kell emlékezned a beütött billentyûkre. Azok csak a véletlenszerû értékek generáláshoz kellenek.|
+|Nem kell emlÃ©kezned a beÃ¼tÃ¶tt billentyÃ»kre. Azok csak a vÃ©letlenszerÃ» Ã©rtÃ©kek generÃ¡lÃ¡shoz kellenek.|
 |So, the more the better. The different, the better.|
-|Tehát, minél több és különbözõbb, annál jobb.|
+|TehÃ¡t, minÃ©l tÃ¶bb Ã©s kÃ¼lÃ¶nbÃ¶zÃµbb, annÃ¡l jobb.|
 |The random the better.|
-|Minél véletlenszerûbb, annál jobb.|
+|MinÃ©l vÃ©letlenszerÃ»bb, annÃ¡l jobb.|
 |Get Random|
-|Véletlen adat beszerzése|
+|VÃ©letlen adat beszerzÃ©se|
 |Get Random Data for Key Generation|
-|Véletlen adat beszerzése a kulcs generáláshoz|
+|VÃ©letlen adat beszerzÃ©se a kulcs generÃ¡lÃ¡shoz|
 |Move the mouse and type some random text to generate random values.|
-|Mozgasd az egeret és írj be bármilyen szöveget a véletlen értékek generálásához.|
+|Mozgasd az egeret Ã©s Ã­rj be bÃ¡rmilyen szÃ¶veget a vÃ©letlen Ã©rtÃ©kek generÃ¡lÃ¡sÃ¡hoz.|
 |Pick an Icon|
-|Válassz egy ikont|
+|VÃ¡lassz egy ikont|
 |Choose an icon from the list of available entry and group icons.|
-|Válassz ki egy ikont az elérhetõ bejegyzés és csoportikonok listájáról.|
+|VÃ¡lassz ki egy ikont az elÃ©rhetÃµ bejegyzÃ©s Ã©s csoportikonok listÃ¡jÃ¡rÃ³l.|
 |&File|
-|&Fájl|
+|&FÃ¡jl|
 |&Edit|
-|S&zerkesztés|
+|S&zerkesztÃ©s|
 |&View|
-|&Nézet|
+|&NÃ©zet|
 |&?|
 |&?|
 |&New...|
-|Ú&j...|
+|Ãš&j...|
 |&Open...|
-|Meg&nyitás...|
+|Meg&nyitÃ¡s...|
 |&Close|
-|Be&zárás|
+|Be&zÃ¡rÃ¡s|
 |&Save|
-|&Mentés|
+|&MentÃ©s|
 |Save &As...|
-|Mentés má&sként...|
+|MentÃ©s mÃ¡&skÃ©nt...|
 |Change &Master Key...|
-|Mesterkul&cs megváltoztatása...|
+|Mesterkul&cs megvÃ¡ltoztatÃ¡sa...|
 |&Print...|
-|Nyom&tatás...|
+|Nyom&tatÃ¡s...|
 |&Export|
-|&Exportálás|
+|&ExportÃ¡lÃ¡s|
 |&Lock Workspace|
-|Munkaterület &zárolása|
+|MunkaterÃ¼let &zÃ¡rolÃ¡sa|
 |&Unlock Workspace|
-|Munkaterület &feloldása|
+|MunkaterÃ¼let &feloldÃ¡sa|
 |E&xit|
-|&Kilépés|
+|&KilÃ©pÃ©s|
 |&Lock/Unlock Workspace|
-|Munkaterület &lezárása/feloldása|
+|MunkaterÃ¼let &lezÃ¡rÃ¡sa/feloldÃ¡sa|
 |&Options...|
-|&Beállítások...|
+|&BeÃ¡llÃ­tÃ¡sok...|
 |Pr&int Group...|
-|Csoport &nyomtatása...|
+|Csoport &nyomtatÃ¡sa...|
 |Open &URL(s)|
-|&URL(ek) megnyitása|
+|&URL(ek) megnyitÃ¡sa|
 |&Find in Database...|
-|&Keresés az adatbázisban...|
+|&KeresÃ©s az adatbÃ¡zisban...|
 |Find in t&his Group...|
-|Keresés &ebben a csoportban...|
+|KeresÃ©s &ebben a csoportban...|
 |&Add Entry...|
-|Bejegyzés hozzá&adása...|
+|BejegyzÃ©s hozzÃ¡&adÃ¡sa...|
 |&Edit/View Entry...|
-|Bejegyzés &szerkesztése/megtekintése...|
+|BejegyzÃ©s &szerkesztÃ©se/megtekintÃ©se...|
 |&Delete Entry|
-|Bejegyzés &törlése|
+|BejegyzÃ©s &tÃ¶rlÃ©se|
 |Dupli&cate Entry|
-|Bejegyzés &duplikálása|
+|BejegyzÃ©s &duplikÃ¡lÃ¡sa|
 |Move Entry to &Top|
-|Bejegyzés mozgatása leg&felülre|
+|BejegyzÃ©s mozgatÃ¡sa leg&felÃ¼lre|
 |Move Entry &One Up|
-|Bejegyzés mozgatása &feljebb|
+|BejegyzÃ©s mozgatÃ¡sa &feljebb|
 |Mo&ve Entry One Down|
-|Bejegyzés mozgatása &lejjebb|
+|BejegyzÃ©s mozgatÃ¡sa &lejjebb|
 |Move Entry to &Bottom|
-|Bejegyzés mozgatása leg&alulra|
+|BejegyzÃ©s mozgatÃ¡sa leg&alulra|
 |Move Group to &Top|
-|Csoport mozgatása leg&felülre|
+|Csoport mozgatÃ¡sa leg&felÃ¼lre|
 |Move Group One &Up|
-|Csoport mozgatása &feljebb|
+|Csoport mozgatÃ¡sa &feljebb|
 |Move Group &One Down|
-|Csoport mozgatása &lejjebb|
+|Csoport mozgatÃ¡sa &lejjebb|
 |Move Group to &Bottom|
-|Csoport mozgatása leg&alulra|
+|Csoport mozgatÃ¡sa leg&alulra|
 |Change &Language...|
-|&Nyelv váltása...|
+|&Nyelv vÃ¡ltÃ¡sa...|
 |&Always on Top|
-|&Mindig legfelül|
+|&Mindig legfelÃ¼l|
 |Hide &Passwords Behind Asterisks (***)|
-|Jelszavak rejtése cs&illagok (***) mögé|
+|Jelszavak rejtÃ©se cs&illagok (***) mÃ¶gÃ©|
 |Hide passwords behind asterisks (***).|
-|Jelszavak elrejtése csillagok (***) mögé.|
+|Jelszavak elrejtÃ©se csillagok (***) mÃ¶gÃ©.|
 |Password &Generator...|
-|Jelszó &Generáló...|
+|JelszÃ³ &GenerÃ¡lÃ³...|
 |KeePass &Website|
 |KeePass &Weblapja|
 |KeePass Website|
 |KeePass Weblapja|
 |&About KeePass...|
-|KeePass né&vjegye...|
+|KeePass nÃ©&vjegye...|
 |&Database Settings...|
-|Adatbá&zis beállítások...|
+|AdatbÃ¡&zis beÃ¡llÃ­tÃ¡sok...|
 |&Tray/Untray|
-|&Tálca/Nem tálca|
+|&TÃ¡lca/Nem tÃ¡lca|
 |Password and repeated password aren't identical!|
-|A jelszó és a megismételt jelszó nem azonos!|
+|A jelszÃ³ Ã©s a megismÃ©telt jelszÃ³ nem azonos!|
 |Stop|
-|Állj|
+|Ãllj|
 |Enter a group name!|
 |Adj meg egy csoport nevet!|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
-|Elõször véletlen értékeket kell generálnod az egér vagy a billentyûzet mezõ segítségével, mielõtt ezt az ablakot bezárhatod.|
+|ElÃµszÃ¶r vÃ©letlen Ã©rtÃ©keket kell generÃ¡lnod az egÃ©r vagy a billentyÃ»zet mezÃµ segÃ­tsÃ©gÃ©vel, mielÃµtt ezt az ablakot bezÃ¡rhatod.|
 |No random input|
-|Nincs véletlen bemenet|
+|Nincs vÃ©letlen bemenet|
 |EITHER enter a master password OR select a key file.|
-|VAGY adj meg egy mesterjelszót, VAGY válassz egy kulcsfájlt.|
+|VAGY adj meg egy mesterjelszÃ³t, VAGY vÃ¡lassz egy kulcsfÃ¡jlt.|
 |The password must consist of at least one character!|
-|A jelszónak legalább egy karaktert kell tartalmaznia!|
+|A jelszÃ³nak legalÃ¡bb egy karaktert kell tartalmaznia!|
 |Select at least one of the options in the list above!|
-|Válassz ki legalább egyet a fenti lista opciói közül!|
+|VÃ¡lassz ki legalÃ¡bb egyet a fenti lista opciÃ³i kÃ¶zÃ¼l!|
 |The following self-tests failed:|
-|A következõ öntesztek sikertelenek:|
+|A kÃ¶vetkezÃµ Ã¶ntesztek sikertelenek:|
 |- SHA 32-bit variables|
-|- SHA 32-bites változók|
+|- SHA 32-bites vÃ¡ltozÃ³k|
 |- SHA 64-bit variables|
-|- SHA 64-bites változók|
+|- SHA 64-bites vÃ¡ltozÃ³k|
 |- SHA-256 test vector(s)|
 |- SHA-256 teszt vektor(ok)|
 |- SHA-512 test vector(s)|
 |- SHA-512 teszt vektor(ok)|
 |- Rijndael encryption|
-|- Rijndael titkosítás|
+|- Rijndael titkosÃ­tÃ¡s|
 |- Rijndael decryption|
-|- Rijndael visszafejtés|
+|- Rijndael visszafejtÃ©s|
 |- Arcfour crypto routine|
-|- Arcfour titkosító rutin|
+|- Arcfour titkosÃ­tÃ³ rutin|
 |- Twofish algorithm|
 |- Twofish algoritmus|
 |The program will exit now.|
-|A program most kilép.|
+|A program most kilÃ©p.|
 |Self-Test(s) Failed|
-|Az önteszt(ek) sikertelen(ek) volt(ak).|
+|Az Ã¶nteszt(ek) sikertelen(ek) volt(ak).|
 |Clipboard cleared.|
-|Vágólap törölve.|
+|VÃ¡gÃ³lap tÃ¶rÃ¶lve.|
 |Field copied to clipboard. Clipboard will be cleared in %d seconds.|
-|Mezõ kimásolva a vágólapra. A vágólap %d másodperc múlva törlõdik.|
+|MezÃµ kimÃ¡solva a vÃ¡gÃ³lapra. A vÃ¡gÃ³lap %d mÃ¡sodperc mÃºlva tÃ¶rlÃµdik.|
 |Failed to set the master key!|
-|A mester kulcsot nem sikerült beállítani!|
+|A mester kulcsot nem sikerÃ¼lt beÃ¡llÃ­tani!|
 |File cannot be opened!|
-|A fájl nem nyitható meg!|
+|A fÃ¡jl nem nyithatÃ³ meg!|
 |File cannot be saved!|
-|A fájl nem menthetõ!|
+|A fÃ¡jl nem menthetÃµ!|
 |KeePass KDB Files|
-|KeePass KDB fájlok|
+|KeePass KDB fÃ¡jlok|
 |All Files|
-|Minden fájl|
+|Minden fÃ¡jl|
 |The current database file has been modified|
-|A jelenlegi adatbázisfájl módosult|
+|A jelenlegi adatbÃ¡zisfÃ¡jl mÃ³dosult|
 |Do you want to save the changes before closing?|
-|Kilépés elõtt szeretnéd menteni a változtatásokat?|
+|KilÃ©pÃ©s elÃµtt szeretnÃ©d menteni a vÃ¡ltoztatÃ¡sokat?|
 |KeePass - Save Before Close/Lock?|
-|KeePass - Mentés bezárás/lezárás elõtt?|
+|KeePass - MentÃ©s bezÃ¡rÃ¡s/lezÃ¡rÃ¡s elÃµtt?|
 |Deleting a group will delete all items and subgroups in that group, too.|
-|Egy csoport törlésekor törlõdik az összes elem és alcsoport(ok) is.|
+|Egy csoport tÃ¶rlÃ©sekor tÃ¶rlÃµdik az Ã¶sszes elem Ã©s alcsoport(ok) is.|
 |Are you sure you want to delete this group?|
-|Biztosan törölni szeretnéd ezt a csoportot?|
+|Biztosan tÃ¶rÃ¶lni szeretnÃ©d ezt a csoportot?|
 |Delete Group Confirmation|
-|Csoport törlésének megerõsítése|
+|Csoport tÃ¶rlÃ©sÃ©nek megerÃµsÃ­tÃ©se|
 |Cannot open temporary file for printing!|
-|Az ideiglenes fájlt nem lehet megnyitni  nyomtatáshoz!|
+|Az ideiglenes fÃ¡jlt nem lehet megnyitni  nyomtatÃ¡shoz!|
 |&Help|
-|&Súgó|
+|&SÃºgÃ³|
 |&Help Contents|
-|&Súgó tartalom|
+|&SÃºgÃ³ tartalom|
 |Open &Help File|
-|&Súgófájl megnyitása|
+|&SÃºgÃ³fÃ¡jl megnyitÃ¡sa|
 |Open &License File|
-|&Liszensz megnyitása|
+|&Liszensz megnyitÃ¡sa|
 |Newline sequence:|
-|Újsor karakter:|
+|Ãšjsor karakter:|
 |Windows newline sequence (\r\n)|
-|Windows újsor karakter (\r\n)|
+|Windows Ãºjsor karakter (\r\n)|
 |Unix newline sequence (\n)|
-|Unix újsor karakter (\n)|
+|Unix Ãºjsor karakter (\n)|
 |Clipboard auto-clear time (seconds):|
-|Vágólap automatikus törlésének ideje (másodperc):|
+|VÃ¡gÃ³lap automatikus tÃ¶rlÃ©sÃ©nek ideje (mÃ¡sodperc):|
 |Settings|
-|Beállítások|
+|BeÃ¡llÃ­tÃ¡sok|
 |Here you can configure KeePass.|
-|Itt lehetõséged van a KeePass testre szabására.|
+|Itt lehetÃµsÃ©ged van a KeePass testre szabÃ¡sÃ¡ra.|
 |Automatically open last used database on startup|
-|Induláskor az utoljára használt adatbázis megnyitása|
+|IndulÃ¡skor az utoljÃ¡ra hasznÃ¡lt adatbÃ¡zis megnyitÃ¡sa|
 |Display images on buttons|
-|Ikonok használata a gombokon|
+|Ikonok hasznÃ¡lata a gombokon|
 |Show grid lines in the entry list|
-|Rácsvonalak megjelenítése a listában|
+|RÃ¡csvonalak megjelenÃ­tÃ©se a listÃ¡ban|
 |Workspace locked|
-|A munkafelület lezárva|
+|A munkafelÃ¼let lezÃ¡rva|
 |Loading error|
-|Betöltési hiba|
+|BetÃ¶ltÃ©si hiba|
 |Language file cannot be opened!|
-|A nyelvi fájl nem nyitható meg!|
+|A nyelvi fÃ¡jl nem nyithatÃ³ meg!|
 |Do you wish to restart KeePass now?|
-|Most szeretnéd újraindítani a KeePass-t?|
+|Most szeretnÃ©d ÃºjraindÃ­tani a KeePass-t?|
 |Restart KeePass?|
-|KeePass újraindítása?|
+|KeePass ÃºjraindÃ­tÃ¡sa?|
 |Application cannot be restarted automatically!|
-|Az alkalmazást nem lehet automatikusan újraindítani!|
+|Az alkalmazÃ¡st nem lehet automatikusan ÃºjraindÃ­tani!|
 |Please restart KeePass manually.|
-|Kérlek, indítsd újra a KeePass-t kézzel.|
+|KÃ©rlek, indÃ­tsd Ãºjra a KeePass-t kÃ©zzel.|
 |CSV Files|
-|CSV fájlok|
+|CSV fÃ¡jlok|
 |Text Files|
-|Szövegfájlok|
+|SzÃ¶vegfÃ¡jlok|
 |An error occurred while importing the file. File cannot be imported.|
-|Hiba történt a fájl importálásakor. A fájl nem importálható.|
+|Hiba tÃ¶rtÃ©nt a fÃ¡jl importÃ¡lÃ¡sakor. A fÃ¡jl nem importÃ¡lhatÃ³.|
 |&CSV File...|
-|&CSV fájl...|
+|&CSV fÃ¡jl...|
 |&PwSafe v2 TXT File...|
-|&PwSafe v2 TXT fájl...|
+|&PwSafe v2 TXT fÃ¡jl...|
 |Select &Font|
-|&Betûtípus választás|
+|&BetÃ»tÃ­pus vÃ¡lasztÃ¡s|
 |Select a new font for the list controls:|
-|Új betûtípus kiválasztása a lista vezérlõinek:|
+|Ãšj betÃ»tÃ­pus kivÃ¡lasztÃ¡sa a lista vezÃ©rlÃµinek:|
 |Code&Wallet TXT File...|
-|Code&Wallet TXT fájl...|
+|Code&Wallet TXT fÃ¡jl...|
 |&TXT File...|
-|&TXT fájl...|
+|&TXT fÃ¡jl...|
 |&HTML File...|
-|&HTML fájl...|
+|&HTML fÃ¡jl...|
 |&XML File...|
-|&XML fájl...|
+|&XML fÃ¡jl...|
 |&CSV File...|
-|&CSV fájl...|
+|&CSV fÃ¡jl...|
 |&Import|
-|&Importálás|
+|&ImportÃ¡lÃ¡s|
 |Start and exit|
-|Indítás és Kilépés|
+|IndÃ­tÃ¡s Ã©s KilÃ©pÃ©s|
 |Interface (GUI)|
-|Felület (GUI)|
+|FelÃ¼let (GUI)|
 |Files|
-|Fájlok|
+|FÃ¡jlok|
 |Memory|
-|Memória|
+|MemÃ³ria|
 |Lock workspace when minimizing the main window|
-|A munkafelület lezárása a fõablak kicsinyítésekor|
+|A munkafelÃ¼let lezÃ¡rÃ¡sa a fÃµablak kicsinyÃ­tÃ©sekor|
 |Minimize to tray instead of taskbar|
-|Kicsinyítéskor a tálcára kerüljön|
+|KicsinyÃ­tÃ©skor a tÃ¡lcÃ¡ra kerÃ¼ljÃ¶n|
 |Encryption algorithm to use (for this database):|
-|A használt titkosítási algoritmus (ennél az adatbázisnál):|
+|A hasznÃ¡lt titkosÃ­tÃ¡si algoritmus (ennÃ©l az adatbÃ¡zisnÃ¡l):|
 |Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
 |Advanced Encryption Standard (AES) (128-bites blokk rejtjel 256-bites kulccsal)|
 |Twofish (128-bit block cipher using 256-bit key)|
 |Twofish (128-bites blokk rejtjel 256-bites kulccsal)|
 |Security|
-|Biztonság|
+|BiztonsÃ¡g|
 |KeePass is OSI Certified Open Source Software.|
-|A KeePass OSI által hitelesített Nyílt Forrású program.|
+|A KeePass OSI Ã¡ltal hitelesÃ­tett NyÃ­lt ForrÃ¡sÃº program.|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
-|Tételek automatikus rendezése engedélyezett; manuálisan nem rendezhetõk.|
+|TÃ©telek automatikus rendezÃ©se engedÃ©lyezett; manuÃ¡lisan nem rendezhetÃµk.|
 |Select key file manually...|
-|Kulcs-fájl kézi kiválasztása...|
+|Kulcs-fÃ¡jl kÃ©zi kivÃ¡lasztÃ¡sa...|
 |Save key file manually to...|
-|A kulcs-fájl kézi mentése mint...|
+|A kulcs-fÃ¡jl kÃ©zi mentÃ©se mint...|
 |Enter the new composite master key.|
-|Add meg az adatbázis új összetett mester kulcsát.|
+|Add meg az adatbÃ¡zis Ãºj Ã¶sszetett mester kulcsÃ¡t.|
 |Repeat the new master password for this database.|
-|Mester kulcs megismétlése.|
+|Mester kulcs megismÃ©tlÃ©se.|
 |Change Master Key|
-|Mesterkulcs módosítása|
+|Mesterkulcs mÃ³dosÃ­tÃ¡sa|
 |Plugin|
-|Bõvítmény|
+|BÃµvÃ­tmÃ©ny|
 |Plugins|
-|Bõvítmények|
+|BÃµvÃ­tmÃ©nyek|
 |&Plugins...|
-|&Bõvítmények...|
+|&BÃµvÃ­tmÃ©nyek...|
 |Here you can configure all installed KeePass plugins.|
-|Itt beállíthatod az összes KeePass bõvítményt.|
+|Itt beÃ¡llÃ­thatod az Ã¶sszes KeePass bÃµvÃ­tmÃ©nyt.|
 |Enabled, loaded|
-|Engedélyezve, betöltve|
+|EngedÃ©lyezve, betÃ¶ltve|
 |&Enable|
-|&Engedélyez|
+|&EngedÃ©lyez|
 |&Disable|
 |&Letilt|
 |About &Plugin...|
-|&Bõvítményrõl...|
+|&BÃµvÃ­tmÃ©nyrÃµl...|
 |An error occurred|
-|Hiba történt|
+|Hiba tÃ¶rtÃ©nt|
 |Error code|
-|Hibakód|
+|HibakÃ³d|
 |Unknown error|
 |Ismeretlen hiba|
 |Success|
 |Sikeres|
 |Invalid parameter|
-|Érvénytelen paraméter|
+|Ã‰rvÃ©nytelen paramÃ©ter|
 |Invalid/wrong key|
-|Érvénytelen/rossz kulcs|
+|Ã‰rvÃ©nytelen/rossz kulcs|
 |File access error: failed to open file in read mode|
-|Fájl hozzáférési hiba: nem lehet a fájlt megnyitni olvasható módban|
+|FÃ¡jl hozzÃ¡fÃ©rÃ©si hiba: nem lehet a fÃ¡jlt megnyitni olvashatÃ³ mÃ³dban|
 |File access error: failed to open file in write mode|
-|Fájl hozzáférési hiba: nem lehet a fájlt megnyitni írható módban|
+|FÃ¡jl hozzÃ¡fÃ©rÃ©si hiba: nem lehet a fÃ¡jlt megnyitni Ã­rhatÃ³ mÃ³dban|
 |File error: error while reading from the file|
-|Fájl hiba: hiba történt a fájl olvasása közben|
+|FÃ¡jl hiba: hiba tÃ¶rtÃ©nt a fÃ¡jl olvasÃ¡sa kÃ¶zben|
 |File error: error while writing to the file|
-|Fájl hiba: hiba történt a fájl írása közben|
+|FÃ¡jl hiba: hiba tÃ¶rtÃ©nt a fÃ¡jl Ã­rÃ¡sa kÃ¶zben|
 |Internal error|
-|Belsõ hiba|
+|BelsÃµ hiba|
 |Invalid random source|
-|Érvénytelen véletlen forrás|
+|Ã‰rvÃ©nytelen vÃ©letlen forrÃ¡s|
 |Invalid/corrupted file structure|
-|Érvénytelen/sérült fájlszerkezet|
+|Ã‰rvÃ©nytelen/sÃ©rÃ¼lt fÃ¡jlszerkezet|
 |Encryption/decryption error|
-|Titkosítási/Dekódolási hiba|
+|TitkosÃ­tÃ¡si/DekÃ³dolÃ¡si hiba|
 |Global auto-type hot key combination:|
-|Globális auto-gépelési billentyûparancs:|
+|GlobÃ¡lis auto-gÃ©pelÃ©si billentyÃ»parancs:|
 |Cannot register the global hot key.|
-|A globális billentyûparancs nem regisztrálható.|
+|A globÃ¡lis billentyÃ»parancs nem regisztrÃ¡lhatÃ³.|
 |Most probably another application has reserved this hot key already.|
-|Valószínûleg más alkalmazás már regisztrálta ezt a billentyûparancsot.|
+|ValÃ³szÃ­nÃ»leg mÃ¡s alkalmazÃ¡s mÃ¡r regisztrÃ¡lta ezt a billentyÃ»parancsot.|
 |You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
-|Választhatsz másik billentyûparancsot az 'Eszközök' 'Beállítások' - 'Haladó' - 'Auto-gépelés' menüben.|
+|VÃ¡laszthatsz mÃ¡sik billentyÃ»parancsot az 'EszkÃ¶zÃ¶k' 'BeÃ¡llÃ­tÃ¡sok' - 'HaladÃ³' - 'Auto-gÃ©pelÃ©s' menÃ¼ben.|
 |&Use master password and key file|
-|Mesterjelszó &és kulcsfájl használata|
+|MesterjelszÃ³ &Ã©s kulcsfÃ¡jl hasznÃ¡lata|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
-|Az ÉS módot választottad, így meg kell adnod a jelszót ÉS ki kell választanod a kulcsfájlt is.|
+|Az Ã‰S mÃ³dot vÃ¡lasztottad, Ã­gy meg kell adnod a jelszÃ³t Ã‰S ki kell vÃ¡lasztanod a kulcsfÃ¡jlt is.|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
-|Idõzített: az adatot vágólapra másolja, majd automatikusan törli onnan néhány másodperc elteltével.|
+|IdÃµzÃ­tett: az adatot vÃ¡gÃ³lapra mÃ¡solja, majd automatikusan tÃ¶rli onnan nÃ©hÃ¡ny mÃ¡sodperc elteltÃ©vel.|
 |Enhanced: allow pasting only once and protect against clipboard spies|
-|Élesített: a beillesztést csak egyszer engedélyezi, így megvéd a vágólap-kémek ellen|
+|Ã‰lesÃ­tett: a beillesztÃ©st csak egyszer engedÃ©lyezi, Ã­gy megvÃ©d a vÃ¡gÃ³lap-kÃ©mek ellen|
 |Clipboard behavior:|
-|Vágólap viselkedés:|
+|VÃ¡gÃ³lap viselkedÃ©s:|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
-|Figyelem! Lehetséges, hogy ez az opció nem fog megfelelõen mûködni a te rendszereden, különösen ha egyéb vágólap-javító vagy hasonló eszközt használsz.|
+|Figyelem! LehetsÃ©ges, hogy ez az opciÃ³ nem fog megfelelÃµen mÃ»kÃ¶dni a te rendszereden, kÃ¼lÃ¶nÃ¶sen ha egyÃ©b vÃ¡gÃ³lap-javÃ­tÃ³ vagy hasonlÃ³ eszkÃ¶zt hasznÃ¡lsz.|
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
-|Ha problémád adódik az élesített móddal, válts át idõzitett módra.|
+|Ha problÃ©mÃ¡d adÃ³dik az Ã©lesÃ­tett mÃ³ddal, vÃ¡lts Ã¡t idÃµzitett mÃ³dra.|
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
-|Nem sikerült létrehozni a .kdb társítást. Gyõzõdj meg róla, hogy van-e jogod a registry írásához és a társítások létrehozásához.|
+|Nem sikerÃ¼lt lÃ©trehozni a .kdb tÃ¡rsÃ­tÃ¡st. GyÃµzÃµdj meg rÃ³la, hogy van-e jogod a registry Ã­rÃ¡sÃ¡hoz Ã©s a tÃ¡rsÃ­tÃ¡sok lÃ©trehozÃ¡sÃ¡hoz.|
 |Number the TANs consecutively, starting from this value|
-|A TAN-ok számozása értelemszerûen, ettõl az értéktõl kezdve|
+|A TAN-ok szÃ¡mozÃ¡sa Ã©rtelemszerÃ»en, ettÃµl az Ã©rtÃ©ktÃµl kezdve|
 |Never expires|
-|Soha nem jár le|
+|Soha nem jÃ¡r le|
 |Auto-Type|
-|Auto-gépelés|
+|Auto-gÃ©pelÃ©s|
 |Help:|
-|Súgó:|
+|SÃºgÃ³:|
 |Advanced|
-|Haladó|
+|HaladÃ³|
 |Start minimized and locked|
-|Indítás a tálcára kicsinyítve és lezárva|
+|IndÃ­tÃ¡s a tÃ¡lcÃ¡ra kicsinyÃ­tve Ã©s lezÃ¡rva|
 |Immediately after opening a database|
-|Rögtön az adatbázis megnyitás után|
+|RÃ¶gtÃ¶n az adatbÃ¡zis megnyitÃ¡s utÃ¡n|
 |Show expired entries (if any)|
-|Mutassa a lejárt elemeket (ha van ilyen)|
+|Mutassa a lejÃ¡rt elemeket (ha van ilyen)|
 |Show entries that will expire soon (if any)|
-|Mutassa azokat az elemeket, amelyek hamarosan lejárnak (ha van ilyen)|
+|Mutassa azokat az elemeket, amelyek hamarosan lejÃ¡rnak (ha van ilyen)|
 |Integration|
-|Integrálás|
+|IntegrÃ¡lÃ¡s|
 |Start KeePass at Windows startup (for current user)|
-|A KeePass indítása a Windows indításakor (a jelenlegi felhasználónak)|
+|A KeePass indÃ­tÃ¡sa a Windows indÃ­tÃ¡sakor (a jelenlegi felhasznÃ¡lÃ³nak)|
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!|
-|Nem sikerült létrehozni/eltávolítani a KeePass auto-indítás bejegyzését a Windows registryben!|
+|Nem sikerÃ¼lt lÃ©trehozni/eltÃ¡volÃ­tani a KeePass auto-indÃ­tÃ¡s bejegyzÃ©sÃ©t a Windows registryben!|
 |Backup|
-|Biztonsági mentés|
+|BiztonsÃ¡gi mentÃ©s|
 |Save backups of modified entries into the 'Backup' group|
-|Biztonsági mentések és változtatások mentése a 'Biztonsági mentés' csoportba|
+|BiztonsÃ¡gi mentÃ©sek Ã©s vÃ¡ltoztatÃ¡sok mentÃ©se a 'BiztonsÃ¡gi mentÃ©s' csoportba|
 |Failed to create backup of this entry!|
-|Nem sikerült a bejegyzés biztonsági mentése!|
+|Nem sikerÃ¼lt a bejegyzÃ©s biztonsÃ¡gi mentÃ©se!|
 |The master key has been changed!|
-|A mesterkulcs megváltozott!|
+|A mesterkulcs megvÃ¡ltozott!|
 |Save the database now in order to get the new key applied.|
-|Mentsd el az adatbázist, hogy az új kulcs kerüljön alkalmazásra.|
+|Mentsd el az adatbÃ¡zist, hogy az Ãºj kulcs kerÃ¼ljÃ¶n alkalmazÃ¡sra.|
 |Fields to export|
-|Exportálandó mezõk|
+|ExportÃ¡landÃ³ mezÃµk|
 |Fields to print|
-|Nyomtatandó mezõk|
+|NyomtatandÃ³ mezÃµk|
 |Icon|
 |Ikon|
 |Group Tree|
 |Csoport fa|
 |Export Options|
-|Exportálási opciók|
+|ExportÃ¡lÃ¡si opciÃ³k|
 |Print Options|
-|Nyomtatási opciók|
+|NyomtatÃ¡si opciÃ³k|
 |Here you can customize the exported files.|
-|Itt testre szabhatod az exportálandó fájlokat.|
+|Itt testre szabhatod az exportÃ¡landÃ³ fÃ¡jlokat.|
 |Here you can customize the printed sheet.|
-|Itt testre szabhatod a nyomtatandó fájlokat.|
+|Itt testre szabhatod a nyomtatandÃ³ fÃ¡jlokat.|
 |Encode/replace newline characters by '\n'|
-|Újsor-karakterek kódolása/cseréje '\n' karakterekre|
+|Ãšjsor-karakterek kÃ³dolÃ¡sa/cserÃ©je '\n' karakterekre|
 |Export backup entries (entries in the 'Backup' group)|
-|Biztonsági mentések exportálása (a 'Biztonsági mentés' csoportból)|
+|BiztonsÃ¡gi mentÃ©sek exportÃ¡lÃ¡sa (a 'BiztonsÃ¡gi mentÃ©s' csoportbÃ³l)|
 |Print backup entries (entries in the 'Backup' group)|
-|Biztonsági mentések nyomtatása (a 'Biztonsági mentés' csoportból)|
+|BiztonsÃ¡gi mentÃ©sek nyomtatÃ¡sa (a 'BiztonsÃ¡gi mentÃ©s' csoportbÃ³l)|
 |&Get More Import Plugins...|
-|&Még több importáló bõvítmény...|
+|&MÃ©g tÃ¶bb importÃ¡lÃ³ bÃµvÃ­tmÃ©ny...|
 |Field has been pasted.|
-|A mezõ be lett illesztve.|
+|A mezÃµ be lett illesztve.|
 |Waiting for paste command.|
-|Várakozás a beillesztés parancsra.|
+|VÃ¡rakozÃ¡s a beillesztÃ©s parancsra.|
 |Paste operation completed.|
-|A beillesztési mûvelet befejezõdött.|
+|A beillesztÃ©si mÃ»velet befejezÃµdÃ¶tt.|
 |Limit to single instance|
-|Korlátozás egyetlen példányra|
+|KorlÃ¡tozÃ¡s egyetlen pÃ©ldÃ¡nyra|
 |Use more secure password edit controls|
-|Még biztonságosabb jelszó szerkesztõ elemek használata|
+|MÃ©g biztonsÃ¡gosabb jelszÃ³ szerkesztÃµ elemek hasznÃ¡lata|
 |Single left click instead of double-click for default tray icon action|
-|Egy klikk használata a dupla klikk helyett tálcaikon esetén|
+|Egy klikk hasznÃ¡lata a dupla klikk helyett tÃ¡lcaikon esetÃ©n|
 |Exclude entries in the '&Backup' group|
-|A '&Biztonsági mentés' csoport bejegyzéseinek kihagyása|
+|A '&BiztonsÃ¡gi mentÃ©s' csoport bejegyzÃ©seinek kihagyÃ¡sa|
 |Exclude &expired entries|
-|Lejár&t bejegyzések kihagyása|
+|LejÃ¡r&t bejegyzÃ©sek kihagyÃ¡sa|
 |By default, new entries expire in the following number of days:|
-|Alapértelmezésként az új bejegyzések a következõ idõszak elteltével járnak le:|
+|AlapÃ©rtelmezÃ©skÃ©nt az Ãºj bejegyzÃ©sek a kÃ¶vetkezÃµ idÃµszak elteltÃ©vel jÃ¡rnak le:|
 |Click to expire the entry in %u days|
-|Kattints ide és a bejegyzés %u nap múlva lejár|
+|Kattints ide Ã©s a bejegyzÃ©s %u nap mÃºlva lejÃ¡r|
 |Calculate rounds for a 1-second delay on this computer|
-|Fordulók kiszámolása 1-másodperces késés esetén ezen a gépen|
+|FordulÃ³k kiszÃ¡molÃ¡sa 1-mÃ¡sodperces kÃ©sÃ©s esetÃ©n ezen a gÃ©pen|
 |The program is distributed under the terms of the GNU General Public License v2 or later.|
-|A program a GNU General Public License v2 vagy késõbbi verziójának feltételei mellett került kiadásra.|
+|A program a GNU General Public License v2 vagy kÃ©sÃµbbi verziÃ³jÃ¡nak feltÃ©telei mellett kerÃ¼lt kiadÃ¡sra.|
 |1 Week|
-|1 hét|
+|1 hÃ©t|
 |2 Weeks|
-|2 hét|
+|2 hÃ©t|
 |1 Month|
-|1 hónap|
+|1 hÃ³nap|
 |3 Months|
-|3 hónap|
+|3 hÃ³nap|
 |6 Months|
-|6 hónap|
+|6 hÃ³nap|
 |1 Year|
-|1 év|
+|1 Ã©v|
 |&Donate...|
-|&Támogatás...|
+|&TÃ¡mogatÃ¡s...|
 |Use alternative auto-type method (minimize window)|
-|Alternatív auto-gépelési módszer használata (az ablak kicsinyítésével)|
+|AlternatÃ­v auto-gÃ©pelÃ©si mÃ³dszer hasznÃ¡lata (az ablak kicsinyÃ­tÃ©sÃ©vel)|
 |Delete all backup entries before saving the database|
-|Minden biztonsági másolat törlése az adatbázis mentése elõtt|
+|Minden biztonsÃ¡gi mÃ¡solat tÃ¶rlÃ©se az adatbÃ¡zis mentÃ©se elÃµtt|
 |&Repair Database File...|
-|Adatbázis fájl &javítása...|
+|AdatbÃ¡zis fÃ¡jl &javÃ­tÃ¡sa...|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
-|Az általad importáláshoz választott fájl formátuma támogatja a csoportok és/vagy bejegyzések ID-jét (azonosítóját). Kérlek válaszd ki az importálás típusát.|
+|Az Ã¡ltalad importÃ¡lÃ¡shoz vÃ¡lasztott fÃ¡jl formÃ¡tuma tÃ¡mogatja a csoportok Ã©s/vagy bejegyzÃ©sek ID-jÃ©t (azonosÃ­tÃ³jÃ¡t). KÃ©rlek vÃ¡laszd ki az importÃ¡lÃ¡s tÃ­pusÃ¡t.|
 |Create new IDs|
-|Új ID-k létrehozása|
+|Ãšj ID-k lÃ©trehozÃ¡sa|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
-|Ha ezt az opciót választod, a KeePass minden csoportnak és bejegyzésnek új ID-t (azonosítót) generál. Ez természetesen nem jelenti azt, hogy a jelenleg megnyitott adatbázis bármilyen eleme megváltozna, vagy felülírásra kerülne.|
+|Ha ezt az opciÃ³t vÃ¡lasztod, a KeePass minden csoportnak Ã©s bejegyzÃ©snek Ãºj ID-t (azonosÃ­tÃ³t) generÃ¡l. Ez termÃ©szetesen nem jelenti azt, hogy a jelenleg megnyitott adatbÃ¡zis bÃ¡rmilyen eleme megvÃ¡ltozna, vagy felÃ¼lÃ­rÃ¡sra kerÃ¼lne.|
 |Overwrite|
-|Felülírás|
+|FelÃ¼lÃ­rÃ¡s|
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
-|A KeePass minden jelenlegi csoportot és bejegyzést le fog cserélni az importálandó fájlban találhatóakkal, amennyiben ugyanaz az ID-jük (azonosítójuk).|
+|A KeePass minden jelenlegi csoportot Ã©s bejegyzÃ©st le fog cserÃ©lni az importÃ¡landÃ³ fÃ¡jlban talÃ¡lhatÃ³akkal, amennyiben ugyanaz az ID-jÃ¼k (azonosÃ­tÃ³juk).|
 |Overwrite if newer|
-|Felülírás, ha újabb|
+|FelÃ¼lÃ­rÃ¡s, ha Ãºjabb|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
-|A KeePass megvizsgálja a csoportok/bejegyzések utolsó-módosítási idejét, és csak abban az cseréli le azokat, amennyiben az importálandó megfelelõjük újabb.|
+|A KeePass megvizsgÃ¡lja a csoportok/bejegyzÃ©sek utolsÃ³-mÃ³dosÃ­tÃ¡si idejÃ©t, Ã©s csak abban az cserÃ©li le azokat, amennyiben az importÃ¡landÃ³ megfelelÃµjÃ¼k Ãºjabb.|
 |&KeePass Database...|
-|&KeePass adatbázis...|
+|&KeePass adatbÃ¡zis...|
 |Acknowledgements|
-|Köszönetnyilvánítás|
+|KÃ¶szÃ¶netnyilvÃ¡nÃ­tÃ¡s|
 |Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
-|Válaszd ki, hogy a KeePass a jelenleg megnyitott adatbázis kulcsát használja, vagy kérjen tõled egy új kulcsot az exportálandó fájl titkosításához.|
+|VÃ¡laszd ki, hogy a KeePass a jelenleg megnyitott adatbÃ¡zis kulcsÃ¡t hasznÃ¡lja, vagy kÃ©rjen tÃµled egy Ãºj kulcsot az exportÃ¡landÃ³ fÃ¡jl titkosÃ­tÃ¡sÃ¡hoz.|
 |Click [Yes] to use the same key as the currently opened database.|
-|A jelenleg megnyitott adatbázis kulcsának használatához klikk az [Igen]-re.|
+|A jelenleg megnyitott adatbÃ¡zis kulcsÃ¡nak hasznÃ¡latÃ¡hoz klikk az [Igen]-re.|
 |Click [No] to set a new key for the exported file.|
-|Új kulcs létrehozásához az exportált fájlhoz klikk a [Nem]-re.|
+|Ãšj kulcs lÃ©trehozÃ¡sÃ¡hoz az exportÃ¡lt fÃ¡jlhoz klikk a [Nem]-re.|
 |Reuse the current key/password?|
-|Használja újra a jelenlegi kulcsot/jelszót?|
+|HasznÃ¡lja Ãºjra a jelenlegi kulcsot/jelszÃ³t?|
 |Show full path in the title bar (instead of file name only)|
-|Teljes útvonal megjelenítése a címsorban (kizárólag a fájlnév helyett)|
+|Teljes Ãºtvonal megjelenÃ­tÃ©se a cÃ­msorban (kizÃ¡rÃ³lag a fÃ¡jlnÃ©v helyett)|
 |Enable auto-type features|
-|Auto-gépelés engedélyezése|
+|Auto-gÃ©pelÃ©s engedÃ©lyezÃ©se|
 |Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
-|URL másolása vágólapra annak megnyitása helyett (kivéve: cmd:// típusú URL-ek)|
+|URL mÃ¡solÃ¡sa vÃ¡gÃ³lapra annak megnyitÃ¡sa helyett (kivÃ©ve: cmd:// tÃ­pusÃº URL-ek)|
 |Copy &URL to Clipboard|
-|&URL másolása a Vágólapra|
+|&URL mÃ¡solÃ¡sa a VÃ¡gÃ³lapra|
 |Exit program instead of locking the workspace after the specified time|
-|A munkaterület zárolása helyett a program kilép a megadott idõ letelte után|
+|A munkaterÃ¼let zÃ¡rolÃ¡sa helyett a program kilÃ©p a megadott idÃµ letelte utÃ¡n|
 |Click on an entry to auto-type it.|
-|Kattints a bejegyzésre az auto-gépeléshez.|
+|Kattints a bejegyzÃ©sre az auto-gÃ©pelÃ©shez.|
 |Auto-Type Entry Selection|
-|Auto-gépelés bejegyzés kiválasztása|
+|Auto-gÃ©pelÃ©s bejegyzÃ©s kivÃ¡lasztÃ¡sa|
 |Multiple entries exist for the current window. Please select the entry to auto-type.|
-|A jelenlegi ablakhoz több bejegyzés tartozik. Kérlek válaszd ki az auto-gépeléhez a megfelelõt.|
+|A jelenlegi ablakhoz tÃ¶bb bejegyzÃ©s tartozik. KÃ©rlek vÃ¡laszd ki az auto-gÃ©pelÃ©hez a megfelelÃµt.|
 |The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
-|Az általad használt fájl megnyitásra zárolva van, azaz valaki már megnyitotta és használja.|
+|Az Ã¡ltalad hasznÃ¡lt fÃ¡jl megnyitÃ¡sra zÃ¡rolva van, azaz valaki mÃ¡r megnyitotta Ã©s hasznÃ¡lja.|
 |Open the file in read-only mode?|
-|Fájl megnyitása csak olvasásra?|
+|FÃ¡jl megnyitÃ¡sa csak olvasÃ¡sra?|
 |Click [Yes] to open the file in read-only mode.|
-|Kattints az [Igen] gombra a fájl csak olvasás módban történõ megnyitásához.|
+|Kattints az [Igen] gombra a fÃ¡jl csak olvasÃ¡s mÃ³dban tÃ¶rtÃ©nÃµ megnyitÃ¡sÃ¡hoz.|
 |Click [No] to open the file in normal writing mode.|
-|Kattints a [Nem] gombra a fájl normál (írható) módban történõ megnyitásához.|
+|Kattints a [Nem] gombra a fÃ¡jl normÃ¡l (Ã­rhatÃ³) mÃ³dban tÃ¶rtÃ©nÃµ megnyitÃ¡sÃ¡hoz.|
 |Now|
 |Azonnal|
 |&Tools|
-|&Eszközök|
+|&EszkÃ¶zÃ¶k|
 |TAN View &Options|
-|TAN nézet &beállítások|
+|TAN nÃ©zet &beÃ¡llÃ­tÃ¡sok|
 |Use &Simple List View for TAN-Only Groups|
-|&Egyszerûsített listanézet a csak TAN csoportokhoz|
+|&EgyszerÃ»sÃ­tett listanÃ©zet a csak TAN csoportokhoz|
 |Show TAN &Indices in Entry Titles|
-|TAN &indexszám a bejegyzés címeiben|
+|TAN &indexszÃ¡m a bejegyzÃ©s cÃ­meiben|
 |Disable 'Save' button if the database hasn't been modified|
-|'Mentés' gomb letiltása, ha az adatbázis nem változott|
+|'MentÃ©s' gomb letiltÃ¡sa, ha az adatbÃ¡zis nem vÃ¡ltozott|
 |You have the latest version.|
-|A legújabb verziót használod.|
+|A legÃºjabb verziÃ³t hasznÃ¡lod.|
 |'Keyfile' or 'preselect' option is already specified|
-|A 'Kulcsfájl' vagy 'Elõválasztott' opciók már be vannak állítva|
+|A 'KulcsfÃ¡jl' vagy 'ElÃµvÃ¡lasztott' opciÃ³k mÃ¡r be vannak Ã¡llÃ­tva|
 |Path is invalid|
-|Érvénytelen elérési útvonal|
+|Ã‰rvÃ©nytelen elÃ©rÃ©si Ãºtvonal|
 |Filename not found|
-|Nem található fájlnév|
+|Nem talÃ¡lhatÃ³ fÃ¡jlnÃ©v|
 |'Pw' option is already specified|
-|A 'Pw' opció már beállítva|
+|A 'Pw' opciÃ³ mÃ¡r beÃ¡llÃ­tva|
 |Password is empty|
-|A jelszó üres|
+|A jelszÃ³ Ã¼res|
 |Option not recognized|
-|Beállítás nem támogatott|
+|BeÃ¡llÃ­tÃ¡s nem tÃ¡mogatott|
 |Database is already specified|
-|Adatbázis már beállítva|
+|AdatbÃ¡zis mÃ¡r beÃ¡llÃ­tva|
 |It contains an unmatched quote|
-|Páratlan idézõjelet tartalmaz|
+|PÃ¡ratlan idÃ©zÃµjelet tartalmaz|
 |Command line argument|
-|Parancssori kapcsoló|
+|Parancssori kapcsolÃ³|
 |ignored|
 |kihagyva|
 |Reason|
-|Indíték|
+|IndÃ­tÃ©k|
 |KeePass Initialization|
-|KeePass inicializálás|
+|KeePass inicializÃ¡lÃ¡s|
 |Lock workspace when locking Windows, switching user or sleeping|
-|Munkaterület zárolása a Windows zárolásakor, felhasználóváltáskor vagy alváskor|
+|MunkaterÃ¼let zÃ¡rolÃ¡sa a Windows zÃ¡rolÃ¡sakor, felhasznÃ¡lÃ³vÃ¡ltÃ¡skor vagy alvÃ¡skor|
 |Value|
-|Érték|
+|Ã‰rtÃ©k|
 |Select the fields KeePass should remember|
-|Válaszd ki azokat a mezõket, amikre a KeePass emlékezzen|
+|VÃ¡laszd ki azokat a mezÃµket, amikre a KeePass emlÃ©kezzen|
 |Fields to remember|
-|Megjegyzendõ mezõk|
+|MegjegyzendÃµ mezÃµk|
 |An entry already exists for the current URL.|
-|A jelenlegi URL-hez egy bejegyzés már létezik.|
+|A jelenlegi URL-hez egy bejegyzÃ©s mÃ¡r lÃ©tezik.|
 |The following application requests access to your currently opened KeePass database:|
-|A következõ alkalmazások hozzá szeretnének férni a jelenleg megnyitott KeePass adatbázishoz:|
+|A kÃ¶vetkezÃµ alkalmazÃ¡sok hozzÃ¡ szeretnÃ©nek fÃ©rni a jelenleg megnyitott KeePass adatbÃ¡zishoz:|
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
-|Jegyezd meg, hogy az alkalmazás címe informál a meghívó alkalmazásról és hibás is lehet (egy kártékony program hozzá akar férni az adatbázisodhoz).|
+|Jegyezd meg, hogy az alkalmazÃ¡s cÃ­me informÃ¡l a meghÃ­vÃ³ alkalmazÃ¡srÃ³l Ã©s hibÃ¡s is lehet (egy kÃ¡rtÃ©kony program hozzÃ¡ akar fÃ©rni az adatbÃ¡zisodhoz).|
 |Do you grant the application access to your KeePass database?|
-|Megengeded az alkalmazásnak, hogy hozzáférjen a KeePass adatbázishoz?|
+|Megengeded az alkalmazÃ¡snak, hogy hozzÃ¡fÃ©rjen a KeePass adatbÃ¡zishoz?|
 |&Read-Only|
-|&Csak olvasható|
+|&Csak olvashatÃ³|
 |&Full|
 |&Teljes|
 |&Deny|
 |&Megtagad|
 |Incoming IPC Request|
-|Bejövõ IPC kérés|
+|BejÃ¶vÃµ IPC kÃ©rÃ©s|
 |An application requests access through inter-process communication|
-|Egy alkalmazás IPC hozzáférést kér|
+|Egy alkalmazÃ¡s IPC hozzÃ¡fÃ©rÃ©st kÃ©r|
 |Application|
-|Alkalmazás|
+|AlkalmazÃ¡s|
 |Unknown|
 |Ismeretlen|
 |Enable remote control (allow applications to communicate with KeePass)|
-|Távoli vezérlés engedélyezése (megengedi, hogy az alkalmazások kommunikáljanak a KeePass-al|
+|TÃ¡voli vezÃ©rlÃ©s engedÃ©lyezÃ©se (megengedi, hogy az alkalmazÃ¡sok kommunikÃ¡ljanak a KeePass-al|
 |Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
-|Gyõzõdj meg arról, hogy a kulcsfájlt tartalmazó média be van helyezve és a KeePassnak van joga hozzáférni (ellenõrizd a fájlhozzáférési jogosultságokat, gyõzõdj meg róla, hogy más alkalmazás nem blokkolja a fájlt...).|
+|GyÃµzÃµdj meg arrÃ³l, hogy a kulcsfÃ¡jlt tartalmazÃ³ mÃ©dia be van helyezve Ã©s a KeePassnak van joga hozzÃ¡fÃ©rni (ellenÃµrizd a fÃ¡jlhozzÃ¡fÃ©rÃ©si jogosultsÃ¡gokat, gyÃµzÃµdj meg rÃ³la, hogy mÃ¡s alkalmazÃ¡s nem blokkolja a fÃ¡jlt...).|
 |URL Field: Help|
-|URL mezõ: Súgó|
+|URL mezÃµ: SÃºgÃ³|
 |There are too few characters in the character set to build up a password matching the specified rules|
-|Túl kevés karakter a karakterkészletben a szabályoknak megfelelõ jelszó készítéséhez|
+|TÃºl kevÃ©s karakter a karakterkÃ©szletben a szabÃ¡lyoknak megfelelÃµ jelszÃ³ kÃ©szÃ­tÃ©sÃ©hez|
 |(Custom)|
 |(Testre szabott)|
 |Save current settings as a profile.|
-|Jelenlegi beállítások mentése profilként.|
+|Jelenlegi beÃ¡llÃ­tÃ¡sok mentÃ©se profilkÃ©nt.|
 |Delete currently selected profile.|
-|Jelenlegi profil törlése.|
+|Jelenlegi profil tÃ¶rlÃ©se.|
 |(Automatically generated passwords for new entries)|
-|(Automatikusan generált jelszó új bejegyzéshez)|
+|(Automatikusan generÃ¡lt jelszÃ³ Ãºj bejegyzÃ©shez)|
 |Profile|
 |Profil|
 |Generate using character set:|
-|Generáláshoz használt karakterkészlet:|
+|GenerÃ¡lÃ¡shoz hasznÃ¡lt karakterkÃ©szlet:|
 |Generate using pattern:|
-|Generáláshoz használt sablon:|
+|GenerÃ¡lÃ¡shoz hasznÃ¡lt sablon:|
 |Also include the following characters:|
-|A következõ karakterek felhasználásával:|
+|A kÃ¶vetkezÃµ karakterek felhasznÃ¡lÃ¡sÃ¡val:|
 |Exclude look-alike characters|
-|Hasonmás karakterek kizárása|
+|HasonmÃ¡s karakterek kizÃ¡rÃ¡sa|
 |Use local date/time format instead of ISO notation|
-|Helyi dátum/idõformátum használata ISO jelöléshez|
+|Helyi dÃ¡tum/idÃµformÃ¡tum hasznÃ¡lata ISO jelÃ¶lÃ©shez|
 |Save as Profile|
-|Mentés profilként|
+|MentÃ©s profilkÃ©nt|
 |Save current settings as password generator profile.|
-|Jelenlegi beállítások mentése jelszó generáló profilként.|
+|Jelenlegi beÃ¡llÃ­tÃ¡sok mentÃ©se jelszÃ³ generÃ¡lÃ³ profilkÃ©nt.|
 |Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
-|Írj be egy nevet az új jelszó generáló profilnak, vagy válassz egy létezõt felülíráshoz:|
+|Ãrj be egy nevet az Ãºj jelszÃ³ generÃ¡lÃ³ profilnak, vagy vÃ¡lassz egy lÃ©tezÃµt felÃ¼lÃ­rÃ¡shoz:|
 |Randomly permute characters of password|
-|A jelszó karaktereinek véletlenszerû permutálása|
+|A jelszÃ³ karaktereinek vÃ©letlenszerÃ» permutÃ¡lÃ¡sa|
 |Locked|
-|Lezárt|
+|LezÃ¡rt|
 |The help file contains detailed information about the expected input format. Do you want to open the help file?|
-|A súgófájl részletes infromációt tartalmaz az elvárt beviteli formáról. Meg akarod nyitni a súgófájlt?|
+|A sÃºgÃ³fÃ¡jl rÃ©szletes infromÃ¡ciÃ³t tartalmaz az elvÃ¡rt beviteli formÃ¡rÃ³l. Meg akarod nyitni a sÃºgÃ³fÃ¡jlt?|
 |Failed to save the configuration.|
-|Beállítások mentése sikertelen.|
+|BeÃ¡llÃ­tÃ¡sok mentÃ©se sikertelen.|
 |Arguments|
 |Argumentumok|
 |&Export Group|
-|Csoport &exportálása|
+|Csoport &exportÃ¡lÃ¡sa|
 |in "Minimal functionality" mode|
-|Minimálisan mûködõ módban|
+|MinimÃ¡lisan mÃ»kÃ¶dÃµ mÃ³dban|
 |Regular expression|
-|Szabályos kifejezés|
+|SzabÃ¡lyos kifejezÃ©s|
 |The regular expression is invalid.|
-|A reguláris kifejezés érvénytelen.|
+|A regulÃ¡ris kifejezÃ©s Ã©rvÃ©nytelen.|
 |Default user name for new entries:|
-|Alapértelmezett felhasználónév az új bejegyzésekhez:|
+|AlapÃ©rtelmezett felhasznÃ¡lÃ³nÃ©v az Ãºj bejegyzÃ©sekhez:|
 |Advanced Password Generator Options|
-|Haladó Jelszógenerátor beállítások|
+|HaladÃ³ JelszÃ³generÃ¡tor beÃ¡llÃ­tÃ¡sok|
 |Exclude the following characters:|
-|A következõ karakterek kizárása:|
+|A kÃ¶vetkezÃµ karakterek kizÃ¡rÃ¡sa:|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
-|A csillaggal jelölt opciók/szabályok csökkentik a generált jelszavak biztonságát. Csak abban az esetben kapcsold be õket, ha a weboldalak, alkalmazások vagy a jelszóbiztonsági szabályok ezt kifejezetten igénylik.|
+|A csillaggal jelÃ¶lt opciÃ³k/szabÃ¡lyok csÃ¶kkentik a generÃ¡lt jelszavak biztonsÃ¡gÃ¡t. Csak abban az esetben kapcsold be Ãµket, ha a weboldalak, alkalmazÃ¡sok vagy a jelszÃ³biztonsÃ¡gi szabÃ¡lyok ezt kifejezetten igÃ©nylik.|
 |Each character must occur at most once|
-|Karakterek legfeljebb egyszer forduljanak elõ|
+|Karakterek legfeljebb egyszer forduljanak elÃµ|
 |Remember key sources (key file paths, provider names, ...)|
-|Emlékezzen a kulcsforrásra (fájl útvonalak, szolgáltatók, ...)|
+|EmlÃ©kezzen a kulcsforrÃ¡sra (fÃ¡jl Ãºtvonalak, szolgÃ¡ltatÃ³k, ...)|
 |Provider|
-|Szolgáltató|
+|SzolgÃ¡ltatÃ³|
 |The key provider plugin did not supply a valid key|
-|A kulcsszolgáltató bõvítmény nem ad valós kulcsot|
+|A kulcsszolgÃ¡ltatÃ³ bÃµvÃ­tmÃ©ny nem ad valÃ³s kulcsot|
 |Register Ctrl+Alt+K hot key (brings the KeePass window to front)|
-|A Ctrl+Alt+K billentyûparancs regisztrálása (elõtérbe hozza a KeePass ablakot)|
+|A Ctrl+Alt+K billentyÃ»parancs regisztrÃ¡lÃ¡sa (elÃµtÃ©rbe hozza a KeePass ablakot)|
 |Type to search the database|
-|Írd ide az adatbázisban való kereséshez|
+|Ãrd ide az adatbÃ¡zisban valÃ³ keresÃ©shez|
 |Search...|
-|Keresés...|
+|KeresÃ©s...|
 |Clear Search History|
-|Keresés elõzmények törlése|
+|KeresÃ©s elÃµzmÃ©nyek tÃ¶rlÃ©se|
 |TANs are imported into the currently selected group|
-|TAN -ok importálva a jelenleg kiválasztott csoportba|
+|TAN -ok importÃ¡lva a jelenleg kivÃ¡lasztott csoportba|
 |The selected key file already exists|
-|A kiválasztott kulcsfájl már létezik|
+|A kivÃ¡lasztott kulcsfÃ¡jl mÃ¡r lÃ©tezik|
 |Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
-|Új kulcs generálása és a létezõ kulcsfájl felülírása. A jelenlegi kulcsfájlban tárolt kulcs el fog veszni.|
+|Ãšj kulcs generÃ¡lÃ¡sa Ã©s a lÃ©tezÃµ kulcsfÃ¡jl felÃ¼lÃ­rÃ¡sa. A jelenlegi kulcsfÃ¡jlban tÃ¡rolt kulcs el fog veszni.|
 |Reuse|
-|Újrahasznál|
+|ÃšjrahasznÃ¡l|
 |Load the existing key file and use it as key for the current database. The key file will not be modified.|
-|Létezõ kulcsfájl betöltése és használata a jelenlegi adatbázishoz. A kulcsfájl nem módosul.|
+|LÃ©tezÃµ kulcsfÃ¡jl betÃ¶ltÃ©se Ã©s hasznÃ¡lata a jelenlegi adatbÃ¡zishoz. A kulcsfÃ¡jl nem mÃ³dosul.|
 |Cancel|
-|Mégsem|
+|MÃ©gsem|
 |Abort specifying a new key for the current database.|
-|A jelenlegi adatbázishoz új kulcs beállításának megszakítása.|
+|A jelenlegi adatbÃ¡zishoz Ãºj kulcs beÃ¡llÃ­tÃ¡sÃ¡nak megszakÃ­tÃ¡sa.|
 |Overwrite existing key file?|
-|Felülírod a jelenlegi kulcsfájlt?|
+|FelÃ¼lÃ­rod a jelenlegi kulcsfÃ¡jlt?|
 |Save|
-|Mentés|
+|MentÃ©s|
 |&Discard changes|
-|Változások el&dobása|
+|VÃ¡ltozÃ¡sok el&dobÃ¡sa|
 |&Discard changes|
-|Változások el&dobása|
+|VÃ¡ltozÃ¡sok el&dobÃ¡sa|
 |Save database changes before closing the file?|
-|Adatbázis változásainak mentése a fájl bezárása elõtt?|
+|AdatbÃ¡zis vÃ¡ltozÃ¡sainak mentÃ©se a fÃ¡jl bezÃ¡rÃ¡sa elÃµtt?|
 |Save database changes before exiting KeePass?|
-|Adatbázis változásainak mentése KeePass bezárása elõtt?|
+|AdatbÃ¡zis vÃ¡ltozÃ¡sainak mentÃ©se KeePass bezÃ¡rÃ¡sa elÃµtt?|
 |Save database changes before locking the workspace?|
-|Adatbázis változásainak mentése munkaterület zárolása elõtt?|
+|AdatbÃ¡zis vÃ¡ltozÃ¡sainak mentÃ©se munkaterÃ¼let zÃ¡rolÃ¡sa elÃµtt?|
 |Save all changes made to the database and close the file.|
-|Minden változás mentése az adatbázisba és a fájl bezárása.|
+|Minden vÃ¡ltozÃ¡s mentÃ©se az adatbÃ¡zisba Ã©s a fÃ¡jl bezÃ¡rÃ¡sa.|
 |Save all changes made to the database and exit KeePass.|
-|Minden változás mentése az adatbázisba és a KeePass bezárása.|
+|Minden vÃ¡ltozÃ¡s mentÃ©se az adatbÃ¡zisba Ã©s a KeePass bezÃ¡rÃ¡sa.|
 |Save all changes made to the database and lock the KeePass workspace.|
-|Minden változás mentése az adatbázisba és a KeePass munkaterületének zárolása.|
+|Minden vÃ¡ltozÃ¡s mentÃ©se az adatbÃ¡zisba Ã©s a KeePass munkaterÃ¼letÃ©nek zÃ¡rolÃ¡sa.|
 |Discard all changes made to the database and close the file.|
-|Minden adatbázis változás elvetése és a fájl bezárása.|
+|Minden adatbÃ¡zis vÃ¡ltozÃ¡s elvetÃ©se Ã©s a fÃ¡jl bezÃ¡rÃ¡sa.|
 |Discard all changes made to the database and exit KeePass.|
-|Minden adatbázis változás elvetése és a KeePass bezárása..|
+|Minden adatbÃ¡zis vÃ¡ltozÃ¡s elvetÃ©se Ã©s a KeePass bezÃ¡rÃ¡sa..|
 |Discard all changes made to the database and lock the KeePass workspace.|
-|Minden adatbázis változás elvetése és a KeePass munkaterületének zárolása.|
+|Minden adatbÃ¡zis vÃ¡ltozÃ¡s elvetÃ©se Ã©s a KeePass munkaterÃ¼letÃ©nek zÃ¡rolÃ¡sa.|
 |Abort the current operation.|
-|A jelenlegi mûvelet megszakítása.|
+|A jelenlegi mÃ»velet megszakÃ­tÃ¡sa.|
 |The KeePass workspace will not be locked.|
-|A KeePass munkaterület nem zárolható.|
+|A KeePass munkaterÃ¼let nem zÃ¡rolhatÃ³.|
 |KeePass will not be closed.|
-|KeePass nem zárható be.|
+|KeePass nem zÃ¡rhatÃ³ be.|
 |The file will not be closed.|
-|A fájl nem zárható be.|
+|A fÃ¡jl nem zÃ¡rhatÃ³ be.|
 |The master password must be at least %u characters long!|
-|A mesterjelszónak legalább %u karakterbõl kell állnia!|
+|A mesterjelszÃ³nak legalÃ¡bb %u karakterbÃµl kell Ã¡llnia!|
 |The estimated quality of the master password must be at least %u bits!|
-|A mesterjelszó becsült minõségének legalább %u bitesnek kell lennie!|
+|A mesterjelszÃ³ becsÃ¼lt minÃµsÃ©gÃ©nek legalÃ¡bb %u bitesnek kell lennie!|
 |Copy [of an item]|
-|Másolás [egy elem]|
+|MÃ¡solÃ¡s [egy elem]|
 |Always grant full access through remote control (not recommended)|
-|Mindig teljes hozzáférés biztosítása a távoli irányításnál (nem szükséges)|
+|Mindig teljes hozzÃ¡fÃ©rÃ©s biztosÃ­tÃ¡sa a tÃ¡voli irÃ¡nyÃ­tÃ¡snÃ¡l (nem szÃ¼ksÃ©ges)|
 |URL Field: Select Application...|
-|URL mezõ: Alkalmazás választása...|
+|URL mezÃµ: AlkalmazÃ¡s vÃ¡lasztÃ¡sa...|
 |URL Field: Select Document...|
-|URL mezõ: Dokumentum kiválasztása...|
+|URL mezÃµ: Dokumentum kivÃ¡lasztÃ¡sa...|
 |URL Field: Insert Placeholder|
-|URL mezõ: Helyõrzõ beszúrása|
+|URL mezÃµ: HelyÃµrzÃµ beszÃºrÃ¡sa|
 |Auto-Type: Help|
-|Auto-gépelés: Súgó|
+|Auto-gÃ©pelÃ©s: SÃºgÃ³|
 |Auto-Type: Customize Sequence|
-|Auto-gépelés: Szekvencia testre szabása|
+|Auto-gÃ©pelÃ©s: Szekvencia testre szabÃ¡sa|
 |Auto-Type: Select Target Window...|
-|Auto-gépelés: Cél ablak kiválasztása...|
+|Auto-gÃ©pelÃ©s: CÃ©l ablak kivÃ¡lasztÃ¡sa...|
 |Select the target window for the current entry.|
-|Válaszd ki a jelenlegi bejegyzés célablakát.|
+|VÃ¡laszd ki a jelenlegi bejegyzÃ©s cÃ©lablakÃ¡t.|
 |To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
-|Egy célablak megadásához vagy ki kell választani egy jelenleg megnyitott ablakot a legördülõ listából, vagy az ablak címét kézzel kell megadni:|
+|Egy cÃ©lablak megadÃ¡sÃ¡hoz vagy ki kell vÃ¡lasztani egy jelenleg megnyitott ablakot a legÃ¶rdÃ¼lÃµ listÃ¡bÃ³l, vagy az ablak cÃ­mÃ©t kÃ©zzel kell megadni:|
 |Default auto-type sequence for standard entries:|
-|Alapértelmezett auto-gépelési szekvencia az általános bejegyzésekhez:|
+|AlapÃ©rtelmezett auto-gÃ©pelÃ©si szekvencia az Ã¡ltalÃ¡nos bejegyzÃ©sekhez:|
 |Prepend special initialization sequence for Internet Explorer windows|
-|Speciális inicializáló szekvencia Internet Explorer ablakokhoz|
+|SpeciÃ¡lis inicializÃ¡lÃ³ szekvencia Internet Explorer ablakokhoz|
 |Here you can configure auto-type.|
-|Itt beállíthatod az auto-gépelést.|
+|Itt beÃ¡llÃ­thatod az auto-gÃ©pelÃ©st.|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
-|A célfájl valószínûleg megsérült. Próbáld meg újra menteni, ha nem sikerül, mentsd el az adatbázist egy másik helyre.|
+|A cÃ©lfÃ¡jl valÃ³szÃ­nÃ»leg megsÃ©rÃ¼lt. PrÃ³bÃ¡ld meg Ãºjra menteni, ha nem sikerÃ¼l, mentsd el az adatbÃ¡zist egy mÃ¡sik helyre.|
 |Drop to background when copying data to the clipboard|
-|Dobjon a háttérbe, ha másolt adat van a vágólapon|
+|Dobjon a hÃ¡ttÃ©rbe, ha mÃ¡solt adat van a vÃ¡gÃ³lapon|
 |Insert Field Reference|
-|Mezõhivatkozás beszúrása|
+|MezÃµhivatkozÃ¡s beszÃºrÃ¡sa|
 |In Title Field|
-|Cím mezõben|
+|CÃ­m mezÃµben|
 |In User Name Field|
-|Felhasználónév mezõben|
+|FelhasznÃ¡lÃ³nÃ©v mezÃµben|
 |In URL Field|
-|URL mezõben|
+|URL mezÃµben|
 |In Password Field|
-|Jelszó mezõben|
+|JelszÃ³ mezÃµben|
 |In Notes Field|
-|Megjegyzés mezõben|
+|MegjegyzÃ©s mezÃµben|
 |Field to reference|
-|Mezõ hivatkozásra|
+|MezÃµ hivatkozÃ¡sra|
 |Identify source entry by|
-|Forrás bejegyzés azonosítása a következõ alapján|
+|ForrÃ¡s bejegyzÃ©s azonosÃ­tÃ¡sa a kÃ¶vetkezÃµ alapjÃ¡n|
 |Source field to reference|
-|Forrás mezõ hivatkozásként|
+|ForrÃ¡s mezÃµ hivatkozÃ¡skÃ©nt|
 |The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
-|A kiválasztott mezõ, ami azonosítja a forrásbejegyzést érvénytelen karaktereket tartalmaz (pl. '{', '}', újsor karakterek, ...).|
+|A kivÃ¡lasztott mezÃµ, ami azonosÃ­tja a forrÃ¡sbejegyzÃ©st Ã©rvÃ©nytelen karaktereket tartalmaz (pl. '{', '}', Ãºjsor karakterek, ...).|
 |Multiple entries match the specified identifying field.|
-|Több bejegyzés megegyezik a megadott azonosító mezõvel.|
+|TÃ¶bb bejegyzÃ©s megegyezik a megadott azonosÃ­tÃ³ mezÃµvel.|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
-|A félreértések elkerülése érdekében a bejegyzések UUID alapján kerülnek azonosításra, amik egyediek.|
+|A fÃ©lreÃ©rtÃ©sek elkerÃ¼lÃ©se Ã©rdekÃ©ben a bejegyzÃ©sek UUID alapjÃ¡n kerÃ¼lnek azonosÃ­tÃ¡sra, amik egyediek.|
 |Read-only|
-|Csak olvasható|
+|Csak olvashatÃ³|
 |Normal|
-|Normál|
+|NormÃ¡l|
 |Take ownership of the file and open it in normal writing mode.|
-|Tulajdonjog adása a fájlra és megnyitás normál írás módban.|
+|Tulajdonjog adÃ¡sa a fÃ¡jlra Ã©s megnyitÃ¡s normÃ¡l Ã­rÃ¡s mÃ³dban.|
 |Open the file in read-only mode. Changes to the database can be saved to a different file.|
-|A fájl megnyitása csak olvasható módban. Az adatbázis változásai egy eltérõ fájlban lesznek elmentve.|
+|A fÃ¡jl megnyitÃ¡sa csak olvashatÃ³ mÃ³dban. Az adatbÃ¡zis vÃ¡ltozÃ¡sai egy eltÃ©rÃµ fÃ¡jlban lesznek elmentve.|
 |Sort items in the auto-type entry selection dialog|
-|Az elemek rendezése az auto-gépelés bejegyzés kiválasztása párbeszéden|
+|Az elemek rendezÃ©se az auto-gÃ©pelÃ©s bejegyzÃ©s kivÃ¡lasztÃ¡sa pÃ¡rbeszÃ©den|
 |Clear clipboard when closing/locking the database|
-|Vágólap törlése ha az adatbázis bezárásra/zárolásra kerül|
+|VÃ¡gÃ³lap tÃ¶rlÃ©se ha az adatbÃ¡zis bezÃ¡rÃ¡sra/zÃ¡rolÃ¡sra kerÃ¼l|
 |Show &Toolbar|
-|&Eszköztár mutatása|
+|&EszkÃ¶ztÃ¡r mutatÃ¡sa|
 |Field copied to clipboard.|
-|A mezõ a vágólapra lett másolva.|
+|A mezÃµ a vÃ¡gÃ³lapra lett mÃ¡solva.|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
-|Egy kulcsfájl már létezik a lemezen. Akarod, hogy felülírjam, vagy újra felhasználjam?|
+|Egy kulcsfÃ¡jl mÃ¡r lÃ©tezik a lemezen. Akarod, hogy felÃ¼lÃ­rjam, vagy Ãºjra felhasznÃ¡ljam?|
 |Click [Yes] to overwrite the key file.|
-|Kattints az [Igen] -re a kulcsfájl felülírásához.|
+|Kattints az [Igen] -re a kulcsfÃ¡jl felÃ¼lÃ­rÃ¡sÃ¡hoz.|
 |Click [No] to reuse the selected key file for this database.|
-|Kattints a [Nem] -re a kiválasztott kulcsfájl újra használásához.|
+|Kattints a [Nem] -re a kivÃ¡lasztott kulcsfÃ¡jl Ãºjra hasznÃ¡lÃ¡sÃ¡hoz.|
 |Click [Cancel] to abort changing the key.|
-|Kattints a [Mégsem] -re a kulcs cseréjének megszakításához.|
+|Kattints a [MÃ©gsem] -re a kulcs cserÃ©jÃ©nek megszakÃ­tÃ¡sÃ¡hoz.|
 |Overwrite?|
-|Felülírjam?|
+|FelÃ¼lÃ­rjam?|
 |Expires:|
-|Lejár:|
+|LejÃ¡r:|
 |&Modify All Selected...|
-|&Minden kijelölt módosítása...|
+|&Minden kijelÃ¶lt mÃ³dosÃ­tÃ¡sa...|
 |Change group:|
-|Csoport változtatása:|
+|Csoport vÃ¡ltoztatÃ¡sa:|
 |Change entry icon:|
-|Bejegyzés ikon váloztatása:|
+|BejegyzÃ©s ikon vÃ¡loztatÃ¡sa:|
 |Change expiration time:|
-|Lejárati határidõ módosítása:|
+|LejÃ¡rati hatÃ¡ridÃµ mÃ³dosÃ­tÃ¡sa:|
 |Mass Modify|
-|Csoportos módosítás|
+|Csoportos mÃ³dosÃ­tÃ¡s|
 |Change fields of all selected entries|
-|Minden kijelölt elem mezõinek módosítása|
+|Minden kijelÃ¶lt elem mezÃµinek mÃ³dosÃ­tÃ¡sa|
 |Show &Columns|
-|&Oszlopok mutatása|
+|&Oszlopok mutatÃ¡sa|
 |Show &Entry View|
-|&Bejegyzés nézet mutatása|
+|&BejegyzÃ©s nÃ©zet mutatÃ¡sa|
 |Automatically resize table columns when resizing the main window|
-|Az ablak átméretezésével a táblázat oszlopainak automatikus átméretezése|
+|Az ablak Ã¡tmÃ©retezÃ©sÃ©vel a tÃ¡blÃ¡zat oszlopainak automatikus Ã¡tmÃ©retezÃ©se|
 |&Copy|
-|&Másolás|
+|&MÃ¡solÃ¡s|
 |Copy &All|
-|Minden m&ásolása|
+|Minden m&Ã¡solÃ¡sa|
 |&Undo|
-|&Visszavonás|
+|&VisszavonÃ¡s|
 |&Paste|
-|&Beillesztés|
+|&BeillesztÃ©s|
 |Cu&t|
-|&Kivágás|
+|&KivÃ¡gÃ¡s|
 |&Select All|
-|M&indet kijelöli|
+|M&indet kijelÃ¶li|
 |&Delete|
-|&Törlés|
+|&TÃ¶rlÃ©s|
 |&TAN Wizard...|
-|&TAN Varázsló|
+|&TAN VarÃ¡zslÃ³|
 |TAN Wizard|
-|TAN Varázsló|
+|TAN VarÃ¡zslÃ³|
 |Using this wizard you can easily add TAN entries.|
-|A Varázslóval könnyen hozhatsz létre TAN bejegyzéseket.|
+|A VarÃ¡zslÃ³val kÃ¶nnyen hozhatsz lÃ©tre TAN bejegyzÃ©seket.|
 |Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
-|Illeszd be a TAN adataidat az alábbi mezõbe. Minden karakter, ami nem egyértelmûen TAN karakter, elválasztóként viselkedik és csak a TAN karakterek belsejében szereplõk lesznek hozzáadva, mint TAN bejegyzések.|
+|Illeszd be a TAN adataidat az alÃ¡bbi mezÃµbe. Minden karakter, ami nem egyÃ©rtelmÃ»en TAN karakter, elvÃ¡lasztÃ³kÃ©nt viselkedik Ã©s csak a TAN karakterek belsejÃ©ben szereplÃµk lesznek hozzÃ¡adva, mint TAN bejegyzÃ©sek.|
 |TANs consist of the following characters:|
-|TAN bejegyzés a következõ karaktereket tartalmazza:|
+|TAN bejegyzÃ©s a kÃ¶vetkezÃµ karaktereket tartalmazza:|
 |<TAN>|
 |<TAN>|
 |Print Pre&view...|
-|Nyomtatási &kép...|
+|NyomtatÃ¡si &kÃ©p...|
 |About &Translation...|
-|A &fordításról...|
+|A &fordÃ­tÃ¡srÃ³l...|
 |Translation Information|
-|Fordítás Információ|
+|FordÃ­tÃ¡s InformÃ¡ciÃ³|
 |Currently used language|
-|Jelenleg használt nyelv|
+|Jelenleg hasznÃ¡lt nyelv|
 |Author|
-|Szerzõ|
+|SzerzÃµ|
 |&Rearrange|
-|&Újrarendez|
+|&Ãšjrarendez|
 |&Sort Group List|
-|Csoport lista &rendezése|
+|Csoport lista &rendezÃ©se|
 |Sort List by &Title|
-|Lista rendezése &cím szerint|
+|Lista rendezÃ©se &cÃ­m szerint|
 |Sort List by User &Name|
-|Lista rendezése &felhasználónév szerint|
+|Lista rendezÃ©se &felhasznÃ¡lÃ³nÃ©v szerint|
 |Sort List by &URL|
-|Lista rendezése &URL szerint|
+|Lista rendezÃ©se &URL szerint|
 |Sort List by &Password|
-|Lista rendezése &jelszó szerint|
+|Lista rendezÃ©se &jelszÃ³ szerint|
 |Sort List by Note&s|
-|Lista rendezése &megjegyzés szerint|
+|Lista rendezÃ©se &megjegyzÃ©s szerint|
 |Sort List by Last &Modify Time|
-|Lista rendezése mó&dosítási idõ szerint|
+|Lista rendezÃ©se mÃ³&dosÃ­tÃ¡si idÃµ szerint|
 |Sort List by Last &Access Time|
-|Lista rendezése &utolsó hozzáférési idõ szerint|
+|Lista rendezÃ©se &utolsÃ³ hozzÃ¡fÃ©rÃ©si idÃµ szerint|
 |Move Group One &Left|
-|Csoport &jobbra mozgatása|
+|Csoport &jobbra mozgatÃ¡sa|
 |Move Group One &Right|
-|Csoport &balra mozgatása|
+|Csoport &balra mozgatÃ¡sa|
 |Hide &User Names Behind Asterisks (***)|
-|Felhasználónevek rejtése &csillagok (***) mögé|
+|FelhasznÃ¡lÃ³nevek rejtÃ©se &csillagok (***) mÃ¶gÃ©|
 |Attachment:|
-|Melléklet:|
+|MellÃ©klet:|
 |Attachment|
-|Melléklet|
+|MellÃ©klet|
 |Attachment Description|
-|Melléklet leírása|
+|MellÃ©klet leÃ­rÃ¡sa|
 |&Attachment|
-|&Melléklet|
+|&MellÃ©klet|
 |Failed to attach file:|
-|Sikertelen fájl csatolás:|
+|Sikertelen fÃ¡jl csatolÃ¡s:|
 |The attachment is too large|
-|A csatolmány túl nagy méretû|
+|A csatolmÃ¡ny tÃºl nagy mÃ©retÃ»|
 |Generate a random password...|
-|Véletlen jelszó generálása...|
+|VÃ©letlen jelszÃ³ generÃ¡lÃ¡sa...|
 |Open file and set as attachment...|
-|Fájl megnyitása és csatolása...|
+|FÃ¡jl megnyitÃ¡sa Ã©s csatolÃ¡sa...|
 |Save attached file to disk...|
-|Csatolt fájl mentése lemezre...|
+|Csatolt fÃ¡jl mentÃ©se lemezre...|
 |There already is a file attached with this entry.|
-|Már csatolva lett egy fájl ehhez a bejegyzéshez.|
+|MÃ¡r csatolva lett egy fÃ¡jl ehhez a bejegyzÃ©shez.|
 |Do you want to overwrite the current attachment?|
-|Szeretnéd felülírni a jelenlegi mellékletet?|
+|SzeretnÃ©d felÃ¼lÃ­rni a jelenlegi mellÃ©kletet?|
 |&Save Attached File To...|
-|&Csatolt fájl mentése...|
+|&Csatolt fÃ¡jl mentÃ©se...|
 |There is no file attached with this entry.|
-|Nincs fájl csatolva a bejegyzéshez.|
+|Nincs fÃ¡jl csatolva a bejegyzÃ©shez.|
 |Remove the currently attached file|
-|A jelenleg csatolt fájl eltávolítása|
+|A jelenleg csatolt fÃ¡jl eltÃ¡volÃ­tÃ¡sa|
 |Close button [X] minimizes the main window instead of terminating the application|
-|A Kilépés [X] gomb csak kis méretûvé tegye a programot a kilépés helyett|
+|A KilÃ©pÃ©s [X] gomb csak kis mÃ©retÃ»vÃ© tegye a programot a kilÃ©pÃ©s helyett|
 |KeePass Database|
-|KeePass adatbázis|
+|KeePass adatbÃ¡zis|
 |&Open with KeePass|
-|&Megnyitás a KeePass-al|
+|&MegnyitÃ¡s a KeePass-al|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
-|Itt társíthatod a .kdb fájlokat a KeePass-hoz. (dupla-klikk a fájlon megnyitja azt a KeePass-ban):|
+|Itt tÃ¡rsÃ­thatod a .kdb fÃ¡jlokat a KeePass-hoz. (dupla-klikk a fÃ¡jlon megnyitja azt a KeePass-ban):|
 |Create &Association|
-|Társítás &létrehozása|
+|TÃ¡rsÃ­tÃ¡s &lÃ©trehozÃ¡sa|
 |&Remove Association|
-|Társítás &eltávolítása|
+|TÃ¡rsÃ­tÃ¡s &eltÃ¡volÃ­tÃ¡sa|
 |Setup|
-|Telepítés|
+|TelepÃ­tÃ©s|
 |Entry List|
-|Tételek listája|
+|TÃ©telek listÃ¡ja|
 |Exit?|
-|Kilépsz?|
+|KilÃ©psz?|
 |The file couldn't be saved.|
-|A fájlt nem lehet menteni.|
+|A fÃ¡jlt nem lehet menteni.|
 |Maybe it's read-only or the storage media has been removed.|
-|Lehet, hogy csak olvasható, vagy a tároló meghajtó el lett távolítva.|
+|Lehet, hogy csak olvashatÃ³, vagy a tÃ¡rolÃ³ meghajtÃ³ el lett tÃ¡volÃ­tva.|
 |If you exit now, all changes to the current database will be lost.|
-|Ha most kilépsz, a jelenlegi adatbázis minden módosítása elveszik.|
+|Ha most kilÃ©psz, a jelenlegi adatbÃ¡zis minden mÃ³dosÃ­tÃ¡sa elveszik.|
 |Would you like to exit anyway?|
-|Ennek ellenére szeretnél kilépni?|
+|Ennek ellenÃ©re szeretnÃ©l kilÃ©pni?|
 |Cannot access the selected drive.|
-|Nem érhetõ el a kiválasztott meghajtó.|
+|Nem Ã©rhetÃµ el a kivÃ¡lasztott meghajtÃ³.|
 |Length of generated password:|
-|Generált jelszó hossza:|
+|GenerÃ¡lt jelszÃ³ hossza:|
 |Make sure a writable medium is inserted.|
-|Gyõzõdj meg arról, hogy a behelyezett eszköz írható-e.|
+|GyÃµzÃµdj meg arrÃ³l, hogy a behelyezett eszkÃ¶z Ã­rhatÃ³-e.|
 |Not enough free disk space!|
-|Nincs elég szabad hely!|
+|Nincs elÃ©g szabad hely!|
 |Disable unsafe (security-critical) operations like exports, etc.|
-|Minden nem biztonságos mûvelet (pl. exportálás) letiltása|
+|Minden nem biztonsÃ¡gos mÃ»velet (pl. exportÃ¡lÃ¡s) letiltÃ¡sa|
 |Unsafe operations are disabled.|
-|A nem biztonságos mûveletek tiltottak.|
+|A nem biztonsÃ¡gos mÃ»veletek tiltottak.|
 |To execute this operation you must enable unsafe operations in the options dialog.|
-|Ennek a mûveletnek az indításához engedélyezned kell a nem biztonságos mûveleteket.|
+|Ennek a mÃ»veletnek az indÃ­tÃ¡sÃ¡hoz engedÃ©lyezned kell a nem biztonsÃ¡gos mÃ»veleteket.|
 |You have changed an option that requires restarting KeePass to get active.|
-|Megváltoztattál egy olyan opciót, amely a KeePass újraindítását igényli.|
+|MegvÃ¡ltoztattÃ¡l egy olyan opciÃ³t, amely a KeePass ÃºjraindÃ­tÃ¡sÃ¡t igÃ©nyli.|
 |Expired Entries|
-|Lejárt bejegyzések|
+|LejÃ¡rt bejegyzÃ©sek|
 |This is a list of all expired entries|
-|Ez a lejárt bejegyzések teljes listája|
+|Ez a lejÃ¡rt bejegyzÃ©sek teljes listÃ¡ja|
 |Click on an entry to jump to it.|
-|Kattints a bejegyzésre ugráshoz.|
+|Kattints a bejegyzÃ©sre ugrÃ¡shoz.|
 |Quality:|
-|Minõség:|
+|MinÃµsÃ©g:|
 |Database Settings|
-|Adatbázis beállítások|
+|AdatbÃ¡zis beÃ¡llÃ­tÃ¡sok|
 |Here you can configure the current database.|
-|Itt tudod konfigurálni az aktuális adatbázist.|
+|Itt tudod konfigurÃ¡lni az aktuÃ¡lis adatbÃ¡zist.|
 |Database Summary|
-|Adatbázis összefoglaló|
+|AdatbÃ¡zis Ã¶sszefoglalÃ³|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
-|A kulcsod néhány alkalommal titkosítva lesz a végsõ adatbázis titkosító kulcsért. Ez állandó idõfaktort ad és megnehezíti a találgatásos és a szótár alapú feltörési kísérleteket.|
+|A kulcsod nÃ©hÃ¡ny alkalommal titkosÃ­tva lesz a vÃ©gsÃµ adatbÃ¡zis titkosÃ­tÃ³ kulcsÃ©rt. Ez Ã¡llandÃ³ idÃµfaktort ad Ã©s megnehezÃ­ti a talÃ¡lgatÃ¡sos Ã©s a szÃ³tÃ¡r alapÃº feltÃ¶rÃ©si kÃ­sÃ©rleteket.|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
-|Minél nagyobb ez a szám, annál nehezebb a szótár alapú feltörés. Azinban minél nagyobb a nagy szám, az adatbázis betöltõdése és mentése annál lassabb.|
+|MinÃ©l nagyobb ez a szÃ¡m, annÃ¡l nehezebb a szÃ³tÃ¡r alapÃº feltÃ¶rÃ©s. Azinban minÃ©l nagyobb a nagy szÃ¡m, az adatbÃ¡zis betÃ¶ltÃµdÃ©se Ã©s mentÃ©se annÃ¡l lassabb.|
 |Number of key encryption rounds:|
-|Titkosítási fordulók száma:|
+|TitkosÃ­tÃ¡si fordulÃ³k szÃ¡ma:|
 |bits|
 |bit|
 |Personal &Vault TXT File...|
-|Személyes &Trezor TXT fájl...|
+|SzemÃ©lyes &Trezor TXT fÃ¡jl...|
 |Imported from Password Safe|
-|Importálva a jelszó széf programból|
+|ImportÃ¡lva a jelszÃ³ szÃ©f programbÃ³l|
 |Remember last opened file|
-|Emlékezzen az utoljára megnyitott fájlra|
+|EmlÃ©kezzen az utoljÃ¡ra megnyitott fÃ¡jlra|
 |Total number of groups / entries|
-|A csoportok / bejegyzések teljes száma|
+|A csoportok / bejegyzÃ©sek teljes szÃ¡ma|
 |Total: %u groups / %u entries|
-|Összesen: %u csoport / %u bejegyzés|
+|Ã–sszesen: %u csoport / %u bejegyzÃ©s|
 |%u of %u selected|
-|%u kijelölve a(z) %u-ból|
+|%u kijelÃ¶lve a(z) %u-bÃ³l|
 |Number of selected entries (number of entries in the list)|
-|Kijelölt bejegyzések száma (a listában található bejegyzések száma)|
+|KijelÃ¶lt bejegyzÃ©sek szÃ¡ma (a listÃ¡ban talÃ¡lhatÃ³ bejegyzÃ©sek szÃ¡ma)|
 |Status|
-|Állapot|
+|Ãllapot|
 |The database file has been modified!|
-|Az adatbázis fájl módosítva lett!|
+|Az adatbÃ¡zis fÃ¡jl mÃ³dosÃ­tva lett!|
 |Most probably someone has changed the file while you were editing it.|
-|Valószínûleg valaki más változtatott a fájlon, miközben szerkesztetted azt.|
+|ValÃ³szÃ­nÃ»leg valaki mÃ¡s vÃ¡ltoztatott a fÃ¡jlon, mikÃ¶zben szerkesztetted azt.|
 |Do you want to overwrite it?|
-|Szeretnéd felülírni?|
+|SzeretnÃ©d felÃ¼lÃ­rni?|
 |The group you selected cannot store entries. Please select a different group.|
-|Az általad kijelölt csoport nem tartalmaz bejegyzéseket. Kérlek, válassz egy másik csoportot.|
+|Az Ã¡ltalad kijelÃ¶lt csoport nem tartalmaz bejegyzÃ©seket. KÃ©rlek, vÃ¡lassz egy mÃ¡sik csoportot.|
 |This will remove all selected entries unrecoverably!|
-|Ezzel visszavonhatatlanul törölsz minden kijelölt bejegyzést!|
+|Ezzel visszavonhatatlanul tÃ¶rÃ¶lsz minden kijelÃ¶lt bejegyzÃ©st!|
 |Are you sure you want to delete all selected entries?|
-|Valóban szeretnéd kitörölni mindegyik kijelölt bejegyzést?|
+|ValÃ³ban szeretnÃ©d kitÃ¶rÃ¶lni mindegyik kijelÃ¶lt bejegyzÃ©st?|
 |Delete Entries Confirmation|
-|Bejegyzések törlésének megerõsítése|
+|BejegyzÃ©sek tÃ¶rlÃ©sÃ©nek megerÃµsÃ­tÃ©se|
 |Use PuTTY for ssh: and telnet: URLs|
-|PuTTY használata ssh: és telnet: URL-ek esetén|
+|PuTTY hasznÃ¡lata ssh: Ã©s telnet: URL-ek esetÃ©n|
 |Mark database as modified on last access time change|
-|Adatbázis módosulás jelölése utolsó elérés idõpontja miatt|
+|AdatbÃ¡zis mÃ³dosulÃ¡s jelÃ¶lÃ©se utolsÃ³ elÃ©rÃ©s idÃµpontja miatt|
 |Se&lect All|
-|M&indent kijelöl|
+|M&indent kijelÃ¶l|
 |Auto-&Sort Entry List|
-|Tételek automata rendezése|
+|TÃ©telek automata rendezÃ©se|
 |N&o Auto-Sort|
-|Auto-rendezés &ki|
+|Auto-rendezÃ©s &ki|
 |Auto-sorting of the entry list is enabled; you cannot move entries manually.|
-|Tételek automatikus rendezése engedélyezett; manuálisan nem mozgathatók.|
+|TÃ©telek automatikus rendezÃ©se engedÃ©lyezett; manuÃ¡lisan nem mozgathatÃ³k.|
 |Perform Auto-&Type|
-|auto-&Gépelés végrehajtása|
+|auto-&GÃ©pelÃ©s vÃ©grehajtÃ¡sa|
 |&Last Access Time|
-|Utolsó &hozzáférési idõ|
+|UtolsÃ³ &hozzÃ¡fÃ©rÃ©si idÃµ|
 |&Expiration Time|
-|&Lejárati idõ|
+|&LejÃ¡rati idÃµ|
 |UU&ID|
 |UU&ID|
 |UUID|
 |UUID|
 |&Creation Time|
-|&Létrehozási idõ|
+|&LÃ©trehozÃ¡si idÃµ|
 |Last &Modification Time|
-|Utolsó &módosítási idõ|
+|UtolsÃ³ &mÃ³dosÃ­tÃ¡si idÃµ|
 |&Group name|
 |&Csoport neve|
 |Every second row has a different background color. Use this color:|
-|Minden második sor más hátterû. Ehhez ezt a színt használja:|
+|Minden mÃ¡sodik sor mÃ¡s hÃ¡tterÃ». Ehhez ezt a szÃ­nt hasznÃ¡lja:|
 |Default|
-|Alapérték|
+|AlapÃ©rtÃ©k|
 |More Colors...|
-|Több szín...|
+|TÃ¶bb szÃ­n...|
 |Search Results|
-|Keresési eredmény|
+|KeresÃ©si eredmÃ©ny|
 |Creation Time|
-|Létrehozási idõ|
+|LÃ©trehozÃ¡si idÃµ|
 |Last Modification|
-|Utolsó módosítás|
+|UtolsÃ³ mÃ³dosÃ­tÃ¡s|
 |Last Access|
-|Utolsó hozzáférés|
+|UtolsÃ³ hozzÃ¡fÃ©rÃ©s|
 |Expires|
-|Lejár|
+|LejÃ¡r|
 |%u updates are available!|
-|%u frissítés elérhetõ!|
+|%u frissÃ­tÃ©s elÃ©rhetÃµ!|
 |&Delete Group...|
-|Csoport &törlése...|
+|Csoport &tÃ¶rlÃ©se...|
 |1 update is available!|
-|1 frissítés elérhetõ!|
+|1 frissÃ­tÃ©s elÃ©rhetÃµ!|
 |Add &Group...|
-|&Csoport &hozzáadás|
+|&Csoport &hozzÃ¡adÃ¡s|
 |Add Su&bgroup...|
-|&Alcsopot hozzáadás|
+|&Alcsopot hozzÃ¡adÃ¡s|
 |Automatically save when closing/locking the database|
-|Automatikus mentés adatbázis zárolásakor/bezárásakor|
+|Automatikus mentÃ©s adatbÃ¡zis zÃ¡rolÃ¡sakor/bezÃ¡rÃ¡sakor|
 |Available|
-|Elérhetõ|
+|ElÃ©rhetÃµ|
 |Check For Updates|
-|Frissítések keresése|
+|FrissÃ­tÃ©sek keresÃ©se|
 |Check for Updates|
-|Frissítések keresése|
+|FrissÃ­tÃ©sek keresÃ©se|
 |Check for updates at KeePass startup|
-|Frissítések keresése KeePass indításakor|
+|FrissÃ­tÃ©sek keresÃ©se KeePass indÃ­tÃ¡sakor|
 |Choose between local help and online help center.|
-|Választás a helyi súgó és az online súgó központ között.|
+|VÃ¡lasztÃ¡s a helyi sÃºgÃ³ Ã©s az online sÃºgÃ³ kÃ¶zpont kÃ¶zÃ¶tt.|
 |Component|
-|Összetevõ|
+|Ã–sszetevÃµ|
 |Connect failed, cannot check for updates.|
-|Nincs kapcsolat, nem lehet frissítést keresni.|
+|Nincs kapcsolat, nem lehet frissÃ­tÃ©st keresni.|
 |Copy &Password|
-|Jelszó másolása|
+|JelszÃ³ mÃ¡solÃ¡sa|
 |Copy User &Name|
-|Felhasználónév másolása|
+|FelhasznÃ¡lÃ³nÃ©v mÃ¡solÃ¡sa|
 |Ctrl|
 |Ctrl|
 |Delete TAN entries immediately after using them|
-|TAN bejegyzések azonnail törlése használatuk után|
+|TAN bejegyzÃ©sek azonnail tÃ¶rlÃ©se hasznÃ¡latuk utÃ¡n|
 |Ed&it Group...|
-|Csoport szerkesztése|
+|Csoport szerkesztÃ©se|
 |Get more plugins...|
-|További bõvítmények...|
+|TovÃ¡bbi bÃµvÃ­tmÃ©nyek...|
 |Help &Source...|
-|Súgó forrás...|
+|SÃºgÃ³ forrÃ¡s...|
 |Help Source|
-|Súgó forrás|
+|SÃºgÃ³ forrÃ¡s|
 |Installed|
-|Telepítve|
+|TelepÃ­tve|
 |KeePass 1.x cannot open KDBX files.|
-|KeePass 1.x nem tud megnyitni .kdbx fájlokat.|
+|KeePass 1.x nem tud megnyitni .kdbx fÃ¡jlokat.|
 |Local help file|
-|Helyi súgó fájl|
+|Helyi sÃºgÃ³ fÃ¡jl|
 |Lock workspace after the following idle time (seconds):|
-|Munkaterület zárolása ennyi másodperc tétlen idõ után:|
+|MunkaterÃ¼let zÃ¡rolÃ¡sa ennyi mÃ¡sodperc tÃ©tlen idÃµ utÃ¡n:|
 |New version available.|
-|Új verzió elérhetõ.|
+|Ãšj verziÃ³ elÃ©rhetÃµ.|
 |No updates available.|
-|Nincs elérhetõ frissítés.|
+|Nincs elÃ©rhetÃµ frissÃ­tÃ©s.|
 |Online help center|
-|Online súgó központ|
+|Online sÃºgÃ³ kÃ¶zpont|
 |Please choose a different name.|
-|Kérem, válasszon másik nevet.|
+|KÃ©rem, vÃ¡lasszon mÃ¡sik nevet.|
 |Plugin unknown.|
-|Bõvítmény ismeretlen.|
+|BÃµvÃ­tmÃ©ny ismeretlen.|
 |Pre-release version.|
-|Kiadás elõtti verzió.|
+|KiadÃ¡s elÃµtti verziÃ³.|
 |Show &Expired Entries|
-|Mutassa a lejárt bejegyzéseket|
+|Mutassa a lejÃ¡rt bejegyzÃ©seket|
 |Sort List by &Creation Time|
-|Rendezés Készítés dátuma szerint|
+|RendezÃ©s KÃ©szÃ­tÃ©s dÃ¡tuma szerint|
 |Sort List by &Expiration Time|
-|Rendezés Lejárat dátuma szerint|
+|RendezÃ©s LejÃ¡rat dÃ¡tuma szerint|
 |Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
-|KeePass hozzárendelve a .kdb fájlokhoz! Dupla kattintás a .kdb fájlon most már automatikusan indítja a KeePass alkalmazást.|
+|KeePass hozzÃ¡rendelve a .kdb fÃ¡jlokhoz! Dupla kattintÃ¡s a .kdb fÃ¡jlon most mÃ¡r automatikusan indÃ­tja a KeePass alkalmazÃ¡st.|
 |Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
-|Hozzárendelés eltávolítva! KeePass ezentúl nem indul automatikusan a .kdb fájlokon való dupla kattintásra.|
+|HozzÃ¡rendelÃ©s eltÃ¡volÃ­tva! KeePass ezentÃºl nem indul automatikusan a .kdb fÃ¡jlokon valÃ³ dupla kattintÃ¡sra.|
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
-|A helyi súgófájl csak részlegesen tartalmazza a termék dokumentációban foglaltakat a megjelenés idõpontjában érvényes állapotban. Nem frissül automatikusan.|
+|A helyi sÃºgÃ³fÃ¡jl csak rÃ©szlegesen tartalmazza a termÃ©k dokumentÃ¡ciÃ³ban foglaltakat a megjelenÃ©s idÃµpontjÃ¡ban Ã©rvÃ©nyes Ã¡llapotban. Nem frissÃ¼l automatikusan.|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.|
-|Az online súgó központ mindig a termék dokumentáció legfrissebb változatát tartalmazza. Eléréséhez internet kapcsolat szükséges.|
+|Az online sÃºgÃ³ kÃ¶zpont mindig a termÃ©k dokumentÃ¡ciÃ³ legfrissebb vÃ¡ltozatÃ¡t tartalmazza. ElÃ©rÃ©sÃ©hez internet kapcsolat szÃ¼ksÃ©ges.|
 |The specified name is reserved.|
-|A megadott név foglalt.|
+|A megadott nÃ©v foglalt.|
 |This option is disabled, because local help is not installed.|
-|Ez a lehetõség nem elérhetõ, mert a helyi súgó nincs telepítve.|
+|Ez a lehetÃµsÃ©g nem elÃ©rhetÃµ, mert a helyi sÃºgÃ³ nincs telepÃ­tve.|
 |Out of memory|
-|Nincs elég memória|
+|Nincs elÃ©g memÃ³ria|
 |Up to date.|
-|Frissítve.|
+|FrissÃ­tve.|
 |Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
-|CNG/BCrypt használata a kulcs transzformációhoz. (Csak Windows Vista és afelett)|
+|CNG/BCrypt hasznÃ¡lata a kulcs transzformÃ¡ciÃ³hoz. (Csak Windows Vista Ã©s afelett)|
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)|
-|Haladó memória védelem használata (DPAPI, csak Windows Vista és afelett)|
+|HaladÃ³ memÃ³ria vÃ©delem hasznÃ¡lata (DPAPI, csak Windows Vista Ã©s afelett)|
 |Use file transactions for writing databases|
-|Fájl tranzakciók használata az adatbázis írásához.|
+|FÃ¡jl tranzakciÃ³k hasznÃ¡lata az adatbÃ¡zis Ã­rÃ¡sÃ¡hoz.|
 |Use the KeePass 2.x 'Export' feature to migrate this file|
-|KeePass 2.x Export funkció használata e fájl migrálásához|
+|KeePass 2.x Export funkciÃ³ hasznÃ¡lata e fÃ¡jl migrÃ¡lÃ¡sÃ¡hoz|
 |Use the following help source when a "Help" button within KeePass is clicked:|
-|Ennek a súgófájlnak használata a KeePass alkalmazás Súgó gombjára kattintáskor:|
+|Ennek a sÃºgÃ³fÃ¡jlnak hasznÃ¡lata a KeePass alkalmazÃ¡s SÃºgÃ³ gombjÃ¡ra kattintÃ¡skor:|
 |Version|
-|Verzió|
+|VerziÃ³|
 |Workspace is locked.|
-|Munkaterület zárolva.|
+|MunkaterÃ¼let zÃ¡rolva.|
 |see the <A HREF="h">help manual</A> for details.|
-|Lásd a <A HREF="h">Súgó kézikönyvet</A> a részletekért.|
+|LÃ¡sd a <A HREF="h">SÃºgÃ³ kÃ©zikÃ¶nyvet</A> a rÃ©szletekÃ©rt.|
 |&No|
 |&Nem|
 |&Yes|
 |&Igen|
 |Custom database color:|
-|Egyedi adatbázis szín:|
+|Egyedi adatbÃ¡zis szÃ­n:|
 |Minimize main window after locking the workspace|
-|Fõablak minimalizálása munkaterület zárolás után|
+|FÃµablak minimalizÃ¡lÃ¡sa munkaterÃ¼let zÃ¡rolÃ¡s utÃ¡n|
 |Ensure same keyboard layouts during auto-type|
-|Gyõzõdjön meg az azonos billentyûzet-kiosztásról auto-type-hoz|
+|GyÃµzÃµdjÃ¶n meg az azonos billentyÃ»zet-kiosztÃ¡srÃ³l auto-type-hoz|
 |Select &Notes Font|
-|&Betûtípus választás jegyzethez|
+|&BetÃ»tÃ­pus vÃ¡lasztÃ¡s jegyzethez|
 |Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
-|Frissítés ellenõrzések diszkréten a háttérben zajlanak. Figyelmeztetés csak akkor jelenik meg, ha van elérhetõ frissítés. A frissítések nem kerülnek automatikusan letöltésre, sem telepítésre.|
+|FrissÃ­tÃ©s ellenÃµrzÃ©sek diszkrÃ©ten a hÃ¡ttÃ©rben zajlanak. FigyelmeztetÃ©s csak akkor jelenik meg, ha van elÃ©rhetÃµ frissÃ­tÃ©s. A frissÃ­tÃ©sek nem kerÃ¼lnek automatikusan letÃ¶ltÃ©sre, sem telepÃ­tÃ©sre.|
 |Database files cannot be used as key files.|
-|Adatbázis fájlok nem használhatók kulcsfájlként.|
+|AdatbÃ¡zis fÃ¡jlok nem hasznÃ¡lhatÃ³k kulcsfÃ¡jlkÃ©nt.|
 |Enable automatic update check?|
-|Automatikus frissítés ellenõerzés?|
+|Automatikus frissÃ­tÃ©s ellenÃµerzÃ©s?|
 |Focus entry list after a successful quick search|
-|Sikeres gyorskeresés után fókuszt a teljes listára|
+|Sikeres gyorskeresÃ©s utÃ¡n fÃ³kuszt a teljes listÃ¡ra|
 |Include backup entries in quick searches|
-|Backup bejegyzések is a gyorskeresésekben|
+|Backup bejegyzÃ©sek is a gyorskeresÃ©sekben|
 |Include expired entries in quick searches|
-|Lejárt bejegyzések is a gyorskeresésekben|
+|LejÃ¡rt bejegyzÃ©sek is a gyorskeresÃ©sekben|
 |KeePass can automatically check for updates on each program start.|
-|A Keepass képes automatikusan ellenõrizni a frissítéseket minden indításnál.|
+|A Keepass kÃ©pes automatikusan ellenÃµrizni a frissÃ­tÃ©seket minden indÃ­tÃ¡snÃ¡l.|
 |No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
-|Személyes információk nem kerülnek elküldésre a Keepass webszerverre. A Keepass csak egy kis verzióinfó fájlt tölt le és összehasonlítja az elérhetõ verziót a telepített verzióval.|
+|SzemÃ©lyes informÃ¡ciÃ³k nem kerÃ¼lnek elkÃ¼ldÃ©sre a Keepass webszerverre. A Keepass csak egy kis verziÃ³infÃ³ fÃ¡jlt tÃ¶lt le Ã©s Ã¶sszehasonlÃ­tja az elÃ©rhetÃµ verziÃ³t a telepÃ­tett verziÃ³val.|
 |Quick search (toolbar)|
-|Gyors keresés (eszközsáv)|
+|Gyors keresÃ©s (eszkÃ¶zsÃ¡v)|
 |Show tray icon only if main window has been sent to tray|
-|Tálcaikon mutatása csak akkor, ha az ablak a tálcára küldve|
+|TÃ¡lcaikon mutatÃ¡sa csak akkor, ha az ablak a tÃ¡lcÃ¡ra kÃ¼ldve|
 |The database is empty|
-|Az adatbázis üres|
+|Az adatbÃ¡zis Ã¼res|
 |recommended|
-|ajánlott|
+|ajÃ¡nlott|
 |{PARAM} more entries|
-|{PARAM} további tétel|
+|{PARAM} tovÃ¡bbi tÃ©tel|
 |In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
-|Javítás üzemmódban  az adatok integritása nem kerül elleõrzésre (a lehetõ legtöbb adat megmentése érdekében). Amikor nincs adat-integritás ellenõrzés, hibás vagy rosszindulatú adatok is bekerülhetnek az adatbázisba.|
+|JavÃ­tÃ¡s Ã¼zemmÃ³dban  az adatok integritÃ¡sa nem kerÃ¼l elleÃµrzÃ©sre (a lehetÃµ legtÃ¶bb adat megmentÃ©se Ã©rdekÃ©ben). Amikor nincs adat-integritÃ¡s ellenÃµrzÃ©s, hibÃ¡s vagy rosszindulatÃº adatok is bekerÃ¼lhetnek az adatbÃ¡zisba.|
 |Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
-|A javítás funkciót csak akkor célszerû választani, ha tényleg nincs más megoldás. Ha ezt választod, utána ellenõrizni kell a teljes adatbázist, hogy nem kerültek-e bele hibás vagy rosszindulatú adatok |
+|A javÃ­tÃ¡s funkciÃ³t csak akkor cÃ©lszerÃ» vÃ¡lasztani, ha tÃ©nyleg nincs mÃ¡s megoldÃ¡s. Ha ezt vÃ¡lasztod, utÃ¡na ellenÃµrizni kell a teljes adatbÃ¡zist, hogy nem kerÃ¼ltek-e bele hibÃ¡s vagy rosszindulatÃº adatok |
 |Warning|
-|Figyelmeztetés|
+|FigyelmeztetÃ©s|
 |Are you sure you want to attempt to repair a database file?|
-|Valóban meg akarod kísérelni az adatbázisfájl javítását?|
+|ValÃ³ban meg akarod kÃ­sÃ©relni az adatbÃ¡zisfÃ¡jl javÃ­tÃ¡sÃ¡t?|
 |Press Shift+Home or Shift+End to clear this edit control|
-|Nyomj Shift+Home vagy Shift+End billentyût a szerkesztõ törléséhez|
+|Nyomj Shift+Home vagy Shift+End billentyÃ»t a szerkesztÃµ tÃ¶rlÃ©sÃ©hez|
 |Saving database...|
-|Adatbázis mentése...|
+|AdatbÃ¡zis mentÃ©se...|
 |ch.|
 |kar.|
 |Accept this password?|
-|Elfogadja ezt a jelszót?|
+|Elfogadja ezt a jelszÃ³t?|
 |Delete &attachments|
-|M&ellékletek törlése|
+|M&ellÃ©kletek tÃ¶rlÃ©se|
 |The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
-|A generált jelszó egy helyõrzõt tartalmaz. Ha ezt a jelszót használja (pl. a vágólapra másolja vagy auto-type-ot használ), a helyõrzõ lecserélésre kerül, azaz egy másik jelszóként használható.|
+|A generÃ¡lt jelszÃ³ egy helyÃµrzÃµt tartalmaz. Ha ezt a jelszÃ³t hasznÃ¡lja (pl. a vÃ¡gÃ³lapra mÃ¡solja vagy auto-type-ot hasznÃ¡l), a helyÃµrzÃµ lecserÃ©lÃ©sre kerÃ¼l, azaz egy mÃ¡sik jelszÃ³kÃ©nt hasznÃ¡lhatÃ³.|
 |&Show dialog for collecting user input as additional entropy|
-|Felhasználói bevitel dialógusablak a további entrópiához|
+|FelhasznÃ¡lÃ³i bevitel dialÃ³gusablak a tovÃ¡bbi entrÃ³piÃ¡hoz|
 |Do not store data in the Windows clipboard history and the cloud clipboard|
-|Ne tároljon adatot sem a Windows vágólap elõzményekben sem a felhõ vágólapon|
+|Ne tÃ¡roljon adatot sem a Windows vÃ¡gÃ³lap elÃµzmÃ©nyekben sem a felhÃµ vÃ¡gÃ³lapon|
 |The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
-|A következõ opciók a vágólap parancsokra vonatkoznak a fõablakban (mint 'Felhasználónév másolás' és 'Jelszó másolás').|
+|A kÃ¶vetkezÃµ opciÃ³k a vÃ¡gÃ³lap parancsokra vonatkoznak a fÃµablakban (mint 'FelhasznÃ¡lÃ³nÃ©v mÃ¡solÃ¡s' Ã©s 'JelszÃ³ mÃ¡solÃ¡s').|
 |The character set is invalid|
-|A karakterkészlet érvénytelen|
+|A karakterkÃ©szlet Ã©rvÃ©nytelen|
 |The pattern is invalid|
-|A minta érvénytelen|
+|A minta Ã©rvÃ©nytelen|
