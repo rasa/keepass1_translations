@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Català|
-|~LANGUAGEVERSION||1.39|
+|~LANGUAGEVERSION||1.40|
 |~LANGUAGEAUTHOR||Albert Morera|
 |~LANGUAGEAUTHOREMAIL||@|
 |- Arcfour crypto routine||- Rutina criptogràfica Arcfour|
@@ -367,6 +367,7 @@
 |Invalid/corrupted file structure||Estructura del fitxer invàlida/corrupta|
 |Invalid/wrong key||Clau invàlida/equivocada|
 |It contains an unmatched quote||Conté cometes no tancades|
+|It is important that you remember where the database file is stored.||És important que recordeu on heu desat el fitxer de dades.|
 |Just hack some random keys into the edit box above.||Premeu aleatòriament diverses tecles a la caixa de text de dalt.|
 |KeePass - Save Before Close/Lock?||KeePass – Desa abans de tancar/bloquejar?|
 |KeePass &Website||&Web del KeePass|
@@ -692,5 +693,7 @@
 |You have changed an option that requires restarting KeePass to get active.||Heu canviat una opció que requereix reiniciar el KeePass per a tenir efecte.|
 |You have the latest version.||Teniu l'última versió disponible.|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.||Abans de tancar aquesta finestra de diàleg, heu de generar valors aleatoris emprant el ratolí a la casella o bé amb el teclat en el camp d'edició.|
+|You should regularly create a backup of the database file (onto an independent data storage device).||Hauríeu de crear regularment una còpia de seguretat del fitxer base de dades (en un dispositiu d’emmagatzematge diferent).  |
+|Your data will be stored in a KeePass database file, which is a regular file. When saving for the first time, you will be prompted to specify the location where KeePass should save this file.||Les vostres dades s’emmagatzemaran en un fitxer base de dades de KeePass. Quan es desi per primer cop, se us demanarà que especifiqueu la ubicació on el KeePass ha de desar el fitxer.|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||La vostra clau es xifra diverses vegades per construir la clau final de xifratge de la vostra base de dades. Això afegeix un factor que fa que els atacs per endevinació o diccionari hagin de ser més durs.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.||Heu seleccionat utilitzar contrasenya i fitxer, per tant heu d'introduir una contrasenya i un fitxer de clau.|
