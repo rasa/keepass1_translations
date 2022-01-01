@@ -2,7 +2,7 @@
 |~LANGUAGEAUTHOR||Kari Eveli|
 |~LANGUAGEAUTHOREMAIL||lexitec@lexitec.fi|
 |~LANGUAGENAME||suomi|
-|~LANGUAGEVERSION||1.39|
+|~LANGUAGEVERSION||1.40|
 |- Arcfour crypto routine||- Arcfour-salausrutiini|
 |- Rijndael decryption||- Rijndael-salauksenpurku|
 |- Rijndael encryption||- Rijndael-salauksenluonti|
@@ -363,6 +363,7 @@
 |Invalid/corrupted file structure||Vääränlainen/korruptoitunut tiedostorakenne|
 |Invalid/wrong key||Vääränlainen/väärä avain|
 |It contains an unmatched quote||Se sisältää parittoman lainauksen|
+|It is important that you remember where the database file is stored.||On tärkeää, että muistat minne tietokantatiedosto on tallennettu.|
 |Just hack some random keys into the edit box above.||Näpyttele yllä olevaan ikkunaan satunnaisia merkkejä.|
 |KeePass - Save Before Close/Lock?||KeePass - Tallennatko ennen sulkemista/lukitusta?|
 |KeePass &Website||Keepassin &verkkosivusto|
@@ -688,5 +689,7 @@
 |You have changed an option that requires restarting KeePass to get active.||Olet vaihtanut asetusta joka vaatii KeePass:in uudelleenkäynnistämisen tullakseen aktiiviseksi.|
 |You have the latest version.||Sinulla on käytössäsi uusin versio.|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.||Sinun täytyy kirjoittaa satunnaisia arvoja käyttämällä satunnaista hiirisyöttöä tai muokkaa kenttää ennenkuin voit sulkea tämän dialogin.|
+|You should regularly create a backup of the database file (onto an independent data storage device).||Tietokantatiedosto tulisi säännöllisesti varmistaa (erilliselle tiedontallennusvälineeelle).|
+|Your data will be stored in a KeePass database file, which is a regular file. When saving for the first time, you will be prompted to specify the location where KeePass should save this file.||Tiedot tallennetaan KeePass-tietokantatiedostoon, mikä on tavallinen tiedosto. Tiedoston tallennussijainti pyydetään määrittelemään, kun tallennat tämän tiedoston ensi kerran.|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||Avaimesi on käynyt läpi monta salausiteraatiota lopullisen tietokannan salausavaimen luomiseksi. Tämä lisää vakioaikatekijän, mikä tekee arvailun ja sanakirjahyökkäykset paljon vaikeammaksi.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.||Olet valinnut 'JA avain' -tilan, joten sinun on syötettävä salasana JA valittava avaintiedosto|
