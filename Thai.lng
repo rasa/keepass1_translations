@@ -1,5 +1,5 @@
 |~LANGUAGENAME||ไทย|
-|~LANGUAGEVERSION||1.39|
+|~LANGUAGEVERSION||1.40|
 |~LANGUAGEAUTHOR||K. sirap|
 |~LANGUAGEAUTHOREMAIL||https://github.com/minoplhy|
 |~LANGISO6391CODE||th|
@@ -690,3 +690,6 @@
 |Do not store data in the Windows clipboard history and the cloud clipboard||อย่าจัดเก็บข้อมูลในประวัติคลิปบอร์ดของ Windows และคลิปบอร์ดบนคลาวด์|
 |The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').||ตัวเลือกต่อไปนี้ใช้กับคำสั่งคลิปบอร์ดรายการในหน้าต่างหลัก (เช่น 'คัดลอกชื่อผู้ใช้' และ 'คัดลอกรหัสผ่าน')|
 |Consider similar dashes as identical||พิจารณาขีดกลางที่คล้ายกันว่าเหมือนกัน|
+|It is important that you remember where the database file is stored.||เป็นสิ่งสำคัญที่คุณต้องจำตำแหน่งที่เก็บไฟล์ฐานข้อมูล|
+|You should regularly create a backup of the database file (onto an independent data storage device).||คุณควรสํารองไฟล์ฐานข้อมูลเป็นประจำ (ไปยังอุปกรณ์จัดเก็บข้อมูลอิสระ)|
+|Your data will be stored in a KeePass database file, which is a regular file. When saving for the first time, you will be prompted to specify the location where KeePass should save this file.||ข้อมูลของคุณจะถูกเก็บไว้ในไฟล์ฐานข้อมูล KeePass ซึ่งเป็นไฟล์ปกติ เมื่อบันทึกเป็นครั้งแรก คุณจะได้รับแจ้งให้ระบุตำแหน่งที่ KeePass ควรบันทึกไฟล์นี้|
