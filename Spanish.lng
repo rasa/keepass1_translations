@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.39|
+|~LANGUAGEVERSION||1.40|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |~LANGISO6391CODE||es|
@@ -292,7 +292,7 @@
 |Find what:||Buscar:|
 |Find||Encontrar|
 |General||General|
-|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.||Generar una nueva clave y sobreescribir el archivo de clave existente.|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.||Generar una nueva clave y sobreescribir el archivo de clave existente. La clave guardada actualmente en el archivo de clave se perderá.|
 |Generate a random password...||Generar una contraseña aleatoria...|
 |Generate using character set:||Generar usando un conjunto de caracteres:|
 |Generate using pattern:||Generar siguiendo un patrón|
@@ -350,6 +350,7 @@
 |Invalid/corrupted file structure||Estructura de archivo inválida/dañada|
 |Invalid/wrong key||Clave inválida/incorrecta|
 |It contains an unmatched quote||Contiene una comilla no cerrada|
+|It is important that you remember where the database file is stored.||Es de suma importancia que recuerde en dónde será guardada la base de datos.|
 |Just hack some random keys into the edit box above.||Escribas algunas claves aleatorias dentro del cuadro superior.|
 |KeePass - Save Before Close/Lock?||KeePass - ¿Guardar antes de Cerrar/Bloquear?|
 |KeePass 1.x cannot open KDBX files.||KeePass 1.x no puede abrir archivos KDBX.|
@@ -664,6 +665,8 @@
 |You have changed an option that requires restarting KeePass to get active.||Usted a cambiado una opción que requiere reiniciar KeePass para que tenga efecto.|
 |You have the latest version.||Usted cuenta con la versión más reciente.|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.||Usted debe generar valores aleatorios utilizando la entrada aleatoria del mouse o el cuadro de edición antes de poder cerrar este diálogo.|
+|You should regularly create a backup of the database file (onto an independent data storage device).||Debe crear regularmente un respaldo de la base de datos (en un dispositivo de almacenamiento independiente).|
+|Your data will be stored in a KeePass database file, which is a regular file. When saving for the first time, you will be prompted to specify the location where KeePass should save this file.||Su información se almacenará en un archivo de base de datos KeePass, el cual es un archivo regular. Al guardar por primera vez, se le solicitará que especifique la ubicación donde KeePass deberá guardar este archivo.|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.||Su clave es cifrada varias veces con la finalidad de aumentar su seguridad, haciéndola más resistente a ataques de diccionario.|
 |You've selected the AND key mode, so you must enter a password AND select a key file.||Usted ha escogido el método de clave 'AND', debe introducir una contraseña y (AND) además seleccionar un archivo de clave.|
 |Remember key sources (key file paths, provider names, ...)||Recordar información de los archivos de clave (rutas de los archivos, nombre de proveedores, etc.)|
