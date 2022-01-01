@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.39|
+|1.40|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
@@ -482,8 +482,6 @@
 |Supprimer la pièce actuellement jointe|
 |Close button [X] minimizes the main window instead of terminating the application|
 |Le bouton Fermer [X] minimise la fenêtre principale au lieu de quitter l'application|
-|KeePass Password Database|
-|Base de données de mots de passe KeePass|
 |&Open with KeePass|
 |&Ouvrir avec KeePass|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
@@ -868,8 +866,6 @@
 |Parenthèses ([, ], {, }, (, ) <, >)|
 |Click [No] to reuse the selected key file for this database.|
 |Cliquez sur [Non] pour réutiliser le fichier clé sélectionné pour cette base de mots de passe.|
-|Enter Composite Master Key|
-|Saisissez votre clé principale composée|
 |&Use master password and key file|
 |&Utilisez un mot de passe maître et un fichier clé|
 |Upper-case (A, B, C, ...)|
@@ -918,10 +914,6 @@
 |AU CHOIX entrez un mot de passe maître OU sélectionnez un fichier clé.|
 |Enter Password:|
 |Saisir mot de passe :|
-|Enter the composite master key.|
-|Saisissez la clé principale composée.|
-|Enter the new composite master key.|
-|Saisissez une nouvelle clé principale composée.|
 |Exclude look-alike characters|
 |Exclure les caractères similaires|
 |(Automatically generated passwords for new entries)|
@@ -932,20 +924,14 @@
 |Inclure également les caractères suivants :|
 |Attachment Description|
 |Description de la pièce jointe|
-|Change Composite Master Key|
-|Modifiez la clé principale composée|
 |Click [Yes] to overwrite the key file.|
 |Cliquer [Oui] pour écraser le fichier clé.|
-|Create New Password Database|
-|Créer une nouvelle base de données de mots de passe|
 |Current settings|
 |Paramètres actuels|
 |Delete currently selected profile.|
 |Effacer le profil actuellement sélectionné.|
 |Here you can generate a random password.|
 |Vous pouvez générer ici un mot de passe aléatoire.|
-|KeePass Password Safe Files|
-|Fichiers KeePass Password Safe|
 |Repeat the master password for the new database.|
 |Confirmez le mot de passe maître.|
 |Repeat the new master password for this database.|
@@ -954,12 +940,6 @@
 |Enregistrez manuellement le fichier sous...|
 |Select key file manually...|
 |Sélectionnez le fichier clé manuellement...|
-|Set Composite Master Key|
-|Définissez la clé principale composée|
-|Specify the composite master key.|
-|Définissez la clé principale composée.|
-|The composite master key has been changed!|
-|La clé principale composée a été modifiée !|
 |Use local date/time format instead of ISO notation|
 |Utilisez le format local de date/heure plutôt que la notation ISO|
 |If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
@@ -1404,3 +1384,9 @@
 |Spécifier la nouvelle clé principale.|
 |The master key has been changed!|
 |La clé principale a été modifiée !|
+|It is important that you remember where the database file is stored.|
+|Il est important que vous vous souveniez de l'endroit où le fichier de la base de données est enregistré.|
+|You should regularly create a backup of the database file (onto an independent data storage device).|
+|Vous devriez régulièrement créer une sauvegarde du fichier de la base de données (sur un équipement de stockage de données indépendant).|
+|Your data will be stored in a KeePass database file, which is a regular file. When saving for the first time, you will be prompted to specify the location where KeePass should save this file.|
+|Vos données seront enregistrées dans un fichier de base de données au format KeePass, qui est un fichier normalisé. En l'enregistrant à sa toute première fois, vous serez invité à spécifier l'endroit où KeePass devra enregistrer ce fichier.|
