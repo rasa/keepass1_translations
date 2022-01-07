@@ -1,0 +1,960 @@
+|~LANGUAGENAME|                |Euskera|
+|~LANGUAGEVERSION|             |1.40|
+|~LANGUAGEAUTHOR|              |Alesander Gil Almandoz|
+|~LANGUAGEAUTHOREMAIL|         |alesander.gil@gmail.com|
+|~LANGISO6391CODE|             |eu|
+
+|OK|                           |Ados|
+|Cancel|                       |Baztertu|
+
+|&Generate Random Password|    |&Sortu ausazko pasahitza|
+|Choose an icon.|              |Hautatu ikono bat.|
+
+|General|                      |Orokorra|
+|Windows|                      |Windows|
+|Network|                      |Sarea|
+|Internet|                     |Internet|
+|eMail|                        |eMail|
+|Homebanking|                  |Bankua etxean|
+
+|Entry|                        |Sarrera|
+
+|&Title|                       |I&zenburua|
+|User &Name|                   |E&rabiltzaile-izena|
+|&URL|                         |&URL|
+|&Password|                    |&Pasahitza|
+|N&otes|                       |&Oharrak|
+|&Case sensitive|              |&Hizki larriak eta xeheak bereizi|
+|Search in|                    |Bilatu hemen|
+|Find what:|                   |Zeren bila:|
+|Find|                         |Aurkitu|
+|&Find|                        |&Aurkitu|
+|Find a string in the entry list.|  |Aurkitu kate bat sarrera-zerrendan.|
+
+|About KeePass|                |KeePass-i buruz|
+
+|Group|                        |Taldea|
+|Title|                        |Izenburua|
+|User Name|                    |Erabiltzaile-izena|
+|User &name|                   |Erabiltzaile-&izena|
+|URL|                          |URL|
+|Password|                     |Pasahitza|
+|Notes|                        |Oharrak|
+
+|Ready.|                       |Gertu.|
+
+|Enter Password:|              |Sartu pasahitza:|
+|Master Password:|             |Pasahitz Nagusia:|
+|Create New Database|          |Sortu datu-base berria|
+|Set Master Key|               |Ezarri Gako Nagusia|
+|Specify the master key.|      |Zehaztu gako nagusia.|
+|Repeat Master Password|       |Errepikatu pasahitz nagusia|
+|Repeat the master password for the new database.|
+    |Errepikatu pasahitz nagusia datu-base berriarentzat.|
+|Open Database|                |Ireki datu-basea|
+|Enter Master Key|             |Idatzi Gako Nagusia|
+|Enter the master key.|        |Idatzi gako nagusia.|
+|(No key file selected)|       |(Gako-artxiboa hautaturik ez dago)|
+|Key File|                     |Gako-artxiboa|
+
+|Password Generator|           |Pasahitz-Sorgailua|
+|Here you can generate a random password.|        |Ausazko pasahitza sortu ahal duzu hemen.|
+|Options|                      |Aukerak|
+|Current settings|             |Oraingo ezarpenak|
+|&Show dialog for collecting user input as additional entropy|
+    |&Erakutsi erabiltzaile-sarrera elkarrizketa, entropia gehitzearren|
+|Generated password|           |Sortutako pasahitza|
+|&Generate|                    |&Sortu|
+|&Accept|                      |&Onartu|
+|Upper-case (A, B, C, ...)|
+    |Hizki larriak (A, B, C, ...)|
+|Lower-case (a, b, c, ...)|
+    |Hizki xeheak (a, b, c, ...)|
+|Digits (0, 1, 2, ...)|
+    |Zenbakiak (1, 2, 3, ...)|
+|Underline (_)|
+    |Azpimarra (_)|
+|Minus (-)|
+    |Ken ikurra (-)|
+|Space ( )|
+    |Hutsunea ( )|
+|Special|
+    |Ikur bereziak|
+|Latin-1 Supplement|
+    |Latin-1 Gehigarria|
+|Brackets ([, ], {, }, (, ), <, >)|
+    |Parentesiak ([, ], {, }, (, ), <, >)|
+
+|Group:|                       |Taldea:|
+|Title:|                       |Izenburua:|
+|User name:|                   |Erabiltzaile-izena:|
+|URL:|                         |URL:|
+|Icon:|                        |Ikonoa:|
+|Password:|                    |Pasahitza:|
+|Repeat:|                      |Pasahitza errepik.:|
+|Notes:|                       |Oharrak:|
+|***|                          |***|
+
+|Add Entry|                    |Gehitu sarrera|
+|Create a new password entry.| |Sortu pasahitz-sarrera berria.|
+|Edit Entry|                   |Aldatu sarrera|
+|Modify existing password entry.| |Aldatu badagoen pasahitz-sarrera.|
+
+|Group name:|                  |Talde-izena:|
+
+|Add Group|                    |Gehitu talde bat|
+|Create a new password group.| |Sortu pasahitz-talde berri bat.|
+|Edit Group|                   |Aldatu taldea|
+|Modify existing password group.|  |Aldatu lehendik dagoen pasahitz-taldea.|
+
+|Random mouse input|           |Ausazko sagu-sarrera|
+|Click to begin:|              |Egin klik hasteko:|
+|Use &Mouse as Random Source|  |Erabili &sagua ausazko sorburu modura|
+|Move the mouse in the field above until this is full:|
+    |Sagua mugitu goiko eremuan osorik bete arte:|
+|Hint: It is best to use both mouse and keyboard random sources.|
+    |Iradokizuna: Hobe Sagua eta Teklatua ausazko sorburu modura erabiltzea.|
+|Random keyboard input|        |Ausazko teklatu-sarrera|
+|Just hack some random keys into the edit box above.|
+    |Goiko edizio-koadroan ausazko tekla batzuk sakatu besterik ez duzu.|
+|You don't have to remember the keys you type in. They are used to generate a random value.|
+    |Sakatzen dituzun gakoak ez dituzu zertan gogoratu behar. Ausazko balioa sortzeko baino ez dira erabiltzen.|
+|So, the more the better. The different, the better.| \
+    |Beraz, gehiago eta ezberdinago, orduan eta hobeto.| \
+|The random the better.|       THIS ISN'T A ONE-TO-ONE TRANSLATION!
+    |Zenbat eta ausazkoago, orduan eta hobeto.| /
+|Get Random|                   |Lortu ausazko datuak|
+|Get Random Data for Key Generation|           |Lortu ausazko datuak gakoa sortzeko|
+|Move the mouse and type some random text to generate random values.|
+    |Mugitu sagua eta sakatu ausazko gako batzuk ausazko balioak sortzeko.|
+
+|Pick an Icon|                 |Hautatu ikono bat|
+|Choose an icon from the list of available entry and group icons.|
+    |Aukeratu ikono bat eskura dagoen sarrera eta talde ikonoen zerrendatik.|
+
+|&File|                        |Ar&txiboa|
+|&Edit|                        |&Aldatu|
+|&View|                        |I&kuspegia|
+|&?|                           |&?|
+
+|&New...|                      |&Berria...|
+|&Open...|                     |&Ireki...|
+|&Close|                       |I&txi|
+|&Save|                        |&Gorde|
+|Save &As...|                  |Gorde &non...|
+|Change &Master Key...|        |Al&datu Gako Nagusia...|
+|&Print...|                    |I&rarri...|
+|&Export|                      |&Esportatu|
+|&Lock Workspace|              |&Blokeatu lan-esparrua|
+|&Unlock Workspace|            |&Desblokeatu lan-esparrua|
+|E&xit|                        |Irt&en|
+
+|&Lock/Unlock Workspace|       |&Blokeatu/desblokeatu lan-esparrua|
+
+|&Options...|                  |&Aukerak...|
+|Add &Group...|                |Gehitu &Taldea...|
+|Add Su&bgroup...|             |Gehitu &Azpitaldea...|
+|Ed&it Group...|               |Al&datu taldea...|
+|&Delete Group...|             |&Ezabatu taldea...|
+|Pr&int Group...|              |I&rarri taldea...|
+|Copy User &Name|              |&Kopiatu erabiltzaile-izena|
+|Copy &Password|               |Kopiatu &pasahitza|
+|Open &URL(s)|                 |Ireki &URLa(k)|
+|&Find in Database...|         |Aurkitu &datu-basean...|
+|Find in t&his Group...|       |Aurkitu t&alde honetan...|
+|&Add Entry...|                |Gehitu &sarrera...|
+|&Edit/View Entry...|          |A&ldatu/ikusi sarrera...|
+|&Delete Entry|                |E&zabatu sarrera|
+|Dupli&cate Entry|             |&Bikoiztu sarrera|
+|Move Entry to &Top|           |Bidali sarrera &goienera|
+|Move Entry &One Up|           |Bidali sarrera &bat gorantz|
+|Mo&ve Entry One Down|         |Bidali sarrera bat be&herantz|
+|Move Entry to &Bottom|        |Bidali sarrera &amaierera|
+
+|Move Group to &Top|           |Bidali taldea &goinenera|
+|Move Group One &Up|           |Bidali taldea &bat gorantz|
+|Move Group &One Down|         |Bidali taldea bat be&herantz|
+|Move Group to &Bottom|        |Bidali taldea &amaierera|
+
+|Change &Language...|          |Aldatu &Hizkuntza...|
+|&Always on Top|               |&Beti goian|
+|Hide &Passwords Behind Asterisks (***)|       |Ezkutatu &pasahitzak izartxopean (***)|
+|Hide passwords behind asterisks (***).|       |Ezkutatu pasahitzak izartxopean (***).|
+
+|Password &Generator...|       |Pasahitz-&Sorgailua...|
+
+|KeePass &Website|             |KeePass-en &Webgunea|
+|&About KeePass...|            |KeePass-i &buruz...|
+
+|&Database Settings...|        |Da&tu-basearen Ezarpenak...|
+
+|&Tray/Untray|                 |&Erretilura/Erretilutik at|
+
+|Version|                      |Bertsioa|
+
+|Password and repeated password aren't identical!|
+    |Pasahitza eta errepikatutako pasahitza ez dira berdinak!|
+
+|Stop|                         |Geldi|
+
+|Enter a group name!|          |Idatzi izena taldearentzat!|
+|You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
+    |Ausazko balio batzuk sortu behar dituzu, saguaren ausazko sarrera-leihoa edo editatzeko eremua erabiliz, elkarrizketa-koadro hau itxi aurretik.|
+|No random input|              |Ausazko sarrerarik ez|
+|EITHER enter a master password OR select a key file.|
+    |Bietako bat, idatzi pasahitz nagusi bat ALA hautatu gako-artxibo bat.|
+|The password must consist of at least one character!|
+    |Pasahitzak karaktere bat izan behar du gutxienez!|
+|Select at least one of the options in the list above!|
+    |Hautatu goiko zerrendako aukeretako bat gutxienez!|
+
+|The following self-tests failed:|
+    |Hurrengo auto-probek huts egin dute:|
+|- SHA 32-bit variables|       |- SHA 32-bit aldagaiak|
+|- SHA 64-bit variables|       |- SHA 64-bit aldagaiak|
+|- SHA-256 test vector(s)|     |- SHA-256 testbektorea(k)|
+|- SHA-512 test vector(s)|     |- SHA-512 testbektorea(k)|
+|- Rijndael encryption|        |- Rijndael-zifraketa|
+|- Rijndael decryption|        |- Rijndael-deszifraketa|
+|- Arcfour crypto routine|     |- Arcfour zifraketa modulua|
+|- Twofish algorithm|          |- Twofish-Algoritmoa|
+
+|The program will exit now.|   |Programa itxi egingo da orain.|
+|Self-Test(s) Failed|          |Auto-probak huts egin du(te)|
+
+|Clipboard cleared.|           |Arbela garbitua izan da.|
+|Field copied to clipboard. Clipboard will be cleared in %d seconds.|
+    |Eremua arbelera kopiatua izan da. Arbela %d segundutan garbituko da.|
+
+|Failed to set the master key!|
+    |Ezin izan da gako nagusia ezarri !|
+|File cannot be opened!|
+    |Artxiboa ezin da ireki!|
+|File cannot be saved!|
+    |Artxiboa ezin da gorde!|
+
+|KeePass KDB Files|            |KeePass KDB-artxiboak|
+|All Files|                    |Artxibo guztiak|
+
+|The current database file has been modified|
+    |Oraingo datu-base artxiboa aldatua izan da|
+|Do you want to save the changes before closing?|
+    |Aldaketak gorde nahi dituzu itxi aurretik?|
+|KeePass - Save Before Close/Lock?|   |KeePass - Gorde irten/itxi aurretik?|
+
+|Deleting a group will delete all items and subgroups in that group, too.|
+    |Talde bat ezabatuz, talde horretako osagai eta azpitalde guztiak ere ezabatuko dira.|
+|Are you sure you want to delete this group?|
+    |Ziur zaude talde hau ezabatu nahi duzula?|
+|Delete Group Confirmation|
+    |Taldea ezabatzeko berrespena|
+
+|Cannot open temporary file for printing!|
+    |Aldi baterako fitxategia ezin da inprimatzeko ireki!|
+
+|Select Language|              |Hautatu hizkuntza|
+|Here you can change the user interface language.|
+    |Hemen erabiltzaile interfazearen hizkuntza alda dezakezu.|
+|Installed Languages|          |Ezarritako Hizkuntzak|
+
+|&Help|                        |&Laguntza|
+|&Help Contents|               |&Laguntza Edukiak|
+|Open &Help File|              |Ireki &Laguntza-artxiboa|
+|Open &License File|           |Ireki &Lizentzi-artxiboa|
+
+|Newline sequence:|            |Lerroberri-sekuentzia:|
+|Windows newline sequence (\r\n)|              |Windows lerroberri-sekuentzia (\r\n)|
+|Unix newline sequence (\n)|   |Unix lerroberri-sekuentzia (\n)|
+|Clipboard auto-clear time (seconds):|   |Arbela automatikoki garbitzeko denbora (segundutan):|
+|Settings|                     |Ezarpenak|
+|Here you can configure KeePass.|              |Hemen KeePass egokitu dezakezu.|
+|Automatically open last used database on startup|
+    |Abiaraztean, ireki automatikoki azkenez erabilitako datu-basea|
+|Automatically save when closing/locking the database|
+    |Gorde automatikoki, datu-basea ixten/blokeatzen denean|
+|Display images on buttons|
+    |Erakutsi irudiak botoietan|
+|Show grid lines in the entry list|
+    |Erakutsi sareta-lerroak sarrera-zerrendan|
+|Workspace is locked.|
+    |Lan-eremua blokeaturik dago.|
+|Workspace locked|
+    |Lan-eremua blokeaturik|
+
+|Loading error|                |Kargatze-akatsa|
+|Language file cannot be opened!|
+    |Ezin da hizkuntz-artxiboa ireki!|
+|Language file cannot be activated!|
+    |Ezin da hizkuntz-artxiboa gaitu!|
+|The selected language has been activated. KeePass must be restarted in order to load the language.|
+    |Hautatutako hizkuntza gaitua izan da. KeePass berrabiarazi behar da hizkuntza kargatzeko.|
+|Do you wish to restart KeePass now?|
+    |KeePass berrabiarazi nahi duzu orain?|
+|Restart KeePass?|
+    |KeePass berrabiarazi?|
+|Application cannot be restarted automatically!|
+    |Aplikazioa ezin da automatikoki berrabiarazi!|
+|Please restart KeePass manually.|
+    |Berrabiarazi KeePass eskuz, mesedez.|
+
+|CSV Files|                    |CSV-artxiboak|
+|Text Files|                   |Testu-artxiboak|
+|An error occurred while importing the file. File cannot be imported.|
+    |Akats bat izan da artxiboa inportatzerakoan. Ezin izan da artxiboa inportatu.|
+|&PwSafe v2 TXT File...|       |&PwSafe v2 TXT-artxiboa...|
+|Select &Font|                 |Hautatu &hizkimoldea|
+|Select &Password Font|        |Hautatu &pasahitzaren hizkimoldea|
+|Select &Notes Font|           |Hautatu &oharren hizkimoldea|
+|Select a new font for the list controls:| |Hautatu hizkimolde berria zerrenda-kontrolentzat:|
+
+|Code&Wallet TXT File...|      |Code&Wallet TXT-artxiboa...|
+|&TXT File...|                 |&TXT-artxiboa...|
+|&HTML File...|                |&HTML-artxiboa...|
+|&XML File...|                 |&XML-artxiboa...|
+|&CSV File...|                 |&CSV-artxiboa...|
+|&Import|                      |&Inportatu|
+
+|Get More &Languages...|       |Eskuratu &hizkuntza gehiago...|
+|Start and exit|               |Hasi eta irten|
+|Interface (GUI)|              |Interfazea (GUI)|
+|Files|                        |Artxiboa|
+|Memory|                       |Memoria|
+|Lock workspace when minimizing the main window|
+    |Blokeatu lan-eremua leiho nagusia txikitzean|
+|Minimize to tray instead of taskbar|
+    |Minimizatu erretilura, ataza-barraren ordez|
+
+|Encryption algorithm to use (for this database):| |Erabiliko den zifratze-algoritmoa (datu-base honetarako):|
+|Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
+    |Advanced Encryption Standard (AES) (128 biteko bloke zifraketa 256 biteko gakoa erabiliz)|
+|Twofish (128-bit block cipher using 256-bit key)|
+    |Twofish (128 biteko bloke zifraketa 256 biteko gakoa erabiliz)|
+|Security|                     |Segurtasuna|
+|KeePass is OSI Certified Open Source Software.|
+    |KeePass OSI ziurtagiridun Kode Irekiko Softwarea da.|
+|Lock workspace after the following idle time (seconds):|
+    |&Blokeatu lan-eremua KeePass-en jarduerarik ezaren ondoren (segundutan):|
+|&Group name|                  |&Talde-izena|
+|Every second row has a different background color. Use this color:|
+    |Bi lerrotan behin, hondo-kolore ezberdina erabiltzen da. Erabili margo hau:|
+|Default|                      |Lehenetsirik|
+|More Colors...|               |Margo gehiago...|
+|Search Results|               |Bilaketaren Emaitzak|
+
+|Creation Time|                |Sorkuntza Unea|
+|Last Modification|            |Azken Aldaketa|
+|Last Access|                  |Azken Sarbidea|
+|Expires|                      |Noiz iraungiko|
+|UUID|                         |UUID|
+
+|&Creation Time|               |Sor&kuntza Unea|
+|Last &Modification Time|      |&Azken Aldaketaren Ordua|
+|&Last Access Time|            |Azken &Sarbidearen Ordua|
+|&Expiration Time|             |&Noiz iraungiko|
+|UU&ID|                        |UU&ID|
+
+|Show &Toolbar|                |Erakutsi &Tresna-barra|
+|KeePass Website|              |KeePass-en Webgunea|
+|Field copied to clipboard.|   |Eremua arbelera kopiatua izan da.|
+
+|A key file already exists on this drive. Do you want to overwrite or reuse it?|
+    |Dagoeneko gako-fitxategi bat dago unitate honetan. Gainidatzi edo berrerabili nahi duzu?|
+|Click [Yes] to overwrite the key file.| |Egin klik [Bai]-en, gako-artxiboa gainidazteko.|
+|Click [No] to reuse the selected key file for this database.|
+    |Egin klik [Ez]-en, hautatutako gako-artxiboa datu-base honetarako berriro erabiltzeko.|
+|Click [Cancel] to abort changing the key.|
+    |Egin klik [Baztertu]-n, gakoaren aldaketak bertan behera uzteko.|
+
+|Overwrite?|                   |Gainidatzi?|
+|Expires:|                     |Noiz iraungiko:|
+|&Modify All Selected...|      |&Aldatu hautatutako guztiak...|
+|Change group:|                |Aldatu taldea:|
+|Change entry icon:|           |Aldatu sarrera-ikonoa:|
+|Change expiration time:|      |Aldatu iraungitze-eguna:|
+|Mass Modify|                  |Orotariko aldaketa|
+|Change fields of all selected entries|        |Hautatutako sarrera guztien eremuak aldatu|
+|Show &Columns|                |Erakutsi &zutabeak|
+|Show &Entry View|             |Erakutsi &Sarrera Ikuspegia|
+
+|Automatically resize table columns when resizing the main window|
+    |Taularen zutabeen neurria automatikoki egokitu, leiho nagusiaren neurria aldatzerakoan|
+|&Copy|                        |&Kopiatu|
+|Copy &All|                    |Kopiatu &Guztia|
+|&Undo|                        |&Desegin|
+|&Paste|                       |&Itsatsi|
+|Cu&t|                         |&Ebaki|
+|&Select All|                  |&Hautatu Guztia|
+|&Delete|                      |E&zabatu|
+|&TAN Wizard...|               |&TAN-Morroia...|
+|TAN Wizard|                   |TAN-Morroia|
+
+|Using this wizard you can easily add TAN entries.|
+    |Morroi hau erabiliz erraz gehitu ditzakezu TAN-sarrerak.|
+
+|Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
+    |Itsatsi zure TANak beheko edizio laukian. TAN karakteretzat esplizituki zehazten ez diren karaktere guztiak bereizle gisa tratatzen dira, eta TAN karakterez osatutako azpikateak soilik gehitzen dira TAN sarrera gisa.|
+|TANs consist of the following characters:|
+    |TANak karaktere hauek osatzen dituzte::|
+
+|<TAN>|                        |<TAN>|
+|Print Pre&view...|            |Inprimatzearen &aurre-ikuspegia...|
+
+|About &Translation...|        |&Itzulpenari buruz...|
+|Translation Information|      |Itzulpenari buruzko argibideak|
+|Currently used language|      |Jadaneko hizkuntza|
+|Author|                       |Egilea|
+|Contact|                      |Kontaktua|
+|&Rearrange|                   |&Berrantolatu|
+|&Sort Group List|             |&Ordenatu Talde-Zerrenda|
+|Sort List by &Title|          |Ordenatu Zerrenda &Izenburuaren arabera|
+|Sort List by User &Name|      |Ordenatu Zerrenda &Erabiltzaile-izenaren arabera|
+|Sort List by &URL|            |Ordenatu Zerrenda &URLen arabera|
+|Sort List by &Password|       |Ordenatu Zerrenda &Pasahitzaren arabera|
+|Sort List by Note&s|          |Ordenatu Zerrenda &Oharren arabera|
+|Sort List by &Creation Time|  |Ordenatu Zerrenda &Sorkuntza-unearen arabera|
+|Sort List by Last &Modify Time|               |Ordenatu Zerrenda &Azken Aldaketa-unearen arabera|
+|Sort List by Last &Access Time|               |Ordenatu Zerrenda Azken Sar&bidearen arabera|
+|Sort List by &Expiration Time|                |Ordenatu Zerrenda Iraun&gitze-unearen arabera|
+|Move Group One &Left|         |Mugitu Taldea Bat Ez&kerretara|
+|Move Group One &Right|        |Mugitu Taldea Bat Eskui&netara|
+
+|Hide &User Names Behind Asterisks (***)|  |&Ezkutatu erabiltzaile-izenak izartxopean (***)|
+|Attachment:|                  |Eranskina:|
+|Attachment|                   |Eranskina|
+|Attachment Description|       |Eranskina (Azalpena)|
+|&Attachment|                  |&Eranskina|
+
+|Generate a random password...|           |Sortu ausazko pasahitza...|
+|Open file and set as attachment...|      |Ireki artxiboa eta inportatu eranskin modura...|
+|Save attached file to disk...|           |Gorde eranskina diskoan...|
+
+|There already is a file attached with this entry.|           |Sarrera honi erantsia dagoeneko fitxategi bat dago.|
+|Do you want to overwrite the current attachment?|            |Jadaneko eranskina gainidatzi nahi duzu?|
+|&Save Attached File To...|    |Erantsiriko artxiboa non gorde...|
+|There is no file attached with this entry.|                  |Ez dago sarrera honi erantsiriko artxiborik.|
+|Remove the currently attached file|      |Kendu jadanean erantsiriko artxiboa|
+
+|Close button [X] minimizes the main window instead of terminating the application|
+    |Itxiera-botoiak [X] leiho nagusia minimizatzen du, aplikazioa amaitu beharrean|
+
+|KeePass Database|                        |KeePass-en Datu-basea|
+|&Open with KeePass|                      |&Ireki KeePass-ekin|
+|Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
+    |Hemen .kdb-artxiboak KeePass-ekin uztartu ditzakezu (klik bikoitza eginda, KeePass-ek artxiboa ireki dezan):|
+|Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.|
+    |KeePass arrakastaz uztartu da .kdb-artxiboekin! .kdb-artxibo baten gainean klik bikoitza eginik, KeePass berez hasiko da.|
+|Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.|
+    |Uztarketa arrakastaz kendu da! .kdb-artxibo baten gainean klik bikoitza eginik, KeePass ez da berriro berez hasiko.|
+|Create &Association|                     |&Sortu Uztarketa|
+|&Remove Association|                     |&Kendu Uztarketa|
+|Setup|                                   |Konfigurazioa|
+|Entry List|                              |Sarrera-zerrenda|
+|Exit?|                                   |Irten?|
+|The file couldn't be saved.|             |Ezin izan da artxiboa gorde.|
+|Maybe it's read-only or the storage media has been removed.|
+    |Agian irakurtzeko bakarrik da, edo memoria euskarria kendu egin da.|
+|If you exit now, all changes to the current database will be lost.|
+    |Orain irteten bazara, jadaneko datu-basearen aldaketa guztiak galduko dira.|
+|Would you like to exit anyway?|          |Irten nahi duzu hala ere?|
+|Cannot access the selected drive.|       |KeePass ezin da hautatutako unitatean sartu.|
+|Make sure a writable medium is inserted.||Ziurtatu euskarri idazkarri bat txertatuta dagoela.|
+|Not enough free disk space!|             |Diskoan ez dago behar adina tokirik!|
+|Disable unsafe (security-critical) operations like exports, etc.|
+    |Desgaitu seguru ez diren eragiketak (segurtasun-kritikoak), esportazioak adibidez|
+|Unsafe operations are disabled.|         |Seguruak ez diren eragiketak desgaituak izan dira.|
+|To execute this operation you must enable unsafe operations in the options dialog.|
+    |Eragiketa hau gauzatzeko, seguru ez diren eragiketak gaitu behar dituzu aukeren elkarrizketa-laukian.|
+|You have changed an option that requires restarting KeePass to get active.|
+    |Ezarpen bat aldatu duzu, gaitua izateko KeePass berrabiaraztea eskatzen duena.|
+|Expired Entries|                         |Iraungitako Sarrerak|
+|This is a list of all expired entries|   |Iraungitako sarrera guztien zerrenda da hau|
+|Show &Expired Entries|                   |&Erakutsi iraungitako sarrerak|
+|Click on an entry to jump to it.|        |Egin klik sarrera batean, horretara joateko.|
+|Quality:|                                |Kalitatea:|
+|Database Settings|                       |Datu-basearen Ezarpenak|
+|Here you can configure the current database.| |Hemen, jadaneko datu-basea konfiguratu ahal duzu.|
+|Database Summary|                        |Datu-basearen Laburpena|
+|Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
+    |Zure gakoa hainbat aldiz berzifratzen da, datu-basearen azkeneko zifratze-gakoa osatzeko. Honek denbora-faktore konstante bat gehitzen du, asmakizun- eta hiztegi-erasoak zailduz.|
+|The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
+    |Zenbat eta handiagoa zenbaki hau izan, hainbat eta zailagoak dira hiztegi-erasoak. Baina zenbat eta handiagoa zenbaki hau izan, hainbat eta motelago kargatu eta gordeko da datu-basea ere.|
+|Number of key encryption rounds:|        |Gako-zifraketa txanda kopurua:|
+|bits|                                    |bitak|
+|Personal &Vault TXT File...|             |Norberaren &Gangaren TXT-artxiboa...|
+|Imported from Password Safe|             |Password Safe-tik inportatua|
+|Remember last opened file|               |Gogoratu azken irekitako fitxategia|
+|Total number of groups / entries|        |Talde/sarrera zenbatekoa guztira|
+|Total: %u groups / %u entries|           |Guztira: %u talde, %u sarrera|
+|%u of %u selected|                       |%u hautaturik %u -tik|
+|Number of selected entries (number of entries in the list)| |Aukeratutako sarreren kopurua (sarreren kopurua zerrendan)|
+|Status|                                  |Egoera|
+|The database file has been modified!|    |Datu-basearen fitxategia aldatu da!|
+|Most probably someone has changed the file while you were editing it.| |Seguruenik, norbaitek aldatu egin du fitxategia, editatzen ari zinen bitartean.|
+|Do you want to overwrite it?|            |Gainidatzi nahi duzu?|
+|The group you selected cannot store entries. Please select a different group.|
+    |Aukeratutako taldeak ezin du sarrerarik gorde. Aukeratu beste talde bat, mesedez.|
+|This will remove all selected entries unrecoverably!|
+    |Honek berreskuraezinik ezabatuko ditu aukeratutako sarrera guztiak!|
+|Are you sure you want to delete all selected entries?|
+    |Ziur zaude, hautatutako sarrera guztiak ezabatu nahi dituzula?|
+|Delete Entries Confirmation|             |Sarrerak ezabatzeko berrespena|
+|Use PuTTY for ssh: and telnet: URLs|     |Erabili PuTTY ssh: eta telnet: moduko URLentzat|
+|Mark database as modified on last access time change|
+    |Markatu datu-basea aldatua moduan, azken sarbidearen data aldatu bada|
+|Se&lect All|                             |&Hautatu Guztiak|
+|Auto-&Sort Entry List|                   |&Sarreren zerrenda automatikoki ordenatu|
+|N&o Auto-Sort|                           |E&z ordenatu automatikoki|
+|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
+    |Sarreren zerrenda automatikoki ordenatzea gaitua dago; ezin dituzu sarrerak eskuz lekualdatu.|
+|Perform Auto-&Type|                      |A&uto-Idatzi Egin|
+|Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
+    |Sarreren zerrenda automatikoki ordenatzea gaitua dago; ezin duzu orain zerrenda eskuz ordenatu.|
+|Select key file manually...|             |Hautatu gako-artxiboa eskuz...|
+|Save key file manually to...|            |Gorde gako-artxiboa eskuz hemen...|
+|Specify the new master key.|             |Zehaztu gako nagusi berria.|
+|Repeat the new master password for this database.| |Berrerabili pasahitz nagusi berria datu-base honetarako ere.|
+|Change Master Key|                       |Aldatu Gako Nagusia|
+|Plugin|                                  |Plugina|
+|Plugins|                                 |Pluginak|
+|&Plugins...|                             |&Pluginak...|
+|Here you can configure all installed KeePass plugins.|
+    |Ezarritako KeePass-plugin guztiak egokitu ahal dituzu hemen.|
+|Enabled, loaded|                         |Gaiturik, kargaturik|
+|&Enable|                                 |&Gaitu|
+|&Disable|                                |&Ezgaitu|
+|About &Plugin...|                        |&Plugin-i buruz...|
+|An error occurred|                        |Akats bat gertatu da|
+|Error code|                              |Akats-kodea|
+|Unknown error|                           |Akats ezezaguna|
+|Success|                                 |Arrakasta|
+|Invalid parameter|                       |Legez kanpoko parametroa|
+|Out of memory|                           |Memoria gutxiegi|
+|Invalid/wrong key|                       |Baliogabeko/okerreko gakoa|
+|File access error: failed to open file in read mode|
+    |Fitxategiaren sarbide-akatsa: Ezin izan da fitxategia irakurtze-moduan ireki|
+|File access error: failed to open file in write mode|
+    |Fitxategiaren sarbide-akatsa: Ezin izan da fitxategia idazte-moduan ireki|
+|File error: error while reading from the file|
+    |Fitxategiaren akatsa: akats fitxategitik irakurtzerakoan|
+|File error: error while writing to the file|
+    |Fitxategiaren akatsa: akats fitxategira idazterakoan|
+|Internal error|                          |Barne-akatsa|
+|Invalid random source|                   |Baliogabeko ausazko iturburua|
+|Invalid/corrupted file structure|        |Baliogabeko/hondatutako artxibo-egitura|
+|Encryption/decryption error|             |Akats zifraketa/deszifraketa garaian|
+|Get more plugins...|                     |Eskuratu plugin gehiago...|
+|Global auto-type hot key combination:|   |Orokorreko auto-idatzi laster-tekla konbinazioa:|
+|Cannot register the global hot key.|     |Ezin da orokorreko laster-tekla erregistratu.|
+|Most probably another application has reserved this hot key already.|
+    |Seguruenik, beste aplikazio batek dagoeneko erreserbatu du laster-tekla hau.|
+|You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
+    |Beste laster-tekla konbinazio bat aukeratu dezakezu hemen: 'Gehigarriak' - 'Aukerak' - 'Aurreratua' - 'Auto-Idatzi'.|
+|&Use master password and key file|       |&Erabili pasahitz nagusia eta gako-artxiboa|
+|You've selected the AND key mode, so you must enter a password AND select a key file.|
+    |ETA gako modua hautatu duzu. Beraz, pasahitz bat idatzi ETA gako-artxibo bat hautatu behar duzu.|
+|Timed: copy data to the clipboard and clear it automatically after some seconds|
+    |Denbora pean: kopiatu informazioa arbelera eta automatikoki garbitu segundo batzuk igaro ondoren|
+|Enhanced: allow pasting only once and protect against clipboard spies|
+    |Hobetua: baimendu behin bakarrik itsasten, eta arbeleko espioien aurka babestu|
+|Clipboard behavior:|                     |Arbelaren portaera:|
+|Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
+    |Kontuz! Litekeena da aukera hau zure sisteman ondo ez funtzionatzea, batez ere arbelaren hobekuntza-tresnak edo arbelaren babeskopia-tresnak erabiltzen ari bazara.|
+|If you notice any problems with the enhanced method, switch back to the timed clipboard clearing method.|
+    |Hobetutako metodoarekin arazorik nabaritzen baduzu, aldatu berriro denborapeko arbelaren garbiketa metodora.|
+|Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
+    |Ezin izan da .kdb-artxiboaren uztarketa aldatu. Egiaztatu erregistroan idazteko eta fitxategi uztarketak aldatzeko eskubidea baduzula.|
+|Number the TANs consecutively, starting from this value|
+    |Zenbatu TANak jarraian, balio honetatik hasita|
+|Never expires|                           |Inoiz ez da iraungiko|
+|Auto-Type|                               |Auto-Idatzi|
+|Help:|                                   |Laguntza:|
+|Advanced|                                |Aurreratua|
+|Start minimized and locked|              |Abiarazi minimizaturik eta blokeatutako lan-eremuaz|
+|Immediately after opening a database|    |Datu-base bat ireki eta berehala|
+|Show expired entries (if any)|
+    |Erakutsi iraungitako sarrerak (halakorik egonez gero)|
+|Show entries that will expire soon (if any)|
+    |Erakutsi laster iraungiko diren sarrerak (halakorik egonez gero)|
+|Integration|                             |Integrazioa|
+|Start KeePass at Windows startup (for current user)|
+    |Hasi KeePass Windows abiaraztean (oraingo erabiltzailearentzat)|
+|Unable to create/remove the auto-start key of KeePass in the Windows registry!|
+    |Ezin da KeePass-en abiarazteko gakoa Windows-erregistroan sortu/ezabatu!|
+|Backup|                                  |Babeskopia|
+|Save backups of modified entries into the 'Backup' group|
+    |Aldatutako sarreren babeskopiak 'Babeskopia'-taldean gorde|
+|Failed to create backup of this entry!|  |Ezin izan da sarrera honen babeskopirik sortu!|
+|The master key has been changed!|        |Gako nagusia aldatu da!|
+|Save the database now in order to get the new key applied.|
+    |Gorde datu-basea orain, gako berria erabili ahal izateko.|
+|Fields to export|                        |Esportatzeko eremuak|
+|Fields to print|                         |Irartzeko eremuak|
+|Icon|                                    |Ikonoa|
+|Group Tree|                              |Talde-Zuhaitza|
+|Export Options|                          |Esportatu-Aukerak|
+|Print Options|                           |Irarri-Aukerak|
+|Here you can customize the exported files.| |Esportatutako artxiboak hemen egokitu ditzakezu.|
+|Here you can customize the printed sheet.| |Inprimatutako orria hemen egokitu dezakezu.|
+|Encode/replace newline characters by '\n'| |Lerroberri ikurrak '\n' bidez zifratu/ordeztu|
+|Export backup entries (entries in the 'Backup' group)|
+    |Esportatu babeskopiako sarrerak ("Babeskopia" taldeko sarrerak)|
+|Print backup entries (entries in the 'Backup' group)|
+    |Inprimatu babeskopiako sarrerak ("Babeskopia" taldeko sarrerak)|
+|&Get More Import Plugins...|             |&Eskuratu Import-Plugin gehiago...|
+|Field has been pasted.|                  |Eremua itsatsia izan da.|
+|Waiting for paste command.|    |Itsasteko aginduaren zain.|
+|Paste operation completed.|              |Itsaste-eragiketa buruturik.|
+|Limit to single instance|                |Mugatu instantzia bakar batera|
+|Use more secure password edit controls|  |Erabili pasahitza aldatzeko kontrol seguruagoak|
+|Press Shift+Home or Shift+End to clear this edit control|
+    |Sakatu Shift+Home edo Shift+End eremu-kontrol hau garbitzeko|
+|Single left click instead of double-click for default tray icon action|
+    |Egin ezker-klik bakarra, klik bikoitza egin beharrean, erretiluaren ikonoaren ekintza lehenetsirako|
+|Exclude entries in the '&Backup' group|  |Baztertu '&Babeskopia' taldeko sarrerak|
+|Exclude &expired entries|                |Baztertu &iraungitako sarrerak|
+|By default, new entries expire in the following number of days:|
+    |Lehenespenez, sarrera berriak hurrengo egun kopuruan iraungiko dira:|
+|Click to expire the entry in %u days|    |Egin klik sarrera %u egun barru iraungitzeko|
+|Calculate rounds for a 1-second delay on this computer|  |Kalkulatu txandak, segundo 1-eko atzerapenerako ordenagailu honetan|
+|The program is distributed under the terms of the GNU General Public License v2 or later.|
+    |Programa hau GNU General Public License v2 edo berriagoaren baldintzen arabera banatzen da.|
+|1 Week|                                     |Aste 1|
+|2 Weeks|                                    |2 aste|
+|1 Month|                                    |Hilabete 1|
+|3 Months|                                   |3 hilabete|
+|6 Months|                                   |6 hilabete|
+|1 Year|                                     |Urte 1|
+|Quick search (toolbar)|                     |Bilaketa arina (tresna-barra)|
+|Search for passwords in quick searches|     |Bilatu pasahitzak bilaketa arinetan|
+|Include backup entries in quick searches|   |Kontuan hartu babeskopia-sarrerak bilaketa arinetan|
+|Include expired entries in quick searches|  |Kontuan hartu iraungitako sarrerak bilaketa arinetan|
+|&Donate...|                                 |&Emaitza egin...|
+|Use alternative auto-type method (minimize window)|    |Ordezko Auto-idatzi metodoa erabili (minimizatu leihoa)|
+|Delete all backup entries before saving the database|  |Ezabatu babeskopia-sarrera guztiak, datu-basea gorde aurretik|
+|&Repair Database File...|                   |&Konpondu datu-basearen artxiboa...|
+|The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
+    |Hautatu duzun artxibo-formatuak talde edota sarrera IDak onartzen ditu. Aukeratu inportatzeko portaera, mesedez.|
+|Create new IDs|                             |Sortu ID berriak|
+|If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
+    |Aukera hau hautatzen baduzu, KeePass-ek ID berriak sortuko ditu talde eta sarrera guztientzat. Ondorioz, orain irekita dagoen datu-baseko talde eta sarrerarik ez da aldatuko edo gainidatziko.|
+|Overwrite|                                  |Gainidatzi|
+|KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
+    |Lehendik dauden talde eta sarrera guztiak inportatzeko fitxategikoekin ordezkatuko ditu KeePass-ek, ID bera badute.|
+|Overwrite if newer|                         |Gainidatzi, berriagoa bada|
+|KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
+    |KeePass-ek taldeen/sarreren azken aldaketa orduak alderatuko ditu eta lehendik daudenak ordezkatuko ditu, inportatu beharrekoak berriagoak badira bakarrik.|
+|&KeePass Database...|                       |&KeePass-en datu-basea...|
+|Acknowledgements|                           |Esker ona|
+|Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
+    |Aukeratu, mesedez, KeePass-ek orain irekitako datu-basearen gakoa erabili behar duen, ala esportatutako fitxategia zifratzeko gako berri bat zehazteko eskatu behar dizun.|
+|Click [Yes] to use the same key as the currently opened database.|
+    |Sakatu [Bai] orain irekitako datu-basearen gako bera erabiltzeko.|
+|Click [No] to set a new key for the exported file.|
+    |Sakatu [Ez] esportatutako fitxategirako gako berri bat ezartzeko.|
+|Reuse the current key/password?|            |Oraingo gakoa/pasahitza berrerabili?|
+|Show full path in the title bar (instead of file name only)|
+    |Erakutsi bide osoa izenburu-barran (fitxategiaren izena bakarrik erakutsi beharrean)|
+|Enable auto-type features|                  |Gaitu auto-idatzi ezaugarriak|
+|Copy URLs to clipboard instead of opening them (exception: cmd:// URLs)|
+    |Kopiatu URLak arbelean, ireki beharrean (salbuespena: cmd://-URLak)|
+|Copy &URL to Clipboard|                     |Kopiatu &URLa arbelean|
+|Exit program instead of locking the workspace after the specified time|
+    |Irten programatik zehaztutako denbora igaro ondoren, lan-eremua blokeatu beharrean|
+|Click on an entry to auto-type it.|         |Egin klik sarrera batean, automatikoki xede-leihora eramateko (auto-idatzi).|
+|Auto-Type Entry Selection|                  |Auto-idatzi sarrera hautaketa|
+|Multiple entries exist for the current window. Please select the entry to auto-type.|
+    |Hainbat sarrera daude oraingo leihorako. Hautatu mesedez auto-idazteko sarrera.|
+|The file you are trying to open is locked, i.e. someone else has currently opened the file and is editing it.|
+    |Irekitzen saiatzen ari zaren fitxategia blokeatuta dago, hau da, beste norbaitek fitxategia ireki du eta une honetan editatzen ari da.|
+|Open the file in read-only mode?|                    |Artxiboa irakurtzeko moduan ireki nahi duzu?|
+|Click [Yes] to open the file in read-only mode.|     |Sakatu [Bai] artxiboa irakurtzeko moduan irekitzeko.|
+|Click [No] to open the file in normal writing mode.| |Sakatu [Ez] artxiboa ohiko idazteko moduan irekitzeko.|
+|Now|    |Orain|
+|&Tools| |&Tresnak|
+|TAN View &Options|                            |TAN ikuste-&aukerak|
+|Use &Simple List View for TAN-Only Groups|    |&Erabili zerrenda bakuneko ikuspegia TAN-soilik taldeetarako|
+|Show TAN &Indices in Entry Titles|            |Erakutsi TAN &indizeak sarrera-izenburuetan|
+|Disable 'Save' button if the database hasn't been modified|
+    |Ezgaitu 'Gorde' botoia, datu-basea aldatua izan ez bada|
+
+|Check For Updates|                            |Begiratu Eguneratzerik ote dagoen|
+|Check for Updates|                            |Begiratu eguneratzerik ote dagoen|
+|New version available.|                       |Bertsio berri bat eskuragarri dago.|
+|You have the latest version.|                 |Azkenengo bertsioa duzu.|
+|Connect failed, cannot check for updates.|    |Ezin izan da konektatu, eguneratzerik ote dagoen egiaztatzerik ez dago.|
+|1 update is available!|                       |Eguneratze 1 eskuragarri dago!|
+|%u updates are available!|                    |%u eguneratze eskuragarri daude!|
+|No updates available.|                        |Ez dago eguneratzerik eskuragarri.|
+|Component|                                    |Osagaia|
+|Installed|                                    |Ezarria|
+|Available|                                    |Eskuragarri|
+|Plugin unknown.|                              |Plugin ezezaguna.|
+|Up to date.|                                  |Eguneraturik.|
+|Pre-release version.|                         |Argitaratze aurreko bertsioa.|
+
+|Check for updates at KeePass startup|         |Begiratu eguneratzerik ote dagoen KeePass abiaraztean|
+|'Keyfile' or 'preselect' option is already specified| |'Gako-artxiboa' edo 'aurrehautatu' aukera dagoeneko zehaztuta dago|
+|Path is invalid|                              |Bidea legez kanpokoa da|
+|Filename not found|                           |Ez da artxibo-izen hau aurkitu|
+|'Pw' option is already specified|             |'Pw'-aukera dagoeneko zehaztuta dago|
+|Password is empty|                            |Pasahitza hutsik dago|
+|Option not recognized|                        |Onartu gabeko aukera|
+|Database is already specified|                |Datu-basea dagoeneko zehaztuta dago|
+|It contains an unmatched quote|               |Parekatu gabeko komatxo ikur bat dago|
+|Command line argument|                        |Komando-lerroko argumentua|
+|ignored|                                      |alde batera utzita|
+|Reason|                                       |Zergatia|
+|KeePass Initialization|                       |KeePass-en hastapena|
+|Lock workspace when locking Windows, switching user or sleeping|
+    |Blokeatu lan-eremua Windows blokeatzean, erabiltzailea aldatzean edo sistema lo dagoenean|
+|Value|                                        |Balioa|
+|Select the fields KeePass should remember|    |Aukeratu KeePass-ek gogoratu behar lituzkeen eremuak|
+|Fields to remember|                           |Gogoratu beharreko eremuak|
+|An entry already exists for the current URL.| |Dagoeneko sarrera bat dago oraingo URLerako.|
+|The following application requests access to your currently opened KeePass database:|
+    |Honako aplikazio honek orain irekirik duzun KeePass datu-basera sarbidea eskatzen du:|
+|Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
+    |Kontuan izan aplikazioaren izenburua eskaera egiten duen aplikazioak berak eman duela eta, beraz, okerra izan daitekeela (programa gaizto bat zure datu-basea atzitzen saia liteke).|
+|Do you grant the application access to your KeePass database?|
+    |Zure KeePass datu-basera sarbidea ematen diozu aplikazioari?|
+|&Read-Only|                                   |&Irakurtzeko bakarrik|
+|&Full|                                        |&Sarbide osoa|
+|&Deny|                                        |&Ukatu|
+|Incoming IPC Request|                         |Bidean datorren IPC-eskaera|
+|An application requests access through inter-process communication|
+    |Aplikazio batek prozesu-arteko komunikazioaren bidez sarbidea eskatzen du|
+|Application|                                  |Aplikazioa|
+|Unknown|                                      |Ezezaguna|
+|Enable remote control (allow applications to communicate with KeePass)|
+    |Gaitu urruneko kontrola (baimendu aplikazioak KeePass-ekin komunikatzen)|
+|Make sure the media that contains the key file is inserted and that KeePass has the rights to access it (check file access rights, ensure that no other application is blocking the file, ...).|
+    |Ziurtatu gako-fitxategia daukan euskarria txertatuta dagoela eta KeePass-ek hara sartzeko eskubideak dituela (ikusi fitxategia atzitzeko eskubideak, ziurtatu beste aplikazio batek ez duela fitxategia blokeatzen, ...).|
+|URL Field: Help|                              |URL-eremua: Laguntza|
+|There are too few characters in the character set to build up a password matching the specified rules|
+    |Karaktere gutxiegi daude karaktere multzoan zehaztutako arauekin bat datorren pasahitza sortzeko|
+|The character set is invalid|                 |Karaktere multzoa legez kanpokoa da|
+|The pattern is invalid|                       |Eredua legez kanpokoa da|
+|(Custom)| |(Egokiturik)|
+|Save current settings as a profile.|          |Gorde uneko ezarpenak profil gisa.|
+|Delete currently selected profile.|           |Ezabatu une honetan hautatutako profila.|
+|(Automatically generated passwords for new entries)|
+    |(Sarrera berrietarako automatikoki sortutako pasahitzak)|
+|Profile|                                      |Profila|
+|Length of generated password:|                |Sortutako pasahitzaren luzera:|
+|Generate using character set:|                |Sortu honako karaktere multzo hau erabiliz:|
+|Generate using pattern:|                      |Sortu honako eredu hau erabiliz:|
+|Also include the following characters:|       |Sartu honako karaktere hauek ere:|
+|Exclude look-alike characters|                |Antzeko karaktereak kanpoan utzi|
+|Use local date/time format instead of ISO notation|
+    |Erabili tokiko data/ordu formatua ISO idazkeraren ordez|
+|Save as Profile|                              |Gorde profil gisa|
+|Save current settings as password generator profile.| |Gorde uneko ezarpenak pasahitz-sorgailu profil gisa.|
+|Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
+    |Mesedez, idatzi izen bat pasahitz-sorgailuaren profil berriarentzat, edo hautatu lehendik dagoen profil bat gainidazteko:|
+|Randomly permute characters of password|      |Permutatu pasahitzaren karaktereak ausaz|
+|Locked|                                       |Blokeatuta|
+|The help file contains detailed information about the expected input format. Do you want to open the help file?|
+    |Laguntza-fitxategiak aurrez espero den sarrera-formatuari buruzko argibide zehatzak ditu. Laguntza-fitxategia ireki nahi duzu? |
+|Failed to save the configuration.|            |Ezin izan da konfigurazioa gorde.|
+|Arguments|                                    |Argumentuak|
+|&Export Group|                                |&Esportatu taldea|
+|in "Minimal functionality" mode|              |"Gutxieneko funtzionaltasuna" moduan|
+|Regular expression|                           |Arauzko adierazpena|
+|Default user name for new entries:|           |Sarrera berrientzako erabiltzaile-izen lehenetsia:|
+|Advanced Password Generator Options|          |Pasahitz-sorgailuaren aukera aurreratuak|
+|Exclude the following characters:|            |Honako karaktere hauek kanpoan utzi:|
+|Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
+    |Izartxo batez markatutako aukerek/arauek sortutako pasahitzen segurtasuna murrizten dute. Gaitu itzazu bakarrik webguneak, aplikazioak edo pasahitz-politikak arau horiek betetzera behartzen bazaituzte.|
+|Each character must occur at most once|       |Karaktere bakoitzak behin gehienez agertu behar du|
+|Provider|                                     |Hornitzailea|
+|The key provider plugin did not supply a valid key|
+    |Gakoa hornitu beharreko pluginak ez du legezko gakorik eman|
+|Register Ctrl+Alt+K hot key (brings the KeePass window to front)|
+    |Erregistratu Ctrl+Alt+K laster-tekla (KeePass-en leihoa aurrekaldera ekartzen du)|
+|Type to search the database|                  |Sakatu hemen, datu-basea arakatzeko|
+|Search...|                                    |Bilatu...|
+|Clear Search History|                         |Garbitu bilaketa-historia|
+|TANs are imported into the currently selected group|
+    |TANak orain hautatutako taldera inportatzen dira|
+|The selected key file already exists|         |Hautatutako gako-artxiboa badago dagoeneko|
+|Generate a new key and overwrite the existing key file. The key currently stored in the existing key file will be lost.|
+    |Sortu gako berri bat eta gainidatzi lehendik dagoen gako-artxiboa. Lehendik dagoen gakoa galduko da.|
+|Reuse|                                        |Berrerabili|
+|Load the existing key file and use it as key for the current database. The key file will not be modified.|
+    |Kargatu lehendik dagoen gako-artxiboa eta erabili oraingo datu-baserako gako gisa. Gako-artxiboa ez da aldatuko.|
+|Abort specifying a new key for the current database.|
+    |Bertan behera tzi oraingo datu-baserako gako berri bat zehazten.|
+|Overwrite existing key file?|                 |Lehendik dagoen gako-artxiboa gainidatzi nahi duzu?|
+|Save|                                         |Gorde|
+|&Discard changes|                             |&Baztertu aldaketak|
+|Save database changes before closing the file?| |Datu-basearen aldaketak gorde nahi dituzu, fitxategia itxi aurretik?|
+|Save database changes before exiting KeePass?|  |Datu-basearen aldaketak gorde nahi dituzu, KeePass-etik irten aurretik?|
+|Save database changes before locking the workspace?| |Datu-basearen aldaketak gorde nahi dituzu, lan-eremua blokeatu aurretik?|
+|Save all changes made to the database and close the file.|
+    |Gorde datu-basean egindako aldaketa guztiak eta itxi fitxategia.|
+|Save all changes made to the database and exit KeePass.|
+    |Gorde datu-basean egindako aldaketa guztiak eta irten KeePass-etik.|
+|Save all changes made to the database and lock the KeePass workspace.|
+    |Gorde datu-basean egindako aldaketa guztiak eta blokeatu lan-eremua.|
+|Discard all changes made to the database and close the file.|
+    |Baztertu datu-basean egindako aldaketa guztiak eta itxi fitxategia.|
+|Discard all changes made to the database and exit KeePass.|
+    |Baztertu datu-basean egindako aldaketa guztiak eta irten KeePass-etik.|
+|Discard all changes made to the database and lock the KeePass workspace.|
+    |Baztertu datu-basean egindako aldaketa guztiak eta blokeatu lan-eremua.|
+|Abort the current operation.|
+    |Bertan behera utzi oraingo eragiketa.|
+|The KeePass workspace will not be locked.|
+    |KeePass-en lan-eremua ez da blokeatua izango.|
+|KeePass will not be closed.|
+    |KeePass ez da itxiko.|
+|The file will not be closed.|
+    |Artxiboa ez da itxiko.|
+|The master password must be at least %u characters long!|
+    |Pasahitz nagusiak gutxienez %u karaktere izan behar ditu!|
+|The estimated quality of the master password must be at least %u bits!|
+    |Pasahitz nagusiaren zenbatetsiko kalitatea %u bit-ekoa izan behar da gutxienez!|
+|Copy [of an item]|    |Kopia [osagai batena]|
+|Focus entry list after a successful quick search|
+    |Bilaketa azkar arrakastatsu baten ondoren, ipini fokua sarreren zerrendan|
+|Always grant full access through remote control (not recommended)|
+    |Eman beti sarbide osoa urruneko kontrolaren bidez (ez da gomendagarria)|
+|URL Field: Select Application...|  |URL-eremua: Hautatu aplikazioa...|
+|URL Field: Select Document...|     |URL-eremua: Hautatu dokumentua...|
+|URL Field: Insert Placeholder|     |URL-eremua: Txertatu leku-marka|
+|Auto-Type: Help|                   |Auto-Idatzi: Laguntza|
+|Auto-Type: Customize Sequence|     |Auto-Idatzi: Egokitu sekuentzia|
+|Auto-Type: Select Target Window...||Auto-Idatzi: Hautatu xede-leihoa...|
+|Select the target window for the current entry.|
+    |Hautatu xede-leihoa oraingo sarrerarako.|
+|To specify the target window, either select an existing currently-opened window from the drop-down list, or enter the window title manually:|
+    |Xede-leihoa zehazteko, hautatu irekita dagoen leiho bat goitibeherako zerrendatik, edo idatzi leihoaren izenburua eskuz:|
+|Default auto-type sequence for standard entries:|
+    |Auto-idatzi sekuentzia lehenetsia ohiko sarreretarako:|
+|Prepend special initialization sequence for Internet Explorer windows|
+    |Internet Explorer leihoetarako hasierako sekuentzia berezia aurrean idatzi|
+|Here you can configure auto-type.|
+    |Auto-idatzi egokitu dezakezu hemen.|
+|The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
+    |Baliteke helburu-fitxategia hondatuta egotea. Mesedez, saiatu berriro gordetzen, eta horrek huts egiten badu, gorde datu-basea beste leku batean.|
+|Drop to background when copying data to the clipboard|
+    |Jaitsi atzeko planoan datuak arbelean kopiatzen ari direnean|
+|Insert Field Reference|            |Txertatu eremu-erreferentzia|
+|In Title Field|                    |Izenburu-eremuan|
+|In User Name Field|                |Erabiltzaile-izena eremuan|
+|In URL Field|                      |URL-eremuan|
+|In Password Field|                 |Pasahitza eremuan|
+|In Notes Field|                    |Oharrak-eremuan|
+|Field to reference|                |Erreferentzia egiteko eremua|
+|Identify source entry by|          |Identifikatu sorburu-sarrera honela:|
+|Source field to reference|         |Erreferentzia egiteko sorburu-eremua|
+|The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
+    |Hautatutako eremuak, iturburu-sarrera identifikatzen duenak, legez kanpoko karaktereak ditu (adibidez '{', '}', lerroberri karaktereak, ...).|
+|Multiple entries match the specified identifying field.|
+    |Hainbat sarrera bat datoz zehaztutako identifikazio-eremuarekin.|
+|To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
+    |Anbiguotasuna ekiditeko, sarrerak beren UUIDen bidez identifikatu daitezke, bakarrak baitira.|
+|Read-only|                         |Irakurtzeko bakarrik|
+|Normal|                            |Ohikoa|
+|Take ownership of the file and open it in normal writing mode.|
+    |Hartu fitxategiaren jabetza eta ireki idazketa modu arruntean.|
+|Open the file in read-only mode. Changes to the database can be saved to a different file.|
+    |Ireki fitxategia irakurtzeko bakarrik moduan. Datu-basean egindako aldaketak beste fitxategi batean gorde daitezke.|
+|Sort items in the auto-type entry selection dialog|
+    |Ordenatu osagaiak auto-idatzi-ko sarrera hautatzeko elkarrizketa-laukian|
+|Clear clipboard when closing/locking the database|
+    |Garbitu arbela datu-basea ixtean/blokeatzean|
+|Help Source|                       |Laguntza-iturria|
+|Use the following help source when a "Help" button within KeePass is clicked:|
+    |KeePass-en "Laguntza" botoia sakatzen denean, erabili laguntza-iturburu hau:|
+|Local help file|                   |Tokiko laguntza fitxategia|
+|The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
+    |Tokiko laguntza-fitxategia produktuaren dokumentazioaren argazki bat da, produktuaren bertsio hau argitaratu zen unean. Ez da automatikoki eguneratzen.|
+|Online help center|                |Online-laguntzagunea|
+|The online help center always contains the latest version of the product documentation. Internet connection is required.|
+    |Online laguntzaguneak beti dauka produktuaren dokumentazioaren azken bertsioa. Internet konexioa beharrezkoa da.|
+|This option is disabled, because local help is not installed.|
+    |Aukera hau desgaituta dago, tokiko laguntza ez dagoelako instalatuta.|
+|Choose between local help and online help center.|
+    |Aukeratu tokiko laguntza eta online laguntzagunearen artean.|
+|Help &Source...|                   |Laguntza &iturria...|
+|Use advanced memory protection (DPAPI, only Windows Vista and higher)|
+    |Erabili memoria babes aurreratua (DPAPI, Windows Vista eta bertsio berriagoak soilik)|
+|Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
+    |Erabili CNG/BCrypt gako-eraldaketak egiteko (Windows Vista eta berriagoak soilik)|
+|Delete TAN entries immediately after using them|
+    |Ezabatu TAN sarrerak erabili eta berehala|
+|KeePass 1.x cannot open KDBX files.|
+    |KeePass 1.x-ek ezin du KDBX fitxategirik ireki.|
+|Use the KeePass 2.x 'Export' feature to migrate this file|
+    |Erabili KeePass 2.x-en 'Esportatu' eginbidea fitxategi hau migratzeko|
+|The specified name is reserved.|
+    |Zehaztutako izena erreserbatuta dago.|
+|Please choose a different name.|
+    |Mesedez, aukeratu beste izen bat.|
+|see the <A HREF="h">help manual</A> for details.|
+    |ikusi <A HREF="h">laguntza eskulibirua</A> xehetasunetarako.|
+|Use file transactions for writing databases|
+    |Erabili fitxategi-transakzioak datu-baseak idazteko|
+|Ctrl| |Ctrl|
+|Remember key sources (key file paths, provider names, ...)|
+    |Gogoratu gako-iturriak (gako-fitxategien bideak, hornitzaileen izenak,...)|
+|Custom database color:| |Datu-basearen margo egokitua:|
+|&Yes| |&Bai|
+|&No|  |&Ez|
+|Minimize main window after locking the workspace|
+    |Minimizatu leiho nagusia lan-eremua blokeatu ondoren|
+|Ensure same keyboard layouts during auto-type|
+    |Ziurtatu teklatuaren diseinu bera, auto-idatzi eragiketak dirauen bitartean|
+|{PARAM} more entries| |{PARAM} sarrera gehiago|
+|The database is empty||Datu-basea hutsik dago|
+|Show tray icon only if main window has been sent to tray|
+    |Erakutsi erretiluaren ikonoa leiho nagusia erretilura bidalia izan bada soilik|
+|KeePass can automatically check for updates on each program start.|
+    |KeePass-ek eguneratzerik ote dagoen automatikoki egiazta dezake, programa hasieratze bakoitzean.|
+|Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
+    |Eguneratze-egiaztapen automatikoak atzeko planoan, oharkabe, egiten dira. Eguneratze bat eskuragarri dagoenean bakarrik erakusten da jakinarazpena. Eguneraketak ez dira automatikoki deskargatzen edo instalatzen.|
+|No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
+    |Ez da informazio pertsonalik bidaltzen KeePass-en web zerbitzarira. KeePass-ek bertsioaren informazio-artxibo txiki bat deskargatzen du, eta eskuragarri dagoen bertsioa instalatutako bertsioarekin erkatzen du.|
+|Enable automatic update check?| |Eguneratze-egiaztapen automatikoa gaitu nahi duzu?|
+|recommended|                    |gomendagarria|
+|Database files cannot be used as key files.|
+    |Datu-basearen fitxategiak ezin dira gako fitxategi gisa erabili.|
+|Warning| |Oharra|
+|In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
+    |Konponketa moduan, datuen osotasuna ez da egiaztatzen (ahalik eta datu gehien erreskatatzeko). Osotasun-egiaztapenik egiten ez denean, datu hondatuak/maltzurrak datu-basean sar litezke.|
+|Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
+    |Beraz, konponketa funtzioa benetan beste irtenbiderik ez dagoenean bakarrik erabili behar da. Erabiltzen baduzu, ondoren, zure datu-base osoa zehatz miatu beharko zenuke datu hondatu/maltzurrik ote dagoen.|
+|Are you sure you want to attempt to repair a database file?|
+    |Ziur zaude datu-base fitxategi bat konpontzen saiatu nahi duzula?|
+|ch.| |kar.|
+|Saving database...|     |Datu-basea gordetzen...|
+|Delete &attachments|    |Ezabatu &eranskinak|
+|The generated password contains a placeholder. When using this password (e.g. by copying it to the clipboard or auto-typing it), the placeholder will be replaced, i.e. effectively a different password might be used.|
+    |Sortutako pasahitzak leku-marka bat dauka. Pasahitz hau erabiltzean (adibidez, arbelera kopiatu edo automatikoki idatziz), leku-marka ordezkatu egingo da, hau da, azkenean beste pasahitz ezberdin bat erabil liteke.|
+|Accept this password?|  |Onartu pasahitz hau?|
+|The regular expression is invalid.| |Arauzko adierazpen hau legez kanpokoa da.|
+|Tray icon|              |Erretiluaren ikonoa|
+|Failed to attach file:| |Ezin izan da fitxategia erantsi:|
+|The attachment is too large| |Eranskina handiegia da|
+|Open &Folder|           |Ireki &Karpeta|
+|One or more language files have been found in the KeePass application directory.|
+    |Hizkuntza-artxibo bat edo gehiago aurkitu dira KeePass aplikazioaren direktorioan.|
+|Loading language files directly from the application directory is not supported. Language files should instead be stored in the 'Languages' folder of the application directory.|
+    |Hizkuntza-artxiboak aplikazioaren direktoriotik zuzenean kargatzea ez da onartzen. Honen ordez, hizkuntza-artxiboak aplikazioaren direktorioko 'Languages' karpetan gorde behar dira.|
+|Do you want to open the application directory (in order to move or delete language files)?|
+    |Aplikazioaren direktorioa ireki nahi duzu (hizkuntza-artxiboak mugitzeko edo ezabatzeko)?|
+|File|     |Artxiboa|
+|Built-in| |Barneratua|
+|Do not store data in the Windows clipboard history and the cloud clipboard|
+    |Ez gorde daturik Windows-en arbeleko historian eta hodeiko arbelean|
+|The following options apply to entry clipboard commands in the main window (like 'Copy User Name' and 'Copy Password').|
+    |Honako aukera hauek leiho nagusiko sarrera-arbeleko komandoei aplikatzen zaizkie (adibidez, 'Kopiatu erabiltzaile-izena' eta 'Kopiatu pasahitza').|
+|Consider similar dashes as identical|
+    |Antzeko marrak marra berdintzat hartu|
+|Your data will be stored in a KeePass database file, which is a regular file. When saving for the first time, you will be prompted to specify the location where KeePass should save this file.|
+    |Zure datuak KeePass-en datu-base artxibo batean gordeko dira; hau arauzko artxiboa da. Lehen aldiz gordetzean, KeePass-ek fitxategi hau gorde behar duen kokapena zehazteko eskatuko zaizu.|
+|It is important that you remember where the database file is stored.|
+    |Garrantzitsua da datu-basearen artxiboa non gordetzen den gogora dezazun.|
+|You should regularly create a backup of the database file (onto an independent data storage device).|
+    |Aldian-aldian datu-basearen fitxategiaren babeskopia bat sortu beharko zenuke (datuak biltegiratzeko gailu banandu batean).|
