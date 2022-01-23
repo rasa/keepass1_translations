@@ -323,7 +323,7 @@
 |Select a new font for the list controls:|
 |Sélectionner une nouvelle police pour les contrôles de la liste :|
 |Save current settings as password generator profile.|
-|Enregistrer les paramètres actuels comme profil du générateur de mots de passe.|
+|Enregistrer les paramètres actuels dans un profil.|
 |Code&Wallet TXT File...|
 |Fichier TXT 'Code&Wallet'...|
 |&TXT File...|
@@ -569,7 +569,7 @@
 |N&o Auto-Sort|
 |Pas de tri aut&omatique|
 |Perform Auto-&Type|
-|Accomplir une saisie au&tomatique|
+|Accomplir la saisie au&tomatique|
 |&Disable|
 |&Désactiver|
 |&Enable|
@@ -717,7 +717,7 @@
 |6 Months|
 |6 mois|
 |&Repair Database File...|
-|&Réparer un fichier base de données...|
+|&Réparer le fichier de base de données...|
 |Automatically save when closing/locking the database|
 |Sauvegarder automatiquement avant de fermer/verrouiller la base de données|
 |Delete all backup entries before saving the database|
@@ -881,7 +881,7 @@
 |Save current settings as a profile.|
 |Enregistrer les paramètres actuels comme profil.|
 |Randomly permute characters of password|
-|Permuter aléatoirement les caractères du mot de passe|
+|Permuter aléatoirement des caractères du mot de passe|
 |Minus (-)|
 |Tiret (-)|
 |Open Database|
@@ -895,7 +895,7 @@
 |All Files|
 |Tous les fichiers|
 |Generate using character set:|
-|Générer en utilisant le jeu de caractères :|
+|Générer en utilisant un jeu de caractères :|
 |Generate using pattern:|
 |Générer en utilisant le motif :|
 |Generated password|
@@ -917,7 +917,7 @@
 |Exclude look-alike characters|
 |Exclure les caractères similaires|
 |(Automatically generated passwords for new entries)|
-|(Mot de passe généré automatiquement pour les nouvelles entrées)|
+|(Mots de passe généré automatiquement pour les nouvelles entrées)|
 |Hide passwords behind asterisks (***).|
 |Cacher les mots de passe par des astérisques (***).|
 |Also include the following characters:|
@@ -1223,7 +1223,7 @@
 |Custom database color:|
 |Couleur de la base de données personnalisée :|
 |Each character must occur at most once|
-|Chaque caractère doit apparaître au moins une fois|
+|Chaque caractère doit apparaître au plus une fois|
 |KeePass &Website|
 |&Site de KeePass|
 |KeePass Website|
