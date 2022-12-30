@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |繁體中文(臺灣)|
 |~LANGUAGEVERSION|
-|1.40 - 1|
+|1.41 - 1|
 |~LANGUAGEAUTHOR|
 |高祥元 (Kao Shiang-Yuan)|
 |~LANGUAGEAUTHOREMAIL|
@@ -862,10 +862,12 @@
 |確認刪除項目|
 |&Select All|
 |全選(&S)|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
-|項目清單自動排序已啟動，您無法手動移動項目。|
+|Entries currently cannot be rearranged, because automatic sorting is activated.|
+|目前無法手動排序項目清單，因為項目清單自動排序已啟動。|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
 |項目清單自動排序已啟動，您無法手動排序項目。|
+|Do you want to deactivate automatic sorting?|
+|您要關閉自動排序嗎？|
 |Plugin|
 |Plugin|
 |Plugins|
