@@ -1,5 +1,5 @@
 |~LANGUAGENAME|                |Euskera|
-|~LANGUAGEVERSION|             |1.40|
+|~LANGUAGEVERSION|             |1.41|
 |~LANGUAGEAUTHOR|              |Alesander Gil Almandoz|
 |~LANGUAGEAUTHOREMAIL|         |alesander.gil@gmail.com|
 |~LANGISO6391CODE|             |eu|
@@ -504,11 +504,13 @@
 |Se&lect All|                             |&Hautatu Guztiak|
 |Auto-&Sort Entry List|                   |&Sarreren zerrenda automatikoki ordenatu|
 |N&o Auto-Sort|                           |E&z ordenatu automatikoki|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
-    |Sarreren zerrenda automatikoki ordenatzea gaitua dago; ezin dituzu sarrerak eskuz lekualdatu.|
 |Perform Auto-&Type|                      |A&uto-Idatzi Egin|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
     |Sarreren zerrenda automatikoki ordenatzea gaitua dago; ezin duzu orain zerrenda eskuz ordenatu.|
+|Do you want to deactivate automatic sorting?|
+    |Auto-ordenatzea ezgaitu nahi duzu?|
+|Entries currently cannot be rearranged, because automatic sorting is activated.|
+    |Sarrerak ezin dira une honetan berrantolatu, auto-ordenatzea gaituta baitago.|
 |Select key file manually...|             |Hautatu gako-artxiboa eskuz...|
 |Save key file manually to...|            |Gorde gako-artxiboa eskuz hemen...|
 |Specify the new master key.|             |Zehaztu gako nagusi berria.|
