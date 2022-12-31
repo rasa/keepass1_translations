@@ -1,11 +1,11 @@
 ﻿|~LANGUAGENAME|
 |Français|
 |~LANGUAGEVERSION|
-|1.40|
+|1.41|
 |~LANGUAGEAUTHOR|
 |Ronan Plantec|
 |~LANGUAGEAUTHOREMAIL|
-|ronan.plantec@boribar.com|
+|ronan.plantec@keepass.cool|
 |&Close|
 |&Fermer|
 |&Generate Random Password|
@@ -267,13 +267,13 @@
 |Save as Profile|
 |Enregistrer comme profil|
 |Do you want to save the changes before closing?|
-|Voulez-vous enregistrer les modifications avant de quitter ?|
+|Souhaitez-vous enregistrer les modifications avant de quitter ?|
 |KeePass - Save Before Close/Lock?|
 |KeePass - Enregistrer avant de fermer/verrouiller ?|
 |Deleting a group will delete all items and subgroups in that group, too.|
 |L'effacement du groupe provoquera également l'effacement de tous les éléments et sous-groupes inclus dans ce groupe.|
 |Are you sure you want to delete this group?|
-|Voulez-vous réellement effacer ce groupe ?|
+|Souhaitez-vous réellement effacer ce groupe ?|
 |Delete Group Confirmation|
 |Confirmation de l'effacement du groupe|
 |Cannot open temporary file for printing!|
@@ -473,7 +473,7 @@
 |There already is a file attached with this entry.|
 |Cette entrée possède déjà une pièce jointe.|
 |Do you want to overwrite the current attachment?|
-|Voulez-vous écraser la pièce jointe actuelle ?|
+|Souhaitez-vous écraser la pièce jointe actuelle ?|
 |&Save Attached File To...|
 |Enregi&strer la pièce jointe sous...|
 |There is no file attached with this entry.|
@@ -555,7 +555,7 @@
 |Most probably someone has changed the file while you were editing it.|
 |Le plus probable est que quelqu'un a changé le fichier pendant que vous le modifiez.|
 |Do you want to overwrite it?|
-|Voulez-vous l'écraser ?|
+|Souhaitez-vous l'écraser ?|
 |Are you sure you want to delete all selected entries?|
 |Êtes-vous sûr de vouloir effacer toutes les entrées sélectionnées ?|
 |Delete Entries Confirmation|
@@ -769,7 +769,7 @@
 |Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.|
 |Collez simplement vos NAT (TANs) dans la fenêtre d'édition ci-dessous. Le formatage n'a pas réellement d'importance, tout caractère non NAT est ignoré et seules les sous-chaînes NAT sont ajoutées comme entrées NAT.|
 |The help file contains detailed information about the expected input format. Do you want to open the help file?|
-|Le fichier d'aide contient les informations détaillées à propos des formats d'entrée attendue. Voulez-vous ouvrir le fichier d'aide?|
+|Le fichier d'aide contient les informations détaillées à propos des formats d'entrée attendue. Souhaitez-vous ouvrir le fichier d'aide?|
 |&Tools|
 |&Outils|
 |Auto-Type Entry Selection|
@@ -891,7 +891,7 @@
 |(No key file selected)|
 |(Aucun fichier clé sélectionné)|
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
-|Un fichier clé est déjà présent sur ce disque. Voulez-vous l'écraser ou le réutiliser?|
+|Un fichier clé est déjà présent sur ce disque. Souhaitez-vous l'écraser ou le réutiliser?|
 |All Files|
 |Tous les fichiers|
 |Generate using character set:|
@@ -1290,8 +1290,6 @@
 |fr|
 |Auto-&Sort Entry List|
 |&Tri automatique de la liste d'entrées|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
-|Le tri automatique de la liste d'entrées est activé ; vous ne pouvez pas déplacer les entrées manuellement.|
 |Entry List|
 |Liste des entrées|
 |Find a string in the entry list.|
@@ -1390,3 +1388,7 @@
 |Vous devriez régulièrement créer une sauvegarde du fichier de la base de données (sur un équipement de stockage de données indépendant).|
 |Your data will be stored in a KeePass database file, which is a regular file. When saving for the first time, you will be prompted to specify the location where KeePass should save this file.|
 |Vos données seront enregistrées dans un fichier de base de données au format KeePass, qui est un fichier normalisé. En l'enregistrant à sa toute première fois, vous serez invité à spécifier l'endroit où KeePass devra enregistrer ce fichier.|
+|Do you want to deactivate automatic sorting?|
+|Souhaitez-vous désactiver le tri automatique ?|
+|Entries currently cannot be rearranged, because automatic sorting is activated.|
+|Actuellement, les entrées ne peuvent pas être réarrangées, parce que le tri automatique est activé.|
