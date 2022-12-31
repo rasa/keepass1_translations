@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME|			|Russian|
 |~LANGISO6391CODE|		|ru|
-|~LANGUAGEVERSION|		|1.40|
-|~LANGUAGEAUTHOR|		|Dmitry Yerokhin, Andrew Gavrushenko|
+|~LANGUAGEVERSION|		|1.41|
+|~LANGUAGEAUTHOR|		|Dmitry Yerokhin|
 |~LANGUAGEAUTHOREMAIL|		|erodim@mail.ru|
 
 |OK|				|OK|
@@ -434,7 +434,8 @@
 |Se&lect All|				|В&ыбрать все|
 |Auto-&Sort Entry List|			|&Автосортировка списка записей|
 |N&o Auto-Sort|				|Не использовать &автосортировку|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.|	|Включена автосортировка списка записей, перемещать записи вручную нельзя.|
+|Entries currently cannot be rearranged, because automatic sorting is activated.|	|Изменять порядок записей сейчас нельзя, так как включена автоматическая сортировка.|
+|Do you want to deactivate automatic sorting?|	|Хотите отключить автоматическую сортировку?|
 |Perform Auto-&Type|			|Начать а&втонабор|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|	|Включена автосортировка списка записей, сортировать записи вручную теперь нельзя.|
 |Select key file manually...|		|Выберите ключевой файл вручную...|
