@@ -1,5 +1,5 @@
 |~LANGUAGENAME||ไทย|
-|~LANGUAGEVERSION||1.40|
+|~LANGUAGEVERSION||1.41|
 |~LANGUAGEAUTHOR||K. sirap|
 |~LANGUAGEAUTHOREMAIL||https://github.com/minoplhy|
 |~LANGISO6391CODE||th|
@@ -364,7 +364,6 @@
 |Se&lect All||&เลือกทั้งหมด|
 |Auto-&Sort Entry List||เรียงรายกา&รอัตโนมัติ|
 |N&o Auto-Sort||ไม่มีการเรียงลำดับอัตโนมัติ|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.||เปิดใช้งานการเรียงลำดับของรายการอัตโนมัติ; คุณไม่สามารถย้ายรายการด้วยตนเอง|
 |Perform Auto-&Type||ดำเนินการพิมพ์อัตโนมัติ|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.||เปิดใช้งานการเรียงลำดับอัตโนมัติของรายการ; คุณไม่สามารถเรียงลำดับรายการด้วยตนเองได้ในขณะนี้|
 |Select key file manually...||เลือกคีย์ไฟล์ด้วยตนเอง...|
@@ -693,3 +692,5 @@
 |It is important that you remember where the database file is stored.||เป็นสิ่งสำคัญที่คุณต้องจำตำแหน่งที่เก็บไฟล์ฐานข้อมูล|
 |You should regularly create a backup of the database file (onto an independent data storage device).||คุณควรสํารองไฟล์ฐานข้อมูลเป็นประจำ (ไปยังอุปกรณ์จัดเก็บข้อมูลอิสระ)|
 |Your data will be stored in a KeePass database file, which is a regular file. When saving for the first time, you will be prompted to specify the location where KeePass should save this file.||ข้อมูลของคุณจะถูกเก็บไว้ในไฟล์ฐานข้อมูล KeePass ซึ่งเป็นไฟล์ปกติ เมื่อบันทึกเป็นครั้งแรก คุณจะได้รับแจ้งให้ระบุตำแหน่งที่ KeePass ควรบันทึกไฟล์นี้|
+|Do you want to deactivate automatic sorting?||คุณต้องการปิดใช้งานการเรียงลำดับอัตโนมัติหรือไม่?|
+|Entries currently cannot be rearranged, because automatic sorting is activated.||ไม่สามารถจัดเรียงรายการได้ในขณะนี้ เนื่องจากมีการเปิดใช้งานการจัดเรียงอัตโนมัติ|
