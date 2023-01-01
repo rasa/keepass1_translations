@@ -1,11 +1,11 @@
 ﻿|~LANGUAGENAME|                                                       |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                                    |1.40|
+|~LANGUAGEVERSION|                                                    |1.41|
 |~LANGUAGEAUTHOR|                                                     |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                                |<translator@zeron.net>|
 |~LANGISO6391CODE|                                                    |tr|
 |OK|                                                                  |&Tamam|
 |&Close|                                                              |&Kapat|
-|&Generate Random Password|                                           |&Rastgele parola üret|
+|&Generate Random Password|                                           |&Rastgele parola oluştur|
 |Select &Password Font|                                               |&Parola yazı tipini seçin|
 |Choose an icon.|                                                     |Bir simge seçin.|
 |General|                                                             |Genel|
@@ -36,24 +36,24 @@
 |Notes|                                                               |Notlar|
 |Ready.|                                                              |Hazır.|
 |Enter Password:|                                                     |Parolayı yazın:|
-|Master Password:|                                                    |Temel parola:|
+|Master Password:|                                                    |Ana parola:|
 |Create New Database|                                                 |Yeni veritabanı oluştur|
-|Set Master Key|                                                      |Temel anahtar|
-|Specify the master key.|                                             |Temel anahtarı belirleyin.|
-|Specify the new master key.|                                         |Yeni temel anahtarı belirleyin.|
-|Repeat Master Password|                                              |Temel parolayı onaylayın|
-|Repeat the master password for the new database.|                    |Yeni veritabanı için temel parolayı onaylayın.|
+|Set Master Key|                                                      |Ana anahtar|
+|Specify the master key.|                                             |Ana anahtarı belirleyin.|
+|Specify the new master key.|                                         |Yeni ana anahtarı belirleyin.|
+|Repeat Master Password|                                              |Ana parolayı onaylayın|
+|Repeat the master password for the new database.|                    |Ana veritabanı için ana parolayı onaylayın.|
 |Open Database|                                                       |Veritabanı aç|
-|Enter Master Key|                                                    |Temel anahtarı yazın|
-|Enter the master key.|                                               |Yeni temel anahtarı yazın.|
+|Enter Master Key|                                                    |Ana anahtarı yazın|
+|Enter the master key.|                                               |Yeni ana anahtarı yazın.|
 |(No key file selected)|                                              |(Anahtar dosyası seçilmemiş)|
 |Key File|                                                            |Anahtar dosyası|
-|Password Generator|                                                  |Parola üreticisi|
-|Here you can generate a random password.|                            |Bu pencerede rastgele parolalar üretebilirsiniz.|
+|Password Generator|                                                  |Parola oluşturucu|
+|Here you can generate a random password.|                            |Bu pencerede rastgele parolalar oluşturabilirsiniz.|
 |Options|                                                             |Ayarlar|
 |Current settings|                                                    |Geçerli ayarlar|
 |Generated password|                                                  |Oluşturulan parola|
-|&Generate|                                                           |Ü&ret|
+|&Generate|                                                           |&Oluştur|
 |&Accept|                                                             |&Kullan|
 |Upper-case (A, B, C, ...)|                                           |Büyük harfler (A, B, C, ...)|
 |Lower-case (a, b, c, ...)|                                           |Küçük harfler (a, b, c, ...)|
@@ -93,7 +93,7 @@
 |So, the more the better. The different, the better.|                 |Daha çok yazı daha iyidir. Farklı yazılar, daha da iyidir.|
 |The random the better.|                                              |Rastgele yazı daha iyidir.|
 |Get Random|                                                          |Rastgele al|
-|Get Random Data for Key Generation|                                  |Anahtar üretimi için rastgele veri al|
+|Get Random Data for Key Generation|                                  |Anahtar oluşturmak için rastgele veri al|
 |Move the mouse and type some random text to generate random values.| |Rastgele değerler oluşturmak için bazı rastgele yazılar yazın ve fareyi dolaştırın.|
 |Pick an Icon|                                                        |Bir simge seçin|
 |Choose an icon from the list of available entry and group icons.|    |Kayıt ve grup simgeleri listesinden bir simge seçin.  |
@@ -106,7 +106,7 @@
 |&Close|                                                              |Kapa&t|
 |&Save|                                                               |&Kaydet|
 |Save &As...|                                                         |&Farklı kaydet...|
-|Change &Master Key...|                                               |Temel anahtarı &değiştir...|
+|Change &Master Key...|                                               |Ana anahtarı &değiştir...|
 |&Print...|                                                           |Ya&zdır...|
 |&Export|                                                             |&Dışa aktar|
 |&Lock Workspace|                                                     |Çalışma alanını &kilitle|
@@ -126,15 +126,15 @@
 |Move Entry &One Up|                                                  |Kaydı bir üste taşı|
 |Mo&ve Entry One Down|                                                |Kaydı bir alta taşı|
 |Move Entry to &Bottom|                                               |Kaydı en alta taşı|
-|Move Group to &Top|                                                  |Grubu &En üste taşı|
-|Move Group One &Up|                                                  |Grubu Bir ü&ste taşı|
-|Move Group &One Down|                                                |Grubu Bir &alta taşı|
-|Move Group to &Bottom|                                               |Grubu En al&ta taşı|
+|Move Group to &Top|                                                  |Grubu &en üste taşı|
+|Move Group One &Up|                                                  |Grubu bir ü&ste taşı|
+|Move Group &One Down|                                                |Grubu bir &alta taşı|
+|Move Group to &Bottom|                                               |Grubu en al&ta taşı|
 |Change &Language...|                                                 |&Dili değiştir...|
 |&Always on Top|   			                                          |Pencere her zaman üstte &kalsın|
 |Hide &Passwords Behind Asterisks (***)|                              |Parolalar yıldız simgesiyle &gizlensin|
 |Hide passwords behind asterisks (***).|                              |Parolalar yıldız simgesiyle gizlensin.|
-|Password &Generator...|                                              |Parola ü&reticisi...|  
+|Password &Generator...|                                              |Parola &oluşturucu...|  
 |&About KeePass...|                                                   |KeePass &hakkında...|
 |&Database Settings...|                                               |&Veritabanı ayarları...|
 |&Tray/Untray|                                                        |&Bildirim alanına küçült/ekranı kapla|
@@ -143,8 +143,8 @@
 |Enter a group name!|                                                 |Lütfen bir grup adı yazın!|
 |You must generate some random values using the random mouse input box or the edit field before you can close this dialog.|
 	|Bu pencereyi kapatmadan önce, rastgele fare girişi kutusunu kullanarak bazı rastgele değerler oluşturmalı ya da alana rastgele karakterler yazmalısınız.|
-|No random input|                                                     |Rastgele giriş yok|
-|EITHER enter a master password OR select a key file.|                |Bir temel parola yazın YA DA bir anahtar dosyası seçin.|
+|No random input|                                                     |Rastgele giriş yapılmadı|
+|EITHER enter a master password OR select a key file.|                |Bir ana parola yazın YA DA bir anahtar dosyası seçin.|
 |The password must consist of at least one character!|                |Parola en az bir karakterden oluşmalı!|
 |Select at least one of the options in the list above!|               |Üstteki listedeki seçeneklerden en az birini seçin!|
 |The following self-tests failed:|                                    |Aşağıdaki öz sınamalar başarısız oldu:|
@@ -160,7 +160,7 @@
 |Self-Test(s) Failed|                                                 |Öz denetim(ler) başarısız oldu|
 |Clipboard cleared.|                                                  |Pano temizlendi.|
 |Field copied to clipboard. Clipboard will be cleared in %d seconds.| |Alan panoya kopyalandı. Pano %d saniye içerisinde temizlenmiş olacak.|
-|Failed to set the master key!|                                       |Temel anahtar ayarlanamadı!|
+|Failed to set the master key!|                                       |Ana anahtar ayarlanamadı!|
 |File cannot be opened!|                                              |Dosya açılamadı!|
 |File cannot be saved!|                                               |Dosya kaydedilemedi!|
 |KeePass KDB Files|                                                   |KeePass KDB dosyaları|
@@ -231,12 +231,12 @@
 |Creation Time|                                                       |Oluşturulma|
 |Last Modification|                                                   |Son değiştirilme|
 |Last Access|                                                         |Son erişilme|
-|Expires|                                                             |Son kullanma|
+|Expires|                                                             |Geçerlilik sonu|
 |UUID|                                                                |Eşsiz kod|
 |&Creation Time|                                                      |&Oluşturulma zamanı|
 |Last &Modification Time|                                             |Son &değiştirilme zamanı|
 |&Last Access Time|                                                   |Son &erişilme zamanı|
-|&Expiration Time|                                                    |&Son kullanma zamanı|
+|&Expiration Time|                                                    |&Geçerlilik sonu zamanı|
 |UU&ID|                                                               |&Eşsiz kod|
 |Show &Toolbar|                                                       |&Araç çubuğu görüntülensin|
 |Field copied to clipboard.|                                          |Alan panoya kopyalandı.|
@@ -246,10 +246,10 @@
 |Click [No] to reuse the selected key file for this database.|        |Bu veritabanı için seçilmiş anahtar dosyasını kullanmak için [Hayır] seçin.|
 |Click [Cancel] to abort changing the key.|                           |Anahtar değiştirmeyi iptal etmek için [İptal] seçin.|
 |Overwrite?|                                                          |Üzerine yazılsın mı?|
-|Expires:|                                                            |Son kullanma:|
+|Expires:|                                                            |Geçerlilik sonu:|
 |Change group:|                                                       |Grubu değiştir:|
 |Change entry icon:|                                                  |Kayıt simgesini değiştir:|
-|Change expiration time:|                                             |Son kullanma zamanını değiştir:|
+|Change expiration time:|                                             |Geçerlilik sonu zamanını değiştir:|
 |Mass Modify|                                                         |Toplu değiştir|
 |Change fields of all selected entries|                               |Seçilmiş tüm kayıtların alanları değiştirilsin|
 |Show &Columns|                                                       |&Görüntülenecek sütunlar|
@@ -267,7 +267,7 @@
 |Using this wizard you can easily add TAN entries.|                   |Bu yardımcıyı kullanarak kolayca TAN kayıtları ekleyebilirsiniz.|
 |Paste your TANs into the edit box below. All characters that are not explicitly specified as TAN characters are treated as separators, and only substrings consisting of TAN characters are added as TAN entries.| 
      |TAN'larınızı aşağıdaki kutuya yapıştırın. TAN karakteri olarak açıkça belirtilmemiş tüm karakterler ayraç olarak algılanır ve karakterlerin ayraca kadar olan bölümü TAN kaydı olarak eklenir.  |
-|TANs consist of the following characters:|                           |TAN'lar şu karakterlerden oluşur:|
+|TANs consist of the following characters:|                           |TAN ögeleri şu karakterlerden oluşur:|
 |<TAN>|                                                               |<TAN>|
 |Print Pre&view...|                                                   |Yazdırma ö&n izleme...|
 |About &Translation...|                                               |&Çeviri hakkında...|
@@ -315,8 +315,8 @@
      |Bu işlemi yürütmek için Ayarlar bölümünden güvensiz işlemler seçeneğini etkinleştirmelisiniz.|
 |You have changed an option that requires restarting KeePass to get active.|
      |Değişikliklerin geçerli olması için KeePass uygulamasını yeniden başlatmalısınız.|
-|Expired Entries|                                                     |Süresi geçmiş kayıtlar|
-|This is a list of all expired entries|                               |Tüm süresi geçmiş kayıtların listesi.|
+|Expired Entries|                                                     |Geçerlilik süresi geçmiş kayıtlar|
+|This is a list of all expired entries|                               |Tüm geçerlilik süresi geçmiş kayıtların listesi.|
 |Click on an entry to jump to it.|                                    |Görmek istediğiniz kayda tıklayın.|
 |Quality:|                                                            |Kalite:|
 |Database Settings|                                                   |Veritabanı ayarları|
@@ -350,15 +350,16 @@
 |Se&lect All|                                                         |&Tümünü seç|
 |Auto-&Sort Entry List|                                               |Otomatik kayıt listesi &sıralaması|
 |N&o Auto-Sort|                                                       |&Otomatik olarak sıralanmasın|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
-     |Otomatik sıralama etkin olduğundan kayıtları el ile sıralayamazsınız.|
+|Do you want to deactivate automatic sorting?|                        |Otomatik sıralamayı devre dışı bırakmak ister misiniz?|
+|Entries currently cannot be rearranged, because automatic sorting is activated.|
+    |Otomatik sıralama etkin olduğundan kayıtlar yeniden düzenlenemez.|
 |Perform Auto-&Type|                                                  |&Otomatik yaz|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
      |Otomatik sıralama etkin olduğundan kayıtları  el ile sıralayamazsınız.|
 |Select key file manually...|                                         |Anahtar dosyasını kendim seçeyim...|
 |Save key file manually to...|                                        |Anahtar dosyasını kendim kaydedeyim...|
-|Repeat the new master password for this database.|                   |Bu veritabanı için yeni temel parolayı yaniden yazın|
-|Change Master Key|                                                   |Temel anahtarı değiştir|
+|Repeat the new master password for this database.|                   |Bu veritabanı için yeni ana parolayı yaniden yazın|
+|Change Master Key|                                                   |Ana anahtarı değiştir|
 |Plugin|                                                              |Eklenti|
 |Plugins|                                                             |Eklentiler|
 |&Plugins...|                                                         |&Eklentiler...|
@@ -384,7 +385,7 @@
 |Global auto-type hot key combination:|                               |Genel otomatik yazma kısa yol tuşu:|
 |Cannot register the global hot key.|                                 |Genel kısa yol tuşu kayıt edilemedi.|
 |Most probably another application has reserved this hot key already.||Büyük ihtimalle başka bir uygulama bu kısa yol tuşunu kullanıyor.|
-|&Use master password and key file|                                   |Temel parola VE anahtar dosyası &kullanılsın|
+|&Use master password and key file|                                   |Ana parola VE anahtar dosyası &kullanılsın|
 |You've selected the AND key mode, so you must enter a password AND select a key file.|
      |VE Anahtar kipini seçtiniz, bu nedenle hem bir anahtar dosyası seçmeli hem de parola yazmalısınız.|
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
@@ -399,14 +400,14 @@
 |Failed to change the .kdb file association. Make sure you have the rights to write to the registry and change file associations.|
      |.kdb dosyası ilişkilendirmesi değiştirilemedi. Kayıt defterine yazma ve dosya ilişkilendirmelerini değiştirme haklarına sahip olduğunuzdan emin olun.|
 |Number the TANs consecutively, starting from this value|             |TAN'lar şu değerden başlanarak sırayla numaralansın|
-|Never expires|                                                       |Asla süresi geçmesin|
+|Never expires|                                                       |Geçerlilik süresi geçmesin|
 |Auto-Type|                                                           |Otomatik yazma|
 |Help:|                                                               |Yardım:|
 |Advanced|                                                            |Gelişmiş|
 |Start minimized and locked|                                          |Simge durumunda ve kilitli olarak başlasın|
 |Immediately after opening a database|                                |Bir veritabanını açıldıktan hemen sonra|
-|Show expired entries (if any)|                                       |(Varsa) süresi geçmiş kayıtlar görüntülensin|
-|Show entries that will expire soon (if any)|                         |(Varsa) yakında süresi geçecek kayıtlar görüntülensin|
+|Show expired entries (if any)|                                       |(Varsa) geçerlilik süresi geçmiş kayıtlar görüntülensin|
+|Show entries that will expire soon (if any)|                         |(Varsa) yakında geçerlilik süresi geçecek kayıtlar görüntülensin|
 |Integration|                                                         |Bütünleştirme|
 |Start KeePass at Windows startup (for current user)|                 |Windows başlarken KeePass çalıştırılsın (bu kullanıcı için)|
 |Unable to create/remove the auto-start key of KeePass in the Windows registry!|
@@ -414,7 +415,7 @@
 |Backup|                                                              |Yedek|
 |Save backups of modified entries into the 'Backup' group|            |Değiştirilmiş kayıtların yedekleri 'Yedek' grubuna kaydedilsin|
 |Failed to create backup of this entry!|                              |Bu kaydın yedeği oluşturulamadı!|
-|The master key has been changed!|                                    |Temel anahtar değiştirildi!|
+|The master key has been changed!|                                    |Ana anahtar değiştirildi!|
 |Save the database now in order to get the new key applied.|          |Yeni anahtarın etkin olması için veritabanını kaydedin.|
 |Fields to export|                                                    |Dışa aktarılacak alanlar|
 |Fields to print|                                                     |Yazdırılacak alanlar|
@@ -430,15 +431,15 @@
 |&Get More Import Plugins...|                                         |Diğer içe aktarma &eklentileri|
 |Field has been pasted.|                                              |Alan yapıştırıldı.|
 |Waiting for paste command.|                                          |Yapıştır komutu için bekleniyor.|
-|Paste operation completed.|                                          |Yapıştırma tamamlandı.|
+|Paste operation completed.|                                          |Yapıştırma işlemi tamamlandı.|
 |Limit to single instance|                                            |Tek KeePass kopyası çalışsın|
 |Use more secure password edit controls|                              |Daha güvenli parola düzenleme denetimleri kullan|
 |Press Shift+Home or Shift+End to clear this edit control|            |Bu düzenleme denetimini temizlemek için Shift+Home ya da Shift+End tuşlarına basın|
 |Single left click instead of double-click for default tray icon action|
      |Sistem alanı simgesi çift yerine tek sol tıklama ile etkinleşsin|
 |Exclude entries in the '&Backup' group|                              |'&Yedek' grubundaki kayıtlar yok sayılsın|
-|By default, new entries expire in the following number of days:|     |Yeni kayıtların süresi varsayılan olarak şu kadar günde geçsin:|
-|Click to expire the entry in %u days|                                |Kaydın son kullanma zamanının %u olması için tıklayın|
+|By default, new entries expire in the following number of days:|     |Yeni kayıtların geçerlilik süresi varsayılan olarak şu olsun:|
+|Click to expire the entry in %u days|                                |Kaydın süresinin %u zamanında geçmesi için tıklayın|
 |Calculate rounds for a 1-second delay on this computer|              |Bu bilgisayarda 1 saniye gecikme için yuvarlamalar hesaplansın|
 |The program is distributed under the terms of the GNU General Public License v2 or later.|
      |Bu uygulama GNU-Genel Kamu Lisansı sürüm 2 ya da sonrasında belirtilmiş koşullar altında dağıtılmaktadır.|
@@ -533,18 +534,18 @@
 |(Custom)|                                                            |(Özel)|
 |Save current settings as a profile.|                                 |Geçerli ayarları profil olarak kaydet.|
 |Delete currently selected profile.|                                  |Seçilmiş profili sil.|
-|(Automatically generated passwords for new entries)|                 |(Yeni kayıtlar için otomatik üretilmiş parolalar)|
+|(Automatically generated passwords for new entries)|                 |(Yeni kayıtlar için otomatik oluşturulmuş parolalar)|
 |Profile|                                                             |Profil|
-|Length of generated password:|                                       |Üretilen parolanın uzunluğu:|
+|Length of generated password:|                                       |Oluşturulan parolanın uzunluğu:|
 |Generate using character set:|                                       |Şu karakter kümesi kullanılsın:|
 |Generate using pattern:|                                             |Şu düzen kullanılsın:|
 |Also include the following characters:|                              |Şu karakterler de katılsın:|
 |Exclude look-alike characters|                                       |Benzer görünen karakterler olmasın|
 |Use local date/time format instead of ISO notation|                  |ISO gösterimi yerine yerel tarih/saat biçimi kullanılsın|
 |Save as Profile|                                                     |Profil olarak kaydet|
-|Save current settings as password generator profile.|                |Geçerli ayarları parola üretme profili olarak kaydeder.|
+|Save current settings as password generator profile.|                |Geçerli ayarları parola oluşturma profili olarak kaydeder.|
 |Please enter a name for the new password generator profile, or select an existing profile to overwrite it:|
-     |Yeni parola üretme profiline bir ad yazın ya da üstüne yazılacak bir profil seçin:|
+     |Yeni parola oluşturma profiline bir ad yazın ya da üstüne yazılacak bir profil seçin:|
 |Randomly permute characters of password|                             |Parola karakterleri rastgele değiştirilsin|
 |Locked|                                                              |Kilitli|
 |The help file contains detailed information about the expected input format. Do you want to open the help file?|
@@ -556,7 +557,7 @@
 |Regular expression|                                                  |Kurallı ifade|
 |The regular expression is invalid.|                                  |Kurallı ifade geçersiz.|
 |Default user name for new entries:|                                  |Yeni kayıtlar için varsayılan kullanıcı adı:|
-|Advanced Password Generator Options|                                 |Gelişmiş parola üretme ayarları|
+|Advanced Password Generator Options|                                 |Gelişmiş parola oluşturma ayarları|
 |Exclude the following characters:|                                   |Aşağıdaki karakterler katılmasın:|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
      |Yıldız ile işaretlenmiş seçenek ya da kurallar, oluşturulan parolaların güvenliğini azaltıyor. Bunları yalnız bir web sitesi, uygulama ya da parola planı sizi bu kuralları uygulamak zorunda bırakıyorsa işaretleyin.|
@@ -627,7 +628,7 @@
 |Drop to background when copying data to the clipboard|               |Veri panoya kopyalanırken arka plana geçilsin|
 |Ed&it Group...|                                                      |Grubu &düzenle|
 |Enable auto-type features|                                           |&Otomatik yazma kullanılsın|
-|Exclude &expired entries|                                            |Süresi geçmiş kayıtlar &katılmasın|
+|Exclude &expired entries|                                            |Geçerlilik süresi geçmiş kayıtlar &katılmasın|
 |Field to reference|                                                  |Alan referansı|
 |Get more plugins...|                                                 |Diğer eklentiler...|
 |Help &Source...|                                                     |&Yardım Kaynağı...|
@@ -639,7 +640,7 @@
 |In Title Field|                                                      |Ad alanından|
 |In URL Field|                                                        |Adres alanından|
 |In User Name Field|                                                  |Kullanıcı adı alanından|
-|Include expired entries in quick searches|                           |Hızlı aramalara süresi geçmiş kayıtlar da katılsın|
+|Include expired entries in quick searches|                           |Hızlı aramalara geçerlilik süresi geçmiş kayıtlar da katılsın|
 |Insert Field Reference|                                              |Alan referansı ekle|
 |Local help file|                                                     |Yerel yardım dosyası|
 |Multiple entries match the specified identifying field.|             |Belirtilen kimlik alanına uyan birden fazla kayıt var.|
@@ -650,7 +651,7 @@
 |Prepend special initialization sequence for Internet Explorer windows|
      |Internet Explorer için özel açılış sıralaması hazırlansın|
 |Read-only|                                                           |Salt okunur|
-|Show &Expired Entries|                                               |&Süresi geçmiş kayıtlar görüntülensin|
+|Show &Expired Entries|                                               |Geçerlilik &süresi geçmiş kayıtlar görüntülensin|
 |Sort items in the auto-type entry selection dialog|                  |Otomatik yazma kayıtları seçme listesinde sıralansın|
 |Source field to reference|                                           |Referans olacak kaynak alan|
 |Take ownership of the file and open it in normal writing mode.|      |Dosya devralınsın ve normal yazma kipinde açılsın|
@@ -702,7 +703,7 @@
 |Ctrl|                                                                |Ctrl|
 |Lock workspace after the following idle time (seconds):|             |Çalışma alanı şu kadar saniye sonra kilitlensin|
 |Sort List by &Creation Time|                                         |&Oluşturulma zamanına göre sıralansın|
-|Sort List by &Expiration Time|                                       |&Son kullanma zamanına göre sıralansın|
+|Sort List by &Expiration Time|                                       |Geçerlilik &süresine göre sıralansın|
 |Sort List by &Password|                                              |&Parolaya göre sıralansın|
 |Sort List by &Title|                                                 |&Başlığa göre sıralansın|
 |Sort List by &URL|                                                   |&Adrese göre sıralansın|
