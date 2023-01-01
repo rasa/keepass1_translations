@@ -2,7 +2,7 @@
 |~LANGUAGEAUTHOR||Kari Eveli|
 |~LANGUAGEAUTHOREMAIL||lexitec@lexitec.fi|
 |~LANGUAGENAME||suomi|
-|~LANGUAGEVERSION||1.40|
+|~LANGUAGEVERSION||1.41|
 |- Arcfour crypto routine||- Arcfour-salausrutiini|
 |- Rijndael decryption||- Rijndael-salauksenpurku|
 |- Rijndael encryption||- Rijndael-salauksenluonti|
@@ -136,7 +136,6 @@
 |Automatically open last used database on startup||Avaa automaattisesti viimeksi käytetty tietokanta käynnistyksen yhteydessä|
 |Automatically resize table columns when resizing the main window||Suurenna/pienennä automaattisesti taulukkojen sarakkeita, kun pääikkunan kokoa muutetaan|
 |Automatically save when closing/locking the database||Automaattinen tallennus, kun tietokanta suljetaan/lukitaan|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.||Tietueluettelon automaattinen lajittelu on päällä: et voi siirtää tietueita käsin.|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.||Tietueluettelon automaattinen lajittelu on päällä: et voi lajitella tietueita käsin.|
 |Auto-Type Entry Selection||Automaattisyötön tietuevalinta|
 |Auto-Type: Customize Sequence||Automaattisyöttö: syöttöketjun räätälöinti|
@@ -232,6 +231,7 @@
 |Display images on buttons||Näytä kuvat painikkeissa|
 |Do not store data in the Windows clipboard history and the cloud clipboard||Älä varastoi tietoja Windowsin leikepöydän historiaan tai pilvileikepöytään|
 |Do you grant the application access to your KeePass database?||Annetaanko tälle sovellukselle pääsy omaan KeePass-tietokantaasi?|
+|Do you want to deactivate automatic sorting?||Haluatko ottaa automaattisen lajittelun pois päältä?|
 |Do you want to open the application directory (in order to move or delete language files)?||Haluatko avata sovellushakemiston (jotta voisit siirtää tai poistaa kielitiedostoja)?|
 |Do you want to overwrite it?||Haluatko korvata sen?|
 |Do you want to overwrite the current attachment?||Haluatko korvata liitteen?|
@@ -259,6 +259,7 @@
 |Enter Master Key||Syötä pääavain|
 |Enter Password:||Anna salasana:|
 |Enter the master key.||Pääavaimen syöttö.|
+|Entries currently cannot be rearranged, because automatic sorting is activated.||Tietueita ei nyt voi panna uuteen järjestykseen, koska automaattinen lajittelu on päällä.|
 |Entry List||Tietueluettelo|
 |Entry||Tietue|
 |Error code||Virhekoodi|
