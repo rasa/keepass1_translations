@@ -1,5 +1,6 @@
-﻿|~LANGUAGENAME||Català|
-|~LANGUAGEVERSION||1.40|
+﻿|~LANGISO6391CODE||~LANGISO6391CODE|
+|~LANGUAGENAME||Català|
+|~LANGUAGEVERSION||1.41|
 |~LANGUAGEAUTHOR||Albert Morera|
 |~LANGUAGEAUTHOREMAIL||@|
 |- Arcfour crypto routine||- Rutina criptogràfica Arcfour|
@@ -90,11 +91,6 @@
 |(No key file selected)||(Fitxer de clau no seleccionat)|
 |***||***|
 |{PARAM} more entries||{PARAM} entrades més|
-|~LANGISO6391CODE||~LANGISO6391CODE|
-|~LANGUAGEAUTHOR||Albert Morera|
-|~LANGUAGEAUTHOREMAIL||@|
-|~LANGUAGENAME||Català|
-|~LANGUAGEVERSION||1.37|
 |<TAN>||<TAN>|
 |1 Month||1 mes|
 |1 update is available!||1 actualització disponible!|
@@ -140,7 +136,6 @@
 |Automatically open last used database on startup||En iniciar obre automàticament l'última base de dades|
 |Automatically resize table columns when resizing the main window||Redimensiona automàticament les columnes en redimensionar la finestra principal|
 |Automatically save when closing/locking the database||Desa en tancar/bloquejar la base de dades|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.||L'auto-ordenació de la llista d'entrades està habilitada; no es poden moure entrades manualment.|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.||L'auto-ordenació de la llista d'entrades està habilitada; no es pot ordenar la llista manualment.|
 |Auto-Type||Auto-tecleig|
 |Auto-Type Entry Selection||Selecció d'entrades amb auto-tecleig|
@@ -236,6 +231,7 @@
 |Display images on buttons||Mostra imatges en els botons|
 |Do not store data in the Windows clipboard history and the cloud clipboard||No emmagatzemis dades a l'historial del porta-retalls de Windows ni al porta-retalls del núvol|
 |Do you grant the application access to your KeePass database?||Voleu donar permís al programari per accedir a la base de dades de KeePass?|
+|Do you want to deactivate automatic sorting?||Voleu desactivar l'ordenació automàtica?|
 |Do you want to open the application directory (in order to move or delete language files)?||Voleu obrir la carpeta del programari (per tal de moure o esborrar fitxers de llengua)?|
 |Do you want to overwrite it?||Voleu sobreescriure’l?|
 |Do you want to overwrite the current attachment?||Voleu sobreescriure l'adjunt actual?|
@@ -263,6 +259,7 @@
 |Enter Master Key||Entreu la Clau Mestra|
 |Enter Password:||Entreu la contrasenya:|
 |Enter the master key.||Entreu la clau mestra.|
+|Entries currently cannot be rearranged, because automatic sorting is activated.||No podeu ordenar les entrades manualment perquè està activada l'ordenació automàtica.|
 |Entry||Entrada|
 |Entry List||Llista d’entrades|
 |Error code||Codi d'error|
