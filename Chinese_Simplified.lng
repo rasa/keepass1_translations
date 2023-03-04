@@ -1,8 +1,8 @@
-﻿2021-12-28 01:40
+﻿2023-2-28 01:41
 |~LANGUAGENAME|
 |简体中文|
 |~LANGUAGEVERSION|
-|1.40|
+|1.41|
 |~LANGUAGEAUTHOR|
 |Leo Dou @ CCF|
 |~LANGUAGEAUTHOREMAIL|
@@ -729,8 +729,10 @@
 |自动排序(&S)|
 |N&o Auto-Sort|
 |不自动排序(&O)|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
-|已启用自动排序，无法手动移动记录。|
+|Entries currently cannot be rearranged, because automatic sorting is activated.|
+|目前无法重排记录，因为启用了自动排序。|
+|Do you want to deactivate automatic sorting?|
+|你想停用自动排序吗？|
 |Perform Auto-&Type|
 |执行自动输入|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
