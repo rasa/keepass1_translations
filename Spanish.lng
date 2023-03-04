@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.40|
+|~LANGUAGEVERSION||1.41|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |~LANGISO6391CODE||es|
@@ -132,7 +132,6 @@
 |Automatically open last used database on startup||Al inicio, abrir automáticamente la última base de datos utilizada|
 |Automatically resize table columns when resizing the main window||Modificar el tamaño de las columnas automáticamente al modificar el tamaño de la ventana principal|
 |Automatically save when closing/locking the database||Guardar automáticamente al cerrar/bloquear la base de datos|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.||La clasificación automática de la lista de entradas se encuentra activada. Usted no puede mover las entradas manualmente.|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.||La clasificación automática de la lista de entradas se encuentra activada. Usted no puede ordenar la lista manualmente.|
 |Auto-Type Entry Selection||Selección de entradas para la escritura automática|
 |Auto-Type: Customize Sequence||Escritura automática: personalizar secuencia|
@@ -225,6 +224,7 @@
 |&Discard changes||&Descartar modificaciones|
 |Display images on buttons||Mostrar imágenes en los botones|
 |Do not store data in the Windows clipboard history and the cloud clipboard||No almacenar información en el historial del portapapeles de Windows ni el portapapeles en la nube|
+|Do you want to deactivate automatic sorting?||¿Desea desactivar la clasificación automática?|
 |Do you grant the application access to your KeePass database?||¿Le concede usted a la aplicación acceso a su base de datos de KeePass?|
 |Do you want to open the application directory (in order to move or delete language files)?||¿Desea abrir la carpeta de la aplicación? (para mover o borrar estos archivos de idioma)|
 |Do you want to overwrite it?||¿Desea sobreescribirlo?|
@@ -251,6 +251,7 @@
 |Enter Master Key||Ingrese la clave maestra|
 |Enter Password:||Introduzca la contraseña:|
 |Enter the master key.||Ingrese la clave maestra.|
+|Entries currently cannot be rearranged, because automatic sorting is activated.||Actualmente no es posible reordenar las entradas, ya que la clasificación automática está activada.|
 |Entry||Entrada|
 |Entry List||Lista de entradas|
 |Error code||Código de error|
