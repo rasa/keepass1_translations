@@ -1,9 +1,10 @@
 ﻿|~LANGISO6391CODE||~LANGISO6391CODE|
 |~LANGUAGENAME||Català|
-|~LANGUAGEVERSION||1.41|
+|~LANGUAGEVERSION||1.42|
 |~LANGUAGEAUTHOR||Albert Morera|
 |~LANGUAGEAUTHOREMAIL||@|
 |- Arcfour crypto routine||- Rutina criptogràfica Arcfour|
+|- ChaCha20 algorithm||- Algorisme ChaCha20|
 |- Rijndael decryption||- Desxifrat Rijndael|
 |- Rijndael encryption||- Xifrat Rijndael|
 |- SHA 32-bit variables||- SHA 32-bit variables|
@@ -18,7 +19,7 @@
 |&Accept||&Accepta|
 |&Add Entry...||&Afegeix una entrada...|
 |&Always on Top||&Sempre a la part superior|
-|&Attachment||&Adjunt|
+|&Attachment||A&djunt|
 |&Case sensitive||&Distingeix entre majúscules i minúscules|
 |&Close||&Tanca|
 |&Copy||&Copia|
@@ -51,7 +52,7 @@
 |&HTML File...||Fitxer &HTML...|
 |&Import||&Importa|
 |&KeePass Database...||Base de dades de &KeePass...|
-|&Last Access Time||Data de l'&últim accés|
+|&Last Access Time||Data de l'últim &accés|
 |&Lock Workspace||&Bloqueja l'espai de treball|
 |&Lock/Unlock Workspace||&Bloqueja/Desbloqueja l'espai de treball|
 |&Modify All Selected...||&Modifica tots els seleccionats...|
@@ -63,7 +64,7 @@
 |&Password||&Contrasenya|
 |&Paste||&Enganxa|
 |&Plugins...||&Connectors...|
-|&Print...||&Imprimeix...|
+|&Print...||Im&primeix...|
 |&PwSafe v2 TXT File...||Fitxer TXT &PwSafe v2...|
 |&Read-Only||&Només lectura|
 |&Rearrange||&Reorganitza|
@@ -154,8 +155,8 @@
 |Cannot open temporary file for printing!||No es pot obrir el fitxer temporal per imprimir-lo!|
 |Cannot register the global hot key.||No es pot registrar la drecera de teclat global.|
 |ch.||car.|
-|Change &Language...||&Canvia la llengua...|
-|Change &Master Key...||&Canvia la clau &mestra...|
+|Change &Language...||Canvia la &Llengua...|
+|Change &Master Key...||&Canvia la clau mestra...|
 |Change Master Key||Canvia la clau mestra|
 |Change entry icon:||Canvia la icona de l'entrada:|
 |Change expiration time:||Canvia la data de caducitat:|
@@ -236,6 +237,7 @@
 |Do you want to overwrite it?||Voleu sobreescriure’l?|
 |Do you want to overwrite the current attachment?||Voleu sobreescriure l'adjunt actual?|
 |Do you want to save the changes before closing?||Voleu desar els canvis abans de tancar?|
+|Do you want to set them to the current default values (recommended)?||Voleu establir-los amb els valors predeterminats actuals (recomanat)?|
 |Do you wish to restart KeePass now?||Voleu reiniciar el KeePass ara?|
 |Drop to background when copying data to the clipboard||Mou-ho al fons en copiar dades al porta-retalls|
 |Dupli&cate Entry||Dupli&ca l'entrada|
@@ -328,9 +330,9 @@
 |Here you can customize the exported files.||Aquí podeu personalitzar l'exportació de fitxers.|
 |Here you can customize the printed sheet.||Aquí podeu personalitzar els paràmetres d'impressió.|
 |Here you can generate a random password.||Aquí podeu generar una contrasenya aleatòria.|
-|Hide &Passwords Behind Asterisks (***)||Amaga les &contrasenyes amb asteriscs (***)|
-|Hide &User Names Behind Asterisks (***)||Amaga el nom d'&usuari amb asteriscs (***)|
-|Hide passwords behind asterisks (***).||Amaga les &contrasenyes amb asteriscs (***).|
+|Hide &Passwords Behind Asterisks (***)||Amaga les &Contrasenyes amb asteriscs (***)|
+|Hide &User Names Behind Asterisks (***)||Amaga el nom d'&Usuari amb asteriscs (***)|
+|Hide passwords behind asterisks (***).||Amaga les contrasenyes amb asteriscs (***).|
 |Hint: It is best to use both mouse and keyboard random sources.||Consell: el millor és utilitzar tant el ratolí com el teclat com a fonts d'aleatorietat.|
 |Homebanking||Banca electrònica|
 |Icon||Icona|
@@ -382,7 +384,7 @@
 |'Keyfile' or 'preselect' option is already specified||Ja s'ha especificat l'opció «fitxer clau» o «pre-seleccionat»|
 |Language file cannot be activated!||No es pot activar el fitxer de llengua!|
 |Language file cannot be opened!||No es pot obrir el fitxer de llengua!|
-|Last &Modification Time||Hora de l'&última modificació|
+|Last &Modification Time||Hora de l'última &modificació|
 |Last Access||Últim accés|
 |Last Modification||Última modificació|
 |Latin-1 Supplement||Suplement Latin-1|
@@ -514,7 +516,7 @@
 |Reuse||Reutilitza|
 |Reuse the current key/password?||Reutilitza la clau/contrasenya actual?|
 |Save||Desa|
-|Save &As...||Desa com &a...|
+|Save &As...||Desa com &a ...|
 |Save all changes made to the database and close the file.||Desa tots els canvis fets a la base de dades i tanca el fitxer.|
 |Save all changes made to the database and exit KeePass.||Desa tots els canvis fets a la base de dades i surt del KeePass.|
 |Save all changes made to the database and lock the KeePass workspace.||Desa tots els canvis fets a la base de dades i bloqueja l’espai de treball.|
@@ -549,7 +551,7 @@
 |Set Master Key||Establiu la clau mestra|
 |Settings||Opcions|
 |Setup||Configuració|
-|Show &Columns||Mostra les &columnes|
+|Show &Columns||&Mostra les columnes|
 |Show &Entry View||Mostra la vista amb les &entrades|
 |Show &Expired Entries||Mostra les &entrades caducades|
 |Show &Toolbar||Mostra la &barra d'eines|
@@ -559,17 +561,18 @@
 |Show grid lines in the entry list||Mostra les línies de la graella en la llista d’entrades|
 |Show TAN &Indices in Entry Titles||Mostra els &índexs TAN en el títol de les entrades|
 |Show tray icon only if main window has been sent to tray||Mostra la icona a la safata del sistema només si s’hi ha enviat la finestra principal|
+|Show warning when the key transformation settings are weak||Mostra un avís quan la configuració de la transformació de la clau sigui feble|
 |Single left click instead of double-click for default tray icon action||Un clic esquerre en lloc d'un doble-clic a la icona de la safata per a l’acció per defecte|
 |So, the more the better. The different, the better.||Així doncs, com més tecles i més diverses millor.|
 |Sort items in the auto-type entry selection dialog||Ordena els elements en el diàleg de selecció d'entrades de l’auto-tecleig|
 |Sort List by &Creation Time||Ordena la llista per &Data de creació|
-|Sort List by &Expiration Time||Ordena la llista per la Data de &venciment|
+|Sort List by &Expiration Time||Ordena la llista per la Data de &Venciment|
 |Sort List by &Password||Ordena la llista per la &Contrasenya|
 |Sort List by &Title||Ordena la llista pel &Títol|
-|Sort List by &URL||Ordena la llista per l’&URL|
-|Sort List by Last &Access Time||Ordena la llista per la Data i hora de l’últim &accés|
-|Sort List by Last &Modify Time||Ordena la llista per la Data i hora de l’última &modificació|
-|Sort List by Note&s||Ordena la llista per les Note&s|
+|Sort List by &URL||Ordena la llista per l’U&RL|
+|Sort List by Last &Access Time||Ordena la llista per la Data i hora de l’últim &Accés|
+|Sort List by Last &Modify Time||Ordena la llista per la Data i hora de l’última &Modificació|
+|Sort List by Note&s||Ordena la llista per les &Notes|
 |Sort List by User &Name||Ordena la llista pel Nom d'&Usuari|
 |Source field to reference||Camp d'origen a referenciar|
 |Space ( )||Espai ( )|
@@ -585,7 +588,7 @@
 |Successfully associated KeePass with .kdb files! A double-click on a .kdb file will now start KeePass automatically.||S'ha associat l'extensió KDB al KeePass. Un doble clic sobre un fitxer KDB obrirà l'aplicació automàticament.|
 |Successfully removed association! KeePass won't be started anymore when double-clicking on a .kdb file.||S'ha suprimit l’associació correctament. El KeePass no s'iniciarà quan es faci doble clic en un fitxer KDB.|
 |Take ownership of the file and open it in normal writing mode.||Pren la propietat del fitxer i obre'l en mode d'escriptura normal.|
-|TAN View &Options||&Opcions de visualització dels TAN|
+|TAN View &Options||Opcions de &visualització dels TAN|
 |TAN Wizard||Assistent TAN|
 |TANs are imported into the currently selected group||Els TAN s'importen al grup seleccionat actualment|
 |TANs consist of the following characters:||El TAN es composta dels següents caràcters:|
@@ -609,6 +612,7 @@
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||Com més alt sigui aquest nombre, més durs han de ser els atacs amb diccionari; però també s’alenteix més en carregar i desar la base de dades.|
 |The KeePass workspace will not be locked.||No es bloquejarà l’espai de treball del KeePass.|
 |The key provider plugin did not supply a valid key||El connector del proveïdor de claus no ha proporcionat una clau vàlida|
+|The key transformation settings of the database are weak.||Els paràmetres de la transformació de la clau de la base de dades són febles.|
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||El fitxer d'ajuda local és una instantània de la documentació en el moment què es va publicar aquesta versió. No s'actualitza automàticament.|
 |The master key has been changed!||S'ha canviat la clau mestra!|
 |The master password must be at least %u characters long!||La contrasenya mestra ha de ser almenys de %u caràcters de longitud!|
