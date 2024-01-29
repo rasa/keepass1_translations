@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME||Spanish (Español para España y Latinoamérica)|
-|~LANGUAGEVERSION||1.41|
+|~LANGUAGEVERSION||1.42|
 |~LANGUAGEAUTHOR||Marcel Trujillo|
 |~LANGUAGEAUTHOREMAIL||badseed@users.sourceforge.net|
 |~LANGISO6391CODE||es|
@@ -11,6 +11,7 @@
 |- SHA-256 test vector(s)||- SHA-256 prueba de vector(es)|
 |- SHA-512 test vector(s)||- SHA-512 prueba de vector(es)|
 |- Twofish algorithm||- Algoritmo Twofish|
+|- ChaCha20 algorithm||- Algoritmo ChaCha20|
 |%u of %u selected||%u de %u seleccionada(s)|
 |%u updates are available!||¡Hay %u actualizaciones disponibles!|
 |&?||&?|
@@ -230,6 +231,7 @@
 |Do you want to overwrite it?||¿Desea sobreescribirlo?|
 |Do you want to overwrite the current attachment?||Usted desea sobreecribir el adjunto?|
 |Do you want to save the changes before closing?||¿Desea guardar los cambios antes de salir?|
+|Do you want to set them to the current default values (recommended)?||¿Desea ajustarlos a los valores por defecto actuales (recomendado)?|
 |Do you wish to restart KeePass now?||¿Desea reiniciar KeePass ahora?|
 |Drop to background when copying data to the clipboard||Mover a segundo plano al copiar información al portapapeles|
 |Dupli&cate Entry||&Duplicar entrada|
@@ -535,6 +537,7 @@
 |Show full path in the title bar (instead of file name only)||Mostrar la ruta completa en la barra del título (en lugar de solamente el nombre del archivo)|
 |Show grid lines in the entry list||Mostrar líneas de cuadrícula en la lista de entradas|
 |Show TAN &Indices in Entry Titles||Mostrar índ&ices TAN en los títulos de las entradas|
+|Show warning when the key transformation settings are weak||Mostrar una advertencia cuando los parámetros de la transformación de la clave sean débiles|
 |Single left click instead of double-click for default tray icon action||Click único en lugar de doble-click para ejecutar la acción predeterminada del icono desde el área de notificación|
 |So, the more the better. The different, the better.||Por ende, a mayor cantidad mejor resultado. Más variedad, mayor calidad.|
 |Sort items in the auto-type entry selection dialog||Ordenar los elementos en el cuadro de selección de entradas para la escritura automática|
@@ -584,6 +587,7 @@
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||Mientras más alto sea este número, mayor dificultad tendrán los ataques de diccionario. Pero elevar este número también hace que la base de datos sea más lenta para cargar y guardar.|
 |The KeePass workspace will not be locked.||El área de trabajo de KeePass no será bloqueada.|
 |The key provider plugin did not supply a valid key||El complemento proveedor de claves no proporcionó una clave válida|
+|The key transformation settings of the database are weak.||Los parámetros de la transformación de la clave de la base de datos son débiles.|
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||El archivo de ayuda local es una copia de la documentación del producto al momento de haber sido publicada esta versión. No se actualiza automáticamente.|
 |The master key has been changed!||¡La clave maestra ha sido modificada!|
 |The master password must be at least %u characters long!||¡La contraseña maestra debe ser de al menos %u caracteres!|
