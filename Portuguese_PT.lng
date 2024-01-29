@@ -1,7 +1,7 @@
 ﻿|~LANGUAGENAME||Portuguese (Português, Portugal)|
-|~LANGUAGEVERSION||1.41|
+|~LANGUAGEVERSION||1.42|
 |~LANGUAGEAUTHOR||José Gonçalves|
-|~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com, http://www.eufisica.com|
+|~LANGUAGEAUTHOREMAIL||joseaagoncalves@gmail.com|
 |&Close||Fechar|
 |&Generate Random Password||Criar Senha Aleatória|
 |General||Geral||Windows||Windows||Network||Rede||Internet||Internet|
@@ -329,3 +329,8 @@
 
 |Do you want to deactivate automatic sorting?||Deseja desativar a classificação automática?|
 |Entries currently cannot be rearranged, because automatic sorting is activated.||As entradas atualmente não podem ser reorganizadas porque a classificação automática está ativada.|
+
+|- ChaCha20 algorithm||- Algoritmo ChaCha20|
+|Do you want to set them to the current default values (recommended)?||Deseja configurá-los para os valores padrão atuais (recomendado)?|
+|Show warning when the key transformation settings are weak||Mostrar aviso quando as configurações de transformação chave forem fracas|
+|The key transformation settings of the database are weak.||As configurações de transformação da chave da base de dados são fracas.|
