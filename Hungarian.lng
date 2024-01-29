@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Magyar|
 |~LANGUAGEVERSION|
-|1.41|
+|1.42|
 |~LANGUAGEAUTHOR|
 |herka (1.13) • Zotius (1.18 verziótól)|
 |~LANGUAGEAUTHOREMAIL|
@@ -346,6 +346,14 @@
 |- Arcfour titkosító rutin|
 |- Twofish algorithm|
 |- Twofish algoritmus|
+|- ChaCha20 algorithm|
+|- ChaCha20 algoritmus|
+|Do you want to set them to the current default values (recommended)?|
+|Szeretné beállítani őket az aktuális alapértelmezett értékekre? (ajánlott)?|
+|Show warning when the key transformation settings are weak|
+|Figyelmeztetés megjelenítése, ha a kulcstranszformációs beállítások gyengék|
+|The key transformation settings of the database are weak.|
+|Az adatbázis kulcstranszformációs beállításai gyengék.|
 |The program will exit now.|
 |A program most kilép.|
 |Self-Test(s) Failed|
