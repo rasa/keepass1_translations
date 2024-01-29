@@ -2,7 +2,7 @@
 |Lietuvių|
 
 |~LANGUAGEVERSION|
-|1.41|
+|1.42|
 
 |~LANGUAGEAUTHOR|
 |Vytautas Rėkus/Donaldas Apanavičius|
@@ -2095,3 +2095,15 @@
 
 |Entries currently cannot be rearranged, because automatic sorting is activated.|
 |Įrašai dabar negali būti pertvarkyti, kadangi automatinį rikiavimas yra aktyvus.|
+
+|- ChaCha20 algorithm|
+|- ChaCha20 algoritmas|
+
+|Do you want to set them to the current default values (recommended)?|
+|Ar norite nustatyti dabartines numatytąsias reikšmes (rekomenduojama)?|
+
+|Show warning when the key transformation settings are weak|
+|Įspėti, kuomet rakto transformavimo parinktys yra silpnos|
+
+|The key transformation settings of the database are weak.|
+|Rakto transformavimo parinktys duomenų bazėje yra silpnos.|
