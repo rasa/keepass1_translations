@@ -1,7 +1,7 @@
 |~LANGUAGENAME|
 |Srpski|
 |~LANGUAGEVERSION|
-|1.40|
+|1.42|
 |~LANGUAGEAUTHOR|
 |Ljuba Ćirović|
 |~LANGUAGEAUTHOREMAIL|
@@ -1252,8 +1252,6 @@
 |Sigurno želite da pokušate da popravite datoteku baze podataka?|
 |Auto-&Sort Entry List|
 |Automatski sortiraj listu stavki|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
-|Automatsko sortiranje liste stavki je omogućeno; ne možete ručno da premeštate stavke.|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
 |Automatsko sortiranje liste stavki je omogućeno; ne možete ručno da sortirate listu.|
 |Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
@@ -1390,5 +1388,17 @@
 |Trebalo bi redovno da pravite rezervnu kopiju datoteke baze podataka (na nekom nezavisnom uređaju za skladištenje podataka).|
 |Your data will be stored in a KeePass database file, which is a regular file. When saving for the first time, you will be prompted to specify the location where KeePass should save this file.|
 |Vaši podaci će biti uskladišteni u KeePass-ovu datoteku baze podataka, koja je obična datoteka. Kada je prvi put budete sačuvali, bićete upitani da navedete mesto gde bi KeePass trebalo da sačuva ovu datoteku.|
+|- ChaCha20 algorithm|
+|- Algoritam ChaCha20|
+|Do you want to deactivate automatic sorting?|
+|Da li želite da deaktivirate automatsko sortiranje?|
+|Do you want to set them to the current default values (recommended)?|
+|Da li želite da ih postavite na tekuće podrazumevane vrednosti (preporučeno)?|
+|Entries currently cannot be rearranged, because automatic sorting is activated.|
+|Stavke ne mogu trenutno biti preuređene jer je aktivirano automatsko sortiranje.|
+|Show warning when the key transformation settings are weak|
+|Prikaži upozorenje kada su postavke transformacije ključa slabe|
+|The key transformation settings of the database are weak.|
+|Postavke transformacije ključa baze podataka su slabe.|
 |~LANGISO6391CODE|
 |sr|
