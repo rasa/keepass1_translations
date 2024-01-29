@@ -2,8 +2,9 @@
 |~LANGUAGEAUTHOR||Kari Eveli|
 |~LANGUAGEAUTHOREMAIL||lexitec@lexitec.fi|
 |~LANGUAGENAME||suomi|
-|~LANGUAGEVERSION||1.41|
+|~LANGUAGEVERSION||1.42|
 |- Arcfour crypto routine||- Arcfour-salausrutiini|
+|- ChaCha20 algorithm||- ChaCha20-algoritmi|
 |- Rijndael decryption||- Rijndael-salauksenpurku|
 |- Rijndael encryption||- Rijndael-salauksenluonti|
 |- SHA 32-bit variables||- SHA 32 bitin muuttujat|
@@ -236,6 +237,7 @@
 |Do you want to overwrite it?||Haluatko korvata sen?|
 |Do you want to overwrite the current attachment?||Haluatko korvata liitteen?|
 |Do you want to save the changes before closing?||Haluatko tallentaa muutokset ennen sulkemista?|
+|Do you want to set them to the current default values (recommended)?||Asetetaanko ne nykyisiin oletusarvoihin (suositus)?|
 |Do you wish to restart KeePass now?||Käynnistetäänkö KeePass uudelleen heti?|
 |Drop to background when copying data to the clipboard||KeePass vetäytyy taustalle kopioitaessa tietoja leikepöydälle|
 |Dupli&cate Entry||M&onista tietue|
@@ -559,6 +561,7 @@
 |Show grid lines in the entry list||Näytä tietuelistaus raidoitettuna (joka toinen rivi)|
 |Show TAN &Indices in Entry Titles||Näytä avainlukulistojen &järjestysluvut tietueotsikoissa|
 |Show tray icon only if main window has been sent to tray||Näytä kuvake ilmaisinalueella, vain jos pääikkuna on pienennetty sinne|
+|Show warning when the key transformation settings are weak||Näytä varoitus, kun avaimenmuunnosasetukset ovat heikkoja|
 |Single left click instead of double-click for default tray icon action||Vasen napsautus hiirellä kaksoisnapsautuksen sijaan ilmaisinalueen kuvakkeen perustoiminossa|
 |So, the more the better. The different, the better.||Tavoite on suuri määrä mitä erilaisimpia merkkejä.|
 |Sort items in the auto-type entry selection dialog||Lajittele kohteet automaattisyöttötietueiden valintanäytössä|
@@ -609,6 +612,7 @@
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.||Mitä suurempi tämä numero on, sitä vaikeampaa on suorittaa sanakirjahyökkäyksiä. Mutta, mitä suurempi tämä numero on, sitä hitaammin tietokanta latautuu ja tallentuu.|
 |The KeePass workspace will not be locked.||Keepassin työtilaa ei lukita.|
 |The key provider plugin did not supply a valid key||Avaintarjoajalisäosa ei tarjonnut kelvollista avainta|
+|The key transformation settings of the database are weak.||Tietokannan avaimenmuunnosasetukset ovat heikkoja.|
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.||Paikallinen ohjetiedosto vastaa tuotteen dokumentaatiota tämän tuoteversion julkaisuhetkellä. Sitä ei päivitetä automaattisesti.|
 |The master key has been changed!||Pääavain on vaihdettu!|
 |The master password must be at least %u characters long!||Pääavain pitää olla vähintään %u merkkiä pitkä!|
