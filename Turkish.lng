@@ -1,5 +1,5 @@
 ﻿|~LANGUAGENAME|                                                       |Türkçe <Turkish>|
-|~LANGUAGEVERSION|                                                    |1.41|
+|~LANGUAGEVERSION|                                                    |1.42|
 |~LANGUAGEAUTHOR|                                                     |Kaya Zeren|
 |~LANGUAGEAUTHOREMAIL|                                                |<translator@zeron.net>|
 |~LANGISO6391CODE|                                                    |tr|
@@ -37,13 +37,13 @@
 |Ready.|                                                              |Hazır.|
 |Enter Password:|                                                     |Parolayı yazın:|
 |Master Password:|                                                    |Ana parola:|
-|Create New Database|                                                 |Yeni veritabanı oluştur|
+|Create New Database|                                                 |Yeni veri tabanı oluştur|
 |Set Master Key|                                                      |Ana anahtar|
 |Specify the master key.|                                             |Ana anahtarı belirleyin.|
 |Specify the new master key.|                                         |Yeni ana anahtarı belirleyin.|
 |Repeat Master Password|                                              |Ana parolayı onaylayın|
-|Repeat the master password for the new database.|                    |Ana veritabanı için ana parolayı onaylayın.|
-|Open Database|                                                       |Veritabanı aç|
+|Repeat the master password for the new database.|                    |Ana veri tabanı için ana parolayı onaylayın.|
+|Open Database|                                                       |Veri tabanı aç|
 |Enter Master Key|                                                    |Ana anahtarı yazın|
 |Enter the master key.|                                               |Yeni ana anahtarı yazın.|
 |(No key file selected)|                                              |(Anahtar dosyası seçilmemiş)|
@@ -87,7 +87,7 @@
 |Move the mouse in the field above until this is full:|               |Bu alan dolana kadar üstteki alanda fareyi dolaştırın :|
 |Hint: It is best to use both mouse and keyboard random sources.|     |İpucu : Rastgele kaynak olarak hem fare hem de karakterleri kullanmak en iyisidir.|
 |Random keyboard input|                                               |Rastgele karakter girişi|
-|Just hack some random keys into the edit box above.|                 |Üstteki kutuya tuş takımından rastgele yazılar yazın.|
+|Just hack some random keys into the edit box above.|                 |Üstteki kutuya klavyeden rastgele yazılar yazın.|
 |You don't have to remember the keys you type in. They are used to generate a random value.|
      |Yazdığınız yazıları hatırlamak zorunda değilsiniz. Bunlar yalnızca rastgele bir değer oluşturmak için kullanılır.|
 |So, the more the better. The different, the better.|                 |Daha çok yazı daha iyidir. Farklı yazılar, daha da iyidir.|
@@ -116,7 +116,7 @@
 |&Options...|                                                         |&Ayarlar...|
 |Pr&int Group...|                                                     |Grubu &yazdır...|
 |Open &URL(s)|                                                        |A&dresi aç|
-|&Find in Database...|                                                |&Veritabanında bul...|
+|&Find in Database...|                                                |&Veri tabanında bul...|
 |Find in t&his Group...|                                              |Seçilmiş &grupta bul...|
 |&Add Entry...|                                                       |Kayıt &ekle...|
 |&Edit/View Entry...|                                                 |Kaydı &görüntüle/düzenle...|
@@ -136,7 +136,7 @@
 |Hide passwords behind asterisks (***).|                              |Parolalar yıldız simgesiyle gizlensin.|
 |Password &Generator...|                                              |Parola &oluşturucu...|  
 |&About KeePass...|                                                   |KeePass &hakkında...|
-|&Database Settings...|                                               |&Veritabanı ayarları...|
+|&Database Settings...|                                               |&Veri tabanı ayarları...|
 |&Tray/Untray|                                                        |&Bildirim alanına küçült/ekranı kapla|
 |Password and repeated password aren't identical!|                    |Yazdığınız parola ile onayı aynı değil!|
 |Stop|                                                                |Dur|
@@ -165,7 +165,7 @@
 |File cannot be saved!|                                               |Dosya kaydedilemedi!|
 |KeePass KDB Files|                                                   |KeePass KDB dosyaları|
 |All Files|                                                           |Tüm dosyalar|
-|The current database file has been modified|                         |Kullanılan veritabanı dosyasında değişiklik yapılmış|
+|The current database file has been modified|                         |Kullanılan veri tabanı dosyasında değişiklik yapılmış|
 |Do you want to save the changes before closing?|                     |Kapatmadan önce değişiklikleri kaydetmek ister misiniz?|
 |KeePass - Save Before Close/Lock?|                                   |KeePass - Kapatmadan/kilitlemeden önce kaydedilsin mi?|
 |Deleting a group will delete all items and subgroups in that group, too.|
@@ -184,7 +184,7 @@
 |Clipboard auto-clear time (seconds):|                                |Panonun otomatik temizlenme süresi (saniye) :|
 |Settings|                                                            |Ayarlar|
 |Here you can configure KeePass.|                                     |KeePass uygulamasını buradan yapılandırabilirsiniz.|
-|Automatically open last used database on startup|                    |Açılışta son kullanılan veritabanı yüklensin|
+|Automatically open last used database on startup|                    |Açılışta son kullanılan veri tabanı yüklensin|
 |Display images on buttons|                                           |Düğmelerin üzerinde görseller görüntülensin|
 |Show grid lines in the entry list|                                   |Kayıt listesinde tablo çizgileri görüntülensin|
 |Workspace locked|                                                    |Çalışma alanı kilitlendi|
@@ -217,7 +217,7 @@
 |Memory|                                                              |Bellek|
 |Lock workspace when minimizing the main window|                      |KeePass penceresi küçültülürken çalışma alanı kilitlensin|
 |Minimize to tray instead of taskbar|                                 |Uygulama görev çubuğu yerine, sistem alanına küçültülsün|
-|Encryption algorithm to use (for this database):|                    |Kullanılacak şifreleme algoritması (bu veritabanı için) :|
+|Encryption algorithm to use (for this database):|                    |Kullanılacak şifreleme algoritması (bu veri tabanı için) :|
 |Advanced Encryption Standard (AES) (128-bit block cipher using 256-bit key)|
      |Gelişmiş şifreleme standardı (AES) (256 bit anahtar kullanarak 128 bitlik blok şifreleme)|
 |Twofish (128-bit block cipher using 256-bit key)|                    |Twofish (256 bit anahtar kullanarak 128 bitlik blok şifreleme)|
@@ -243,7 +243,7 @@
 |A key file already exists on this drive. Do you want to overwrite or reuse it?|
      |Bu sürücüde zaten bir anahtar dosyası var. Üzerine yazmak ya da kullanmak ister misiniz?|
 |Click [Yes] to overwrite the key file.|                              |Anahtar dosyasının üzerine yazmak için [Evet] seçin.|
-|Click [No] to reuse the selected key file for this database.|        |Bu veritabanı için seçilmiş anahtar dosyasını kullanmak için [Hayır] seçin.|
+|Click [No] to reuse the selected key file for this database.|        |Bu veri tabanı için seçilmiş anahtar dosyasını kullanmak için [Hayır] seçin.|
 |Click [Cancel] to abort changing the key.|                           |Anahtar değiştirmeyi iptal etmek için [İptal] seçin.|
 |Overwrite?|                                                          |Üzerine yazılsın mı?|
 |Expires:|                                                            |Geçerlilik sonu:|
@@ -293,7 +293,7 @@
 |Remove the currently attached file|                                  |Var olan ek dosyasını sil|
 |Close button [X] minimizes the main window instead of terminating the application|
      |Kapat [X] üzerine tıklandığında uygulama kapanacağına simge durumuna küçültülsün|
-|KeePass Database|                                                    |KeePass veritabanı|
+|KeePass Database|                                                    |KeePass veri tabanı|
 |&Open with KeePass|                                                  |KeePass ile &aç|
 |Here you can associate .kdb files with KeePass (so KeePass opens the file when double-clicking on it):|
      |Bu bölümden .kdb uzantılı dosyaları KeePass ile ilişkilendirebilirsiniz. Böylece .kdb uzantılı bir dosyaya çift tıkladığınızda dosya KeePass ile açılır|
@@ -304,7 +304,7 @@
 |Exit?|                                                               |Çıkmak istiyor musunuz?|
 |The file couldn't be saved.|                                         |Dosya kaydedilemedi.|
 |Maybe it's read-only or the storage media has been removed.|         |Salt okunur ya da depolama ortamı çıkarılmış.|
-|If you exit now, all changes to the current database will be lost.|  |Şimdi çıkarsanız, geçerli veritabanında yapılmış olan tüm değişiklikler kaybolur.|
+|If you exit now, all changes to the current database will be lost.|  |Şimdi çıkarsanız, geçerli veri tabanında yapılmış olan tüm değişiklikler kaybolur.|
 |Would you like to exit anyway?|                                      |Çıkmak istiyor musunuz?|
 |Cannot access the selected drive.|                                   |Seçilmiş sürücüye erişilemiyor.|
 |Make sure a writable medium is inserted.|                            |Yazılabilir bir ortamın takılı olduğundan emin olun.|
@@ -319,13 +319,13 @@
 |This is a list of all expired entries|                               |Tüm geçerlilik süresi geçmiş kayıtların listesi.|
 |Click on an entry to jump to it.|                                    |Görmek istediğiniz kayda tıklayın.|
 |Quality:|                                                            |Kalite:|
-|Database Settings|                                                   |Veritabanı ayarları|
-|Here you can configure the current database.|                        |Kullanımdaki veritabanını buradan ayarlayabilirsiniz.|
-|Database Summary|                                                    |Veritabanı özeti|
+|Database Settings|                                                   |Veri tabanı ayarları|
+|Here you can configure the current database.|                        |Kullanımdaki veri tabanını buradan ayarlayabilirsiniz.|
+|Database Summary|                                                    |Veri tabanı özeti|
 |Your key is encrypted several times to make up the final database encryption key. This adds a constant time factor and makes guessing and dictionary attacks much harder.|
     |Anahtarınız, hazırlanırken birkaç kez şifrelenir. Bu işlem şifreye sabit bir süre çarpanı ekleyerek sözlük ve ön görü saldırılarına karşı daha iyi koruma sağlar.|
 |The higher this number, the harder are dictionary attacks. But also the higher this number, the slower the database loading and saving.|
-     |Bu sayının büyük olması sözlük saldırılarını zorlaştırır. Ancak veritabanı yükleme ve kaydetme süreleri de uzar.|
+     |Bu sayının büyük olması sözlük saldırılarını zorlaştırır. Ancak veri tabanı yükleme ve kaydetme süreleri de uzar.|
 |Number of key encryption rounds:|                                    |Anahtar şifreleme turu sayısı:|
 |bits|                                                                |bit|
 |Personal &Vault TXT File...|                                         |Kişisel &depo TXT dosyası...|
@@ -336,7 +336,7 @@
 |%u of %u selected|                                                   |%u/%u kayıt seçilmiş|
 |Number of selected entries (number of entries in the list)|          |Seçilmiş kayıt sayısı (listedeki kayıt sayısı)|
 |Status|                                                              |Durum|
-|The database file has been modified!|                                |Veritabanı dosyası değiştirilmiş!|
+|The database file has been modified!|                                |Veri tabanı dosyası değiştirilmiş!|
 |Most probably someone has changed the file while you were editing it.|
     |Büyük olasılıkla siz dosyayı güncellerken bir başkası da değiştirdi.|
 |Do you want to overwrite it?|                                        |Üzerine yazılsın mı?|
@@ -346,7 +346,7 @@
 |Are you sure you want to delete all selected entries?|               |Seçilmiş tüm kayıtları gerçekten silmek istiyor musunuz?|
 |Delete Entries Confirmation|                                         |Kayıtlar silinsin|
 |Use PuTTY for ssh: and telnet: URLs|                                 |ssh: ve telnet: adresleri için PuTTY kullanılsın|
-|Mark database as modified on last access time change|                |Son erişim zamanı değiştiğinde veritabanı değiştirilmiş olarak işaretlensin.|
+|Mark database as modified on last access time change|                |Son erişim zamanı değiştiğinde veri tabanı değiştirilmiş olarak işaretlensin.|
 |Se&lect All|                                                         |&Tümünü seç|
 |Auto-&Sort Entry List|                                               |Otomatik kayıt listesi &sıralaması|
 |N&o Auto-Sort|                                                       |&Otomatik olarak sıralanmasın|
@@ -358,7 +358,7 @@
      |Otomatik sıralama etkin olduğundan kayıtları  el ile sıralayamazsınız.|
 |Select key file manually...|                                         |Anahtar dosyasını kendim seçeyim...|
 |Save key file manually to...|                                        |Anahtar dosyasını kendim kaydedeyim...|
-|Repeat the new master password for this database.|                   |Bu veritabanı için yeni ana parolayı yaniden yazın|
+|Repeat the new master password for this database.|                   |Bu veri tabanı için yeni ana parolayı yaniden yazın|
 |Change Master Key|                                                   |Ana anahtarı değiştir|
 |Plugin|                                                              |Eklenti|
 |Plugins|                                                             |Eklentiler|
@@ -391,7 +391,7 @@
 |Timed: copy data to the clipboard and clear it automatically after some seconds|
      |Süreli : veri panoya kopyalansın ve birkaç saniye sonra otomatik olarak temizlensin|
 |Enhanced: allow pasting only once and protect against clipboard spies|
-     |Gelişmiş : yalnız bir kez yapıştırmaya izin verilerek pano casusluğuna karşı koruma sağlansın|
+     |Gelişmiş : Yalnızca bir kez yapıştırmaya izin verilerek pano casusluğuna karşı koruma sağlansın|
 |Clipboard behavior:|                                                 |Pano davranışı:|
 |Warning! It is possible that this option won't work correctly on your system, especially if you are using any clipboard enhancing or clipboard backup tools.|
      |UYARI! Özellikle herhangi bir pano geliştirme ya da pano yedekleme aracı yüklediyseniz, bu seçenek sisteminizde düzgün çalışmayabilir.|
@@ -405,7 +405,7 @@
 |Help:|                                                               |Yardım:|
 |Advanced|                                                            |Gelişmiş|
 |Start minimized and locked|                                          |Simge durumunda ve kilitli olarak başlasın|
-|Immediately after opening a database|                                |Bir veritabanını açıldıktan hemen sonra|
+|Immediately after opening a database|                                |Bir veri tabanını açıldıktan hemen sonra|
 |Show expired entries (if any)|                                       |(Varsa) geçerlilik süresi geçmiş kayıtlar görüntülensin|
 |Show entries that will expire soon (if any)|                         |(Varsa) yakında geçerlilik süresi geçecek kayıtlar görüntülensin|
 |Integration|                                                         |Bütünleştirme|
@@ -416,7 +416,7 @@
 |Save backups of modified entries into the 'Backup' group|            |Değiştirilmiş kayıtların yedekleri 'Yedek' grubuna kaydedilsin|
 |Failed to create backup of this entry!|                              |Bu kaydın yedeği oluşturulamadı!|
 |The master key has been changed!|                                    |Ana anahtar değiştirildi!|
-|Save the database now in order to get the new key applied.|          |Yeni anahtarın etkin olması için veritabanını kaydedin.|
+|Save the database now in order to get the new key applied.|          |Yeni anahtarın etkin olması için veri tabanını kaydedin.|
 |Fields to export|                                                    |Dışa aktarılacak alanlar|
 |Fields to print|                                                     |Yazdırılacak alanlar|
 |Icon|                                                                |Simge|
@@ -452,24 +452,24 @@
 |Include backup entries in quick searches|                            |Hızlı aramalarda yedek kayıtlarına da bakılsın|
 |&Donate...|                                                          |&Bağış yapın...|
 |Use alternative auto-type method (minimize window)|                  |Alternatif otomatik yazma yöntemi kullanılsın (pencereyi küçült)|
-|Delete all backup entries before saving the database|                |Veritabanı kaydedilmeden önce 'Yedek' grubundaki tüm kayıtlar silinsin|
-|&Repair Database File...|                                            |Veritabanı dosyasını &onar...|
+|Delete all backup entries before saving the database|                |Veri tabanı kaydedilmeden önce 'Yedek' grubundaki tüm kayıtlar silinsin|
+|&Repair Database File...|                                            |Veri tabanı dosyasını &onar...|
 |The file format that you have selected to import supports group and/or entry IDs. Please choose an import behaviour.|
      |İçe aktarmak üzere seçtiğiniz dosya biçimi grup ve/veya kayıt kimliklerini destekliyor. Lütfen bir içe aktarma yöntemi seçin.|
 |Create new IDs|                                                      |Yeni kimlikler oluşturulsun|
 |If you select this option, KeePass will create new IDs for all groups and entries. Consequently no existing groups and entries of the currently opened database will be modified or overwritten.|
-     |Bunu seçerseniz, KeePass tüm gruplar ve kayıtlar için yeni kimlikler oluşturur. Şu anda açık olan veritabanında var olan grup ve kayıtlar değiştirilmez ya da üzerine yazılmaz.|
+     |Bunu seçerseniz, KeePass tüm gruplar ve kayıtlar için yeni kimlikler oluşturur. Şu anda açık olan veri tabanında var olan grup ve kayıtlar değiştirilmez ya da üzerine yazılmaz.|
 |Overwrite|                                                           |Üzerine yazılsın|
 |KeePass will replace all existing groups and entries by the ones in the file to import, if they have the same ID.|
      |KeePass var olan tüm grup ve kayıtları, içe aktardığınız dosyada aynı kimliğe sahip olanlar ile değiştirir.|
 |Overwrite if newer|                                                  |Daha yeniyse üzerine yazılsın|
 |KeePass will compare the last-modified times of the groups/entries and replace the existing ones only if the ones to import are newer.|
-     |KeePass grup ve kayıtların son değişiklik zamanına bakarak, yalnız içe aktarılan daha yeni bilgileri günceller.|
-|&KeePass Database...|                                                |&KeePass veritabanı...|
+     |KeePass grup ve kayıtların son değişiklik zamanına bakarak, yalnızca içe aktarılan daha yeni bilgileri günceller.|
+|&KeePass Database...|                                                |&KeePass veri tabanı...|
 |Acknowledgements|                                                    |Teşekkürler|
 |Please choose if KeePass should use the key of the currently opened database or ask you to define a new key to encrypt the exported file.|
-     |Dışa aktarılacak dosyayı şifrelemek için, açık olan veritabanının anahtarı mı kullanılsın, yoksa yeni bir anahtar mı oluşturulsun?|
-|Click [Yes] to use the same key as the currently opened database.|   |Açık olan veritabanı ile aynı anahtarı kullanmak için [Evet] üzerine tıklayın.|
+     |Dışa aktarılacak dosyayı şifrelemek için, açık olan veri tabanının anahtarı mı kullanılsın, yoksa yeni bir anahtar mı oluşturulsun?|
+|Click [Yes] to use the same key as the currently opened database.|   |Açık olan veri tabanı ile aynı anahtarı kullanmak için [Evet] üzerine tıklayın.|
 |Click [No] to set a new key for the exported file.|                  |Verilen dosyaya yeni bir anahtar atamak için [Hayır] üzerine tıklayın.|
 |Reuse the current key/password?|                                     |Geçerli anahtar ve parola yeniden kullanılsın mı?|
 |Show full path in the title bar (instead of file name only)|         |Başlık çubuğunda dosya adıyla birlikte tam yol  görüntülensin|
@@ -490,9 +490,9 @@
 |Now|                                                                 |Şimdi|
 |&Tools|	                                                          |&Araçlar|
 |TAN View &Options|                                                   |TAN görünümü a&yarları|
-|Use &Simple List View for TAN-Only Groups|                           |Yalnız TAN grupları için &basit liste görüntülensin|
+|Use &Simple List View for TAN-Only Groups|                           |Yalnızca TAN grupları için &basit liste görüntülensin|
 |Show TAN &Indices in Entry Titles|                                   |Kayıt adlarında TAN &dizini görüntülensin|
-|Disable 'Save' button if the database hasn't been modified|          |Veritabanı güncellenmemişse 'Kaydet' düğmesi devre dışı kalsın|
+|Disable 'Save' button if the database hasn't been modified|          |Veri tabanı güncellenmemişse 'Kaydet' düğmesi devre dışı kalsın|
 |You have the latest version.|                                        |En son sürümü kullanıyorsunuz.|
 |'Keyfile' or 'preselect' option is already specified|                |'Anahtar dosya' ya da 'Önseçim' seçeneği zaten belirtilmiş|
 |Path is invalid|                                                     |Geçersiz yol|
@@ -500,7 +500,7 @@
 |'Pw' option is already specified|                                    |'PW' seçeneği zaten belirtilmiş|
 |Password is empty|                                                   |Parola boş|
 |Option not recognized|                                               |Seçenek anlaşılamadı|
-|Database is already specified|                                       |Veritabanı zaten belirtilmiş|
+|Database is already specified|                                       |Veri tabanı zaten belirtilmiş|
 |It contains an unmatched quote|                                      |Kapanışı olmayan bir tırnak simgesi içeriyor|
 |Command line argument|                                               |Komut satırı değişkeni|
 |ignored|                                                             |yok sayılan|
@@ -512,11 +512,11 @@
 |Fields to remember|                                                  |Hatırlanacak alanlar|
 |An entry already exists for the current URL.|                        |Geçerli adres için bir kayıt zaten var.|
 |The following application requests access to your currently opened KeePass database:|
-     |Aşağıdaki uygulama şu anda açık olan KeePass veritabanına erişmek istiyor:|
+     |Aşağıdaki uygulama şu anda açık olan KeePass veri tabanına erişmek istiyor:|
 |Note that the application title has been supplied by the requesting application and may therefore be incorrect (a malicious program could try to access your database).|
-     |İstekte bulunan uygulamanın adına dikkat edin (kötü niyetli bir program veritabanınıza erişmeyi deniyor olabilir).  |
+     |İstekte bulunan uygulamanın adına dikkat edin (kötü niyetli bir program veri tabanınıza erişmeyi deniyor olabilir).  |
 |Do you grant the application access to your KeePass database?|
-     |Uygulamanın, KeePass veritabanına erişmesini kabul ediyor musunuz?|
+     |Uygulamanın, KeePass veri tabanına erişmesini kabul ediyor musunuz?|
 |&Read-Only|                                                          |&Salt okunur olarak|
 |&Full|                                                               |Tam yetkili olarak|
 |&Deny|                                                               |&Reddet|
@@ -560,11 +560,11 @@
 |Advanced Password Generator Options|                                 |Gelişmiş parola oluşturma ayarları|
 |Exclude the following characters:|                                   |Aşağıdaki karakterler katılmasın:|
 |Options/rules marked with an asterisk reduce the security of generated passwords. Only enable them if you are forced to follow such rules by the website, application or password policy.|
-     |Yıldız ile işaretlenmiş seçenek ya da kurallar, oluşturulan parolaların güvenliğini azaltıyor. Bunları yalnız bir web sitesi, uygulama ya da parola planı sizi bu kuralları uygulamak zorunda bırakıyorsa işaretleyin.|
+     |Yıldız ile işaretlenmiş seçenek ya da kurallar, oluşturulan parolaların güvenliğini azaltıyor. Bunları yalnızca bir site, uygulama ya da parola planı sizi bu kuralları uygulamak zorunda bırakıyorsa işaretleyin.|
 |Provider|                                                            |Sağlayıcı|
 |The key provider plugin did not supply a valid key|                  |Anahtar sağlayıcı eklentisi geçerli bir anahtar sağlayamadı|
 |Register Ctrl+Alt+K hot key (brings the KeePass window to front)|    |Ctrl+Alt+K kısayolu kullanılsın (KeePass penceresini öne getirir)|
-|Type to search the database|                                         |Veritabanında aramak için yazın|
+|Type to search the database|                                         |Veri tabanında aramak için yazın|
 |Search...|                                                           |Ara...|
 |Clear Search History|                                                |Arama geçmişini temizle|
 |TANs are imported into the currently selected group|                 |TAN parolaları seçilmiş grup içine aktarıldı|
@@ -573,29 +573,29 @@
      |Yeni bir anahtar oluşturulsun ve var olan anahtar dosyasının üzerine yazılsın. Var olan anahtar dosyasında saklanan geçerli anahtar kaybolur.|
 |Reuse|                                                               |Yeniden kullan|
 |Load the existing key file and use it as key for the current database. The key file will not be modified.|
-     |Var olan anahtar dosyası yüklensin ve geçerli veritabanının anahtarı olarak kullanılsın. Anahtar dosyası değiştirilmez.|
+     |Var olan anahtar dosyası yüklensin ve geçerli veri tabanının anahtarı olarak kullanılsın. Anahtar dosyası değiştirilmez.|
 |Cancel|                                                              |İptal|
-|Abort specifying a new key for the current database.|                |Geçerli veritabanı için yeni anahtar belirleme işlemi iptal edilsin.|
+|Abort specifying a new key for the current database.|                |Geçerli veri tabanı için yeni anahtar belirleme işlemi iptal edilsin.|
 |Overwrite existing key file?|                                        |Var olan anahtar dosyasının üstüne yazılsın mı?|
 |Save|                                                                |Kaydet|
 |&Discard changes|                                                    |&Değişiklikler yok sayılsın|
 |Save database changes before closing the file?|                     
-     |Dosya kapanmadan önce veritabanı değişiklikleri kaydedilsin mi?||Save database changes before exiting KeePass?|                      
-     |KeePass uygulamasından çıkarken  veritabanı değişiklikleri kaydedilsin mi?|
+     |Dosya kapanmadan önce veri tabanı değişiklikleri kaydedilsin mi?||Save database changes before exiting KeePass?|                      
+     |KeePass uygulamasından çıkarken  veri tabanı değişiklikleri kaydedilsin mi?|
 |Save database changes before locking the workspace?|                
-     |Çalışma alanı kilitlenirken veritabanı değişiklikleri kaydedilsin mi?|
+     |Çalışma alanı kilitlenirken veri tabanı değişiklikleri kaydedilsin mi?|
 |Save all changes made to the database and close the file.|          
-     |Veritabanında yapılan bütün değişiklikler kaydedilsin ve dosya kapatılsın.|
+     |Veri tabanında yapılan bütün değişiklikler kaydedilsin ve dosya kapatılsın.|
 |Save all changes made to the database and exit KeePass.|            
-     |Veritabanında yapılan bütün değişiklikler kaydedilsin ve KeePass uygulamasından çıkılsın.|
+     |Veri tabanında yapılan bütün değişiklikler kaydedilsin ve KeePass uygulamasından çıkılsın.|
 |Save all changes made to the database and lock the KeePass workspace.|
-     |Veritabanında yapılan bütün değişiklikler kaydedilsin ve KeePass çalışma alanı kilitlensin.|
+     |Veri tabanında yapılan bütün değişiklikler kaydedilsin ve KeePass çalışma alanı kilitlensin.|
 |Discard all changes made to the database and close the file.|       
-     |Veritabanında yapılan bütün değişiklikler yok sayılsın ve dosya kapatılsın|
+     |Veri tabanında yapılan bütün değişiklikler yok sayılsın ve dosya kapatılsın|
 |Discard all changes made to the database and exit KeePass.|         
-     |Veritabanında yapılan bütün değişiklikler yok sayılsın ve KeePass uygulamasından çıkılsın.|
+     |Veri tabanında yapılan bütün değişiklikler yok sayılsın ve KeePass uygulamasından çıkılsın.|
 |Discard all changes made to the database and lock the KeePass workspace.|
-     |Veritabanında yapılan bütün değişiklikleri yok sayılsın ve KeePass çalışma alanı kilitlensin.|
+     |Veri tabanında yapılan bütün değişiklikleri yok sayılsın ve KeePass çalışma alanı kilitlensin.|
 |Abort the current operation.|                                        |Geçerli işlem iptal edilsin.|
 |The KeePass workspace will not be locked.|                           |KeePass çalışma alanı kilitlenmeyecek.|
 |KeePass will not be closed.|                                         |KeePass kapatılmayacak.|
@@ -619,9 +619,9 @@
 |Add &Group...|                                                       |Grup &ekle...|
 |Add Su&bgroup...|                                                    |&Alt grup ekle...|
 |Auto-Type: Customize Sequence|                                       |Otomatik yazma: &Dizgeyi özelleştir|
-|Automatically save when closing/locking the database|                |Uygulama kapatılırken ya da kilitlenirken veritabanı otomatik olarak kaydedilsin|
+|Automatically save when closing/locking the database|                |Uygulama kapatılırken ya da kilitlenirken veri tabanı otomatik olarak kaydedilsin|
 |Choose between local help and online help center.|                   |Yerel yardım dosyasını ya da çevrim içi yardım sitesini seçin.|
-|Clear clipboard when closing/locking the database|                   |Veritabanı kapatılırken ya da kilitlenirken pano temizlensin|
+|Clear clipboard when closing/locking the database|                   |Veri tabanı kapatılırken ya da kilitlenirken pano temizlensin|
 |Copy &Password|                                                      |&Parolayı kopyala|
 |Copy User &Name|                                                     |&Kullanıcı adını kopyala|
 |Default auto-type sequence for standard entries:|                    |Standart kayıtlar için varsayılan otomatik yazma dizgesi:|
@@ -647,7 +647,7 @@
 |Normal|                                                              |Normal|
 |Online help center|                                                  |Çevrim içi yardım merkezi|
 |Open the file in read-only mode. Changes to the database can be saved to a different file.|
-     |Dosya salt okunur olarak açılsın. Bu durumda vVeritabanında yapacağınız değişiklikleri ancak başka bir dosyaya kaydedebilirsiniz.|
+     |Dosya salt okunur olarak açılsın. Bu durumda veri tabanında yapacağınız değişiklikleri ancak başka bir dosyaya kaydedebilirsiniz.|
 |Prepend special initialization sequence for Internet Explorer windows|
      |Internet Explorer için özel açılış sıralaması hazırlansın|
 |Read-only|                                                           |Salt okunur|
@@ -658,16 +658,16 @@
 |The local help file is a snapshot of the product documentation at the point when this product version was published. It is not updated automatically.|
      |Yerel yardım dosyası KeePass yayınlandığı anda elde bulunan bilgilerden oluşturulmuştur ve otomatik olarak güncellenmez.|
 |The online help center always contains the latest version of the product documentation. Internet connection is required.|
-     |Çevrimiçi yardım merkezi her zaman en son sürüm bilgileri içerir. Erişmek için Internet bağlantısı gereklidir.|
+     |Çevrim içi yardım merkezi her zaman en son sürüm bilgileri içerir. Erişmek için Internet bağlantısı gereklidir.|
 |The selected field, which identifies the source entry, contains illegal characters (like '{', '}', newline characters, ...).|
      |Kaynak kayıtlarını adlandıracak seçilmiş alanda '{', '}', yeni satır karakterleri gibi geçersiz karakterler var|
 |The target file might be in a corrupted state. Please try saving again, and if that fails, save the database to a different location.|
-     |Hedef dosya bozulmuş olabilir. Lütfen yeniden kaydetmeyi deneyin. Başarısız olursanız veritabanını başka bir yere kaydetmeyi deneyin.|
+     |Hedef dosya bozulmuş olabilir. Lütfen yeniden kaydetmeyi deneyin. Başarısız olursanız veri tabanını başka bir yere kaydetmeyi deneyin.|
 |This option is disabled, because local help is not installed.|       |Yerel yardım dosyası bulunamadığından bu seçenek devre dışı|
 |To avoid ambiguity, entries can be identified by their UUIDs, which are unique.|
      |Karışıklığı önlemek için kayıtlar eşsiz olan Eşsiz Kod alanı ile adlandırılabilir.|
 |Use advanced memory protection (DPAPI, only Windows Vista and higher)|
-     |Gelişmiş bellek koruma kullanılsın (DRAPI yalnız Windows Vista ve sonrasında geçerli)|
+     |Gelişmiş bellek koruma kullanılsın (DRAPI yalnızca Windows Vista ve sonrasında geçerli)|
 |Use the following help source when a "Help" button within KeePass is clicked:|
      |KeePass "Yardım" üzerine tıklandığında şu yardım kaynağı kullanılsın:|
 |You can choose a different hot key combination in 'Tools' - 'Options' - 'Advanced' - 'Auto-Type'.|
@@ -695,7 +695,7 @@
 |The specified name is reserved.|                                     |Belirtilen ad ayrılmış, kullanılamaz.|
 |Up to date.|                                                         |Güncel.|
 |Use CNG/BCrypt for key transformations (only Windows Vista and higher)|
-	|Anahtar dönüşümleri için CNG/BCrypt kullanılsın (yalnız Windows Vista ve sonrasında geçerli)|
+	|Anahtar dönüşümleri için CNG/BCrypt kullanılsın (yalnızca Windows Vista ve sonrasında geçerli)|
 |Use the KeePass 2.x 'Export' feature to migrate this file|           |Bu dosyayı aktarmak için KeePass 2.x 'Dışa aktar' özelliğini kullanın|
 |Version|                                                             |Sürüm|
 |Workspace is locked.|                                                |Çalışma alanı kilitlendi.|
@@ -711,36 +711,36 @@
 |Sort List by Last &Modify Time|                                      |Son &değiştirilme zamanına göre sıralansın|
 |Sort List by Note&s|                                                 |&Nota göre sıralansın|
 |Sort List by User &Name|                                             |&Kullanıcı adına göre sıralansın|
-|Use file transactions for writing databases|                         |Veritabanları yazılırken dosya hareketleri kullanılsın|
+|Use file transactions for writing databases|                         |Veri tabanları yazılırken dosya hareketleri kullanılsın|
 |Each character must occur at most once|                              |Her karakter yalnızca bir kez kullanılmalıdır|
-|KeePass &Website|                                                    |KeePass &web sitesi|
-|KeePass Website|                                                     |KeePass web sitesi|
+|KeePass &Website|                                                    |KeePass &sitesi|
+|KeePass Website|                                                     |KeePass sitesi|
 |Remember key sources (key file paths, provider names, ...)|          |Anahtar kaynakları hatırlansın (anahtar dosya yolu, sağlayıcı adı gibi)|
 |&No|                                                                 |&Hayır|
 |&Yes|                                                                |&Evet|
-|Custom database color:|                                              |Özel veritabanı rengi:|
-|Saving database...|                                                  |Veritabanı kaydediliyor...|
+|Custom database color:|                                              |Özel veri tabanı rengi:|
+|Saving database...|                                                  |Veri tabanı kaydediliyor...|
 |ch.|                                                                 |kr.|
 |Minimize main window after locking the workspace|                    |Çalışma alanı kilitlendikten sonra ana pencere küçültülsün|
-|Ensure same keyboard layouts during auto-type|                       |Otomatik yazmada aynı tuş takımı düzeni korunsun|
+|Ensure same keyboard layouts during auto-type|                       |Otomatik yazmada aynı klavye düzeni korunsun|
 |Select &Notes Font|                                                  |&Not yazı tipini seçin|
 |{PARAM} more entries|                                                |{PARAM} kayıt daha|
-|The database is empty|                                               |Veritabanı boş|
+|The database is empty|                                               |Veri tabanı boş|
 |Automatic update checks are performed unintrusively in the background. A notification is only displayed when an update is available. Updates are not downloaded or installed automatically.|
-	|Otomatik güncelleme denetimleri arka planda yapılır. Yalnız yeni bir sürüm varsa bildirim görüntülenir. Güncellemeler otomatik olarak indirilmez ve yüklenmez.|
-|Database files cannot be used as key files.|                         |Veritabanı dosyaları anahtar dosyası olarak kullanılamaz|
+	|Otomatik güncelleme denetimleri arka planda yapılır. Yalnızca yeni bir sürüm varsa bildirim görüntülenir. Güncellemeler otomatik olarak indirilmez ve yüklenmez.|
+|Database files cannot be used as key files.|                         |Veri tabanı dosyaları anahtar dosyası olarak kullanılamaz|
 |Enable automatic update check?|                                      |Otomatik güncelleme denetimi yapılsın|
 |KeePass can automatically check for updates on each program start.|  |KeePass açılırken güncelleme denetimi yapabilir.|
 |No personal information is sent to the KeePass web server. KeePass just downloads a small version information file and compares the available version with the installed version.|
-	|KeePass sunucusuna herhangi bir kişisel bilgi iletilmez. Yalnız sürüm bilgisini içeren küçük bir dosya indirilerek yüklü sürüm ile karşılaştırılır.|
+	|KeePass sunucusuna herhangi bir kişisel bilgi iletilmez. Yalnızca sürüm bilgisini içeren küçük bir dosya indirilerek yüklü sürüm ile karşılaştırılır.|
 |Quick search (toolbar)|                                              |Hızlı arama (araç çubuğu)|
-|Show tray icon only if main window has been sent to tray|            |Tepsi simgesi, yalnız ana pencere tepsiye küçültülmüş ise görüntülensin|
+|Show tray icon only if main window has been sent to tray|            |Tepsi simgesi, yalnızca ana pencere tepsiye küçültülmüş ise görüntülensin|
 |recommended|                                                         |önerilen|
-|Are you sure you want to attempt to repair a database file?|         |Bir veritabanı dosyasını onarmayı denemek istediğinize emin misiniz?|
+|Are you sure you want to attempt to repair a database file?|         |Bir veri tabanı dosyasını onarmayı denemek istediğinize emin misiniz?|
 |In repair mode, the integrity of the data is not checked (in order to rescue as much data as possible). When no integrity checks are performed, corrupted/malicious data might be incorporated into the database.|
-	|Onarım kipinde, veri bütünlüğü sınanmaz (olabildiğince çok veriyi kurtarabilmek için). Bütünlük sınaması yapılmadığından, veritabanında bozuk/gereksiz bilgiler bulunabilir.|
+	|Onarım kipinde, veri bütünlüğü sınanmaz (olabildiğince çok veriyi kurtarabilmek için). Bütünlük sınaması yapılmadığından, veri tabanında bozuk/gereksiz bilgiler bulunabilir.|
 |Thus the repair functionality should only be used when there really is no other solution. If you use it, afterwards you should thoroughly check your whole database for corrupted/malicious data.|
-	|Bu nedenle, gerçekten başka bir çare yoksa onarım seçeneği kullanılmalıdır. Onarım yapıldıktan sonra, tüm veritabanı bozuk/gereksiz verilere karşı gözden geçirilmelidir.|
+	|Bu nedenle, gerçekten başka bir çare yoksa onarım seçeneği kullanılmalıdır. Onarım yapıldıktan sonra, tüm veri tabanı bozuk/gereksiz verilere karşı gözden geçirilmelidir.|
 |Warning|                                                             |Dikkat|
 |Accept this password?|                                               |Bu parola onaylansın mı?|
 |Delete &attachments|                                                 |Ekleri &sil|
@@ -771,10 +771,14 @@
 |Latin-1 Supplement|                                                  |Latin-1 desteği|
 |The character set is invalid|                                        |Karakter kümesi geçersiz|
 |The pattern is invalid|                                              |Düzen geçersiz|
-|Consider similar dashes as identical|                                |Benzer tireler aynı kabul edilsin|
 |It is important that you remember where the database file is stored.|
-	|Veritabanının nereye kaydedildiğini unutmamanız önemlidir.|
+	|Veri tabanının nereye kaydedildiğini unutmamanız önemlidir.|
 |You should regularly create a backup of the database file (onto an independent data storage device).|
-	|Düzenli olarak veritabanınızı yedeklemelisiniz (ayrı bir veri depolama aygıtı üzerine).|
+	|Düzenli olarak veri tabanınızı yedeklemelisiniz (ayrı bir veri depolama aygıtı üzerine).|
 |Your data will be stored in a KeePass database file, which is a regular file. When saving for the first time, you will be prompted to specify the location where KeePass should save this file.|
-	|Verileriniz normal bir dosya olan bir KeePass veritabanı dosyasında tutulur. İlk kez kaydedilirken, KeePass bu dosyayı nereye kaydetmek istediğinizi sorar.|
+	|Verileriniz normal bir dosya olan bir KeePass veri tabanı dosyasında tutulur. İlk kez kaydedilirken, KeePass bu dosyayı nereye kaydetmek istediğinizi sorar.|
+|Consider similar dashes as identical|                                |Benzer tireler aynı olarak değerlendirilsin|
+|- ChaCha20 algorithm|                                                |ChaCha20 algoritması|
+|Do you want to set them to the current default values (recommended)?||Bunları geçerli varsayılan değerlere ayarlamak ister misiniz (önerilir)?|
+|Show warning when the key transformation settings are weak|          |Anahtar dönüşümü ayarları zayıf olduğunda uyarı görüntülensin|
+|The key transformation settings of the database are weak.|           |Veri tabanının anahtar dönüşümü ayarları zayıf|
