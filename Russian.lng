@@ -1,6 +1,6 @@
 ﻿|~LANGUAGENAME|			|Russian|
 |~LANGISO6391CODE|		|ru|
-|~LANGUAGEVERSION|		|1.41|
+|~LANGUAGEVERSION|		|1.42|
 |~LANGUAGEAUTHOR|		|Dmitry Yerokhin|
 |~LANGUAGEAUTHOREMAIL|		|erodim@mail.ru|
 
@@ -204,6 +204,7 @@
 |- Rijndael decryption|		|- Дешифрование Rijndael|
 |- Arcfour crypto routine|	|- Криптопроцедура Arcfour|
 |- Twofish algorithm|		|- Алгоритм Twofish|
+|- ChaCha20 algorithm|		|- Алгоритм ChaCha20|
 
 |The program will exit now.|	|Программа завершает работу.|
 |Self-Test(s) Failed|		|Самопроверка не пройдена|
@@ -581,7 +582,7 @@
 |Connect failed, cannot check for updates.|	|Ошибка подключения, невозможно проверить наличие обновлений.|
 |Database is already specified|		|База паролей уже задана|
 |Disable 'Save' button if the database hasn't been modified|	|Блокировать кнопку 'Сохранить', если база паролей не менялась|
-|Use local date/time format instead of ISO notation|	|Локальный формат даты/времени вместо ISO|
+|Use local date/time format instead of ISO notation|	|Локальный формат даты и времени вместо ISO|
 |Filename not found|			|Файл не найден|
 |It contains an unmatched quote|	|Содержатся непарные кавычки|
 |KeePass Initialization|		|Инициализация KeePass|
@@ -790,4 +791,7 @@
 
 |It is important that you remember where the database file is stored.|	|Важно помнить место сохранения файла с базой данных.|
 |You should regularly create a backup of the database file (onto an independent data storage device).|	|Следует регулярно создавать резервную копию файла базы данных (на независимом устройстве хранения).|
+|Show warning when the key transformation settings are weak|	|Предупреждать, когда настройки преобразования ключей слабы|
+|The key transformation settings of the database are weak.|	|Настройки преобразования ключей базы данных слабы.|
+|Do you want to set them to the current default values (recommended)?|	|Хотите установить для них текущие значения по умолчанию (рекомендуется)?|
 |Your data will be stored in a KeePass database file, which is a regular file. When saving for the first time, you will be prompted to specify the location where KeePass should save this file.|	|Ваши данные будут храниться в базе данных KeePass, которая является обычным файлом. При первом сохранении вам будет предложено указать место, где KeePass должен сохранить этот файл.|
