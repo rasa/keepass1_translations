@@ -1,5 +1,5 @@
 |~LANGUAGENAME|                |Euskera|
-|~LANGUAGEVERSION|             |1.40|
+|~LANGUAGEVERSION|             |1.42|
 |~LANGUAGEAUTHOR|              |Alesander Gil Almandoz|
 |~LANGUAGEAUTHOREMAIL|         |alesander.gil@gmail.com|
 |~LANGISO6391CODE|             |eu|
@@ -119,10 +119,10 @@
     |Goiko edizio-koadroan ausazko tekla batzuk sakatu besterik ez duzu.|
 |You don't have to remember the keys you type in. They are used to generate a random value.|
     |Sakatzen dituzun gakoak ez dituzu zertan gogoratu behar. Ausazko balioa sortzeko baino ez dira erabiltzen.|
-|So, the more the better. The different, the better.| \
-    |Beraz, gehiago eta ezberdinago, orduan eta hobeto.| \
-|The random the better.|       THIS ISN'T A ONE-TO-ONE TRANSLATION!
-    |Zenbat eta ausazkoago, orduan eta hobeto.| /
+|So, the more the better. The different, the better.|
+    |Beraz, gehiago eta ezberdinago, orduan eta hobeto.|
+|The random the better.|
+    |Zenbat eta ausazkoago, orduan eta hobeto.|
 |Get Random|                   |Lortu ausazko datuak|
 |Get Random Data for Key Generation|           |Lortu ausazko datuak gakoa sortzeko|
 |Move the mouse and type some random text to generate random values.|
@@ -218,6 +218,7 @@
 |- Rijndael decryption|        |- Rijndael-deszifraketa|
 |- Arcfour crypto routine|     |- Arcfour zifraketa modulua|
 |- Twofish algorithm|          |- Twofish-Algoritmoa|
+|- ChaCha20 algorithm|         |- ChaCha20-Algoritmoa|
 
 |The program will exit now.|   |Programa itxi egingo da orain.|
 |Self-Test(s) Failed|          |Auto-probak huts egin du(te)|
@@ -504,11 +505,13 @@
 |Se&lect All|                             |&Hautatu Guztiak|
 |Auto-&Sort Entry List|                   |&Sarreren zerrenda automatikoki ordenatu|
 |N&o Auto-Sort|                           |E&z ordenatu automatikoki|
-|Auto-sorting of the entry list is enabled; you cannot move entries manually.|
-    |Sarreren zerrenda automatikoki ordenatzea gaitua dago; ezin dituzu sarrerak eskuz lekualdatu.|
 |Perform Auto-&Type|                      |A&uto-Idatzi Egin|
 |Auto-sorting of the entry list is enabled; you cannot sort the list manually now.|
     |Sarreren zerrenda automatikoki ordenatzea gaitua dago; ezin duzu orain zerrenda eskuz ordenatu.|
+|Do you want to deactivate automatic sorting?|
+    |Auto-ordenatzea ezgaitu nahi duzu?|
+|Entries currently cannot be rearranged, because automatic sorting is activated.|
+    |Sarrerak ezin dira une honetan berrantolatu, auto-ordenatzea gaituta baitago.|
 |Select key file manually...|             |Hautatu gako-artxiboa eskuz...|
 |Save key file manually to...|            |Gorde gako-artxiboa eskuz hemen...|
 |Specify the new master key.|             |Zehaztu gako nagusi berria.|
@@ -958,3 +961,9 @@
     |Garrantzitsua da datu-basearen artxiboa non gordetzen den gogora dezazun.|
 |You should regularly create a backup of the database file (onto an independent data storage device).|
     |Aldian-aldian datu-basearen fitxategiaren babeskopia bat sortu beharko zenuke (datuak biltegiratzeko gailu banandu batean).|
+|Show warning when the key transformation settings are weak|
+    |Erakutsi oharra gako-eraldaketaren ezarpenak ahulak direnean|
+|The key transformation settings of the database are weak.|
+    |Datu-basearen gako-eraldaketaren ezarpenak ahulak dira.|
+|Do you want to set them to the current default values (recommended)?|
+    |Oraingo balio lehenetsiekin ezarri nahi dituzu? (gomendagatua)|
